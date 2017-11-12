@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: Agile Carpentry
-description: Changing lives through effective organizational change.
+description: Improving lives through effective organizational change and better engineering.
 google_analytics: UA-108114248-2
 plugins:
   - jekyll-redirect-from
