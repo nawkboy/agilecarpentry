@@ -5,7 +5,7 @@ layout: default
 # Introduction
 
 Agile Carpentry is the corporate entity through which James Carpenter provides agile consulting services. It is setup as an s-corp with a small but efficient back-office infrastructure. This provides the following features:
-+ Keeps your backoffice happy so you can easily on-board James to help you.
++ Keeps your back-office happy so you can easily on-board James to help you.
   - Liability insurance
   - Complaince with all state and federal corporate filing requirements
   - Compliance with federal employment taxes
