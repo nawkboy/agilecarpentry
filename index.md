@@ -27,7 +27,7 @@ Agile Carpentry is the corporate entity through which James Carpenter provides a
 
 + Vice President
 + 713-933-5111
-+ [deirdre@agilecarpentry.com](mailto:james@agilecarpentry.com)
++ [deirdre@agilecarpentry.com](mailto:deirdre@agilecarpentry.com)
 
 
 # Book In Development
