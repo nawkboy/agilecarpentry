@@ -17,7 +17,7 @@ Agile Carpentry is the corporate entity through which James Carpenter provides a
 
 ## James Carpenter
 
-+ Executive Agile Coach and President
++ Executive Agile Coach and Owner
 + 832-677-7247
 + [james@agilecarpentry.com](mailto:james@agilecarpentry.com)
 + [https://www.linkedin.com/in/jamescarpenter1/](https://www.linkedin.com/in/jamescarpenter1/)
@@ -25,7 +25,7 @@ Agile Carpentry is the corporate entity through which James Carpenter provides a
 
 ## Deirdre Carpenter
 
-+ Vice President
++ Owner
 + 713-933-5111
 + [deirdre@agilecarpentry.com](mailto:deirdre@agilecarpentry.com)
 
