@@ -8,9 +8,8 @@ Agile Carpentry is the corporate entity through which James Carpenter provides a
 + Liability insurance
 + Compliance with all state and federal corporate filing requirements
 + Compliance with federal employment taxes
-+ Compliance with multiple state employment taxes
-This keeps your back office happy, so you can easily on-board James to help you.
-Agile Carpentry also employs a professional accounting firm and a national full-service payroll company to help ensure all this goes smoothly regardless of which state or country James must travel to as a W2 employee of Agile Carpentry. This allows James to focus on his clients during the week, and on his family during the weekend.
++ Compliance with multiple state employment taxes. This keeps your back office happy, so you can easily on-board James to help you.
++ Agile Carpentry also employs a professional accounting firm and a national full-service payroll company to help ensure all this goes smoothly regardless of which state or country James must travel to as a W2 employee of Agile Carpentry. This allows James to focus on his clients during the week, and on his family during the weekend.
 
 
 ## James Carpenter
