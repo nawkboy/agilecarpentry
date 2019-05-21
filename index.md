@@ -4,15 +4,13 @@ layout: default
 
 # Introduction
 
-Agile Carpentry is the corporate entity through which James Carpenter provides agile consulting services. It is setup as an s-corp with a small but efficient back-office infrastructure. This provides the following features:
-+ Keeps your back-office happy so you can easily on-board James to help you.
-  - Liability insurance
-  - Compliance with all state and federal corporate filing requirements
-  - Compliance with federal employment taxes
-  - Compliance with multiple state employment taxes
-  - Agile Carpentry employs a professional accounting firm and a national full-service payroll company to help ensure all this goes smoothly regardless of which state or country James must travel to as a W2 employee of Agile Carpentry. 
-+ Allows James to focus on his clients during the week.
-+ Allows James to focus on his family during the weekend.
+Agile Carpentry is the corporate entity through which James Carpenter provides agile consulting services. It is setup as an S-corp with a small but efficient back office infrastructure. This provides the following features:
++ Liability insurance
++ Compliance with all state and federal corporate filing requirements
++ Compliance with federal employment taxes
++ Compliance with multiple state employment taxes
+This keeps your back office happy, so you can easily on-board James to help you.
+Agile Carpentry also employs a professional accounting firm and a national full-service payroll company to help ensure all this goes smoothly regardless of which state or country James must travel to as a W2 employee of Agile Carpentry. This allows James to focus on his clients during the week, and on his family during the weekend.
 
 
 ## James Carpenter
@@ -30,10 +28,8 @@ Agile Carpentry is the corporate entity through which James Carpenter provides a
 + [deirdre@agilecarpentry.com](mailto:deirdre@agilecarpentry.com)
 
 
-# Book In Development
+# Book Published 2019
 
-[Forging Change Book](http://forgingchange.com)
-
-
+[*Forging Change: Agile Restructuring In Practice*](http://forgingchange.com)
 
 
