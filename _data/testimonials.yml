@@ -1,7 +1,47 @@
-- name: Jane Doe
-  comment: Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!
-  image: /assets/images/rowan-chestnut-175871-unsplash.jpg
-  
-- name: John Doe
-  comment: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga distinctio quod velit non ut est, vel doloribus officia eius natus.
-  image: /assets/images/brooke-cagle-274465-unsplash.jpg
+- name: Dmitry Barsky
+  comment: >
+    Working with James was a transformational experience for me, and for the team.
+    He took us from "No Way Scrum Can Be Done Here" to "We Can't Ever Go Back".
+  image: /assets/images/dmitry-barsky.jpg
+
+- name: Trevor Gamba
+  comment: >
+    He is not only fluent in Agile methodologies, but is extremely well versed in SW development 
+    methodologies -- which allows him to go toe to toe with some of the most technically astute 
+    developers and senior leaders in the organization...
+  image: /assets/images/trevor-gamba.jpg
+
+- name: Curtis Inderwiesche
+  comment: >
+    Working with James was a blessing and an inspiration. He has clear aptitude in taking
+    a blank canvas and creating relevant value from it, leveraging learnings 
+    quickly and adaptively.
+  image: /assets/images/curtis-inderwiesche.jpg
+
+- name: Andy Siefkes
+  comment: >
+    I’ve had the opportunity to work with James on multiple projects for going on two years.
+    I can’t say enough about the confidence I have in his ability to deliver.
+  image: /assets/images/andy-siefkes.jpg
+
+- name: Brian Go
+  comment: >
+    James is an exceptional Agile coach. He takes time to listen and understand the
+    challenges behind the implementation of an approach before coming up with some
+    very practical advice. He is also great in making people see the benefits of
+    a proposed change.
+  image: /assets/images/bryan-go.jpg
+
+- name: Thomas DeBenning
+  comment: >
+    James's is one of the hardest working individuals that I know. While for some
+    that might be enough but he is also one of the smartest and most ethical people
+    I know as well.
+  image: /assets/images/thomas-debenning.jpg
+
+- name: David Stackleather
+  comment: >
+    If you are looking for an Agile coach who will tell you want you need to hear,
+    James is an excellent one to reach out to.
+  image: /assets/images/david-stackleather.jpg
+
