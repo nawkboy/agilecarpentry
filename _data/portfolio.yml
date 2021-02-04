@@ -1,29 +1,29 @@
-- title: Headphones
-  category: Concept & Design
-  image: /assets/images/portfolio/icons8-team-643494-unsplash.jpg
-  link: /portfolio/
+- title: Deriving LeSS
+  category: LeSS
+  image: /assets/images/portfolio/deriving-less-article-header.png
+  link: /blog/deriving-less/
 
-- title: Speaker
-  category: Concept & Design
-  image: /assets/images/portfolio/marius-masalar-139960-unsplash.jpg
-  link: /portfolio/
+- title: Examining LeSS Huge
+  category: LeSS
+  image: /assets/images/portfolio/examining-less-huge-article-header.png
+  link: /blog/examining-less-huge/
 
-- title: Banana
-  category: Photography
-  image: /assets/images/portfolio/mike-dorner-173502-unsplash.jpg
-  link: /portfolio/
+- title: Using Structure to Mold Culture
+  category: Book
+  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
+  link: /blog/using-structure-to-mold-culture/
 
-- title: Pantone
-  category: Photography
-  image: /assets/images/portfolio/autri-taheri-435297-unsplash.jpg
-  link: /portfolio/
+- title: Case Study Presentation
+  category: LeSS
+  image: /assets/images/portfolio/twin-cities-less-meetup-case-study.jpg
+  link: /blog/mcs-case-study-presentation/
 
-- title: Leaf
-  category: Photography
-  image: /assets/images/portfolio/agata-create-1098094-unsplash.jpg
-  link: /portfolio/
+#- title: Leaf
+#  category: Photography
+#  image: /assets/images/portfolio/agata-create-1098094-unsplash.jpg
+#  link: /portfolio/
 
-- title: Apartment
-  category: Photography
-  image: /assets/images/portfolio/erol-ahmed-255854-unsplash.jpg
-  link: /portfolio/
+#- title: Apartment
+#  category: Photography
+#  image: /assets/images/portfolio/erol-ahmed-255854-unsplash.jpg
+#  link: /portfolio/

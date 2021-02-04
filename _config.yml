@@ -15,12 +15,13 @@ default-image: /assets/images/avocado-cover.png # This image will be shown on sh
 
 # Author details shows up at the end of every article
 author:
-  name: John Doe
-  bio: "John is an astronaut. He likes to hang out with his friends when he's not in space. He writes his experiences here."
-  image: /assets/images/author-image.jpg # Choose a 200x200px image and place it inside /images directory.
-  facebook: https://facebook.com
-  twitter: https://twitter.com
-  quora: https://www.quora.com/
+  name: James Carpenter
+  bio: "James is an expert in helping companies create effective engineering team structures and cultures."
+  image: /assets/images/james-carpenter.jpg # Choose a 200x200px image and place it inside /images directory.
+  email: james@agilecarpentry.com
+#  facebook: https://facebook.com
+#  twitter: https://twitter.com
+#  quora: https://www.quora.com/
 
 # Kramdown is supported by Github
 markdown: kramdown
