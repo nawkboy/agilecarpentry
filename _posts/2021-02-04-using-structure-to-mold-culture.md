@@ -3,7 +3,7 @@ title: "Using Structure to Mold Culture"
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
 categories: 
-    - LeSS
+    - Forging Change
 layout: post
 ---
 

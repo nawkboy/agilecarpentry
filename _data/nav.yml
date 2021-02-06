@@ -4,9 +4,21 @@
 - title: About
   link: '/about/'
 
+
 - title: Contact
   link: '/contact/'
-  
+
+- title: Book
+  dropdown:
+    - title: Synopsis
+      link: /forgingchange/Synopsis/
+    - title: Preview
+      link: /forgingchange/PreviewBook/
+    - title: Buy
+      link: /forgingchange/BuyingBook/
+    - title: Ref. By Chapter
+      link: /forgingchange/ReferenceByChapter/
+
 - title: Blog
   link: '/blog/'
   
