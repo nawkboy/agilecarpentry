@@ -18,10 +18,13 @@
   image: /assets/images/portfolio/twin-cities-less-meetup-case-study.jpg
   link: /blog/mcs-case-study-presentation/
 
-#- title: Leaf
-#  category: Photography
-#  image: /assets/images/portfolio/agata-create-1098094-unsplash.jpg
-#  link: /portfolio/
+
+- title: Forging Change Synopsis
+  category: Book
+# image: /assets/images/portfolio/forging-change-front-cover.jpg
+# image: /assets/images/portfolio/forging-change-front-cover-with-gray-around.jpg
+  image: /assets/images/portfolio/forging-change-front-cover-with-gray-on-left-and-right.jpg
+  link: /forgingchange/Synopsis/
 
 #- title: Apartment
 #  category: Photography

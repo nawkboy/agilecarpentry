@@ -1,14 +1,28 @@
-- title:      Web Design
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
-  fa-icon:      fa-object-group
-  link:         
+- title: Organizational DeScaling
+  description:  >
+    Optimizing adaptability and value delivery while
+    improving the lives of employees and customers.
+    Achieving more with LeSS.
+  fa-icon: fa-object-group
+  #link: /blog/mcs-case-study-presentation/
 
-- title:      Web Development
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
-  fa-icon:      fa-code
-  link:         
+- title: Actionable Agile Training
+  description: >
+    Design and delivery of effective multi-day
+    agile training. Generally coupled with the facilation
+    and coaching of teams as they implement LeSS aligned
+    product development groups.
+  fa-icon: fa-graduation-cap
+  #link:         
 
-- title:      Marketing
-  description:  Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui quaerat fugit quas veniam perferendis repudiandae sequi, dolore quisquam illum? Eos autem natus et veniam perspiciatis.			
-  fa-icon:      fa-paper-plane-o
-  link:         
+- title: Agile Coaching
+  description: >
+    Honest and respectful organizational, team, and
+    technical coaching backed up by over two decades
+    of hands-on engineering and organizational change
+    experience.
+  fa-icon: fa-paper-plane-o
+  #fa-icon: fa-map-o
+  #fa-icon: fa-stethoscope
+
+  #link:         
