@@ -17,8 +17,8 @@ layout: post
 
 ## Relevant Books
 
-[*Infrastructure as Code: Managing Servers in the Cloud*](https://www.amazon.com/dp/B01GUG9ZNU/) by Kief Morris
-+ This is a fantastic book for overall exposure to the various pieces of a continuous delivery build pipeline. Any team considering building out a new continuous delivery build pipeline should read this book cover to cover before making any long-term tooling decisions.
+[*Infrastructure as Code: Dynamic Systems for the Cloud Age*](https://www.amazon.com/dp/1098114671) by Kief Morris
++ This is a fantastic book for overall exposure to the various pieces of a continuous delivery build pipeline. Any team considering building out a new continuous delivery build pipeline should read this book cover to cover before making any long-term tooling decisions. I have only read the first edition, but I suspect the second edition is just as good.
 
 [*Continous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation*](https://www.amazon.com/dp/B003YMNVC0) by Jez Humble and David Farley
 + Although the tool choices are very dated, the overall intentions are better explained than they are in *Infrastructure as Code*. In contrast, when looking at tool choices forget *Continuous Delivery* and read *Infrastructure as Code*.
