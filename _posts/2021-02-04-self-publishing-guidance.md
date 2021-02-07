@@ -222,11 +222,7 @@ It turns out that creating a file for POD within InDesign is a bit tricky, with 
 
 [An Ingram page about preparing files](https://www.ingramcontent.com/publishers/resources/digital-bookblock#standardBooks)
 
-[Preparing files for CreateSpace](https://www.williamswriting.com/2014/preparing-files-for-createspace/)
-
-[Better POD Color](http://www.newselfpublishing.com/BetterColor.html)
-
-[Why it is best to use RGB when supplying POD providers](http://www.newselfpublishing.com/blog/index.html#RGB)
+[Chapter 6 of POD for Profit](http://www.newselfpublishing.com/downloads/PODProfit.pdf)
 
 
 ## QR Code–Related Content

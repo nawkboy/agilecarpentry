@@ -14,7 +14,7 @@ This is a handout for my
 
 # PDF of this Document
 
-A PDF version of this document is available at: [{{site.baseurl}}/mcs-case-study-handout.pdf]({{site.baseurl}}/mcs-case-study-handout.pdf)
+A PDF version of this document is available at: [{{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf]({{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf)
 
 # Introduction
 
@@ -34,7 +34,7 @@ My intentions for the meetup presentation are to quickly walk through the figure
 
 Please read this content carefully prior to the meetup. The more prepared each of you are, the more meaningful our discussion is likely to be.
 
-I recommend you consider printing out the timeline figure prior to meetup. It is easy to lose sight of the forest for the trees as you examine the various aspects detailed in each figure. Keeping the timeline handy -- perhaps making notes on it as you go -- will help you to understand how the other figures relate to the whole. To make this easy I am providing a [PDF version]({{site.baseurl}}/mcs-case-study-handout.pdf) of everything you see here.
+I recommend you consider printing out the timeline figure prior to meetup. It is easy to lose sight of the forest for the trees as you examine the various aspects detailed in each figure. Keeping the timeline handy -- perhaps making notes on it as you go -- will help you to understand how the other figures relate to the whole. To make this easy I am providing a [PDF version]({{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf) of everything you see here.
 
 I have also invited the director of the BIOS group to join us. His case study pseudonym is Mitya. Mitya is a very seasoned senior manager with deep hands-on experience in the hardware and firmware world. I have tremedous professional respect for Mitya, who I first met while at Nakashima. I am also extremely fortunate to have been adopted as extended family by Mitya, his wife, and their child. Seldom is a road-warrior blessed to find such a supportive lifelong friend.
 

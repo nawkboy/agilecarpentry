@@ -89,7 +89,7 @@ Amazon: [*Reinventing Organizations*](https://www.amazon.com/Reinventing-Organiz
 
 [Video of a relevant lecture by Laloux](https://www.youtube.com/watch?v=gcS04BI2sbk)
 
-[Wiki site with information focused on Reinventing Organizations](http://www.reinventingorganizationswiki.com/Main_Page)
+[Wiki site with information focused on Reinventing Organizations](http://www.reinventingorganizationswiki.com)
 
 [Lecture by Lyssa Adkins & Michael Spayd: Want a sustainable agile transformation?](https://www.youtube.com/watch?v=953rtZ9DEYQ)
 
