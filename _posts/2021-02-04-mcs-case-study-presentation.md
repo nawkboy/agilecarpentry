@@ -16,7 +16,7 @@ The [Twin Cities LeSS Meetup](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin
 The pre-read handout contains a complete copy of every figure and associated caption in my case study so far, as well as some useful introductory context. 
 
 * [Pre-Read Handout in Online Format]({{site.baseurl}}/mcs-case-study-handout/)
-* [Pre-Read Handout in PDF Format]({{site.baseurl}}/mcs-case-study-handout.pdf)
+* [Pre-Read Handout in PDF Format]({{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf)
 
 
 # Synopsis

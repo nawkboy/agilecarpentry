@@ -1,13 +1,6 @@
 - title: Home
   link: '/'
   
-- title: About
-  link: '/about/'
-
-
-- title: Contact
-  link: '/contact/'
-
 - title: Book
   dropdown:
     - title: Synopsis
@@ -19,15 +12,25 @@
     - title: Ref. By Chapter
       link: /forgingchange/ReferenceByChapter/
 
+- title: About
+  link: '/about/'
+
+- title: Contact
+  link: '/contact/'
+
+- title: Search
+  link: '/search/'
+
 - title: Blog
   link: '/blog/'
-  
+
 - title: Categories
   link: '/categories/'
 
-- title: Portfolio
-  dropdown:
-    - title: Item
-      link: /portfolio/
-    - title: Another Item
-      link: /portfolio/
+
+#- title: Portfolio
+#  dropdown:
+#    - title: Item
+#      link: /portfolio/
+#    - title: Another Item
+#      link: /portfolio/
