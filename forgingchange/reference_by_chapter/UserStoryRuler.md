@@ -2,9 +2,7 @@
 title: "User Story Ruler: Useful References"
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
-categories: 
-    - Book
-layout: post
+layout: book
 ---
 
 # User Story Ruler: Useful References

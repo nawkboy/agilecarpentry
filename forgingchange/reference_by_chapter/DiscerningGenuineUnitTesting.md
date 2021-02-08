@@ -2,9 +2,7 @@
 title: "Discerning Genuine Unit Testing: Useful References"
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
-categories: 
-    - Book
-layout: post
+layout: book
 ---
 
 # Discerning Genuine Unit Testing: Useful References

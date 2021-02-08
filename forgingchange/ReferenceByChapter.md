@@ -2,9 +2,7 @@
 title: Forging Change Reference Information
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
-categories: 
-    - Book
-layout: post
+layout: book
 ---
 
 # Reference Information by Chapter

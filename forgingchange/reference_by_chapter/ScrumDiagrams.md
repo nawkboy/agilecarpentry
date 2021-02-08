@@ -2,9 +2,7 @@
 title: "Scrum Diagrams: Useful References"
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
-categories: 
-    - Book
-layout: post
+layout: book
 ---
 
 # Scrum Diagrams: Useful References

@@ -2,9 +2,7 @@
 title: "Example Scrum Task Boards: Useful References"
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
-categories: 
-    - Book
-layout: post
+layout: book
 ---
 
 # Example Scrum Task Boards: Useful References

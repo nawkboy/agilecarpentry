@@ -2,9 +2,7 @@
 title: "Progressive Refinement at Scale: Useful References"
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
-categories: 
-    - Book
-layout: post
+layout: book
 ---
 
 #  Progressive Refinement at Scale: Useful References
