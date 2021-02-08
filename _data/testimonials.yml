@@ -1,47 +1,171 @@
 - name: Dmitry Barsky
   comment: >
     Working with James was a transformational experience for me, and for the team.
-    He took us from "No Way Scrum Can Be Done Here" to "We Can't Ever Go Back".
+    He took us from <em>"No Way Scrum Can Be Done Here"</em> to
+    <em>"We Can't Ever Go Back"</em>.
+  comment-extended: >
+    <p>Working with James was a transformational experience for me,
+    and for the team.</p>
+
+    <p>He took us from "No Way Scrum Can Be Done Here" to 
+    <em>"We Can't Ever Go Back"</em>. He brought the team from Waterfall to Scrum.</p>
+
+    <p>We are a team of Firmware engineers and firmly believed that
+    Scrum does not belong in our field. James demonstrated that the
+    Scrum is a framework to bring focus to the Software Craftsmanship,
+    Quality, and way of planning our work.</p>
+
+    <p>James coached me to act as a Product Owner, and coached the team
+    past the learning curve of Scrum framework.</p>
+
+    <p>The team found extremely useful his focus on the technical aspect
+    of development, test, CI/CD. He introduced a number of concepts and
+    tools to us, and worked with team members on technical side where it
+    was needed.</p>
+
+    <p>Results are very straightforward: we are practicing Scrum for
+    almost a year. We have much better visibility into the backlog. The
+    team engagement is better. The initial product quality is better.</p>
+
+    <p>James has brought online a number of teams while working in our
+    business unit.</p>
   image: /assets/images/dmitry-barsky.jpg
+  linkedin: https://www.linkedin.com/in/dmitrybarsky/
 
 - name: Trevor Gamba
   comment: >
-    He is not only fluent in Agile methodologies, but is extremely well versed in SW development 
-    methodologies -- which allows him to go toe to toe with some of the most technically astute 
-    developers and senior leaders in the organization...
+    He is not only fluent in Agile methodologies, but is extremely well versed in
+    software development methodologies &mdash; which allows him to go toe to toe with
+    some of the most technically astute developers and senior leaders in the
+    organization...
+  comment-extended: >
+    <p>James thrives in environments where an understanding of technical
+    software practices are required. He is not only fluent in Agile methodologies,
+    but is extremely well versed in software development methodologies &mdash; which allows him to go toe to toe with some of the most technically
+    astute developers and Sr. Leaders in the organization who were resistant
+    to the change. I think there are very few Agile Coaches that can truly
+    span the depth of knowledge going from detailed code level, up through
+    higher level Agile principles and training. In my view, he was a one stop
+    shop covering all aspects required to support our Agile Transformation.</p>
+
+    <p>He always worked well with our development and leadership teams
+    (He is well liked, and respected). He clearly understood the importance
+    of meeting our expectations in terms of outcomes. Last but not least
+    he has tremendous passion for Agile, and its benefit to
+    SW & HW development environments – A very important trait in
+    coaching and leading others through this type of transformation.</p>
   image: /assets/images/trevor-gamba.jpg
+  linkedin: https://www.linkedin.com/in/trevor-gamba-0240a76/
 
 - name: Curtis Inderwiesche
   comment: >
     Working with James was a blessing and an inspiration. He has clear aptitude in taking
     a blank canvas and creating relevant value from it, leveraging learnings 
     quickly and adaptively.
+  comment-extended: >
+      <p>James has clear and decisive guidance to offer to ensure
+      influence is achieved to:</p>
+
+      <ul>
+        <li>launch functional and effective teams no matter their
+        current state</li>
+
+        <li>apply simple yet proven tactics to mitigate and eliminate
+        dysfunction within any team</li>
+
+        <li>leverage agile methodologies and practices to ignite change
+        within all levels of the organization</li>
+
+        <li>establish the fundamental building blocks to unit teams
+        capable of quickly adapting to scalable scrum</li>
+
+        <li>establish effective technical hiring practices to ensure
+        consistent and quality candidates are available at any point</li>
+      </ul>
+
+      <p>Working with James was a blessing and an inspiration. He has clear
+      aptitude in taking a blank canvas and creating relevant value from it,
+      leveraging learnings quickly and adaptively.</p>
   image: /assets/images/curtis-inderwiesche.jpg
+  linkedin: https://www.linkedin.com/in/curtis-inderwiesche-a992b069/
 
 - name: Andy Siefkes
   comment: >
-    I’ve had the opportunity to work with James on multiple projects for going on two years.
-    I can’t say enough about the confidence I have in his ability to deliver.
+    I’ve had the opportunity to work with James on multiple projects for going
+    on two years. I can’t say enough about the confidence I have in his ability
+    to deliver.
+  comment-extended: >
+    I’ve had the opportunity to work with James on multiple projects for going
+    on two years. I can’t say enough about the confidence I have in his ability
+    to deliver. Not only does he preach Agility and better business practices,
+    but he's in the trenches too. Not afraid to roll up his sleeves and not only
+    offer a solution, but be a part of the solution.
   image: /assets/images/andy-siefkes.jpg
+  linkedin: https://www.linkedin.com/in/andysiefkes/
 
-- name: Brian Go
+- name: Bryan Go
   comment: >
     James is an exceptional Agile coach. He takes time to listen and understand the
     challenges behind the implementation of an approach before coming up with some
     very practical advice. He is also great in making people see the benefits of
     a proposed change.
   image: /assets/images/bryan-go.jpg
+  linkedin: https://www.linkedin.com/in/bryan-go/
 
 - name: Thomas DeBenning
   comment: >
     James's is one of the hardest working individuals that I know. While for some
     that might be enough but he is also one of the smartest and most ethical people
     I know as well.
+  comment-extended: >
+    <p>James's is one of the hardest working individuals that I know.
+    While for some that might be enough but he is also one of the smartest
+    and most ethical people I know as well. It has been many years since
+    I have actually worked with James. But I have to say the things that
+    he and I talked about years ago have continued to resonate. Not only
+    have then continued to resonate but the things he has said have come to
+    life over time and influence me to this day.</p>
+
+    <p>Jimmy&mdash; I count you as a friend and I count you as an influence
+    in my life.</p>
+
+    <p>You cannot go wrong with Mr. James Carpenter</p>
   image: /assets/images/thomas-debenning.jpg
+  linkedin: https://www.linkedin.com/in/tomdebenning/
 
 - name: David Stackleather
   comment: >
-    If you are looking for an Agile coach who will tell you want you need to hear,
+    If you are looking for an Agile coach who will tell you what you need to hear,
     James is an excellent one to reach out to.
+  comment-extended: >
+    <p>James was the first Agile Coach I hired to start the transformation
+    of the Auto Club. James has a deep developer background, which is very
+    helpful in a large scale transition. Coaches without a technical
+    background (I mean a real developer here) may struggle to gain the
+    trust and acceptance of the developer community.</p>
+
+    <p>James could speak to
+    the developers and push for increased technical excellence on the part
+    of the development teams. Large organizations with all the attendant
+    dysfunctions often atrophy the skill of the developers
+    &mdash;this, it shouldn't be necessary to point out,
+    is management&apos;s fault&mdash;
+    resulting in poor quality systems that are fragile and difficult to
+    change. This problem, along with many others, gets worse over time until
+    the system collapses. James understands the dangers in this path and
+    will give a straight appraisal of the situation.</p>
+    
+    <p>James developed training for our teams (and conducted many of them)
+    along with an inception process product teams could follow to start-up.
+    Not sugar coating things, the training, and inception process were really
+    detailed and well aligned to the Large-Scale Scrum framework we use as
+    well as Agile and Scrum values in general. Critically it was revised
+    each launch based on team feedback (a principal value that many
+    consultants fail to live by, continuous improvement within the context
+    of the organization).</p>
+
+    <p>If you are looking for an Agile coach who will tell you what you need
+    to hear, James is an excellent one to reach out to.</p>
   image: /assets/images/david-stackleather.jpg
+  linkedin: https://www.linkedin.com/in/stackleather/
 

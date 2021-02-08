@@ -26,8 +26,8 @@
 
 - title: More
   dropdown:
-    - title: Extended Testimonials
-      link: /extended-testimonals/
+    - title: Testimonials
+      link: /testimonials/
     - title: Search
       link: /search/
 
