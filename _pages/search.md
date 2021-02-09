@@ -7,7 +7,6 @@ description: Search anything in the site from here.
 
 
 
-
 <!-- Html Elements for Search -->
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Search..." autofocus>
