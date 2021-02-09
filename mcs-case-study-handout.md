@@ -7,8 +7,6 @@ categories:
 layout: post
 ---
 
-# LeSS-Huge Adoption Case Study
-
 This is a handout for my
 [LeSS-Huge Adoption Case Study presentation](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/events/275987580/) at the Twin Cities LeSS Meetup.
 
@@ -16,27 +14,29 @@ This is a handout for my
 
 A PDF version of this document is available at: [{{site.url}}{{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf]({{site.url}}{{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf)
 
+# Recording of the Meetup
+
+A recording of the meetup will be made available on the [MCS Case Study Presentation]({{site.baseurl}}/blog/mcs-case-study-presentation/) page when it becomes available.
+
 # Introduction
 
 Dear LeSS Meeup Attendees:
 
-The [Twin Cities LeSS Meetup](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/) leadership team has graciously extended an opportunity for me to discuss my experience coaching a LeSS-like transformation within a division of a multi-national networking hardware company.
+The [Twin Cities LeSS Meetup](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/) leadership team has graciously extended an opportunity for me to discuss my experience coaching a LeSS-like transformation.
 
 I am currently working through the [LeSS trainer licensing process](https://less.works/courses/become-less-trainer). A key component of the LeSS trainer licensing process is writting up a comprehensive case study detailing my experiences in a prior LeSS adoption. 
 
-The natural product complexity, organizational scale, senior management turnover, and failure modes I experienced while working to transform a division of a networking hardware company make it a particularly compelling choice for a case study. The failures involved are easily as insightful as the successes. 
+The natural product complexity, organizational scale, senior management turnover, and failure modes I experienced while working to transform a division of a multi-national networking hardware client make for a particularly compelling case study. The failures involved are easily as insightful as the successes. 
 
 I am still working through the initial editorial process with Viktor Grgic. Subsequent to Viktor's generous efforts, Bas Vodde and Craig Larman will provide additional editorial insight and guidance. Once all this is done, the case study will eventually be published on the LeSS website.
 
-To help you better follow my Twin Cities LeSS Meetup presentation, I have excerpted just the figures and their captions from my draft case study. Coupled with their captions, the figures the reveal the entire story arch of the Nakashima MCS divison's LeSS journey.
+To help you better follow my Twin Cities LeSS Meetup presentation, I have excerpted just the figures and their captions from my draft case study. Taken together, the figures and associated captions reveal the entire story arch of the division's LeSS journey.
 
-My intentions for the meetup presentation are to quickly walk through the figures you see here, and then to move to a collaborative discussion and Q&A format. It is my hope this will facilate deep meaningful learning opportunities.
-
-Please read this content carefully prior to the meetup. The more prepared each of you are, the more meaningful our discussion is likely to be.
+My plan for the meetup presentation is to quickly walk through the figures you see here, and then to move to a collaborative Q&A discussion for the majority of the session. Please read this content carefully prior to the meetup. The more prepared each of you are, the more meaningful our discussion is likely to be.
 
 I recommend you consider printing out the timeline figure prior to meetup. It is easy to lose sight of the forest for the trees as you examine the various aspects detailed in each figure. Keeping the timeline handy -- perhaps making notes on it as you go -- will help you to understand how the other figures relate to the whole. To make this easy I am providing a [PDF version]({{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf) of everything you see here.
 
-I have also invited the director of the BIOS group to join us. His case study pseudonym is Mitya. Mitya is a very seasoned senior manager with deep hands-on experience in the hardware and firmware world. I have tremedous professional respect for Mitya, who I first met while at Nakashima. I am also extremely fortunate to have been adopted as extended family by Mitya, his wife, and their child. Seldom is a road-warrior blessed to find such a supportive lifelong friend.
+I have also invited the director of the relevant BIOS group to join us. His case study pseudonym is Mitya. Mitya is a very seasoned senior manager with deep hands-on experience in the hardware and firmware world. I have tremendous professional respect for Mitya, who I first met while at this client. I am also extremely fortunate to have been adopted as extended family by Mitya, his wife, and their child. Seldom is a road-warrior blessed to find such a supportive lifelong friend.
 
 I look forward to seeing everyone and having a great conversation.
 
