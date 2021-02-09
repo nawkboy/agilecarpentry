@@ -7,8 +7,6 @@ categories:
 layout: post
 ---
 
-# Deriving the LeSS Framework
-
 The [LeSS website](https://less.works) has some great diagrams and text which cover the LeSS and LeSS Huge frameworks. Even more detail can be found in the three [LeSS books](https://less.works/resources/learning-resources/books) written by Craig Larman and Bas Vodde. For someone who is new to Scrum the level of detail can be a little overwhelming. The following series of diagrams and associated caption text attempt to explain the LeSS meta-process is nothing other than a very natural generalization of single team Scrum.
 
 The diagrams will walk through the derivation one step at a time, explaining the reasoning behind each step. The end result will be what mature professional Scrum teams have done for years, which turns out to be exactly what LeSS has canonized as the LeSS framework.

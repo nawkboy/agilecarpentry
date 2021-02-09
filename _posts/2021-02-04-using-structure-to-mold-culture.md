@@ -7,8 +7,6 @@ categories:
 layout: post
 ---
 
-# Using Structure to Mold Culture
-
 Truth is often multifaceted, especially in the complex work of changing the culture of engineering organizations. Often, the more actionable, insightful facets are obscured by more politically palatable aspects with broader marketing appeal. This doesn’t necessarily make the politically palatable aspects any less true; they simply don’t provide a complete understanding.
 
 # Structure Drives Ground-Level Culture

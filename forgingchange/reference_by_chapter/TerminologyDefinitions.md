@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Terminology Definitions: Useful References
-
 ## CI-related Articles
 
 [CI on a Dollar a Day](https://www.jamesshore.com/Blog/Continuous-Integration-on-a-Dollar-a-Day.html) by James Shore

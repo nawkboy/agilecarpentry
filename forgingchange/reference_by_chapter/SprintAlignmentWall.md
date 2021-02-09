@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Sprint Alignment Wall: Useful References
-
 [Visualizing the Nexus Sprint Backlog](https://www.scrum.org/resources/visualizing-nexus-sprint-backlog) by Rob Maher and Patricia Kong
 
 + The "Basic Sprint Alignment Wall" in my book is extremely close to what Rob Maher and Patricia Kong show in their "Figure 1. Cross-Team Refinement Board." My "Enhanced Sprint Alignment Wall" has epic-level and confidence-level indications that Maher and Kong's refinement board does not.

@@ -14,7 +14,7 @@ This is a handout for my
 
 # PDF of this Document
 
-A PDF version of this document is available at: [{{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf]({{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf)
+A PDF version of this document is available at: [{{site.url}}{{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf]({{site.url}}{{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf)
 
 # Introduction
 

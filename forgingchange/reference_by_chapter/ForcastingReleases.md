@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Forecasting Releases: Useful References
-
 [Jeff Patton: User Story Mapping](https://www.jpattonassociates.com/user-story-mapping/)
 
 [Alistair Cockburn: Blitz Planning](https://alistair.cockburn.us/Blitz+Planning)

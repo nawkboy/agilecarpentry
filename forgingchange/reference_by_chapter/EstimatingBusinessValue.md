@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Estimating Business Value: Useful References
-
 [Prioritize your backlog: Use Weighted Shortest Job First (WSJF) for improved ROI](https://techbeacon.com/app-dev-testing/prioritize-your-backlog-use-weighted-shortest-job-first-wsjf-improved-roi), by Matthew Heusser
 
 

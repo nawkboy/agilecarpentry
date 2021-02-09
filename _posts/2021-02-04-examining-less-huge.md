@@ -7,8 +7,6 @@ categories:
 layout: post
 ---
 
-# Examining LeSS Huge
-
 In an earlier [Deriving LeSS]({{site.baseurl}}/blog/deriving-less/) article I showed how the LeSS Framework's roles, events, and artifacts can be very naturally derived from single team Scrum. With each step the associated LeSS rules were listed. This article is intended to extend the conversation so as to explain the extension of the LeSS Framework into the LeSS Huge Framework.
 
 At some scale the number of teams and breath of a product become so large as to be more than a single Product Owner can manage. With healthy mature teams actively enrolled in product backlog refinement you may be able to sustain as many as a dozen teams using the LeSS Framework alone. It is wise to avoid implementing LeSS Huge if at all possible given the additional information scatter and attendant risks to adaptability and customer value which will likely occur.

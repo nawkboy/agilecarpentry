@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Agile Design Elements: Useful References
-
 ## Read the Official Scrum Guide
 
 [Official Scrum Guide](https://scrumguides.org/)

@@ -1,11 +1,9 @@
 ---
-title: Forging Change Reference Information
+title: Forging Change Reference Information by Chapter
 image: /assets/images/forging-change-excerpts/forging-change-anvil-only.png
 author: James
 layout: book
 ---
-
-# Reference Information by Chapter
 
 [Chapter 1: Agile Deployment Models]({{site.baseurl}}/forgingchange/reference_by_chapter/AgileDeploymentModels)
 

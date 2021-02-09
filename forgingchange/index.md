@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Related Pages
-
 [Synopsis of Forging Change]({{site.baseurl}}/forgingchange/Synopsis/)
 
 [Preview of Forging Change]({{site.baseurl}}/forgingchange/PreviewBook/)

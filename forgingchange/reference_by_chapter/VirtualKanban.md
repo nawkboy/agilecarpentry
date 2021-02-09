@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Virtual Kanban: Useful References
-
 # Producing getKanban Game
 
 [getKanban Production Guide]({{site.baseurl}}/blog/get-kanban-production-guide/)

@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Training Concerns: Useful References
-
 ## Thiagi (Sivasailam Thiagarajan, PhD)
 
 [Thiagi's website](http://www.thiagi.com)

@@ -7,8 +7,6 @@ categories:
 layout: post
 ---
 
-# Self-Publishing Guidance
-
 For those of you working to figure out authoring and publishing of your own book, here is a list of references I have found useful in my own journey. I hope this information will help make your journey a little easier than my own.
 
 # Books Related to Self-Publishing I Found Helpful

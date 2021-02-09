@@ -5,9 +5,6 @@ author: James
 layout: book
 ---
 
-
-# Buying Forging Change
-
 Forging Change can be ordered from most any bookstore on a world wide basis. Due to logistics and bookseller markup, Amazon is generally the most cost effective and prompt option when ordering a small number of copies.
 
 [My author page on Amazon](https://www.amazon.com/author/jamesleecarpenter)

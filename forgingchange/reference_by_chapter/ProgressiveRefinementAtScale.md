@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-#  Progressive Refinement at Scale: Useful References
-
 Article on [Cross-Team Refinement](https://www.scrum.org/resources/cross-team-refinement-nexus) by Rob Maher and Patricia Kong
 
 + The approach I described in the book provides a little more formalization, which should prove helpful when coordinating across a larger group. In other regards, it is roughly identical to the process described by Rob Maher and Patricia Kong.

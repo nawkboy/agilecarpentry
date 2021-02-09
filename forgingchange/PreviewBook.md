@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Previewing Forging Change
-
 A full-color preview of *Forging Change* in PDF format is listed below. A slightly more limited preview is available on Amazon via the *Look inside* feature. You can also have Amazon send a preview to your Kindle reader.
 
 * [Preview as PDF]({{site.baseurl}}/assets/pdfs/978-1-7328751-0-4_txt_extract.pdf)

@@ -5,6 +5,4 @@ author: James
 layout: book
 ---
 
-# Ratcheting Definition of Done: Useful References
-
 I do not currently have additional references for this chapter.

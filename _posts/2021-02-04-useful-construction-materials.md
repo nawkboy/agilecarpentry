@@ -7,8 +7,6 @@ categories:
 layout: post
 ---
 
-# Useful Construction Materials
-
 Although these tools would likely be easy to find in an office before the 1980s, it is uncommon to find them lying around today. I recommend ordering them in advance, as you will probably find them useful during the first couple days of an agile team's existance. 
 
 ## Vinyl Chart Tape

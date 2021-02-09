@@ -5,8 +5,6 @@ author: James
 layout: book
 ---
 
-# Forging Change Synopsis
-
 Implementing agile at scale starts with the right management attitudes and structures, but it doesn’t stop there. The waterfall mindset is often deeply embedded, and successful agile transformation requires a new understanding of how your organization works, not just a new set of processes for a few teams.
 
 In *Forging Change*, James Carpenter cuts through the noise that often surrounds large-scale agile transformations to explain how agile theories play out in the real world. Part 1 focuses on agile deployment challenges, including different ways to spread the agile mindset and management practices that are crucial to success. In Part 2, he has assembled a collection of conceptual models, practical techniques, and real-world examples showing how healthy agile processes work in large organizations. These techniques will help you establish a real change in mindset, not just terminology.
