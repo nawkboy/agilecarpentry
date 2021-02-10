@@ -14,6 +14,7 @@
   link: '/categories/'
 
 - title: Book
+  link: /forgingchange/Synopsis/
   dropdown:
     - title: Synopsis
       link: /forgingchange/Synopsis/
@@ -25,6 +26,7 @@
       link: /forgingchange/ReferenceByChapter/
 
 - title: More
+  link: /testimonials/
   dropdown:
     - title: Testimonials
       link: /testimonials/
