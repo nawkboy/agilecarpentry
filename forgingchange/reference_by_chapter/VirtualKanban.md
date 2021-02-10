@@ -16,7 +16,7 @@ layout: book
 [YouTube Search for “Kanban Introduction”](https://www.youtube.com/results?search_query=kanban+introduction)
 + There are a [plethora](https://www.youtube.com/watch?v=-mTUmczVdik) of introductory articles and videos on the use of basic Virtual Kanban boards. Finding something that goes past the basics is more challenging. The complex Kanban sequence below, the getKanban game, and the “Virtual Kanban” chapter in *Forging Change* help close this gap a bit.
 
-[Complex Kanban Sequence](https://www.dropbox.com/s/deuooidw9vivpa9/ComplexKanbanSequence.pdf?dl=0)
+[Complex Kanban Sequence]({{site.baseurl}}/assets/pdfs/ComplexKanbanSequence.pdf)
 + Demonstrates card flow through a rather complex Virtual Kanban board
 + Created as a slide show in PDF format
 
