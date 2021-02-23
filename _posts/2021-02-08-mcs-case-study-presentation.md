@@ -27,10 +27,8 @@ Colorful information rich context for the discussions is being provided in the m
 
 # Video
 
-I will post a video of the Zoom meeting here once it is available. In the meantime, you can watch our previous dog Zoe roll over back in Houston.
+A complete recording of the presentation and subsequent discussion is available below.
 
-<iframe class="video" src="https://www.youtube.com/embed/Eu9WO5mo4M8" allowfullscreen frameborder="0"></iframe>
-
-
+<iframe class="video" src="https://www.youtube.com/embed/C5cMXBz-GcU" allowfullscreen frameborder="0"></iframe>
 
 
