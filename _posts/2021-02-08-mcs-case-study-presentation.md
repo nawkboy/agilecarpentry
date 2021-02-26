@@ -37,15 +37,15 @@ The pre-read handout contains a complete copy of every figure and associated cap
 
 **00:55:52** - Question: What were the motivational factors that made you appreciate James's approach  with LeSS? What problems or team dysfunctions did you see ...
 
-**1:04:39** - Question (Joel): I'm curious what kind of training teams get before they change into a LeSS-like way of working?
+**01:04:39** - Question (Joel): I'm curious what kind of training teams get before they change into a LeSS-like way of working?
 
-**1:12:17** - James discusses the importance of avoiding the contract game. (Tangent related to the training question.)
+**01:12:17** - James discusses the importance of avoiding the contract game. (Tangent related to the training question.)
 
-**1:16:23** - Jerry comments on the importance of leadership buy-in.
+**01:16:23** - Jerry comments on the importance of leadership buy-in.
 
-**1:18:24** - James and Mitya discuss leadership failures affecting the case study.
+**01:18:24** - James and Mitya discuss leadership failures affecting the case study.
 
-**1:21:15** - Question (Samuel): Were there any key economic elements that could have been more directly connected to the adoption?
+**01:21:15** - Question (Samuel): Were there any key economic elements that could have been more directly connected to the adoption?
 
 More times will be added later as closed captions are further edited.
 
