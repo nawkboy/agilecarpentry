@@ -33,9 +33,9 @@ The pre-read handout contains a complete copy of every figure and associated cap
 
 **00:52:33** - Discussion Starts
 
-**00:52:48** - Question: How did this team structure evolution tie in with the training of the BIOS teams?
+**00:52:48** - Question (Julian): How did this team structure evolution tie in with the training of the BIOS teams?
 
-**00:55:52** - Question: What were the motivational factors that made you appreciate James's approach  with LeSS? What problems or team dysfunctions did you see ...
+**00:55:52** - Question (David): What were the motivational factors that made you appreciate James's approach with LeSS? What problems or team dysfunctions did you see?
 
 **01:04:39** - Question (Joel): I'm curious what kind of training teams get before they change into a LeSS-like way of working?
 
@@ -46,6 +46,16 @@ The pre-read handout contains a complete copy of every figure and associated cap
 **01:18:24** - James and Mitya discuss leadership failures affecting the case study.
 
 **01:21:15** - Question (Samuel): Were there any key economic elements that could have been more directly connected to the adoption?
+
+**01:26:56** - Question (James): Was there any element of Mitya's relationship with the hardware VP that impacted the political cover we enjoyed.
+
+**01:27:55** - Question (Samuel): What could have been done to establish a more direct connection to product management?
+
+**01:30:39** - Question (Julian): What might be done differently with the communications with, or around the new SVP/GM?
+
+**01:35:38** - Question (Vladimir): In what way was it a struggle to get the new VP on board? What was the new VP looking for?
+
+**01:56:14** - Question (Joel): How do I respond to a manager who is seeking to micro-manage a Scrum team?
 
 More times will be added later as closed captions are further edited.
 
