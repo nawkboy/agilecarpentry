@@ -29,6 +29,5 @@ Colorful information rich context for the discussions is being provided in the m
 
 A complete recording of the presentation and subsequent discussion is available below.
 
-<iframe class="video" src="https://www.youtube.com/embed/C5cMXBz-GcU" allowfullscreen frameborder="0"></iframe>
-
+<iframe class="video" src="https://www.youtube.com/embed/J6wg1a3ELvA" allowfullscreen frameborder="0"></iframe>
 
