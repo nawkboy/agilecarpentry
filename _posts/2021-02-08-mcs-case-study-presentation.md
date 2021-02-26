@@ -7,11 +7,14 @@ categories:
 layout: post
 ---
 
-<iframe class="video" src="https://www.youtube.com/embed/J6wg1a3ELvA" allowfullscreen frameborder="0"></iframe>
 
 # Overview
 
-The [Twin Cities LeSS Meetup](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/) leadership team has graciously extended an opportunity for me to discuss my experience coaching a LeSS-like transformation within a division of a multi-national networking hardware company on Feburary 16, 2021. Please [sign-up here](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/events/275987580/).
+The [Twin Cities LeSS Meetup](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/) leadership team graciously extended an opportunity for me to discuss my experience coaching a LeSS-like transformation within a division of a multi-national networking hardware company. The event listing can be found [here](https://www.meetup.com/Large-Scale-Scrum-LeSS-Twin-Cities/events/275987580/). The recorded Zoom meeting and relevant pre-read handouts are available below.
+
+# Video
+
+<iframe class="video" src="https://www.youtube.com/embed/J6wg1a3ELvA" allowfullscreen frameborder="0"></iframe>
 
 # Case Study Diagrams/Pre-Read
 
