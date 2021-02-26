@@ -7,7 +7,9 @@ categories:
 layout: post
 ---
 
-Although these tools would likely be easy to find in an office before the 1980s, it is uncommon to find them lying around today. I recommend ordering them in advance, as you will probably find them useful during the first couple days of an agile team's existance. 
+Although these tools would likely be easy to find in an office before the 1980s, it is uncommon to find them lying around today. I recommend ordering them in advance, as you will probably find them useful during the first couple days of an agile team's existance.
+
+All of these items can be purchased in person using a combination of a retail home improvement store, office supply store, and automotive parts store. 
 
 ## Vinyl Chart Tape
 
@@ -22,6 +24,15 @@ Here are a few I have ordered in the past. There is nothing special about this b
 + Amazon: [10 Pack Graphic Chart Tape Matte 1/8" x 324" (red)](https://www.amazon.com/gp/product/B00LBHL8UC)
 
 + [Amazon search: vinyl chart tape](https://www.amazon.com/s?url=search-alias%3Daps&field-keywords=vinyl+chart+tape)
+
+Vinyl chart tape is readily available at most any automotive parts store in a variety of colors and widths. The trick is to ask for pinstriping tape. A few examples from Napa are listed below.
+
++ Napa: [Pinstrip kit 1/8" x 36' (black)](https://www.napaonline.com/en/p/BK_7354623)
+
++ Napa: [Pinstrip kit 1/8" x 36' (dark blue)](https://www.napaonline.com/en/p/BK_7354632)
+
++ Napa: [Pinstrip kit 1/8" x 36' (red)](https://www.napaonline.com/en/p/BK_7354631)
+
 
 ## Other Items
 
