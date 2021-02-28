@@ -1,5 +1,5 @@
 ---
-title: "MCS Case Study Presentation"
+title: "Recorded Case Study Presentation"
 image: /assets/images/mcs_case_study/twin-cities-less-meetup-case-study.jpg
 author: James
 categories: 
