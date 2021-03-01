@@ -23,6 +23,12 @@ The pre-read handout contains a complete copy of every figure and associated cap
 * [Pre-Read Handout in Online Format]({{site.baseurl}}/mcs-case-study-handout/)
 * [Pre-Read Handout in PDF Format]({{site.baseurl}}/assets/pdfs/mcs-case-study-handout.pdf)
 
+# Presentation Transcript
+
+I have manually created an edited transcript file for YouTube's closed captions. With all the deep thoughts, and false starts, the manually edited closed captions make it a little easier to follow the dialogue.
+
+You can also [download the manually edited transcript]({{site.baseurl}}/mcs-case-study-presentation-transcript.txt). You can skim the transcript to discover the parts you find most interesting, and use the video index below to quickly find the relevant portions of the video.
+
 # Video Index
 
 **00:00:00** - Event Banner
@@ -57,7 +63,13 @@ The pre-read handout contains a complete copy of every figure and associated cap
 
 **01:56:14** - Question (Joel): How do I respond to a manager who is seeking to micro-manage a Scrum team?
 
-More times will be added later as closed captions are further edited.
+**02:04:21** - Question (Joel): Exploration of the “adoption vs transformation” spectrum.
+
+**02:08:15** - Question (David): Were there any metrics that you set out with?
+
+**02:13:00** - Question (Joel): Did the project eventually get completed, or did the whole product line fail? 
+
+**02:13:39** - Question (Vladimir): What measurements were used to determine success and progress as well?
 
 # Synopsis
 

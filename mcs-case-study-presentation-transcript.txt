@@ -1,0 +1,839 @@
+>> David: All right welcome everyone to the twin cities less meetup my name is David Nielsen.
+I'm the facilitator today. We rotate. Today we have James Carpenter with us.
+
+He's going to be discussing and presenting on a LeSS adoption with a company.
+It's a software and a hardware company, and so that'll be really interesting for us to hear about, because typically we just deal with hard, I mean software right, but so that'll be really cool, and then we'll have a Q&A session.
+
+I think the presentation you're thinking is gonna be 30 to 45 minutes, right, and then we'll have a Q&A session. So what what we're trying to do is get through the presentation, as best as we can, and then we'll have a Q&A session. 
+
+So put your questions in the chat I will be monitoring that, kind of organizing that, prioritizing things. If there's a lot of people asking the same question, you know that'll come first.nSo it'll be really great for you to put your questions in there throughout, and then when we get to the Q&A I'm going to start cueing it up for the guest speakers.
+
+Also we have a a mystery guest. So let's meet ya on the on the participant list there. And he's a development group manager that worked hand-in-hand with James to implement this LeSS adoption. So that'll be great you know, just to ask questions of both people, and hear from both people.
+
+And you know, again we're here because we're all interested in learning about Large Scale Scrum implementations. What went well, and of course what went wrong. You know we wanted we really want to hear those nitty-gritty learning lessons, because usually those are more insightful than than some of the success stories, although this has both. So it should be a really meaty good presentation.
+
+So to introduce James, he's been a software engineer for 15 years. Over 15 years leading agile transformation. Since 2012, he's been a leader in two LeSS adoptions.
+
+ This, this is, this presentation will be on the first of the two. And this presentation is also the basis for his LeSS trainer candidate process. So he, James, is going to be one of the newest certified LeSS trainers, and this will be part of that process. 
+
+ >> James: [laughs]
+
+ >> David: We know you will you're gonna get it. And so he's working with Craig Larman to publish that on the LeSS website. And he's also been on a variety of other coaching engagements. He's an individual, or excuse me, individual executive, or sorry, independent executive consultant for agile and just brings a lot of great great perspectives. So I will show where, I'm supposed to show exactly where to find the the reading materials. Go to the meetup. You're going to find a pre-read content right here, and you can click on that. And what it'll take you to is this. So you will have, you'll scroll down a bit, and then there's pre-read handout in online format, and pdf format.
+
+ It was recommended that you read it before joining today. But if you weren't able to, join, you know, you can ask clarifying questions. Nobody's gonna, you know, beat you up over it. And if you open it up, it's got, it starts out with the timeline. It's got some introductory biography, and then we're gonna pretty much get into the presentation. So I don't want to steal your thunder. If you can keep your webcams on, try and engage. That's it. Thanks. So I'm gonna turn it over to you, James.
+
+ >> James: Oh okay. Thank you.
+
+So, so first off, I'll just say hi. Thank you for everyone coming. And especially for those who have done the pre-reading, I'm really looking forward to all the great questions. And I'll tell you a little bit more that I can about Mitya, which of course obviously isn't his real name. But he was at this client that this case study is about. This is not your normal director. Very exceptionally high emotional intelligence. Running a very significant group, doing some very hardcore low-level work. He's worked at a variety of startups. I know he's at least at one major startup now.
+
+Very hard-hitting hardware software engineer, firmware engineer. I would say more great things, but I'm worried about revealing the client. So, fantastic guy and, and, one of my best friends. So I'm very fortunate to have had opportunity to get to know Mitya. Mitya, do you want to say anything else?
+
+>> Mitya: First of all, thanks for the amazing introduction James. Happy to be here. Actually excited to share what we went through in the transformation, in the team, and with guidance, of course, of James. Happy to share what we went through, and answer any questions, and help any way I can. 
+
+>> James: I'm trying to find my notes that I lost.
+
+>> Mitya: Maybe while James is looking for his knowledge. One thing I can say for sure is that the team that was leading at the time was was operating pretty well, and with a certain status quo that's known in our field, and would have been doing the same thing, and I think from what I know now, missing out on a lot of aspects that agile development provides if it wasn't for James coaching us through it, and helping tremendously, and introducing us to all of these concepts. 
+
+>> James: So we're going to go through this as as David suggested. Mitya and I are going to do this together. We're going to try to cover the uh the main figures pretty quickly so that we can get to the questions. So our intention here is to mostly cover the content quickly, not take a lot of questions. If there's any clarifying questions, that's fine, but mostly save your your really meaty stuff for after. And please write them down, because the whole point is to get to those. That's where the real value is. Is letting you all ask the questions. We just want to give you a little bit of an overview first to help the set stage, which we think will take us about 25 minutes or so.
+
+All right, so context, so this is a hardware.. Mitya, you want to explain this hardware product? You can do it better than I can.
+
+>> Mitya: Yeah, I can do it. It's a very nice diagram, so it's easy to explain based on this diagram. So maybe going from hardware to software. So on the left side in James's diagram, the motherboard [James interjects]
+
+>> James: What is this thing? Who is the customer base? Who buys this?
+
+>> Mitya: So the the customers are data centers for this particular company. This particular product, mostly enterprise data centers, but really this type of product is used in cloud or enterprise setting. But data center product basically.
+
+>> James: It's a data center on a forklift. Right?
+
+>> Mitya: Yeah.
+
+>> James: It's got your storage. It's got your compute. It's got your networking. It has the software to manage the whole mess if you're not going to run on AWS.
+If you needed to do this yourself, you would have to have a lot of infrastructure in order to support that. This lets you buy that on off the shelf with a big check.
+
+>> Mitya: That's true, yeah. That's true, and this product is by now, you know, quite mature. And it originated even before AWS had things like on-prem data centers. So this would, yeah, this would, this would satisfy many needs, including the one if you want to build, you know, on on-prem cloud. 
+
+One of the big features of this product is the density. This blade concept is more dense.
+You're able to populate compute more densely than if you have, you know, what's called pizza boxes, or various rack unit height servers that kind of slide into the racks in the data center.
+
+So the details, the blade motherboard is the really the compute module. It has processors. It has memory. It has I/O in terms of ... so all the network, all the I/O, is consolidated over network. So it's an ethernet. You see there is a NIC, but over ethernet. It's also able to encapsulate other things like fiber channel, and various storage protocols. So this is a compute module. And as you can see the compute module, there are eight compute modules in this chassis. Pretty common in the industry. Six to eight is a common form factor, and encapsulated in a physical chassis.
+
+And the chassis itself has a chassis controller that monitors the environmentals, and reports to the managing software, which we'll get to in a moment, the details of each compute node, the details of all the compute nodes, the chassis details, and so on. One one more thing, I did mention is the node controller. Back to the left side of the diagram the node controller is a module that allows configurations to flow from the software to the BIOS on the motherboard, and the static data  to come out from the motherboard and go back. Static and dynamic, such as environmental, and voltages, and temperatures, and things like that.
+
+>> James: Yeah, I remember in the old days when I was at a seismic processing shop. You had to go around with a VT100 terminal, and plug a serial cable into the back of a pizza box. And obviously these servers may be off in a cage, you know, thousands of miles away, and you need the ability to to administer them remotely. If you need to change BIOS settings you need the ability to do that. Right?
+
+>> Mitya: Right. So that's what that's about.  So this node controller will provide that as well, the kind of KVM piece, so that you can access it. It can be configured and worked with in two ways. One is hands-free, completely remotely and all, and hands-on completely remotely. So hands-free. 
+
+Maybe this is a good time to get to the the MCS GUI and administration piece that's on the top right. So the main objective of this piece of software is really user interaction with all of the blades in the chassis and all of the chassis that are under the management of this software. And it has some high limit of number of chassis it can manage. And again also, this is the user's view into the health of every every cell. You know, in this cell being the blade, or every CPU within every blade, or every module of memory in every blade.
+
+Also its objective is to provide compute configuration, networking configuration, storage configuration, which is then distributed to the relevant nodes, relevant blades, relevant chassis, and so on, and in return it gives a view of ..., the kind of accumulated view, of all the hardware under its control.
+
+>>James: Mitya, Thank you. I think it might be useful if I give you ... Let me describe this from a slightly different perspective as well. Because everything he said is super useful and relevant. It might be a little overwhelming for some. I think there's a few facets that are interesting here from a coaching, transformational kind of experience.  
+
+First off, all of the stuff at the higher level: this administrator GUI, and all that that, is effectively middleware. It's the sort of thing that in another world might be written in Java, might be written in C++. You are running on stable hardware that is predictable. You might be running embedded Linux. You might be running some sort of ... you know it may be ... it may come across as a network device, but it's basically middleware. It just happens to be responsible for managing this big monstrosity right now.
+
+As you go down and you get close to the hardware, there will be custom drivers for those network cards. There will be custom hardware in the blade. You get into very custom bespoke hardware. Much of the work Mitya's group was doing was BIOS code. This was, you know, there is no operating system. There is no threading. The C libraries, the standard C libraries, are only partially implemented. You're cross-compiled and deployed to target. 
+
+So you have this broad span. When you get hardware, sometimes the prototype hardware is flaky. Sometimes the flakiness is in the firmware. Sometimes the firmware can be adjusted to work around the flakiness. Sometimes not. So there's the synthesis of custom funky hardware, custom funky software way down where the morlocks live, but all this is also coupled with what at the high level is really a bunch of middleware code, and all these things are kind of glued together in a very complex overall product, with a few thousand engineers working on the thing.
+
+The other facet, which Mitya mentioned as well, is this is deployed on premise. So just like your your cell phone, you know, when when a new version of IOS comes out, everyone doesn't get new hardware. Right?
+
+A lot of people keep their old phone, in that new software runs on the old hardware, but some of the new features only work for the new in development generation of the hardware. You know, say they're back in Apple's labs. So the focus, the customer base, is a much different customer base. The complexity of the products, the amount of money involved is much different. So here you're talking about huge checks from a small number of customers, instead of small checks from millions of customers, or tens of millions, or hundreds of millions, or however many people apple sales to.
+
+So the the hardware generations is an interesting dynamic that plays a part. It's not as if it's a hosted situation where you're in control of the entire environment, like you would be in a software as a service.
+
+Anything else before we move on, Mitya, that we think we should cover?
+
+>> Mitya: You know one thing maybe relevant, specifically to this transformation experience. Is that, some of the pieces of software, and embedded software (as James described it correctly -- middleware) they are ... their life cycle, their release cycle is independent of the external world. To a degree. 
+
+So if you invent the feature, or you perceive that the user needs a feature, you add a feature to the GUI. Nobody else, kind of. Externally the marketplace is externally not necessarily driving it.
+
+The one exception is the BIOS specifically, and it's really driven by ... The cycle is driven by a number of things. One of them is Intel in this case. Intel, but Intel or AMD, release schedule. So when the time that Intel or AMD announce a new CPU, all the server vendors, all the compute vendors, say we'd like to ride that wave of adoption. Also we have a product also, so there are kind of multiple cycles in play here. One cycle is sort of a bug fix cycle, where the released hardware and release software is being maintained, and there are periodic releases. But there is also this big long cycle of many many many months. More than a year of months, that is often times an opportunity to to do a complete overhaul of software, of BIOS specifically. That's all I wanted to add.
+
+>> James: Yes, and you can't. And if you miss those dates ... You get the prototype versions of chips. And they give you new generations of prototype chips that are always having less trouble than the previous ones. But if you missed the date, you missed gazillions of dollars per day for not having been ready when Intel put it on the shelf.
+
+>> Mitya: Yeah, yeah. And you miss also the marketing dollars that are not yours. That are external. Industry industry wave, right? The industry wave is important to ride, and not be behind, and then catch up.
+
+>> James: So thank you. There's this timeline that talks about the engagement. You'll see that it's very helpful to keep this timeline separate. If you read the pre-read, I even suggested that you print it out and take notes on it, because as we go through the other figures, sometimes it helps you pull the context together, because you can see what happened here. You can connect the other stuff to this timeline, and it really helps. So you might even put that in a separate window, if you have the separate screen space for it. Or even print it out, just this one. It can be useful to take notes on.
+
+So there was an initial diagnostics. So know that about the timeline, but i'll move on. There was an initial team that we stood up that was indeed an end-to-end feature team. This was a single Scrum team that was directly interacting with the people that were using the product. It happened to be a diagnostic capability that was being added. It would satisfy a very natural requirements area, in LeSS terms, of the overall MCS product, of the Modular Compute System product. 
+
+We're not going to spend much time talking about it. You're more than welcome to ask questions on it later, but know that there was an initial team stood up. That initial team was very much a full vertical slice. We pulled people from different teams that had the skill-set to work in every component that they needed to touch. It was a little bit ... it was a bunch of stuff in the middle, diagnostics, and then a little bit of functionality all over the place. And that team pulled together a cross-functional feature team that could do it.
+
+Here's some happy team members. Here was their Definition of Done. There's some interesting political nuances that show up, that are in the caption here and talked about. If you did the pre-read, that might make for good questions later.
+
+And now we're down to ... Oh, when we start talking about the work that we did with Mitya. We only did it for ... we initially formed our teams just for the new in development hardware. If we were back to the iPhone analogy, this would be equivalent to saying for all the iPhones that are in the field today, of all the different variations, the different generations of them, we're not going to focus on software for that, we're going to let that be whatever it is. And let the teams that are working on code related to those older products, we're just going to leave them alone. 
+
+But for development of the newest generation of iPhones, that's in the lab, or in this case the newest generation of hardware of this MCS product, we're going to start to build these LeSS-like structures for the BIOS team, which is where the interest was. And initially that was very much just within this component. It was really a component team, which would make .... And then over time we worked to continue to grow our way towards the surface. Grow our way up to the user interface, and become a more natural requirement area, and to begin to slowly cross-train the team to be able to do small amounts of work in these other components. So that, for example, if you added a new attribute that you needed to be able to configure in BIOS, you would want this LeSS-like structure of teams to be able to even make the changes in the GUI layer, and anything else in between that needed to be made.
+
+Now we didn't completely get there, but we started to go in that direction. We didn't go as far as we would like to have gone, but certainly that was happening before some massive layoffs started to hit us. 
+
+It's also interesting to know that when we first talked about BIOS, out of 30 or 40 people, mostly only one or two people would know a particular file, or a particular small micro bit of functionality. If you wanted to tune memory, this one guy was mostly the guy who did all the memory tuning stuff. And if you wanted to do some other bit of work it was only one or two people that knew how to do that. This idea of working more cross-functionally even within BIOS, which is itself a big massive thing, that was not the norm prior to the adoption.
+
+So to initially have gone:  "Well! We're just going to work all the way up to the GUI." from day one, is not something that there would have been the institutional will for. And there wouldn't have even been the interest, or maybe even the ability of the team to stretch that far ... for the teams to stretch that far, that soon.
+
+It was a stretch just to say: "Hey as teams, we're going to take whatever comes up the top of the product backlog, and we're going to work it regardless of what aspect of BIOS we have to touch." Even that was a challenge to begin with. 
+
+And as the teams matured, as they became more cross-functional, as we ran effective retrospectives, it became increasingly self-evident to them: "Well, we really should be making some of these other changes ourselves." 
+
+And so a team that was kind of focused in the areas that went up to the GUI, started to get agreement with some of the key tech leads, and other aspects, and other parts of other components to make those changes themselves, and just do some peer review.
+
+So they started to work in that direction, but we never got as far as we wanted. But understand that even within the BIOS there was a lot of narrowness, initially. Mitya, any any comments there?
+
+>> Mitya: Yeah.
+
+>> James: Actually, watch our time by the way.
+
+>> Mitya: As quickly as I can. So you know this is very fundamental I think to the challenge of adapting any form of agile in BIOS spaces. Because this is simply how things are done. This is, you know, BIOS is a very well established industry, well established software development practice, and specialization is not only common, but it's key in some aspects of BIOS development, at least is perceived to be key to successful BIOS development. 
+
+Another very important thing, that I probably should have mentioned in the beginning, it is a conviction that you don't do agile in firmware.
+
+You know I knew ...I'm not on video but, you know, air quotes ... "Knew that it's not done."  I knew because people who I respect, people who have been in the industry for a long time, told me that they know that it's not done, and it really wasn't until James came to the organization, not specifically for the BIOS purposes, but for other components and was coaching them.
+
+I don't know if, James, I should go through the ...
+
+>> James: Sure, I think the fact that you wanted it. I didn't force any of this on you. Right?
+
+>> Mitya: Right. Right. [sarcastic] While you were forcing it on other people ... no.[laughs]
+
+I became interested in what was going on with other groups, and what they were doing. But again I was convinced, and knew that it's not done in the BIOS and shouldn't be done in the BIOS. I had no basis in it, but I just knew. ... James slowly arranged for, through some social interaction with other managers and finally in dropping into my office, and kind of drawing things on the board. Some of them didn't make sense, and some of them made sense logically, even though I didn't understand any of the agile terminology. 
+
+Finally there was a meeting where it was supposed to be half an hour, an hour, and you know two and a half hours later I was convinced that there is nothing prescriptively against doing this kind of work in our environment. It's challenging and we have to solve the challenges that are specific to our type of development, and specific to the timelines, and specific to dependencies. In the hardware & software world the dependencies are different than when it's kind of a software only world, but ... 
+
+The fundamentals of how people are treated in this environment, differently. And how estimates, and deliverables, and retrospectives, and a lot of things that I always felt that it's hard for managers to implement without a particular framework. And this framework gave a lot of opportunities to just implement a great work environment, I felt.
+
+>> James: Thank you, very helpful.
+
+Org chart. So when I came in, I had a few phone calls. It was with the the sponsor, which is not Mitya, it was a different guy. And from the time that I had a yes, to the time that I was in the door took a month, month and a half, something like that. All the paperwork done. 
+
+...One of the early meetings I had -- for the first time in person -- I finally got to meet this Senior VP/general manager in person. And I sit in this person's office, and he is amazingly supportive. Definitely an engineer's engineer, kind of person with a lot of patents on the wall. Think MIT type or MIT of India type. And he really impressed me, because he said "You know James, the real question is not what you can do for me. The question is what can I do for you?" He made it very clear that he had an open door if I ever needed anything or he could help in any way. That was useful and ... allowed me to do power borrowing of his executive status, he was completely open to that.
+
+So I could not have asked for more support than I received from this initial SVP, and it was during that time that we started to work to set up that initial diagnostics team that I talked about. This was before Mitya and I got got seriously engaged. Within two months this person was gone. There was a lot of financial pressure to do something to help the profitability of the org, and a new SVP came in. Great person, very skilled, very knowledgeable, but not quite an engineer's engineer; and the optimizing goal of this person was not the same as the original SVP.
+
+So I almost never spent any significant time with this SVP. It was very difficult to get to get this person's ear, if not impossible. Yet with some of the momentum that was started initially, we still continued to run, and they continued to pay my bill rate. So I'm still flying back and forth every week, and you know that gets expensive, and there was still interest in that. 
+
+There was certainly a lot of lip service to agile, there just wasn't the same kind of: "How can I help make this happen?" that I had with that original SVP. That fundamental change in leadership is critical, and you'll see that again right there in that [James points to figures 11 and 12]. 
+
+Here you have that original SVP and then two or three months later we have this change. And you'll also see that in the timeline if you're following along in the timeline. Later, way towards the end of the engagement, you'll find that Mitya is reporting up through this hardware VP. 
+
+So even though this is a hardware VP, the truth is there's a lot of software. There's a lot of firmware under that [James pointing at figure 12], including the BIOS code. That is if assembly code counts as firmware; and low level C code, not C++, but C cross-compiled to a target counts as software, which it does, that still included software. So don't be confused by the hardware VP nomenclature, but do pay attention to the fact the hardware VP was very supportive. 
+
+Mostly the hardware VP was: "Hey Mitya. If you say this is the right thing to do, then go do it." So there was enough trust in Mitya that if Mitya was on board then this hardware VP was on board. 
+
+There also was a QA, a VP, who was very supportive. But the software VP who was involved in a lot of the teams that worked on the middleware stuff, was more passively aggressive.
+
+When the hardware VP left towards the end of my engagement, a little under a year and a half there, all of a sudden everybody started reporting into that VP, that software VP. That sort of caused some things to tumble. So that will come up, and that's important.
+
+Geography. All Mitya's folks were in Portland and the greater San Francisco area. There were also some people in India that were doing BIOS code. They were reporting to a different director. They didn't join [the org chart] untill we got up to that hardware VP. And again, you'll see that on the org chart [figure 12], but they were almost all co-located. So the group [location] in in Portland has like 30 desks in it plus a server room. Something like that. In San Francisco you've got several floors of people, but all the people that we're working for Mitya were all clustered in a corner. We actually changed offices a few times. We changed buildings. There's some refurbishment going on, and what not, but we were always in some co-located area. 
+
+The QAs that we got to help us, that were from the QA. Now, we treated them just like normal team members. We brought them in, and they were part of our team, and treated like any other team member for all practical purposes, except they were still reporting up through a different reporting chain, which caused a little bit of problems, but not a lot, because we had the support that we did from the quality assurance VP; a peer to Mitya's hardware VP. 
+
+If Victor [Grgic] were here, editing my case study. Viktor would make sure to point out that these are ... think of them as testers. Because, quality is an outcome of the system. Quality assurance is not something you bolt on, it is a misnomer, and he's right. I've gone ahead and left these labeled as QA because that's what you're going to recognize them as. Know that the concept of quality assurance as something you bolt on to an org obviously doesn't work. So Viktor was taking issue, as we edited the case study, with some of the "How do we word that? How do we pull that out?" We'll have to tweak it a bit, and figure out how. 
+
+Here is an interesting trick [pointing at figure 15]. So remember I said that we said, we're only going to bother to fix the newest hardware generation. We'll let all the old hardware run the way it's historically run. So for the teams that are in India doing bug fixes to the existing legacy BIOS code base, we're just going to leave them alone. Let them run under the standard waterfall that they're used to being run with. Even those that are reporting up through Mitya that are still doing bug fixes and such, and small improvements to the older code base, that's related to the older generation of hardware, we're still going to leave them under under an old mechanism. We're not going to pull them into this LeSS-like structure. 
+
+As BIOS engineers that were reporting up through Mitya wrapped up some of the work on the legacy code, on the legacy systems, supporting legacy hardware generations, we would roll them into this structure.
+
+So, we started with just three teams. Within four months or so, I don't remember exactly, it kind of morphed a bit. We had pulled in two more teams because Mitya had people that had rolled off doing the other work, and we rolled them in into new teams. We may have shuffled the team boundaries a bit, or the teams may have shuffled their own team boundaries. They actually decided who their teams were, except in Portland's case it was kind of obvious that Portland would form its own team. Now what this did is, it delayed the politics of dealing with the org chart and the aspects in India, until we had successfully demonstrated a lot of success. So we had shown what was possible with this new approach, and I think that had we not lost the hardware VP we would have been able to solve the India problem as well. Mitya and I would have flown back to India, had some conversations. We would have worked the politics. We would have smoothed it out. We would have been able to fix that structural issue eventually, had we not lost our hardware VP. So it's an interesting strategy. It's very unusual. It's also unusual that we're growing from the bottom of the tech stack instead of going from the top of this stack, and working our way deeper and deeper. So it's a very odd place that we started, but it worked.
+
+So when we launched we got in a room for several days, brainstormed, put lots of stuff on the wall. The knowledge of what was needed was dispersed more broadly than any other time I've seen it. Every one of these guys are rocket scientist guys. These are very sharp engineers, first rate, but because of the way they had been working it wasn't uncommon that person A would know one small piece of the puzzle, and person B would know another piece of the puzzle, person C would know another piece of the puzzle, and you had to go through all 30 to 40 people as a group. We had to get in a room and brainstorm, and figure out what was involved. 
+
+Mitya can you talk about that for like, I don't know a minute or so? You always tell it nicely.
+You know we were in that corner room with all the glass. We brainstormed and got a bunch of stuff out of our head.
+
+>> Mitya: You mean the very first, or one of the very first? Right?
+
+>>James: Yeah the very first two or three days that we were doing inception. This is after we had run through training with everybody. You're ready to launch the teams.
+
+>> Mitya: So there were some challenges of of doing. One of them is ...[pause]. Maybe I'll separate the challenges. 
+
+One of the challenges was that the team was distributed and our objective was to create a single list of stories. As james mentioned the team was kind of separated by specialties. So some specialties ended up in Portland, and some specialties ended up in San Jose. Yet we were working on a single storyline.
+
+>>James: We had flown in the Portlanders, right? They had flown in for that week? As i recall.
+
+>>Mitya: No. They were on the call, on the phone. They did their own, and we did our own. That was part of the challenge.
+
+>>James: But video is ubiquitous here. They make the hardware that does it, so it's cheap.
+
+
+>>Mitya: Doing this kind of work was also new. It's the first time that everybody's work, that they know how to do, that they know the sequence of events in every cycle, they had to break it down and write it into consumable steps. That was a challenge, but it's interesting. 
+
+After initial...[pause]. 
+
+It took a little bit to get going. Partly because when you know how to do something, you don't really have the steps exactly. I mean you just sit down and do it. And then it's done and shipped, and you move on to next thing. So people had to think: "Okay, how is it that I do what I do? What are the steps? What are the features that I enable? How do I call them? How do I change the wording from I need to enable this DIM to a user story?" I think that was one of the big shifting moments or challenges. 
+
+>> James: But that came later, right? We just got sticky notes on the wall in our meeting.
+
+>> Mitya:  That's true. Right. Then one of the interesting things that happened is that now everybody's tasks, everybody's stories, or tasks that would later become stories, they were on everyone's display. They were on walls. They were on the windows as James said. 
+
+That room was mostly half walls and half windows. It was a corner conference room. These stickers were on on the windows and walls everywhere, and on the white boards. Then it came time to pull it all together. People started looking at tasks that are in other areas, not in an area of their own expertise. From that came a lot of contribution to completeness of these features.
+
+When you have familiarity with a subject, you may omit things that come naturally to you. So from this next step of cross-pollinating the team came more completeness of the the big picture of what needs to be done; to get, in this case, BIOS from one stage to another stage.
+
+>>James: For those of you familiar with Blitz planning, it's basically what we did. Silent writting for a few minutes. Everybody writes all the things they think they need. We'd put it on a wall. Mitya would group it into different groups. Then we would find logical groupings. Then we'd go again.
+
+When Mitya got tired, someone else on the team would stand up and do the facilitation. I'm always trying to lead the least possible. So, the more I can let them lead the better. The more they own it. They certainly didn't [need me to lead]. They just needed me to point them in the right direction. So normal blitz planning activities, but it took like a day and a half to get it out of everybody's head. It did not come out easy. There's just so much of it. I've never seen this much information scattered as broadly as it was scattered here, in such really sharp guys and gals.
+
+Once we had the sprints up and going, we were already in the first sprint, we started doing what was basically a form of cross-team refinement or multi-team refinement. But in this case, it was the people who know the most about these particular stickies, let's get together and let's flush out better PBIs. We wrote them in user story format, but obviously they're not, strictly speaking, user stories because they're really about a component.
+
+We would do that to the point that we had everything flushed out in our electronic tool. Then we printed everything back out. We threw it all on the wall, and Mitya and I started looking for "What is a natural sequence of this?" Mitya was acting as a Product Owner, or to be precise in LeSS terms a Fake Product Owner, because the real Product Owner would be actual product management. We would not yet be at that point until we could grow into a more full requirement area.
+
+We put everything on the wall. We started to find where things had affinities. We eventually ended up with what is, sort of, a combination of a snake-like Product Backlog and a User Story map. So this is a story mapping type of exercise. As we would do this, we would touch base with whoever we needed. If Mitya and I were focused on two or three of these sticky notes here [James points], we would grab someone from the teams that knows more about them and ask clarifying questions. 
+
+Then, when it made sense, we'd bring in the whole team and shuffle the board more. So the whole teams did multi-team refinement to dream these up. Then Mitya and I threw them on a wall again, and tried to massage them. [Mitya and I] pulled in more people for insight any time we needed it. Then towards the end, we made sure to bring everybody in, as well as putting the the guys in Portland on video, and have them double check everything we did. [We had everyone] look to see what we overlooked. Then we also did a quick affinity estimation, or elephant board, or whatever you want to call it -- It's the affinity estimation technique -- to get a rough sizing on them all. After that, we were able to transition to more regular cadenced refinement. That was how we got our initial Product Backlog flushed out, which is really a component backlog.
+
+[pointing at figure 20] We always had a handy helper if we needed some tape. You can see one of the task boards in the background. So very handy helper there!
+
+ 
+[Let's talk about the] definition of done. [pointing at figure 21]
+
+Historically this code had been ... It was as bad as you would think, as you would ever see. They were doing copy-paste reuse from one generation of hardware code to another. We're not making use of the plugable layers that existed from an AMI BIOS that was given to us, that was then customized.
+
+These teams said we're tired of this, we're gonna stop it. I didn't tell them you should do this. I didn't know enough about BIOS. They knew the problems were there. They just hadn't felt empowered to stop it. So, when they were empowered to stop it, they said "Hey let's stop doing what we've done in the past. Let's make it where never again do we have to do this copy-paste reuse. Let's start using plugable layers unless we absolutely can't for whatever reason. So they put that in their Definition of Done from I think the first sprint.
+
+It evolved a bit later. You see a little more refined version of the same thing. [points at figure 22].
+
+[Let's talk about] triage guidelines. [pointing at figure 23]
+
+This deals with what's a real fire, what's a fake fire. It would be nice for an individual team member to say "Hey this is a fake fire. Mitya is not here to tell you as a Product Owner. But if he were here, he would say it is. This is why he would say it is."
+
+So this allows us to be respectful of the Product Owner's judgment as to what is and isn't most important, while allowing team members to respond instantly when there is an ad-hoc request that may be a real fire. It also allows us to benefit from the collective wisdom of all the team members within the entire product development group, [regarding] what should and shouldn't be a real fire.
+
+So we were able to have a group discussion about it, and come to consensus on what it should be, and validate that decision with the Product Owner. So it is the Product Owner's decision, but it's informed by the group. It allows us to respond very quickly.
+
+It's almost like classes of service and pull rules in Kanban. It's a variation of that.
+
+[pointing at the bottom of the pre-read content]
+
+Here's some reference content. I'm not going to read it, but it should generate some good questions.
+
+Let's see, it's almost six. Do we want to take a five-minute break, and then come back with questions?
+
+>>David: Sure I think that's a that's a fine idea. Give everybody a quick break, and then we'll jump right into questions.
+
+I have a few questions from others lined up. I've got a few for myself I'll put at the end. We'll jump right into them. I really appreciate that presentation thank you
+
+
+>>David: I was trying to tee up the first question. So the first one I got there is: "How did this team structure evolution tie in with the training of the BIOS teams. Specifically to help resolve key team dysfunctions?"
+
+>>James: So let me answer the first part. Then I'll have to clarify the second part.
+
+As you see in the timeline -- because we had so many people involved -- it took me two cohorts to train San Francisco, for everyone that was going to be in the initial BIOS teams, which is like two days of training. In one week I was able to train two cohorts in San Francisco, and then the following week I trained one cohort in Portland.
+
+Mitya went with me to both of the San Francisco trainings. He attended and participated. I wouldn't say he quite co-trained with me, but he certainly was active in a leadership capacity within the training.
+
+When we trained portland, we made sure to pull in the people that we thought were going to be QAs on the team. Even though they technically reported to a different part of the org. 
+
+Then when we did Portland, it wasn't Mitya, but it was a friendly director involved, the same one that had helped with the diagnostics team. Again, we made sure to line up some QA talent that was going to be there when we did that.
+
+So it took about two weeks of back-to-back training to train everybody up. 
+
+The following week we launched ... We did the team kickoff activities that included: "What is our Definition of Done? What are our working agreements? Let's self-form into teams. What do we want our team boundaries to be? Who's in what team? Self-select into what team you want to be in." 
+
+But, of course, the thing that took most of the time there was that brainstorming, of getting our Product Backlog out of our head.
+
+The other stuff only took about half a day in this case. So, it was remarkably quick for the other stuff, but the Product Backlog stuff was was a bear. This is because, this team had been working together for a while.
+
+So, to answer the question of how did the structure and training tie in. We trained, and we immediately launched the new structure, the next week. So instant, boom, boom -- we were instantly in the new structure as soon as we trained, and we launched. 
+
+But there's a second part of the question. What was the question again? There is a second part to the question.
+
+>>David: I think he wants to know about the the key team dysfunctions. Maybe Mitchell would like to jump in there too. Because, I had a similar question: "What were the motivational factors that made you appreciate James's approach with LeSS?" What problems or team dysfunctions did you see that you you're like "Yeah this is this is going to help with that." 
+
+>>James: Mitya, you're up. [laughs]
+
+>>Julian: And James ...
+
+>>David: Oh we'll we'll come right back. We'll come right back to you Julian. Sorry, one second.
+
+>>Mitya: So you know ... [joking] first of all, no team dysfunctions. Obviously it was a perfect team. 
+
+I'll start with David, your second part of the question. What made me become interested and convinced that using James's time and expertise to train the team, to really help lead the team, co-lead the team, through this transition, would be valuable. Somehow I had a sense that this LeSS structure would identify problems, [and] inefficiencies. For example, problems such as inefficiencies. Problems such as people's deliverables on a weekly, bi-weekly basis, and tracking those deliverables.
+
+Problems such as keeping this a flat structure, yet having leads that are actively and visibly leading the team and teams. I also saw this specialization that James described very well as a problem as well. If one person does one small already specialized ... BIOS is already specialized. If one person does specialized of specialized -- not only it's a negative in the kind of long-term career point of view, but it's also negative from from a business point of view, organizational point of view. It's harder to fill in for peaks in some areas, when there are valleys in other areas in terms of workload. 
+
+So it's great to have the entire team understanding everything from top to bottom. As James says you know being able to stitch from top to bottom the whole software.
+
+If you have people that that don't understand... Imagine you have in a BIOS area,  which for most of the world is just this one small area, and in that area there's a person who understands just one little corner. [Such as], how does the DIM initialize, and that is it. That's not to diminish that expertise. It's a very specialized, very important, and very difficult part. But wouldn't it be nice if that person can also do simple things, like selecting a boot device. So those are all problems, and I think those problems LeSS addressed very well. 
+
+It also exposed problems that perhaps were not visible in terms of how people work with each other if you're not with an approach that we took, and structure that James helped us implement, and guided us through implementing. 
+
+Every two weeks we were all together and discussing what happened in the last two weeks. What went well [and] what didn't in [the] retrospective. I think that was a tremendous help. 
+
+We also added some practices that I thought were cool. I know not everybody on the team thought they were cool. Like, before the retrospective we did improv warm-up exercises. I was freshly graduated from an [evening] improv class at Stanford. Back when we used to do these things, like go in-person to classes. I thought it was great. It's not to be the best comedian, but it's really just to ... They really have nothing to do with comedy. They just have to do with being comfortable among other people. Knowing that nobody dies in the process. I thought they were great, but not everybody loved it for sure.
+
+>>David?: I think the improv thing is great. Because you have to say: "yes and ...". You can never negate someone else's part of the story. You can only add to it. When there's a lot of big egos on a team, that can help them start to build on other people's ideas rather than just make it all their own. That was good.
+
+I'm going to go back to Julian, because it was originally Julian's question. I want to see if he has any clarifying follow-up questions. 
+
+>>Julian: I appreciate that. I was going to chime in to clarify. James and Mitya, you guys addressed what I was asking.
+
+I was looking at your timeline, James. That's where I got the team dysfunction in month seven. I'm wondering if the self-selection process -- that the teams did as they were integrated into your BIOS teams -- if that was what was helping resolve some of that team dysfunction that you alluded to so? That's what I was trying to get, but I think you and Mitya both addressed what I was asking. 
+
+>>James: It's on the timeline?
+
+>>Julian: Yeah.
+
+>>Mitya: I'm trying to think what was a seven month. I think there was one ... [James laughs]
+
+>>James: This was the grumpiness in ... Portland wasn't completely on board. Although you weren't there for the training, and we did the kickoff quasi remotely -- I think there were one or two people that might have been in San Francisco -- but I'm not sure. You and I did a trip pretty quickly after we kicked them off, and kind of nudged them a little more.
+
+Let me be quiet.
+
+>>Mitya: I think you're absolutely right. There was another dysfunction and I wonder if that was also the one that you highlighted. While we had the code review practices, and things like that. In this practice of agile LeSS, everyone was looking at everybody's code. 
+
+So you know, some people appreciate it and some people say "No!, No! No!".
+They say "Hey! I've owned this for 20 years. Don't tell me how to rewrite it!" 
+
+So now we have people from one area working on another area. And what happens? People have fresh ideas. People have good ideas, bad ideas, different kinds of ideas. But there's this inherent: "I know how to do this better". So that was the dysfunction that had to be addressed.
+
+>>James: Awesome. I think it's important to notice that I didn't [just] train them, and launch them. Structure drives culture. It isn't like we trained them, and we launched them, and then I ran away. The truth is, I trained them, we launched them, and then I basically stood in as the Scrum Master, because of the lack of a better option at the moment. I basically played a very high functioning Scrum Master role for several months.
+
+It isn't like: "Poof! You train them, and you launch them, and voila they're scrumming." I kind of saw that hiding in Joel's question.
+
+That's why I mentioned that.
+
+So good. David back to MC. Back to you.
+
+>>David: So the next question that's up. It's actually visible in the chat there, but it says: "I'm curious what kind of training teams get before they change into a LeSS-like way of working? I'm using Seattle Scrum company's video based training to train very basic scrum concepts. [I am] assuming coaches and POs get [more expensive formal] training, but [I am] less sure about what kind of training to offer the devs. The three-day LeSS Practicioner training sounds like a big ask. So, what do you think?"
+
+>>James: Structure drives culture. There is nothing quick and easy about this. We took the team down for.... well, everybody was in two days of training, and doing other work when they weren't in two days of training. Then it was three or four days of launching the team. So that's across 40-ish people. I'm only teaching them basic Scrum mechanics, and a little bit of estimation.
+
+Of course there's the ongoing immersive experience. How do you learn to run a retrospective? Well, the best way is you actually go to retrospectives, and you participate in them, and you learn how to run good retrospectives. How do you run Sprint Reviews well? You participate in them, and you come to understand what makes for a good Sprint Review. Same for Sprint Planning and all. So, I'm basically coaching them through these activities. All that we're doing in [classroom] training is preparing them for that. If leadership is not willing to give three days of training to do something as drastic as what's involved here, you're obviously not ready to even think about this kind of change. 
+
+Structure drives culture, and if you don't deal with the structure you will not see significant change. You will not see significant benefit. What's interesting here is, to the extent that we dealt with structure, we reaped tremendous rewards from it. In the areas that we didn't go after the structure ... when you get above the director layer, we didn't fix those parts of the org. Not fixing those parts of the org came back to haunt us. Ultimately the reason that things disintegrated at the end -- after I left, after Mitya left -- was because the underlying higher level executive structures were not fixed, and because I had lost some key sponsorship.
+
+I think there's some notes at the very bottom of the handout that may be relevant here. They're [Craig] Larman-en. By the way, we were not, formally speaking, implementing LeSS. We were implementing Scrum with multiple teams. How do you do that? Well you have a single combined Product Backlog. You need a combined Sprint Review, obviously. You need a common Definition of Done, because you're all touching the same code. When you get to [the] retrospective you need some sort of cross-team mechanism, because some things are affecting all teams, and you need something that is specific to individual teams. Now, it turns out that this aligns with LeSS. In fact, if you look at my website there's an article that talks about deriving LeSS. If you read that, you'll see that the way LeSS works is the natural way to run multiple Scrum teams in parallel. It's the very natural thing to do. I don't think, I'd even read Larman's books at that time. When I did read them as part of this "let's get the LeSS wand", everything I read was like: "Yes, that makes sense. That aligns with my own experience."
+
+There was a point here, and I lost it. Oh, I remember! Towards the bottom [of the handout], dealing with structure drives culture. So there's the first and fifth of Craig Larman's Laws of Organizational Behavior. 
+
+"Organizations are implicitly optimized to avoid changing the status quo middle- and first-level manager and “specialist” positions & power structures."
+
+[and]
+
+"(in large established orgs) Culture follows structure. And in tiny young orgs, structure follows culture."
+
+[Reading from the handout] parallel organization [caveot]. This deals more with that diagnostics team which we didn't go into. "A parallel organization is not a pilot...".
+
+There were problems there with the [fact] the people on the diagnostics team continued to report up through their various directors. Those directors were still being driven by a waterfall context in the bigger picture. Because we didn't deal with that structure it caused problems. That also turned out to cause some problems for BIOS. The good news is that all the BIOS guys were reporting up through Mitya, at least within North America. So we didn't have that problem for quite a while, but we still were faced with this waterfall context that was driving us.
+
+>>David: I was gonna pivot to Joel one more time and see if we got to the heart of his question, or if he had a follow-up question.
+
+>>Joel: A little bit. It's been helpful, but I feel like ... I'm doing a similar thing with my group as far as putting up LeSS, and looking at what elements of LeSS are adoptable and which we're not ready for yet, or aren't applicable perhaps. 
+
+So I'm trying to learn about LeSS. That's why I'm here. I'm trying to train a lot of my teammates on some of the basic Scrum stuff, which is why I've been using that Michael James material. 
+
+I'm not yet certain about how much of our organization needs to go to more of a full-blown training to get LeSS training, so that they're aware of that stuff. Versus, could a lot of people just get good Scrum training? And have a well trained LeSS coach? And a LeSS trained product owner in the group? And could some LeSS expertise in a couple of places, plus some basic Scrum expertise ...[pause]
+
+What I mean is training. Not expertise necessary. 
+
+>>James: Basically, I taught them Scrum. That is what those two days was. Basically, Scrum training.
+
+>>Joel: All right. That's what I wanted know. 
+
+>>James: I had some of the knowledge of how do you run it as a group.
+
+
+But I do think it's important that you deal with as much of the structural stuff up front as possible. Before the launch you were working the way you used to work. Now we're in new teams. The rules are different. You are now aligned with the rules of the Scrum Guide. You are aligned, I would add, in the rules of LeSS, which supplement those [in the Scrum Guide]. [Rules] which are more prescriptive and avoid a lot of the traps. I am extremely sensitive.... 
+
+I should push the book right? If I was on Jay Leno. So, I talk [in my book] about what Larman calls the contract game. 
+
+Eli Goldratt, it's wordier, but it gets to the heart of it a little better. Which is what I talked about here [pointing to Forging Change book].
+
+[Goldratt] says treating estimates as commitments is in conflict with the desire of the individual to be seen as a reliable person. He elaborates on it and I basically elaborate on Goldratt's argument. If you treat estimates as commitments you will destroy morale and transparency within the teams, because you're holding people accountable for things they don't control. You will destroy quality because there's not personal safety to commit to craftsmanship. And then thirdly, you will destroy forecast accuracy, because now everyone is "keeping the safety to themselves" in Goldratt terms. 
+
+And, they won't tell you that they're done until they're within ten percent or so of the forecasted time. And if they think they're going to take a lot longer they'll do what Larman would call the dirty bag of tricks and start cutting corners. 
+
+So, if you do not fix the estimates being purely estimates -- personal safety for craftsmanship -- nothing you do is going to matter. So you absolutely have to fix that. You'll see Scrum does that of course with real clear role definitions. The developer's role is quality, quality as explicitly articulated the Definition of Done. The Product Owner's job is [determining] what is the most important,  but you don't get to say what is and isn't going to make it into the release. The Product Owner only gets to say what's most important, and the teams will pull from the top of the priority. 
+
+So, absolutely critical that you fix that problem. Absolutely critical that you fix the engineering discipline aspects. 
+
+I would argue that not writing automated unit tests, maybe not doing test-first, but certainly not having automated unit testing, is unprofessional. Whether or not you want to do the Bob Martin three laws TDD? I'm more of a test-first, less of a TDD guy. I think TDD produces is a great hygiene practice and is a great Shu level technique. [It] can be very valuable at times. Craftsmanship, craftsmanship, craftsmanship! You absolutely have to go after that. You have to go after the personal safety, and you really need your retros to run well.
+
+If you're finding that it takes a lot of managerial protection in order to create the kind of safety that you need -- which was certainly the case in this case study.
+
+What's becoming very clear to me from conversations with Viktor [Grgic] as we edit my case study, is that [need for managerial protection] in itself is a smell. It is a symptom of not dealing with structure. If you deal with the structure right up front, high enough up the food chain, and more importantly you get above that contract game being played, then you won't have to have management that's providing that air cover. 
+
+A lot of what happened within BIOS happened because Mitya was providing that air cover. But, if the structure was right, he wouldn't have had to provide that air cover. 
+
+>>Joel: I see.
+
+>>James: We only fixed structure at the team level. We didn't fix it at the executive level and it came down to bite us it came back to bite us.
+
+>>David: Jerry did you have a question?
+
+>>Jerry: I wanted to comment, because I think that the question is really important that Joel's brought up. 
+
+So when I'm listening to everybody. What I'm thinking the most about is.. You know, when you're first teaching Scrum, you're somewhat doing a bottoms up, and you're teaching Scrum.
+
+What's important to understand about LeSS and the lean frameworks, is that it's not just Scrum. I mean it's everything else that that James just said. What are you automating? What is your engineering excellence going to be? All that stuff. And while you can get started with just scrumming, there will come a point where if you haven't socialized and got your leadership team on board with taking that training ... And, I do think that three days with Craig Larman, it's a game changer. It's an absolute game changer. Then you're absolutely going to see an acceleration in change.
+
+So while you're doing what you're doing -- and you're there, you're teaching Scrum, you're trying to get things moving -- find a way to get those leaders on board.
+
+I had meetings just this week where I was talking to folks. I was like: "And you know, Craig Larman's coming to Minnesota. I think we need to send these people." And the response was: "Oh yeah, you can take those people." I said: "No, I mean you too!", [they said]: "Oh me too?". [I said]: "Yeah. This isn't going to work if you're not going too -- Leader."
+
+And so, you might need to have a number of conversations. You might need to find a way to get them to yes. But, if you don't have your leadership on board, you're only going to get so far. And you might be able to celebrate so much progress, but at some point you'll realize you're now stuck because the leadership isn't on board. And because they're not on board, you don't get the organizational redesign.
+
+>>James: Jerry. To punch that point. Mitya and I had a conversation a few weeks back with one of my key sponsors, the guy who was basically approving my time cards, at this client. We talked about, doesn't it always seem to fall apart in the end? And the reason it did is because we didn't deal with that at the level that we could. What makes my case study so interesting is how much went well, and how much failed, and the interesting ways in which it failed, and the interesting ways in which it succeeded. Mitya, you want to comment on that? That conversation we had with Trent the other day was insightful.
+
+>>Mitya: Yeah, I agree. I agree that you have to get leadership involved. And you know of course, the direct management. The higher in the organization you go ... if you manage to get everyone truly on board in the organization, from the GM or CEO ...
+I mean in a big company -- fifty thousand,  hundred thousand people company -- you don't have to go all the way to the CEO, but a GM of a business unit or something along those lines. ... then you'd have much better success.
+
+We've also seen to that point. We've seen teams that ended up working together with a BIOS team -- and I think they were trained, the QA team -- the team members were trained, but the management of that team wasn't really on board.
+
+And so, it actually caused more issues. They had to live between the the waterfall model and the LeSS model, and that made their lives more difficult.
+
+>>James: Remember I lost my SVP. That SVP that I came in and said: "The real question James is not what you can do for me, the question is what can I do for you to help with this?". And, two months later that [level of support] was gone. So we would have had that, but we didn't.
+
+Yet, [with] the momentum from the initial push, we managed to somehow continue to make inroads.
+
+>>David: I'm gonna go to the next question. So this one's from Sam. Why don't you just jump in and ask your question here Sam? I just put it in the chat for anybody who's wants to look at it.
+
+>>Samuel: As we were talking ... this question is kind of directed to Mitya. We've talked about some of the kind of unique aspects of the timing of when the software is available and ready, and some of the things that are at stake if you were to miss deadlines, and things like that.
+
+So I'm wondering, thinking back to the adoption and the work that you and James did together. Were there any other kind of key economic elements like that, that you maybe could have connected more directly to the adoption as you were implementing it?
+
+It seems for me that a lot of times when we have these discussions, it's kind of like you have to find these these things that really connect directly from what the what the product team is is looking at, and measuring to what the tech team is really optimizing for. So I'm just curious if there was anything like that, that you thought about retrospectively, that you might have been able to focus on more directly in terms of what the adoption was optimizing for within this product.
+
+>>Mitya: Yeah that's a good question. Certainly some parts of the development methodology we had to make sure fit the economics. The MVP of this product ... I mean the MVP of any product is critical. But the MVP of this product is actually quite extensive, percentage-wise of the whole product. There isn't a whole lot you can postpone. Most things are just such low-level code that there's not a lot of things that you you can postpone. So that's one thing we had to deal with.
+
+And then second is, for the things that you can postpone, when is the next time you can release this BIOS?
+
+So I don't know if i'm answering questions. In my mind that's economics, or business aspect at least. In terms of economics, for example, hours spent and dollars spent effectively on the product-- Which way do you get more bang for the buck?
+
+Do you get more bang for the buck when your measurement is: "If I find 1000 bugs in the software, that means it's good quality." That literally is the -- I'm not sure if I'm unique in existing in that kind of environment -- that's the quality measurement that I was used to until then. To: "Look, we don't have any bugs to report. As we go we fix bugs."
+
+I don't have the data to say that has measurable economic impact, but I hope it does. We only went through this with one cycle.
+
+It would be much more interesting, data wise, to see when we go through this, six months later, one year later, a few of these cycles. How does economics of this type of approach add up? I don't have the answer for how it turned out. But, we were discovering defects much sooner. Discovering design issues [with] how components communicate to each other, both within the BIOS and outside of [it]. If you remember this picture that James had outside of the BIOS into other components. We discovered a whole bunch of issues very early on, much much earlier on. I think that had economic impact. In terms of economics, we were able to ship good quality code in the right time. 
+
+But I think you know there's another part that was difficult. We were operating in the LeSS model while most of the organization was operating in the waterfall model. So that's where the the air cover was required. 
+
+What does the rest of their organization want? They want the whole product now. When do I start QA? Give me the whole product and I'll start QA. Give me the whole product and I'll find all the bugs, and then we'll know the quality is right.
+
+Don't don't give me this: This is a pre-MVP, and then in two weeks you deliver these features, and in two [more] weeks these features, and it's all working. We tested it, and we automated it. 
+
+I think that also relates to how other parts of the business see the economics. Economics in terms of: Will you deliver the code I need to sell the product on time and with quality? It's hard for the other parts of the business to see how you're progressing.
+
+>>James: Back to air cover. Is there any any element of your relationship with the hardware VP that played here, that's relevant to the room?
+
+>>Mitya: I don't know if it's my relationship or just you know just his personal kind of outlook on managing teams, or managing [an] organization. I think that maybe had more to do with it. But certainly he and I worked together for six or seven years prior to that building this product. That played a role, probably.
+
+I think it's more just we were very lucky that a person with this kind of outlook  was leading the hardware organization.
+
+>>David: Sam did you have any follow-up questions for Mitya before we move to the next one?
+
+>>Samuel: That was that was great insight.
+
+In this organization, if I was on the product side and I'm thinking about...I'm the guy that's selling this end product to the enterprise ... Were there any things that you could draw between what you were seeing in the the quality improvements to specific pain points, or specific kind of product strategy pieces. That [maybe] you might have been able to connect the dots more directly across from your engineering group directly into the product group.
+
+>>Mitya: Product meaning like a product management?
+
+>>Samuel: Right. So the folks [that] are responsible for: How do we bring this product to the market and sell this data center on a [forklift] to the enterprise?
+
+Was there some kind of direct connection that you think you could have made to their product strategy that may have changed the way that they were perceiving the transformation when you started giving it water and light?
+
+>>Mitya: That's a good question. So first I'm gonna start by directly answering your question. So on the BIOS side there's historically less product management team involvement. If you look at that big picture of the whole solution, most of the product is on the hardware definition. And product [management] is [focused] on those higher level software, middleware as James described [it]. The definition on the BIOS, that's very less, although a lot of features that the solution delivered went all the way through from [the] GUI all the way to the BIOS. On that, there was product involvement. I think there was appreciation. I hope there was appreciation.
+
+One benefit of this approach was that we found design issues, assumptions with new features, that were delivered in that cycle that had to be stitched from GUI to BIOS, or drilled all the way from GUI to BIOS.
+
+You often find cases where you have to go through four layers of software to get some data in or some data out. So from that sense I think there was appreciation that it's found early, and it doesn't affect the product. That it doesn't affect the product launch. That it doesn't affect the MVP. [That] it doesn't affect what features are in the sales sheets.
+
+>>David: The next question is from Julian. I'm going to put it in the chat. Julian would you like to kick it off?
+
+>>Julian: Thanks again David. James and Mitya, you guys have been answering this in five different ways so far. I'm asking about communications. I like Samuel's question as well. I think the big thing I'm asking is about the SVP or the new GM that came in. In retrospect, is there anything that could have been done to convey value of what you were doing? Or to even work with people around his peers to get them bought in to the value -- or the efficiencies -- you were finding, that you were just speaking to using this LeSS approach?
+
+>>James: That's a great question. Mitya I think you can do this better. I was doing everything I could with mostly no expression of interest. But, you sat in some meetings I didn't sit in.
+
+>>Mitya: I think new GM actually was interested. I don't know how I should say it, actually pro or interested in this approach. So in that level there was approval. Where it got muddy is everywhere in between. Because I wasn't reporting to GM. Not everybody in the organization wanted this, or believed in it. So that's on one side. On the other side, the GM wasn't involved in all the details where the project planning occurred. So, I don't know if I'm answering your question directly. 
+
+>>James: But expressed no interest.
+
+>>Mitya: Yeah
+
+>>James: The new GM's optimizing goal was overall profitability, and [The GM was thinking:] "If I have to cut the head count in half so be it."
+
+This is not a bad person. This is a very bright person. This was a person who was sent in to do what is needed to return this division to a more profitable state, in the short term--and that may mean some uncomfortable decisions.
+
+>>David: So I think the question is more in retrospect. What could you have done differently to engage that person for a better effect?
+
+>>Mitya: One thing that just occurred to me, Julian. So I believe in fixing everything myself, and doing everything myself. But this was a few years ago, and I've learned a few things since then. 
+
+One valuable thing that I've learned since then is that there is a value in escalating problems. Escalating problems when sometimes it may not be comfortable for everybody to hear problems. So maybe that's one thing that we could have done differently. To just say: Hey this thing that you like to be done, and that we like to be done, and is not really being done in the middle. Maybe, to vividly highlight this problem that if we are to really change this organization, as an organization, everybody has to change. 
+
+We probably did highlight that we need more help, and the kind of soft play. I've seen these escalations and leaders sometimes need to know exactly the full picture, and not figure it out themselves. 
+
+>>James: Yeah, that's what I think. I don't know what ... 
+
+>>David: Could you have given him some LeSS training? Like some system modeling or anything?
+
+>>James: I tried everything. Nothing in my skill-set at the time [seemed to work].
+
+>>Mitya: I think everybody in the organization was trained. It wasn't lack of knowledge. So, Julian the answer ... I hope that today I'd be able to walk to the GM and say, look you know we've got this big problem. There's a group that is doing this, and there's a group that is doing this, and everybody else is not doing this, and unless we're doing it all together we're not going to be able to succeed. In my imagination I am doing that, but I don't know. Next time, we'll see.
+
+>>James: Spoken as a future VP.
+
+>>David: Vlad's got some good follow-up questions here in the chat. Vlad do you want to put it in your own words?
+
+>>Vladimir: Thank you. I'm interested to know more of the details of what Julian asked. Like, what the VP was looking for instead of Scrum? What was the argument? Where was it a struggle to get the new VP on board?
+
+>>James: Mitya, I think the focus was just elsewhere. Right?
+
+>>Mitya: Yeah. It was a mandate to go and do it, but it wasn't really... I think James's [choice of] focus was a good term. The focus of actually accomplishing this, what are the ways that you actually do it, was elsewhere. Maybe for good reasons. The business needed adjustment and alignment. That required a lot of time, required a lot of things from the business side. And emotionally, like James said, the business unit went through layoffs within that year that we were implementing LeSS. 
+
+So, it wasn't that they didn't believe it, but it was: "Sounds nice. You have my full support to go do it." 
+
+There's a difference between: "You can go do it. I support you." to "Hey. Is this done? Can we have a daily meeting because this is not done? I sense this is not getting done, can we meet daily until everybody is on board?"
+
+>>James: The complete opposite of: "James the real question is not what you can do for me, but what can I do to help you help me? You tell me what you need. The door is open. Feel free to come in every day.", to: the door was effectively closed.
+
+>>David: Was there any dismantling of Scrum or cross-functional cross-component teams? Was this new person,...did they not care?
+
+>>James: The de-evolution happened once you left. Right Mitya? On the BIOS side?
+
+>>Mitya: Yeah. The dismantling happened in the middle, from the middle.
+
+>>Vladimir: The dismantle?
+
+>>Mitya: Dismantling meaning like: "This was a nice experiment. Let's all go back to the way we used to do things."
+
+>>David: Componentized teams?
+
+>>Mitya: Yeah.
+
+>>Vladimir: I assume that was the previous way of doing things?
+
+>>James: It's that third org change that you want to look at, figure 13. There in started the doom.
+
+>>Vladimir: Let's go back to what was before, because before it was so wonderful.
+
+>>James: Well, figure 11 was great. Figure 12 was the new SVP is saying what Mitya just said. "Hey go forth, that's fine. We'll continue to pay James's bill rate, but we're not going to actively get that engaged, because we're busy with some other stuff." 
+
+But at least we're still going through this hardware VP. And the hardware VP is telling Mitya: "Hey Mitya. Do what you think makes sense." So long as Mitya and I are doing what we think makes sense -- as long as the testing people on the team are reporting up to someone who's helping protect us as well -- we were good.
+
+As soon as that hardware VP left, and we have weak support, or indifferent support, when it comes to the day to day "Let me help reach down and solve problems for you." from the GM level, that's when things really started to collapse.
+
+That software VP had been eroding what had been done in the diagnostic effort, which we didn't cover much. That had already happened a good bit, but certainly when BIOS started reporting into that new software VP, and we lost the air cover from the hardware VP, which is figure 13, that was the beginning of the end.
+
+If you leave this kind of person who doesn't want to do this ... [pause] I'm not saying this was a bad person, very skilled, very intelligent, probably means well, but definitely not on board. If you leave that type of resistor in a significant managerial capacity it is poisonous to any adoption efforts, and that was the case here.
+
+>>Vladimir: Poisonous?
+
+>>Joel: I would assume that the organization wasn't trying to commit suicide here.
+That this VP that's not on board with this adoption ...[that] there was a reason that they were there. There's a reason the previous one resigned.
+
+It sounds like there's more to the story, maybe. That the people pulling the levers thought that empowering this VP who wasn't on board was smart.
+
+>>James: Well, the hardware VP left because there was a more attractive offer externally, and because they're under the looming threat of significant layoffs.
+
+If your job as a GM is ... and you have come to the conclusion, after working with the division for about a year, you've come to the realization that of all the various approaches I've looked at that might be able to save the organization without a massive layoff, and none of them in my judgment seem to be the right thing, I'm going to have to make a massive layoff. Like we're going to go from 4,000 to 2,000 people, a massive cut. I've [already] lost my hardware VP. Do I really want to lose this seasoned engineer, who's a VP, down in the trenches? Who understands where the bodies are buried. [Who] may or may not agree with this new agile thing. But we're about to cut half the staff. Do I really want to lose that knowledge, and have that walk out the door?
+
+Especially because in my GM role I'm probably looking to go to the next division that may need this kind of massive turnaround help. So my job as a GM is to get in, turn it around, and get out. If I decapitate the the sole VP that's left, that has a clue of what the overall system is doing, then I'm kind of in a bad situation. Even if they're not on board with the the agileness. 
+
+I'm not saying I agree with that decision. I'm simply saying that I can understand that perspective. Mitya, do you any any politically safe things to say here?
+
+
+>>Mitya: I agree with Joel. You're absolutely correct. But it's not like one way was just nose dive, and another way was the opposite of "We're bringing this rocket into space".
+
+The old way worked to a degree, with its inefficiencies, with its problems. Frankly, I think most people didn't have an amazing experience working in that [legacy] environment. People don't have a good experience in a working environment where you're told the your ETA, and then you're held accountable to your ETA. There are many examples, but this is one. 
+
+On the other hand, if you take an organization of a thousand people, what is the percentage that will say: "No, no, no. I'm not doing this thing. I know what I'm doing. I know the software piece that I'm working on. I know how long it will take me to write this new feature because I wrote one just like this 30 times before. This new agile thing will make me uncomfortable."?
+
+People have that reaction. People had that reaction in the BIOS team. That requires a lot of work from the side of James and myself to guide them through it.
+
+That kind of work would be required for the whole organization, should the whole organization go through this transformation.
+
+I think james correctly pointed out that the business objective at the moment was not to rework the organization. It was to keep the business viable, which it still is. 
+
+They achieved their objective. So at the time, re-reworking the whole organization was prohibitive, in many ways.
+
+>>James: Even though it would fix the long-term problem. If you wanted to fix the strategic long-term innovation adaptability ... , you'd have to go down the path that Mitya and I were going down. But if you're just trying to stop the initial bleeding, it's a little different story.
+
+>>David: I think that's where system modeling comes in. So you can help people connect those multi-layered dots. Like how this impacts that. Right?
+
+>>James: maybe [laughs]
+
+>>David: It's too simple, if it's people's mind ...
+
+
+>>Vladimir: Many times leadership is not sure about whether one way or another is better. They tend to follow some strong voices of some of the technical leads or some managers. 
+
+Some managers saying things like: "I'm going to solve all your problems. Just give me people, and I will do this for you. Because I have qualifications. I'm an architect. I'm a technical guy. And then, forget agile."
+
+So leadership says: "Okay, this guy will solve my problems."
+
+But the question is, how do we actually deliver value? Is value visible? If the product is evolving rapidly, and delivers a lot of value, that's success. Then the leadership would say: "I want to do it the same way in that group, and this group." 
+
+But, if it doesn't happen, then the question here is: What happened? Why wouldn't the the new VP just say: "Okay we're going to continue doing this because it's going very well." Was he struggling to see the value of it?
+
+
+>>James: Obviously, yes.
+
+But, obviously not giving significant time and energy to finding out. There's not an openness to those discussions. I didn't have those discussions. There was not an opportunity to have those discussions.
+
+>>David: That's tough. That's like when Craig Larman says you don't deal with the no-no's, the people who are not willing to change. You've got to change your organization. Unless you go above them.
+
+>>James: So we can talk about structure here a little bit. You'll notice that the ideal LeSS structure is there's Head of Product, and then you've got your Product Owners, your teams, your Scrum Masters. Everybody's very flat underneath that. There are no management layers. They're not there.
+
+Then the other side if you read between the lines is...Okay if they are there, you put them in an impediment service. They're being held accountable for removing impediments, and moving the organization along. Now how do you get to that state? 
+
+You either go -- and I don't want to say demote everybody while keeping their salary the same -- but you either go and change their reporting structures and say: "Hey. Regardless of title, you're now on a team. I don't know how you feel about that?" or "You get to choose what team you're on. But you're going to be on a team!"
+
+Or, you build a parallel org and you avoid all the politics. You recruit into that parallel org, and you build up this new parallel org.
+
+Now there, the problem becomes: How do you build a bubble? The challenge is from a product perspective. If it's a brand new product, it's easy. You go do that. But if you have an existing product, that's a harder strategy to implement, to build that parallel org.
+
+One of the advantages of that parallel org is that you don't have that middle. You kind of build it like a startup from day one. What middle you do have, they know walking into the door that:
+
+A: They have to be on board with this kind of management paradigm, and this kind of structure.  
+
+and B: If they're in a management role they're probably going to be helping to remove impediments. 
+
+To make management accountable for delivery is to disempower the people doing the work. The role of management is to create the ecosystem that makes it possible for the teams to take ownership, and do the work, and deliver. But we don't want to disempower the people doing the work. 
+
+As soon as you start making management accountable for: "You better hit this scope by this date, and make sure your guys get on board.", you're basically disempowering the teams. Instead of gardening, which is what is expected of a manager in a scaled agile context -- if we're talking Nexus, if we're talking LeSS, something healthy.
+
+>>Joel: Dealing with that. How do you strike that balance? I work at a so-called startup, but it's ... We just hired an awful lot of managers into the organization. They're some of our very newest employees. Neither coach is already saying: "What are you gonna do? Hmm, get over there, and stay out of our way please." They don't like to hear that at all. 
+
+"Oh, we'll get you something to do. You can go chase down impediments for us." They don't want to hear that either. So the best I give to them is: "You and me are going to be working on creating that environment that makes all this possible."
+
+>>James: And what you really need is their boss to get on-board with the structure. Then have honest open conversations with these people that have been hired and say: "You know, if this is the structure we want ..." -- You can do system modeling. This is all the reasons we want this. -- "What is the best thing from your career management perspective? Do you want to be a member of a team? Do you want to be on an impediment service? Or, do you think that we should help you find a role outside of the company, and be supportive of your decision to do that?"
+
+It may come to that. Anything short is probably just setting yourself up for trouble.
+
+>>Joel: I'm worried about that.
+
+>>James: And, having those conversations is setting yourself up to get kicked out the door.
+
+>>Mitya: Yeah. Joel, you're absolutely right to worry. Maybe worry for yourself, but  also worry for them. They'll find themselves in unknown territory. Sounds like I've seen the same things that you have, where managers say all of a sudden -- not managers that report to me, but managers who are my peers -- "No, no, wait a second! I create task lists, and then I divide the task list, and then I follow up whether the tasks are done."
+
+If that is done somehow organically within the teams themselves, and team members themselves, what do I do? Well, you fulfill your role as a manager, you coach. I love the way you said it. You go and build the environment. I think that's what you said. 
+
+>>Vladimir: There's a certain psychological problem. The psychological problem for a manager is that the information the higher level manager gets from different places at times make them wonder what's going on. "Why those guys cannot fix all these problems? Let me try and do this. I will tell them what to do, and everything will be hunky-dory." 
+
+It is so tempting to fix it, step in, and be a hands-on manager. Tell people what to do. Keep people over a weekend and be a hero. That's a psychological problem of waterfall being on top, and agile on the bottom. 
+
+>>James: You've got to get rid of waterfall on the top.
+
+>>Vladimir: If any leader has to say when this feature will be in production, on which day, that's a waterfall mentality. So we're talking timelines for delivering certain features in production.
+
+>>James: I think the real fix here is that senior manager observes the behavior of the middle manager. When the middle manager starts to act like a traditional middle manager -- rather than: "I'm a gardener. How do I create the ecosystem?" -- the senior manager steps in and says: "I'm sorry. I think we need to have a conversation. You are not accountable for delivery. I will never hold you accountable for delivery. I will hold you accountable for creating the right ecosystem. To the extent that you violate this expectation of the role, you will be held accountable, in a negative way. To the extent that you are helping to create a positive ecosystem, and working hard -- We all make mistakes and that's fine. We'll learn from them.-- well that's great. How can I help you, and guide you in that?"
+
+So really, the problem is usually at least one level up. It's:  "Why is that manager acting the way that manager is acting?" Well, it's probably because of a problem in the thinking of the person they're reporting to.
+
+>>Joel: I don't know what you guys are up for time wise? But, I have a comment on that.
+
+And, I see there's another question that you queued up, that i've asked.
+
+I'll take whatever you guys are willing to offer.
+
+>>Samuel: Yeah. Go ahead.
+
+>>Joel: Today I had a conversation with one of the new managers I was referring to. He asked me how to help set up the Azure devops tool, so that he can see what his people are doing. He wanted to understand the work that he's being accountable for, and how it percolates through the system; so he can see his people and what they're doing.
+
+I said, I understand why you're asking that. I understand what you're trying to get here, but I have a counter proposal I'd like you to hear. I said, I'd love for you to come to our backlog refinement meetings. Because he has work that he wants to get done. But I said, come to our back refinement meetings and influence the Product Owner and team about the importance of this work. There's a place you can get work injected into the process. Then at the Sprint Review you can see the results of those requests. You're a stakeholder in this case. 
+
+Don't worry about what happens between those two points. During refinement you can check in on our planning. Come to our reviews. But, please don't micromanage your people who are on our cross-functional team. He responded pretty well to that. I think he could get where I was going with that line of conversation. [That is], to basically say we don't want you trying to monitor your people so closely, because they're part of a cross-functional team. I'm their coach and you don't have to worry about [whether] are they busy, that's no problem.
+
+He responded pretty well to that. But he said: "Well I've got goals that I need to meet. That my manager has for me." I used one of those as an example. I said: "Well, you know what, let's hear one of your goals. I share that goal with you. Another one of our peers is some sort of a manager,and he has that goal too. So, all three of us have us the same goal. So let's not call that your team's goal. That's all of our shared goal. So you aren't going to be able to monitor the delivery of your goal through your people, because it's a cross-functional goal." 
+
+It seemed to make sense to him that this crazy Srum thing that we're doing does work. It just is different than what he's familiar with. Because he's used to just being in tune with the people that report to him. He's not used to cross-functional teams where that's different.
+
+>>James: Joel. As you describe the problem I'm thinking to myself. Maybe, if you and the manager, and the Product Owner, and maybe that manager's manager got into a room and had a discussion. And, you talk through ... Obviously, we don't want to hold the manager accountable for delivery, because that disempowers the team doing the work.
+
+We all have this as a common goal, so we want to make sure that the Product Owner is prioritizing things in a way that will help us achieve these goals. Do whatever we can to see if the Product Owner has any challenges.
+
+Then maybe there's something about the value of estimates as estimates, avoiding the contract game. Maybe there's a causal loop ... How can you facilitate a discussion?
+Especially since you seem to have a manager who's somewhat open to this conversation.
+
+You're in a good place there. So maybe there's a way to get the right people in a room and talk through the conflicts. Sounds like you would come out of it with is: "Yes, we thought we had a conflict, but the truth is we were violently in agreement. We were doing things that were not in alignment with what we actually wanted, and didn't even realize it. Now we're on the same page, and we are aligned." Your problem goes away. 
+
+You might even have the senior executive say: "Well, I didn't mean for your goal to be written that way, because I realize that I put you in conflict. Let's change that. Let's make it the Product Owner's ... Let's change this in a way that is respectful of the people doing the work, is respectful of what we know about the contract game, is respectful of everything we know from agile lean theory." 
+
+Maybe that would work. Maybe it wouldn't. I don't know.
+
+>>Joel: I think I have it easy in this particular -- it's a full-time job, but it's like an engagement. A lot of openness, and I'm trying to take as much advantage of it as I can for good, as I said earlier, to win the hearts and minds of managers.
+
+To support the way that we're working. They love the idea that rather than create yet another meeting where we synchronize about these things, that we're like: "No there's a place for that. It's called backlog refinement, and planning, and review, and maybe parking lot after stand-up, or something." So there's a desire to reduce our meeting load.
+
+I have a desire to get us into a more coherent process that we're adopting, instead of a foot in LeSS, and a foot in waterfall, and a foot in Scrumerfall. This is one way to get there, to utilize the meetings that we already have on the books for better outcomes.
+
+>>James: That's great. Good insight.
+
+>>Joel: Well, it's more efficient.
+
+>>David: I really hooked onto this whole talk about goals, and conflicting goals.
+
+If you're trying to coach an organization, and you see different managers with different goals, it's time to go talk to their manager. Be like: "Hey, this is kind of destroying the system here. It's destroying our output, our throughput of value. This is what I'm seeing. What do you think about that? Do you see that having these different goals not being aligned ...? [Are] you seeing what I'm seeing? Because what I see is I've got different teams with number one priorities. They're trying to use constrained resources for their own benefit, local optimizations and all that stuff."
+
+I see it all the time. If you can identify those things and bring it to the person who made it so. I think that's a great start, to start dismantling some of that dysfunction.
+
+>>Vladimir: David, you hit the nail on the head by talking about goals. Because, the conflict of goals, and especially the goals that we don't know about. Like, a hidden agenda with certain people in the team is driving the decisions. Like the new VP came. It is very possible that the VP was convinced by some other people, or maybe by his previous experience, that things need to be done differently. There was no other evidence or strong voice the opposite way.
+
+>>James: I just don't think we're going to squeeze a lot more out of that conversation. I think we've squeezed what little insight that I have to give, that Mitya has to give. David. Do you have us a new nasty question? Something meaty.
+
+>>David: This one's from Joel. I put it in the chat a little while ago. He wanted to explore the adoption versus transformation spectrum. It sounded kind of abrupt from what he heard you say. Was it abrupt? Was it gradual?
+
+>>James: So this is kind of easy. So you're flying an airplane, and you have no instruments. You don't know what the RPM is. You don't know what your air speed is. You don't know what your angle of attack is. You don't know anything. You just know you've got a plane, you've got a stick, and that's it. You don't even know what your ground speed is. You don't know anything. And the question is: How do you improve?
+
+Now you go and put a bunch of instrumentation on [the plane]. You ask them: So how much better are you flying the plane now, than you were? [The pilot responds:] I don't know. I didn't have any instrumentation before.
+
+The process of doing that instrumentation is drastic. One day it didn't have all of this instrument panel, the next day it did. The process of slowly learning to fly the plane better happens over time.
+
+The analogy is obvious here. Before we formed the teams we didn't know any of this stuff.  We formed the teams, that structural change of: "We were not running in a LeSS-like structure yesterday, and today we are." 
+
+That change was overnight. Not unlike David Marquette as he talks about in Turn the Ship Around. The rule changes overnight. The process of learning and growing through inspection, and adaption, and improving things, and learning -- Of we should be moving farther up the stack, that we should be cross-training more. All of this stuff happened slowly, and organically.
+
+But putting the instrumentation panel in place, that happened effectively overnight. We trained, and we launched them.
+
+>>Joel: How many teams did you did you involved in that overnight change?
+
+>>James: Three, and then we rolled in two more within a few months.
+
+>>Joel: Okay. I thought it was more than that.
+
+>>James: No, because there's thousands of people, but this is effectively ... If you did this from LeSS, and you were doing a formal LeSS-Huge of the whole darn thing -- this definitely fits in the LeSS-Huge -- you would do it one requirement area at a time. That's even in the LeSS rules. So you could argue that this BIOS was the first requirement area. Except it was really an extended component team, and we were only working our way slowly to stretch up to the surface. But even if you had done that initially, you would have a single requirement area. That one requirement area was done instantly. 
+
+We even used the hardware generation as one of the dimensions of the component boundary, of the LeSS [component] group boundary if you will. A very odd thing that we did, clever, creative, served its purpose.  You might not always have that opportunity. The opportunity existed because of some really bad code management practices in the past, copy-paste reuse. But we leveraged that past bad behavior to our benefit as an adoption boundary.
+
+>>David: You are talking about the metrics on the airplane. Were there any metrics that you set out with? That we're going to improve this, this, and this. I'll show you after a few months, they'll improve. Was there anything like that, or was it kind of a leap?
+
+>>James: Nothing other than the standard scrumminess. Are our retrospectives creating actionable things that we take care of in the next Sprint? Do we have a well-refined product backlog where we know what we have?
+
+We did track velocity, but we didn't beat people up with it. We certainly were forecasting. Are we going to get down to this MVP line that we need to be at, in order to take the marketing train ride with Intel that Mitya was discussing? People were certainly focusing on that. 
+
+>>David: What about feature cycle time, or release cycle time? Any kind of speed to market?
+
+>>James: Not in that way. Now what's interesting, if you talk about the diagnostics, for the diagnostics we were able to do cost of delay per PBI. So every PBI added a new diagnostic capability, and there were enough analytics ... This thing is deployed in the field to a large enough number of customers. 
+
+The people that are in the hands-on high-tech customer service, these are like: "Oh you need us on on a corporate jet? We'll fly a technician to you? Whatever you need. We will get you back up." Your trading system, or whatever, will be up instantly. This is not: "I'm sorry, if you don't like this please hit five. Would you like us to call you back slowly?" This is gold-plated kind of support, which is what you expect when you write a multi-million dollar check for these kinds of products.
+
+But [back to] cost of delay for diagnostics. There were groups that had done the analytics, that the diagnostics team was actively working with. They could say, we get X number of units returned per month because of problems with these memory chips. We get them back in, and we find out that the problem is as a ghost. It's not real. It wasn't truly failed. Or, we have so many problems with this network controller. We get a lot of false positives where we think there's a problem and there isn't a problem. 
+
+After the customer has a problem two or three times, and remember they're paying amazing amounts of money for these products, we say: "Don't worry about it. We will ship you a whole thing." So we'll ship you several million dollars of brand new equipment, because we can't seem to diagnose this thing for you in the field. We're going to keep you happy. 
+
+So they could say: ability to diagnose these memory chips and detect this kind of failure is worth this dollar amount per month, ability to detect this kind of problem in the network card is worth this much money per month for every month that we don't have a way to better diagnose it, this other kind of problem in the network card is worth this amount of money. We could take the Product Backlog, and we could rank it by what is bleeding the most. What is crazy is that the amount of money that was bled in one month was orders of magnitude more than the cost of the team, and the problem had still not been addressed for years.
+
+Now BIOS is a different story, because it was down in the weeds. As Mitya was saying ... To some extent: Does it come on? Does the green light come on? If it is, then does it connect? Then it's good. 
+
+You guys do six months, nine months, of really hard work across a large number of teams, across a large number of people, you know 40 or 50 people, and all we really care about in the end is that it works the same way that it worked in the previous hardware. It still comes on, it still boots, it still connects to everything it's supposed to, and it has all the same functionality that the old stuff had. Oh, by the way, we added some new stuff. But the new stuff is small in comparison.
+
+Okay, metric. That was the answer.
+
+>>David: That was really good. Thank you.
+
+>>Mitya: Question from Jeff. I've just seen the chat. Did the project eventually get completed, or did the whole product line fail? 
+
+The project did complete, and the product line still exists. It didn't fail.
+
+Although I don't have any information on whether they're doing any kind of Scrum, or complete waterfall.
+
+>>James: We have strong suspicions. [laughs]
+
+>>David: Alright, any other questions before we wrap up? We can probably do one more.
+
+>Vladimir: I wanted to ask specifically, what measurements were used to determine success and progress as well? Of course many times people who have heard about Scrum and agile, they talk about velocity. We know how dangerous is that, to measure velocity as a [measure of] progress. This is my problem as well. I really would like to shift from velocity to something else. I'm hearing here monetary values, like dollars, that's great as a value. So what else in your adoption of LeSS and Scrum did you use to justify the new approach, to actually show the value of a new approach, and understanding if there is good progress towards success?
+
+>>James: Mitya. Can you can you go after this one? 
+
+It just felt better. We had more visibility. We had less problems. We didn't have big bug lists. Can you give something more concrete here?
+
+So the question is, what what metrics did we have? How did we know that things were getting better?
+
+>>Mitya:To me there are two parts that are important to measure. One is the product delivery better? And, is people's experience better?
+
+We don't have other people from the team to speak for that, but I think that the people's experience was better, measurably. A hundred percent? Not 100%. There's  maybe 20% at least of the team,15 or 20 percent, that did not have a great experience with Scrum. But others had a much better experience. Others who maybe were not able to develop themselves, even though they were leaders. I'm thinking of one example specifically. This person was a leader in her technical field, but she was not able to be seen by everybody as a leader. It was immediately clear that she just organically became ... The team that she was part of elected her to be the, kind of, team lead of the scrum team. She had an amazing role in making a lot of things work better. 
+
+So that part is measurable, and while not a hundred percent better, it is better in many people. The delivery ... So we we did launch the product with Intel and did not delay due to any BIOS issues, or BIOS MVP, or feature locking. So that measurably succeeded.
+
+>>James: It would have showed up in the next generation. It would have shown up big time. 
+
+>>Mitya: Yeah.
+
+>>James: The next hardware generation ... we would have taken a new chipset and everything would be in the plugable layer. We would run a bunch of tests. We wouldn't have as much tests as we needed, and we'd have to focus on getting more of them. There'd still be things that we ironed out. 
+
+I bet with a new chipset -- had those same teams been left alone and we not done massive layoffs and all of this -- I bet they could have handled the new generation of chipset in half the time. Mitya you can tell them.
+
+>>Mitya: Sure, half the time. Maybe even a little bit better.
+
+>>James: And the one after that would have been even faster. Had we kept going in the direction we were going, this ability to take a new chipset like: "Oh yeah. We're done with that. What's next?"
+
+>>Mitya: We don't have the data, because I also left the company. I left the company I think three or four months after that particular product was launched.
+
+That's almost not enough time in that business to know the bugs. To really know you have to wait six or eight months to see the large deployments, to see the defects from the field, and to see how you did in terms of finding defects without having bug reports. Finding defects, and fixing defects.
+
+One thing. In automation we could have done better. We tried to do a lot of things in automation, but that firmware BIOS is very difficult to automate. Not all firmware is difficult to automate, some is very automatable, but particularly x86, the compute BIOS, is hard. It would be interesting to know if we missed anything, because we're not shipping the code complete product to QA so they find bugs. Instead we layer the features and test as we go, and automate as much as possible. Unfortunately we don't have the data to say how we did from a quality point of view. But I haven't heard anything terrible.
+
+>>James: Qualitatively we know it was better. Is that fair?
+
+>>Mitya: Yeah, yeah.
+
+>>David: Vlad just got a quick follow-up here: Was there anything other than bugs and velocity used as a measurement?
+
+>>Vladimir: routinely, every sprint.
+
+>>James: We didn't track bugs. We just squashed them.
+
+Where there were bugs that would show up, they were like: "Oh #@$!. We found a bug. We didn't know it. We'll deal with it in the next sprint." More or less we stopped. We didn't track massive bug lists. We didn't make bugs. An engineer would do some dev, the tester would immediately hit it. Often times, they were swapping roles to some extent. Certainly the engineers were being cross-trained by the testers, and the testers were somewhat being cross-trained by the software engineers.
+
+We did not come in here and do some: "Let's generate all our KPIs." We said: "Let's get transparency. Let's know where we're going. Let's get visibility into what's going on with a single consolidated Product Backlog. Let's have retrospectives that work and start to to improve things from those retrospectives. Sadly, let's not crank our quality standard, our Definition of Done, to maximum so fast that it forces us to miss that Intel release."
+
+Although we would love to have had test driven development at the BIOS level for everything, the truth is that it took a tremendous amount of work just to figure out how to do test-first development. We did have a guy who was working on that, and we did figure out how to do it. We had a kind of prototype working. That was towards the end of the effort. Most of the effort was in that higher level automation, but we were working down the stack, we were working down the test pyramid. We were going after the problem slowly. 
+
+If we had stopped and said: "We're not going to release this until it's all perfect. And by the way, we're going to take years, and years, and years of changes that have been copy-pasted from one branch to the next, to the next, to the next, and we're going to migrate all of that into the plugable layer. And we're going to do it with perfect unit testing as we do it. We're going to run static code analysis on the code, and get that static code analysis perfect."
+
+If we had done it as well as one would hope, we would have missed the Intel date. So what we had to do is: "Let's make it as good as we can afford to make it. Let's stop doing the copy-paste. Let's start using the plugable layer. Let's bring QA into the team. Let's start automating as much as we can."
+
+Because the formal release management is sluggish, and problematic, and outside of our control, we put in our own CI tooling. Anytime we checked in, it ran the build, and it ran the tests that we had available. We brought that into the scope of what the teams could do for themselves, instead of relying on external parties to do. 
+
+We did as much improvement as we could, while not going as far as I would like it to go. That was a call that Mitya as a Fake Product Owner -- fake because he wasn't really in product management, because it wasn't a true requirement area, he was really a component owner -- had to make. That delicate judgment there. Less than ideal, but we were rapidly getting better.
+
+I really think that had time gone on, we could have improved that automation even more, improved the engineering practices even more, cross-trained more. We would have gone up through all the layers more, and had less problems of external dependencies because the team was doing all that work themselves. We would have eventually had spare capacity and said: "Ah, let's start chewing into other functionality that has nothing to do with BIOS." Then of course, that software VP would have been even more challenged to politically defend what was going on. The fact that the hardware group is doing all kinds of amazing stuff in a very difficult environment, and the quality that's being produced... [While] the forecast accuracy of what's being produced up in the software middleware stuff is in no way at the same level as what these guys down in the deep dark esoteric component are starting to achieve.
+
+I want to be sensitive to Mitya's time. It sounds like you're starting to get pulled.
+
+>>David: We're at about two hours and 40 minutes here.
+
+So is that okay if we call it here guys and gals? 
+
+That was a great, great, meetup. Really appreciate James and Mitya joining us today.
