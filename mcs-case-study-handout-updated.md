@@ -19,10 +19,12 @@ If you are use the closed caption functionality within YouTube, make sure to sel
 
 A copy of the video can also be found in the Twin Cities LeSS Meetup YouTube channel.
 
+
 # Update to Original Introduction
 Viktor Grigic and Bas Vodde have both green lighted the content at this point and handed me off to Craig Larman for the final edit. Craig and I are currently a little over half-way through the 70 page document, having made multiple passes over the first half of the text.
 
 The diagrams and captions extracted below have been revised to include the updates made so far. Naming and text content is a bit more precise than what you will find in the content delivered at the Twin Cities LeSS Meetup.
+
 
 # Original Introduction
 
@@ -54,24 +56,27 @@ Email: james at agilecarpentry.com\
 Website: [https://agilecarpentry.com](https://agilecarpentry.com)\
 Book: [https://forgingchange.com](https://forgingchange.com)
 
+
 # Biographies
 
 **James Carpenter**  is an experienced independent agile transformation coach, trainer, software engineer, and author who grew up on a Texas dairy farm. His coaching is grounded by the many years he spent as a hands-on software engineer and manager, along with a great deal of academic study, and in-the-trenches transformation work. He is focused on large LeSS and LeSS Huge organizational transformations. His book "Forging Change: Agile Restructuring in Practice" is available in both e-book and print formats from most bookstores including Amazon.
 
 **Mitya (pseudonym)** is an extremely talented senior engineering manager. He has extensive hands-on experience as both a hardware and firmware engineer. He was a pivotal director level manager involved in the LeSS-Huge adoption being discussed. More concrete and glowing details have been omitted in an effort to protect the anonymity of the end client being discussed.
 
+
 # Product Context
 (Corporate policies restrict the usage of the actual company name. All names of individuals in this case study are also pseudo names.)
 
 ![Actual MCS Product Boundary]({{site.baseurl}}/assets/images/mcs_case_study/Actual_MCS_PB_WithTitle.png)
-**Figure 1:** * From the perspective of the Product Management group, Nakashima divisional boundaries, and external customers the natural product boundary includes the entire system of network, compute, and storage capability.*
+**Figure 1:**  *From the perspective of the Product Management group, Nakashima divisional boundaries, and external customers the natural product boundary includes the entire system of network, compute, and storage capability.*
 
 *Even broader product boundaries are possible but are not that practical as the coupling between other systems is sufficiently standardized to be interchangeable with data center hardware and software from a variety of vendors. These other systems do play a minor role in the larger scale testing scopes, but they are not the focus of Modular Compute System testing.*
+
 
 # LeSS Adoption Timeline
 
 ![MCS Agile Adoption Timeline]({{site.baseurl}}/assets/images/mcs_case_study/timelineGraphFakeMonths.png)
-**Figure 2:** * With the various overlapping adoption efforts and managerial changes it is easy to lose track of the overall story arch. Hopefully, this timeline will help you keep track.*
+**Figure 2:** *With the various overlapping adoption efforts and managerial changes it is easy to lose track of the overall story arch. Hopefully, this timeline will help you keep track.*
 
 
 # Diagnostic Showcase Team
@@ -90,10 +95,12 @@ Book: [https://forgingchange.com](https://forgingchange.com)
 ![Diagnostics Team in Team Room]({{site.baseurl}}/assets/images/mcs_case_study/diagnosticsTeamInRoom.jpg)
 **Figure 5:** *Here is a photo of the diagnostics Scrum development team. Pairing and swarming became more common over time, though full mob programming never quite caught on. The team had both the test and development talent needed to deliver a potentially shippable increment at the end of each Sprint. The development team used a physical task board. The meeting room we took over was a bit smaller than we would have liked.*
 
+
 ## Diagnostics Definition of Done After Several Sprints
 
 ![Diagnostics Definition of Done After Several Sprints]({{site.baseurl}}/assets/images/mcs_case_study/diagnosticsDefinitionOfDoneAfterSeveralSprints_9_2.jpg)
 **Figure 6:** *The Definition of Done used by the diagnostics team evolved to what you see here after a few Sprints. The stand-alone portion of the Increment was provided to the field service division by the end of each Sprint. Providing the MCS integrated diagnostics capabilities to the end customer required waiting for a release of the waterfall developed MCS product. This example Definition of Done along with additional context can be found in Table 9.2 of [Forging Change](http://forgingchange.com).*
+
 
 ## Slowly Transitioning from Component Teams
 
@@ -101,6 +108,7 @@ Book: [https://forgingchange.com](https://forgingchange.com)
 **Figure 7:** *You will find this diagram as Figure 4.11 in [Large Scale Scrum: More with LeSS](http://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710) as part of the Transitioning to Feature Teams guide. You will notice Feature Team Red in its newly formed Requirement Area consumes from the same Product Backlog as do all the component teams. Although this loosely correlates to the diagnostic team situation, the day to day reality was slightly different.*  
 
 *The diagnostic team was a real self-managing team free from the negative direct effects of the Contract Game. In contrast, most of the other MCS teams were subject to the Contract Game within a waterfall delivery context. The diagnostic team's organizational reporting relationships were never changed so as to intersect the organizational chart above the level at which the Contract Game was being played for the waterfall teams. This failure eventually resulted in the erosion of the supportive context required for the diagnostic team to remain successful. This failure became increasingly apparent after the departure of the original engineering SVP/GM.*
+
 
 # BIOS LeSS-Like Adoption Context
 
