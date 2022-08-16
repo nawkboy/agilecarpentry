@@ -27,9 +27,11 @@ Craig has now turned me back over to Bas, who will be working with me to wrap up
 
 The diagrams and captions extracted below have been revised to reflect the updates made since the original Twin Cities LeSS Meetup presentation.
 
-Although not yet officially published, the full case study is now linked on my [LeSS profile page](https://less.works/profiles/james-carpenter) under "Case Studies Owned". It is likely Bas will catch and correct a few minor errors when he has a chance to read through the now completed heavy edits. Somewhere along the line this case study will show up show up on the [LeSS home page](https://less.works/). The extended title will likely be "Large Server Hardware Company: Extended component teams evolving towards feature teams". The URL might change a bit, so I recommend navigating to it via my profile page for now. 
+Although not yet officially published, the full case study is now linked on my [LeSS profile page](https://less.works/profiles/james-carpenter) under "Case Studies Owned". It is likely Bas will catch and correct a few minor errors when he has a chance to read through the now completed heavy edits. Somewhere along the line this case study will show up on the [LeSS home page](https://less.works/). The extended title will likely be "Large Server Hardware Company: Extended component teams evolving towards feature teams".
 
-Thanks for your interest. Mitya and I look forward to all your great questions.
+I recommend navigating to the quasi-hidden case study via my LeSS profile page for now since the case study URL will likely change.
+
+Thank you for your interest. Mitya and I look forward to all your great questions.
 
 # Original Introduction
 
