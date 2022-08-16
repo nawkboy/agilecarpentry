@@ -21,10 +21,15 @@ A copy of the video can also be found in the Twin Cities LeSS Meetup YouTube cha
 
 
 # Update to Original Introduction
-Viktor Grigic and Bas Vodde have both green lighted the content at this point and handed me off to Craig Larman for the final edit. Craig and I are currently a little over half-way through the 70 page document, having made multiple passes over the first half of the text.
+After months of work, Craig Larman and I have completed the case study edit. Thanks to Viktor's guidance on the first edit, Craig's edit went relatively smoothly. The overall process has been extremely helpful in refining the text as well as my own depth and precision of understanding.
 
-The diagrams and captions extracted below have been revised to include the updates made so far. Naming and text content is a bit more precise than what you will find in the content delivered at the Twin Cities LeSS Meetup.
+Craig has now turned me back over to Bas, who will be working with me to wrap up the last bit of the LeSS trainer candidate process.
 
+The diagrams and captions extracted below have been revised to reflect the updates made since the original Twin Cities LeSS Meetup presentation.
+
+Although not yet officially published, the full case study is now linked on my [LeSS profile page](https://less.works/profiles/james-carpenter) under "Case Studies Owned". It is likely Bas will catch and correct a few minor errors when he has a chance to read through the now completed heavy edits. Somewhere along the line this case study will show up show up on the [LeSS home page](https://less.works/). The extended title will likely be "Large Server Hardware Company: Extended component teams evolving towards feature teams". The URL might change a bit, so I recommend navigating to it via my profile page for now. 
+
+Thanks for your interest. Mitya and I look forward to all your great questions.
 
 # Original Introduction
 
