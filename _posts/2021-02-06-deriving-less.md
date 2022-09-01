@@ -19,7 +19,7 @@ People who have spent any time in a classroom setting with me will recognize the
 
 We will start with three completely independent Scrum teams working on three so-called products, components, or 'products'. We will assume these are acutally separate parts of a single product when viewed from a customer perspective.
 
-See the  Guide: Define Your Product in [Large-Scale Scrum](http://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710) for more insight on product definition.
+See _Guide: Define Your Product_ in [Large-Scale Scrum](http://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710) for more insight on product definition.
 
 ![LeSS Step 0]({{site.baseurl}}/assets/images/deriving-less/LeSS_Step_0-WithTitle.png)
 
