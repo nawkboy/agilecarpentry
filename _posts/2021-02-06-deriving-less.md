@@ -17,7 +17,7 @@ People who have spent any time in a classroom setting with me will recognize the
 
 # Deriving LeSS: Step 0: Multiple Independent Scrum Teams
 
-We will start with three completely independent Scrum teams working on three so-called products, components, or 'products'. We will assume these are actually separate parts of a single product when viewed from a customer perspective.
+We will start with three completely independent Scrum teams working on three so-called 'products', or components. We will assume these are actually separate parts of a single product when viewed from a customer perspective.
 
 See _Guide: Define Your Product_ in [Large-Scale Scrum](http://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710) for more insight on product definition.
 
