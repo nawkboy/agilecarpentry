@@ -1,3 +1,8 @@
+- title: Where would you like a public Certified LeSS Practitioner course?
+  category: LeSS
+  image: /assets/images/portfolio/clp-location-survey-portfolio.png
+  link: /blog/clp-location-survey/
+
 - title: LeSS Case Study Formally Published
   category: LeSS
   image: /assets/images/mcs_case_study_updated/timelineGraphFakeMonths.png
@@ -8,10 +13,10 @@
   image: /assets/images/portfolio/deriving-less-article-header.png
   link: /blog/deriving-less/
 
-- title: Examining LeSS Huge
-  category: LeSS
-  image: /assets/images/portfolio/examining-less-huge-article-header.png
-  link: /blog/examining-less-huge/
+#- title: Examining LeSS Huge
+#  category: LeSS
+#  image: /assets/images/portfolio/examining-less-huge-article-header.png
+#  link: /blog/examining-less-huge/
 
 - title: Using Structure to Mold Culture
   category: Book
