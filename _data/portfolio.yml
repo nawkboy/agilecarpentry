@@ -1,3 +1,8 @@
+- title: LeSS Practitioner Course Now In Austin!
+  category: LeSS
+  image: /assets/images/portfolio/austin-less-Image-ad.png
+  link: http://austinless.com/
+
 - title: Where would you like a public Certified LeSS Practitioner course?
   category: LeSS
   image: /assets/images/portfolio/clp-location-survey-portfolio.png
@@ -29,14 +34,8 @@
   link: /blog/mcs-case-study-presentation/
 
 
-- title: Forging Change Synopsis
-  category: Book
-# image: /assets/images/portfolio/forging-change-front-cover.jpg
-# image: /assets/images/portfolio/forging-change-front-cover-with-gray-around.jpg
-  image: /assets/images/portfolio/forging-change-front-cover-with-gray-on-left-and-right.jpg
-  link: /forgingchange/Synopsis/
+#- title: Forging Change Synopsis
+#  category: Book
+#  image: /assets/images/portfolio/forging-change-front-cover-with-gray-on-left-and-right.jpg
+#  link: /forgingchange/Synopsis/
 
-#- title: Apartment
-#  category: Photography
-#  image: /assets/images/portfolio/erol-ahmed-255854-unsplash.jpg
-#  link: /portfolio/
