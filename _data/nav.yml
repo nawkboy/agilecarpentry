@@ -1,6 +1,9 @@
 - title: Home
   link: '/'
   
+- title: Courses
+  link: 'https://less.works/course_filters/jamesandgene-34'
+
 - title: About
   link: '/about/'
 
