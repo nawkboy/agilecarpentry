@@ -33,6 +33,8 @@
   dropdown:
     - title: Testimonials
       link: /testimonials/
+    - title: Class Setup
+      link: /class_setup/
     - title: Search
       link: /search/
 
