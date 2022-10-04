@@ -21,7 +21,7 @@ All the details including the huge amount of contiguous smooth wall space requir
 **Figure 1:** _Usage of WizardWall in a larger 2,144 square foot meeting room in a Westin hotel in California.  Some of the whiteboards have been created using multiple rolls of Wizard Wall to create whiteboards wider than 13.3 feet._
 
 ![WizardWall In Use]({{site.baseurl}}/assets/images/class_setup/WizardWallInUse.png "WizardWall In Use")
-**Figure 2:** _Notice how the texture of the wall influences how smooth or rough the writting surface is._
+**Figure 2:** _Notice how the texture of the wall influences how smooth or rough the writing surface is._
 
 ![WizardWall In Use With Tape]({{site.baseurl}}/assets/images/class_setup/WizardWallInUseWithTape.png "WizardWall In Use With Tape")
 **Figure 3:** _Blue 3M painter’s masking tape on the sides and corners is frequently required._
@@ -39,7 +39,7 @@ All the details including the huge amount of contiguous smooth wall space requir
 * Very easy to transport
   + Several rolls will easily fit into a suitcase.
 
-* Relatively good writting surface if placed on a smooth wall
+* Relatively good writing surface if placed on a smooth wall
   + Most sheetrock walls work well.
   + Convention hotel moveable partition walls with a smoother surface usually work, but these are rare.
 

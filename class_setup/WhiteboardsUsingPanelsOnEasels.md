@@ -9,7 +9,7 @@ layout: book
 
 Each table of participants in a system modeling heavy version of a Certified LeSS Practitioner course require far more whiteboard space than is typically available in a conference room. A variety of creative solutions exist for facilitating the required whiteboard space.
 
-If [WizardWall based whiteboards]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/) are not a viable solution, inexpensive dry-erase friendly panels available from your local lumberyard can be an excellent choice. As long as you purchase the correct panels, the writting surface will be far superior to what is possible with WizardWall.
+If [WizardWall based whiteboards]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/) are not a viable solution, inexpensive dry-erase friendly panels available from your local lumberyard can be an excellent choice. As long as you purchase the correct panels, the writing surface will be far superior to what is possible with WizardWall.
 
 The main downsides to panel based temporary whiteboards are:
 * additional logistical burden
@@ -253,7 +253,7 @@ DPI sells a small sample pack of their different panels for only a couple dollar
 Website: [https://www.decpanels.com/](https://www.decpanels.com/)
 
 Cindy Prahl
-* Inside sales for Menards, VMO for Lowes, Do It Best
+* One of DPI's Inside sales managers for Menards, the VMO for Lowe's, and for Do It Best
 * Direct Line: 419-720-0953
 * Main DPI Number: 419-535-5921
 
