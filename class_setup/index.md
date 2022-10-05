@@ -32,7 +32,7 @@ Agile Carpentry is able to help with some of the hosting responsibilities if des
 
 # Leveraging Agile Carpentry Infrastructure
 
-Agile Carpentry has done a lot of research and preparation to make it possible to deliver public training anywhere on the globe, while minimizing the fees paid to conference hotel venues. The same preparation and equipment Agile Carpentry has designed for economically facilitating public training, can also be used to make it easier for a client to host a private course on their own property or at a nearby conference hotel. 
+Agile Carpentry has done a lot of research and preparation to make it possible to deliver public training anywhere on the globe, while minimizing the fees paid to conference hotel venues. The same preparation and equipment Agile Carpentry has designed for economically facilitating public training can also be used to make it easier for a client to host a private course on their own property, or at a nearby facility. 
 
 The additional costs incurred by Agile Carpentry when providing logistical support will need to be passed onto the client, yet that is often less expensive and more convenient for the client than the alternatives.
 
@@ -57,28 +57,19 @@ Notes:
 
 ## Agile Carpentry Responsibilities
 
-Included:
 * 3-Days of Certified LeSS Practitioner instruction and associated certifications
 * Logistical guidance to help ensure the course runs smoothly
-* Providing printed course pack and related materials. 
-
-Excluded:
-* Basic supplies such as pens, dry-erase markers, and the like
-* Any WizardWall whiteboards or other alternative massive whiteboard solutions
-* Projector and screen
-* PA system with wireless microphone
-* Facilities rental
-
+* Providing printed course pack and related specialized materials. (Basic supplies such as pens, and dry-erase markers are host responsibilities.)
 
 ## Host Responsibilities: General
 
-* Providing appropriate event space meeting all instructor requirements.
-* Ensuring appropriate food and beverage service is provided for all 3 days of the course for both students and instructor.
+* Providing appropriate event space meeting all instructor requirements
+* Ensuring appropriate food and beverage service is provided for all 3 days of the course for both students and instructor
 * Reimbursement of instructor's travel-related expenses
 * Ensuring an effective mix of participants which includes a combination of:
   + senior hands-on engineers
   + engineering management
-  + business side management with a product focus. 
+  + business-side management with a product focus. 
 
 Note: A carefully selected mix of participants will result in greatly improved learning outcomes, and a greater chance of creating the alignment needed to act on what is learned. Please consult with Agile Carpentry for guidance in creating an ideal participant mix.
 
@@ -107,7 +98,7 @@ Note: A carefully selected mix of participants will result in greatly improved l
 ## Host Responsibility: Per Participant Table Supplies
 
 * Dry-erase markers in several colors
-* Black felt tip markers (Sharpies) for writing on Post-It notes and index cards
+* Black felt tip markers for writing on Post-It notes and index cards (e.g.: Sharpies)
 * Pens for note taking for each participant
 * Variety of Post-It Notes for each participant table
 * Roll of [ScotchBlue painter's tape](https://www.amazon.com/gp/product/B004CZPL4E)
