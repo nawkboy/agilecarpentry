@@ -59,7 +59,7 @@ Notes:
 
 * 3-Days of Certified LeSS Practitioner instruction and associated certifications
 * Logistical guidance to help ensure the course runs smoothly
-* Providing printed course pack and related specialized materials. (Basic supplies such as pens, and dry-erase markers are host responsibilities.)
+* Providing printed course pack and related specialized materials (Basic supplies such as pens, and dry-erase markers are host responsibilities.)
 
 ## Host Responsibilities: General
 
