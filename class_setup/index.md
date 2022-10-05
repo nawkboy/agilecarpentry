@@ -51,7 +51,7 @@ Services Available:
 
 Notes:
 * Outside of the United States, only some of this additional support is practical.
-* In some situations the equipment kits are fully designed in preparation for the anticipated need, but not yet assembled. In such situations manufacturing ready 3D foam designs, complete parts lists with pricing, comprehensive weight calculations, size margin calculations, and all shipping logistics have been accounted for. The acquisition lead time is generally less than a week or two.
+* In some situations the equipment kits are fully designed in preparation for the anticipated need, but not yet assembled. In such situations manufacturing ready 3D foam designs, complete parts lists with pricing, weight calculations, size calculations, and all shipping logistics have been accounted for. The acquisition lead time is generally less than a week or two.
 
 # Typical Private Course Responsibility Boundaries
 
