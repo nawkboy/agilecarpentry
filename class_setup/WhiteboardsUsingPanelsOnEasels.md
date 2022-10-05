@@ -104,7 +104,7 @@ For example, with private training it could make sense to conduct off-site train
 
 # Combine With Other Whiteboard Solutions
 
-Considering using more floor space efficient WizardWall based temporary whiteboards where possible, and only using dry-erase panels on easels for the rest. This will help make setup and tear-down faster in time critical situations.
+Consider using more floor space efficient WizardWall based temporary whiteboards where possible, and only using dry-erase panels on easels for the rest. This will help make setup and tear-down faster in time critical situations.
 
 In a private training context using company event space, it is usually preferable to setup the training space a day or two ahead of the training event. In this situation, assuming WizardWall alone won't work, it may be preferable to use dry-erase panels for all temporary whiteboards. The panels provide a better dry-erase surface, and are not significantly more expensive than WizardWall. If you have storage space for the panels, you can even store them afterwards for when you need them again. If you decide to adopt LeSS you are likely to frequently need a large amount of whiteboard space for effective multi-team refinement meetings anyway.
 
