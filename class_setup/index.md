@@ -38,18 +38,20 @@ The additional costs incurred by Agile Carpentry when providing logistical suppo
 
 Within the United States, Agile Carpentry can provide the following at additional cost:
 
-Durable Equipment Available
+Durable Equipment Available:
 * PA system in a flight case
 * Projector in a flight case
 * Projector screen in a flight case
 * Easels for whiteboard panels in a flight case
 
-Services Available
-* Have DPI Frost White dry-erase panels and associated materials drop shipped to a client location
-* Assist in locating and booking off-site meeting room space and associated catering services
+Services Available:
+* Arrange to have DPI Frost White dry-erase panels and associated materials drop shipped to a client location
+* Assist in the location, booking, and costing calculations of off-site meeting room space and associated catering services
 * Provide kits containing various office supplies required by the training
 
-Outside of the United States, only some of this additional support is possible.
+Notes:
+* Outside of the United States, only some of this additional support is practical.
+* In some situations the equipment kits are fully designed in preparation for the anticipated need, but not yet assembled. In such situations manufacturing ready 3D foam designs, complete parts lists with pricing, comprehensive weight calculations, size margin calculations, and all shipping logistics have been accounted for. The acquisition lead time is generally less than a week or two.
 
 # Typical Private Course Responsibility Boundaries
 
