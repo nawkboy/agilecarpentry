@@ -40,7 +40,7 @@ All the details including the huge amount of contiguous smooth wall space requir
   + Several rolls will easily fit into a suitcase.
 
 * Relatively good writing surface if placed on a smooth wall
-  + Most sheetrock walls work well.
+  + Most sheet-rock walls work well.
   + Convention hotel moveable partition walls with a smoother surface usually work, but these are rare.
 
 * Doesn't consume floor space as other solutions do.
@@ -53,7 +53,7 @@ All the details including the huge amount of contiguous smooth wall space requir
   + Hotel sales persons are frequently overly concerned about allowing WizardWall on their walls. A sample sheet sometimes helps with this.
 
 * Not reusable
-  + WizardWall claims it is reusable, don't believe them. It is repositionable, but don't expect it to continue to stick well after a few days.
+  + WizardWall claims it is reusable, don't believe them. It is reposition-able, but don't expect it to continue to stick well after a few days.
 
 * Conference rooms which provide the greatest amount of WizardWall friendly wall surface area for the least amount of floor surface area tend to be windowless caves.
 
@@ -87,7 +87,7 @@ It is important to remember food catering services typically need at least one t
 
 # Combine With Other Whiteboard Solutions
 
-If you don't have enough smooth continguous wall space to satisfy the needs of every participant table, consider combining WizardWall based whiteboards with other temporary whiteboard solutions.
+If you don't have enough smooth contiguous wall space to satisfy the needs of every participant table, consider combining WizardWall based whiteboards with other temporary whiteboard solutions.
 
 # Ordering Links
 

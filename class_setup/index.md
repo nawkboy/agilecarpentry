@@ -23,16 +23,16 @@ A few possible solutions for temporary whiteboards include:
 
 The remainder of the hosting requirements are described below, and are far less exotic than the massive whiteboard requirement.
 
-# Responsiblity Boundaries Are Negotiable
+# Responsibility Boundaries Are Negotiable
 
-For the sake of clarity, the lists below are written from the perspective of a private course in which the client is performing all hosting responsibilities. In this scenario the only formal responsiblity of the instructor is to provide course specific printed materials and to show up and teach the course. 
+For the sake of clarity, the lists below are written from the perspective of a private course in which the client is performing all hosting responsibilities. In this scenario the only formal responsibility of the instructor is to provide course specific printed materials and to show up and teach the course. 
 
 Agile Carpentry is able to help with some of the hosting responsibilities if desired, especially within the United States. However we collaboratively achieve it, the hosting requirements must be met and the costs of doing so must be passed onto the client in some way. By achieving this, we will have set the stage for delivering a great participant experience.
 
 
 # Leveraging Agile Carpentry Infrastructure
 
-Agile Carpentry has done a lot of research and preparation to make it possible to deliver public training anywhere on the globe, while minimizing the fees paid to conference hotel venues. The same preparation and equipment Agile Carpentry has designed for economically faciliating public training, can also be used to make it easier for a client to host a private course on their own property or at a nearby conference hotel. 
+Agile Carpentry has done a lot of research and preparation to make it possible to deliver public training anywhere on the globe, while minimizing the fees paid to conference hotel venues. The same preparation and equipment Agile Carpentry has designed for economically facilitating public training, can also be used to make it easier for a client to host a private course on their own property or at a nearby conference hotel. 
 
 The additional costs incurred by Agile Carpentry when providing logistical support will need to be passed onto the client, yet that is often less expensive and more convenient for the client than the alternatives.
 
@@ -65,7 +65,7 @@ Excluded:
 * Any WizardWall whiteboards or other alternative massive whiteboard solutions
 * Projector and screen
 * PA system with wireless microphone
-* Facilites rental
+* Facilities rental
 
 
 ## Host Responsibilities: General
@@ -105,7 +105,7 @@ Note: A carefully selected mix of participants will result in greatly improved l
 ## Host Responsibility: Per Participant Table Supplies
 
 * Dry-erase markers in several colors
-* Black felt tip markers (Sharpies) for writting on Post-It notes and index cards
+* Black felt tip markers (Sharpies) for writing on Post-It notes and index cards
 * Pens for note taking for each participant
 * Variety of Post-It Notes for each participant table
 * Roll of [ScotchBlue painter's tape](https://www.amazon.com/gp/product/B004CZPL4E)

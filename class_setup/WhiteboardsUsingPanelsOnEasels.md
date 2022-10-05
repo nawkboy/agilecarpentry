@@ -25,7 +25,7 @@ The main downsides to panel based temporary whiteboards are:
 
 ![Martin Torino Gigante Studio Easel]({{site.baseurl}}/assets/images/class_setup/martin_torino_gigante_studio_easel.gif "Martin Torino Gigante Studio Easel")
 
-**Figure 2:** _The use of [taller folding alumnium artists easels](https://www.michaels.com/6pk-gigante-studio-easel-by-artists-loft/MP226186.html) makes it possible to avoid worrying about placing anything on or against a conference room wall. It generally takes two artists easels per panel (one on each end of the panel), along with a couple furring strips, and a few clamps._
+**Figure 2:** _The use of [taller folding aluminum artists easels](https://www.michaels.com/6pk-gigante-studio-easel-by-artists-loft/MP226186.html) makes it possible to avoid worrying about placing anything on or against a conference room wall. It generally takes two artists easels per panel (one on each end of the panel), along with a couple furring strips, and a few clamps._
 
 ![Furring Strip Clamped to Panel]({{site.baseurl}}/assets/images/class_setup/FurringStripClampedToPanel.jpg "Furring Strip Clamped to Panel")
 
@@ -41,7 +41,7 @@ The main downsides to panel based temporary whiteboards are:
 
 ![Bessy Ratcheting Clamps]({{site.baseurl}}/assets/images/class_setup/BessyRatchetingClamp.jpg "Bessy Ratcheting Clamps")
 
-**Figure 6:** _A stack of [ratcheting clamps](https://www.menards.com/main/tools/hand-tools/clamps-vises/bessey-reg-ratcheting-hand-clamps/xcrg4/p-177023398174708-c-9135.htm) will make setup and teardown faster than using traditional less expensive c-clamps. Home centers frequently have [similar off-brand clamps](https://www.menards.com/main/tools/hand-tools/clamps-vises/3-ratcheting-hand-clamp/mc90507/p-1561098546965-c-9135.htm?tid=-7317082301792132515&ipos=3) at a much better price._
+**Figure 6:** _A stack of [ratcheting clamps](https://www.menards.com/main/tools/hand-tools/clamps-vises/bessey-reg-ratcheting-hand-clamps/xcrg4/p-177023398174708-c-9135.htm) will make setup and tear-down faster than using traditional less expensive c-clamps. Home centers frequently have [similar off-brand clamps](https://www.menards.com/main/tools/hand-tools/clamps-vises/3-ratcheting-hand-clamp/mc90507/p-1561098546965-c-9135.htm?tid=-7317082301792132515&ipos=3) at a much better price._
 
 ![SKB 3i-4719-8 Case]({{site.baseurl}}/assets/images/class_setup/SKB_3i-4719-8.png "SKB 3i-4719-8 Case")
 
@@ -70,7 +70,7 @@ The main downsides to panel based temporary whiteboards are:
 ## Advantages
 
 * Easily supported in any larger conference room anywhere in the world assuming appropriate panels can be identified.
-* Great writting surface
+* Great writing surface
 * Avoids the need for dark windowless caves typical of WizardWall appropriate spaces
 * Can be assembled relatively quickly the morning of the first training day, thereby avoiding an additional day of space rental
 
@@ -86,7 +86,7 @@ The main downsides to panel based temporary whiteboards are:
 * Comparable in cost to WizardWall within the United States ignoring the upfront investment in easels and shipping containers.
 * It is possible to use WizardWall on top of smooth panels without a dry-erase friendly surface. This is typically a relatively expensive option compared to buying panels which already have a dry-erase surface.
 * It is relatively straightforward to create site-built easels in less than day of effort. This is only practical with access to the event space a day in advance, and therefore not typically cost effective in rented space at a conference hotel.
-* The leaning panel design variation can be a very effective international alternative since it avoids the need for the expensive purchase or shipping of folding alumimum artists easels. 
+* The leaning panel design variation can be a very effective international alternative since it avoids the need for the expensive purchase or shipping of folding aluminum artists easels. 
 
 
 # Conference Room Sizing 
@@ -96,17 +96,17 @@ The conference room sizing concerns are almost the same as those for using Wizar
 
 A full class of 30 participants, will potentially need as many as 13 panels. Two for each participant table, and one for the instructor. Assuming a 4 foot deep by 8 foot wide footprint for each panel, suggests an additional 416 square feet of floor space will be needed for the easels and panels. 
 
-In practice each room layout tends to be a little different. In some cases the extra space consumed by the easels won't matter. That said, most hotel conference rooms are just big rectangular boxes in which the footprint of the easels can make a noticable difference. 
+In practice each room layout tends to be a little different. In some cases the extra space consumed by the easels won't matter. That said, most hotel conference rooms are just big rectangular boxes in which the footprint of the easels can make a noticeable difference. 
 
-It worth remembering using panels sitting on self-standing artist easels opens up a huge number of training venues that would not be practical if only using WizardWall. This additional flexibility is often worth the floor space penality incurred.
+It worth remembering using panels sitting on self-standing artist easels opens up a huge number of training venues that would not be practical if only using WizardWall. This additional flexibility is often worth the floor space penalty incurred.
 
 For example, with private training it could make sense to conduct off-site training at an upscale camp a few hours drive from the office. The building used for training might be built from rough timber and stone, and have a lovely covered patio with pleasant mountain views. WizardWall would never work in this situation, yet panels on easels likely still would.
 
 # Combine With Other Whiteboard Solutions
 
-Considering using more floor space efficient WizardWall based temporary whiteboards where possible, and only using dry-erase panels on easels for the rest. This will help make setup and teardown faster in time critical situations.
+Considering using more floor space efficient WizardWall based temporary whiteboards where possible, and only using dry-erase panels on easels for the rest. This will help make setup and tear-down faster in time critical situations.
 
-In a private training context using company event space, it is usually preferable to setup the training space a day or two ahead of the training event. In this situation, assuming WizardWall alone won't work, it may be preferrable to use dry-erase panels for all temporary whiteboards. The panels provide a better dry-erase surface, and are not significantly more expensive than WizardWall. If you have storage space for the panels, you can even store them afterwards for when you need them again. If you decide to adopt LeSS you are likely to frequently need a large amount of whiteboard space for effective multi-team refinement meetings anyway.
+In a private training context using company event space, it is usually preferable to setup the training space a day or two ahead of the training event. In this situation, assuming WizardWall alone won't work, it may be preferable to use dry-erase panels for all temporary whiteboards. The panels provide a better dry-erase surface, and are not significantly more expensive than WizardWall. If you have storage space for the panels, you can even store them afterwards for when you need them again. If you decide to adopt LeSS you are likely to frequently need a large amount of whiteboard space for effective multi-team refinement meetings anyway.
 
 # Ordering Links
 
@@ -127,7 +127,7 @@ Notes:
 Sources:
 * Menards
     - DPI Thrifty White (#300): [SKU 5071063: DPI Smooth 4' x 8' White Wall Panel](https://www.menards.com/main/paint/paneling-planking/paneling/dpi-trade-smooth-4-x-8-white-wall-panel/300/p-1444428733772-c-8168.htm)
-    - DPI Frost White (#310): [SKU 5071999: DPI Smooth 4' x 8' Markerboard Wall Panel](https://www.menards.com/main/paint/paneling-planking/paneling/dpi-trade-smooth-4-x-8-markerboard-wall-panel/310/p-1444428734036-c-8168.htm)
+    - DPI Frost White (#310): [SKU 5071999: DPI Smooth 4' x 8' Marker-board Wall Panel](https://www.menards.com/main/paint/paneling-planking/paneling/dpi-trade-smooth-4-x-8-markerboard-wall-panel/310/p-1444428734036-c-8168.htm)
 * Lowe's
     - DPI Thrifty White (#300): [SKU 16605: 48-in x 96-in Smooth White Wall Panel](https://www.lowes.com/pd/47-75-in-x-7-98-ft-Smooth-White-Wall-Panel/3015239)
     - DPI Frost White (#310): Available via special order.
@@ -187,15 +187,15 @@ Sources:
 * Lowe's
     - [SKU 1000111391: ReliaBilt 1-in x 2-in x 8-ft Square Edge Primed Pine Board](https://www.lowes.com/pd/Common-1-in-x-2-in-x-8-ft-Actual-0-718-in-x-1-5-in-x-8-ft-Primed-Pine-Board/1000111391)
 * Do It Best
-    - [SKU 161716: Alexandria Moulding 1 In. W. x 2 In. H. x 8 Ft. L. White Finger Joint Pine Board](https://www.doitbest.com/shop/building-materials/lumber-and-plywood/boards/board/141430-alexandria-moulding-1-in-w-x-2-in-h-x-8-ft-l-white-finger-joint-pine-board?SKU=161716)
+    - [SKU 161716: Alexandria Molding 1 In. W. x 2 In. H. x 8 Ft. L. White Finger Joint Pine Board](https://www.doitbest.com/shop/building-materials/lumber-and-plywood/boards/board/141430-alexandria-moulding-1-in-w-x-2-in-h-x-8-ft-l-white-finger-joint-pine-board?SKU=161716)
 
 ## Screw: #8 x 1-1/4" 
 
-With dry-erase panels sitting on easels, clamping the reinforcing ribs in place will make setup and tear down much faster than using screws. Clamps also minimize the need for any tools during setup. The money saved by avoiding the need to reserve a hotel meeting room an extra day in advance easily pays for the addtional cost of purchasing and then shipping a pile of clamps around the country in a Pelican case.
+With dry-erase panels sitting on easels, clamping the reinforcing ribs in place will make setup and tear down much faster than using screws. Clamps also minimize the need for any tools during setup. The money saved by avoiding the need to reserve a hotel meeting room an extra day in advance easily pays for the additional cost of purchasing and then shipping a pile of clamps around the country in a Pelican case.
 
 When setup time isn't an issue, screws can make a lot more sense. They hold better, and cost a lot less. Screws are also more practical when leaning panels against a wall rather than using easels.
 
-In both a leaning and easel setup, the reinforcing ribs should be positioned with the narrow edge of the board against the panel. This will provide the greatest rigidity orthorgonal to the plane of the panel surface, and thereby best mimimize flexing when writting on the panel.
+In both a leaning and easel setup, the reinforcing ribs should be positioned with the narrow edge of the board against the panel. This will provide the greatest rigidity orthogonal to the plane of the panel surface, and thereby best minimize flexing when writing on the panel.
 
 If using panels with easels, the reinforcing ribs should be attached on the front surface of the panels along the long edges. This ensures the back of the panel will be properly supported by the easels. It also has the added advantage of the lower rib acting as a tray for the dry-erase markers.
 
@@ -238,15 +238,15 @@ Sources:
 
 ## Panel Sourcing Overview
 
-Identifying inexpensive appropriate melamine coated panels for use as whiteboards is tricky. The more cost effective panels are seldom labeled as dry-erase marker board panels. Furthermore, not all melamine coated panels make good dry-erase marker boards. These panels frequently require a custom order, which makes it difficult to examine an unfamilar brand in a lumber yard before placing an order.
+Identifying inexpensive appropriate melamine coated panels for use as whiteboards is tricky. The more cost effective panels are seldom labeled as dry-erase marker board panels. Furthermore, not all melamine coated panels make good dry-erase marker boards. These panels frequently require a custom order, which makes it difficult to examine an unfamiliar brand in a lumber yard before placing an order.
 
 After lots of research I have discovered the panels manufactured by [Decorative Panels International (DPI)](https://www.decpanels.com/product/smooth-panel-board/) are the best readily available known good choice within North America. I do not recommend using any other brand unless you are willing to spend time researching it.
 
-Within the United States it is best to order from Menards, Lowe's, or Do It Best. The DPI Thrify White alternative Home Depot stocks is made by [Eucatex](https://www.eucatex.com.br/en), and does not have an appropriate dry-erase surface. It is very likely Eucatex produces a dry-erase friendly alternative to DPI Frost White available via special order, but I don't yet know what it is. Home Depot stocks some DPI products, so they should be able to special order DPI Frost White if you need them to.
+Within the United States it is best to order from Menards, Lowe's, or Do It Best. The DPI Thrifty White alternative Home Depot stocks is made by [Eucatex](https://www.eucatex.com.br/en), and does not have an appropriate dry-erase surface. It is very likely Eucatex produces a dry-erase friendly alternative to DPI Frost White available via special order, but I don't yet know what it is. Home Depot stocks some DPI products, so they should be able to special order DPI Frost White if you need them to.
 
 I believe Eucatex distributes to far more countries than DPI. If Eucatex manufactures a panel similar to DPI Frost White, it could be a good alternative for use outside of North America. As I learn of alternatives within other countries, I intend to update the reference information here.
 
-DPI sells a small sample pack of their different panels for only a couple dollars as a way to help customers with product selection. I suspect Eucatex and others do the same. With enough lead time, ordering sample packs from multiple companies might be a good way to indentify an alternative to the DPI panels.
+DPI sells a small sample pack of their different panels for only a couple dollars as a way to help customers with product selection. I suspect Eucatex and others do the same. With enough lead time, ordering sample packs from multiple companies might be a good way to identify an alternative to the DPI panels.
 
 ## DPI Contact Information
 
@@ -285,14 +285,14 @@ WARNING: Ordering from Home Depot is likely to be challenging and is best avoide
 
 * Thrifty White: 300 (4'x8')
   + Cindy Prahl explains: 
-    - Will ghost over time. Not really a markerboard product.
-    - Economical choice for a short-lived markerboard.
+    - Will ghost over time. Not really a marker-board product.
+    - Economical choice for a short-lived marker-board.
     - Frequently a stock item for retailers.
     - Size: 4' x 8'
   
 * Frost White: 310
   + Cindy Prahl explains:
-    - Proper markerboard surface with good longivity.
+    - Proper marker-board surface with good longevity.
     - Higher quality than Thrifty White
     - Size: 4' x 8'
   
@@ -300,17 +300,17 @@ WARNING: Ordering from Home Depot is likely to be challenging and is best avoide
   + Cindy explains: 
     - Cut to size 32"x48" product.
     - Not what is needed
-  + Seems to align with Home Depot's [1/8 in. x 48 in. x 32 in. DPI Markerboard Panel ](https://www.homedepot.com/p/1-8-in-x-48-in-x-32-in-DPI-Markerboard-Panel-3-Pack-HD31032483/205600727)
+  + Seems to align with Home Depot's [1/8 in. x 48 in. x 32 in. DPI Marker-board Panel ](https://www.homedepot.com/p/1-8-in-x-48-in-x-32-in-DPI-Markerboard-Panel-3-Pack-HD31032483/205600727)
 
 ## More Nitty Gritty DPI Logistics Information
 
 Thifty White (#300) is ok for a panel which will be destroyed after training is over. Frost White (#310) should be used for any dry-erase panel which will be used for a longer period of time. 
 
-When you have sufficient lead time, and if the retail price difference is negligable, I suggest ordering the good stuff even if you intend to destroy it. Odds are a few course particpants will take a few panels home for their kids to draw on.
+When you have sufficient lead time, and if the retail price difference is negligible, I suggest ordering the good stuff even if you intend to destroy it. Odds are a few course participants will take a few panels home for their kids to draw on.
 
 Cindy Prahl explains logistics:
 * Providing Cindy's name and contact information to the order desk at a retailer will often be helpful when making a custom order. Cindy is the DPI representative who handles orders from most of the large U.S. retailers.
-* Menards and Do It Best typically contact Cindy directly.
+* Menard's and Do It Best typically contact Cindy directly.
 * Lowe's has a VMO of some sort which slightly changes book-keeping and ordering details somehow, although Cindy is somehow still involved.
 * Most retailers depend on DPI's regional distribution centers.
 * Do It Best retailers will typically have the shortest lead times for special orders.
