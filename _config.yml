@@ -28,7 +28,8 @@ author:
 markdown: kramdown
 
 # Newsletter in blog
-mailchimp-newsletter-action: "https://agilecarpentry.us7.list-manage.com/subscribe/post?u=8dd6bcc41d14ccc5713c9bb55&amp;id=204344e5d7"
+#mailchimp-newsletter-action: "https://agilecarpentry.us7.list-manage.com/subscribe/post?u=8dd6bcc41d14ccc5713c9bb55&amp;id=204344e5d7"
+convertkit-subscription-url: https://pages.agilecarpentry.com/
 
 # Mathjax setting
 enable-mathjax: yes
