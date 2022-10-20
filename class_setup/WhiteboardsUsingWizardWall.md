@@ -77,7 +77,7 @@ If the instructor whiteboard is also constructed using WizardWall, an additional
 
 The table and lecture setup for a full class of 30 people typically requires around 1000 square feet for the classroom lecture area. A 1000 square foot room will not have enough WizardWall friendly wall sections of at least 13 feet for 30 people. To fit all the WizardWalls into a single conference room will typically require at least 2000 square feet of space. Obtaining enough flat contiguous wall space is generally the limiting factor on room size, rather than floor space.
 
-Not all the WizardWalls need to be in the same space as the lecture space. A common solution is use a 1000 square foot room for the lecture space and a portion of the WizardWalls, and then to have a nearby breakout room of another 1000 square feet for additional WizardWalls. All things being equal, a single large room with enough space for everything is slightly better than using a breakout room.
+Not all the WizardWalls need to be in the same space as the lecture space. A common solution is to use a 1000 square foot room for the lecture space and a portion of the WizardWalls, and then to have a nearby breakout room of another 1000 square feet for additional WizardWalls. All things being equal, a single large room with enough space for everything is slightly better than using a breakout room.
 
 During debriefing sessions the entire class cohort must be able to gather around each of the whiteboards. This should be considered when selecting any breakout room space. If you can draw a 20 foot arch in front of a whiteboard, there will typically be enough space for all 30 students to gather during a debrief.
 
