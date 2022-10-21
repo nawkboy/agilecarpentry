@@ -122,7 +122,7 @@ Usage:
 Notes:
 * Use DPI Thrifty White (#300) for a short-lived panel. 
 * Use DPI Frost White (#310) for a long-lived panel. 
-* See [Sourcing Whiteboard Panels](Sourcing-Whiteboard-Panels) for more details.
+* See _Whiteboard Panels Sourcing Details_ section below more detail.
 
 Sources:
 * Menards
@@ -135,7 +135,7 @@ Sources:
     - DPI Thrifty White (#300): [SKU: 106364: DPI 4 Ft. x 8 Ft. x 1/8 In. White Smooth Wall Paneling](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling/dpi-4-ft-x-8-ft-x-18-in-white-smooth-wall-paneling)
     - DPI Frost White (#310): [SKU 108706: DPI 4 Ft. x 8 Ft. x 1/8 In. Frost White Smooth Wall Paneling](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling/dpi-4-ft-x-8-ft-x-18-in-frost-white-smooth-wall-paneling)
 
-See [Sourcing Marker-Board Panels](Sourcing-Marker-Board-Panels) for more details.
+See _Whiteboard Panels Sourcing Details_ section below more detail.
 
 ## Lumber: 1" x 2" x 8' Furring Strip
 
