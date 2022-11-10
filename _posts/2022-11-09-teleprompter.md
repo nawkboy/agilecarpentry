@@ -158,7 +158,7 @@ https://www.bhphotovideo.com/c/product/1177578-REG/cloud_microphones_cl_1_cloudl
 An advantage of the Shure SM58 and Sennheiser e835 is they are not as gain hungry as the SM7B or RE20 and therefore won’t require spending money on a mic activator. Curtis Judd has a great [video comparing the SM7B to the SM58](https://www.youtube.com/watch?v=KPAKlk1Tt-I) for livestream and podcasting use.
 
 My audio interface is a [PreSonus Revelator io24](
-https://www.bhphotovideo.com/c/product/1177578-REG/cloud_microphones_cl_1_cloudlifter_mic_activator.html). Although the audio processing is done on the PreSonus hardware, while the internal mixer is mostly controlled remotely using either a desktop or iPad application. This has been wonderful in allowing me to get help from my friends with more sound experience than myself. For example, a friend in Canada was able to help me adjust my settings over a Zoom call in which I was sharing my screen.
+https://www.bhphotovideo.com/c/product/1642727-REG/presonus_revelator_io24_desktop_2x4.html). Although the audio processing is done on the PreSonus hardware, while the internal mixer is mostly controlled remotely using either a desktop or iPad application. This has been wonderful in allowing me to get help from my friends with more sound experience than myself. For example, a friend in Canada was able to help me adjust my settings over a Zoom call in which I was sharing my screen.
 
 ## Desk
 
