@@ -53,11 +53,7 @@ As we continue to advance our depth of understanding using system modeling, the 
 
 Each participant will be a Certified LeSS Practitioner and will get an account on less.works. Here one can find additional information about LeSS, share course information, and stay in contact with the other course participants.
 
-All participants get access to the book: Large-Scale Scrum: More with LeSS
-
-A well prepared training environment helps ensure a successful outcome for everyone involved.
-
-In a private training context, the client is often formally responsible for all hosting aspects since they are on the ground and therefore better positioned to be so. In practice ensuring a well prepared environment is a collaborative effort.
+All participants get access to the book: _Large-Scale Scrum: More with LeSS_
 
 # Travel Logistics
 
@@ -65,7 +61,7 @@ The Milwaukee training venue is in a walkable neighborhood less than a 5 minute 
 
 If you [fly in](https://www.mitchellairport.com/) or [arrive by train](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf), you won't need to bother with a rental car. 
 
-The [Hiawatha](https://amtrakhiawatha.com/amtrak/schedules.php) is a particularly easy travel choice if you are coming from downtown Chicago. It only takes one hour and fifteen minutes to travel between downtown Chicago and downtown Milwaukee.  When you look at the [Hiawatha schedule](https://amtrakhiawatha.com/amtrak/schedules.php) you will see multiple routes per day in both directions. Almost all of these are proper trains with [large comfortable seats](https://youtu.be/Cu9p0_h2x_w?t=167), even thought technically "coach" class.  The one notable exception is train #8307 which is indicated as "BUS" on the schedule. I strongly advise avoiding the "BUS" version of the train in favor of the real train versions.
+The [Hiawatha](https://amtrakhiawatha.com/amtrak/schedules.php) is a particularly easy travel choice if you are coming from downtown Chicago. It only takes one hour and fifteen minutes to travel between downtown Chicago and downtown Milwaukee.  When you look at the [Hiawatha schedule](https://amtrakhiawatha.com/amtrak/schedules.php) you will see multiple routes per day in both directions. Almost all of these are proper trains with [large comfortable seats](https://youtu.be/Cu9p0_h2x_w?t=167), even though technically "coach" class.  The one notable exception is train #8307 which is indicated as "BUS" on the schedule. I strongly advise avoiding the "BUS" version of the train in favor of the real train.
 
 There are a lot of walkable dining and shopping options in the southern end of downtown, as well as the adjacent Third Ward neighborhood which it blends into.
 
@@ -85,13 +81,13 @@ For those of you arriving at the [Milwaukee airport](https://www.mitchellairport
 
 Flying into [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx) can be a good option in some cases. You will need to rent a car, or use a car service, to get to Milwaukee. I can provide more details upon request.
 
-Those of you arriving by train, will arrive at the [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA) which is a few blocks away from everything mentioned above. Although you could easily walk to your hotel if traveling light, a short Uber or Taxi ride is probably a better idea with heavy bags, or if arriving late at night.
+Those of you arriving by train, will arrive at the [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA) which is a few blocks away from everything mentioned above. Although you could easily walk to your hotel if traveling light, a short Uber or taxi ride is probably a better idea with heavy bags, or if arriving late at night.
 
 A [roomette on Amtrak](https://www.amtrak.com/roomettes) can be a nice way to travel if you are not pressed for time, and make sure to avoid any connections other than the very reliable [Hiawatha](https://amtrakhiawatha.com/) connection between Chicago and Milwaukee. You can find the Amtrak [route map here](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf). Although Amtrak will sell you a connecting ticket with at least a two hour layover, you should know that you can always take any of the Hiawatha trains with your connecting ticket. There is usually a much shorter layover choice than they will officially sell you. On long-distance trains with multiple levels, the upstairs roomettes generally have a much better view and make it easier to access the rest of the train. The only downside is they are less handicap accessible than the lower levels.
 
 # Venue Details
 
-The expected training venue is an upscale event room on the Upper East Side of Milwaukee, overlooking Lake Michigan. This is in a more residential urban neighborhood. There are lots of walkable restaurants, grocery stores, and an amazing park system; but no hotels. There is all-day paid parking for anyone driving.
+The expected training venue is an upscale event room on the Upper East Side of Milwaukee, overlooking Lake Michigan. This is in a more residential urban neighborhood. There are lots of walkable restaurants, grocery stores, and an amazing park system; but no hotels. There is all-day paid parking available nearby.
 
 ## Training Venue Address
 
@@ -108,7 +104,7 @@ Notes:
   * Surface lot
   * ~$12/day
   *  Immediately across from the intersection of N. Prospect Avenue and E. Woodstock Place.
-  * Prospect is a one-way road which travels in a North-Easterly direction.
+  * Prospect Avenue is a one-way street which travels in a North-Easterly direction.
 
 _[Public Parking Garage](https://goo.gl/maps/1vXGesLT186JZ1J99)_  
 2170 N Farwell Ave  
@@ -124,6 +120,7 @@ Notes:
 * You are super lucky if you find a spot here.
 * There is very little free all-day street parking in this neighorhood. This is one of the very few exceptions.
 * This is by far the closest all-day public parking available near the training venue.
+* WARNING: Parking in this neighborhood is very strictly enforced. If you park in a limited duration parking space your vehicle will be ticketed if not towed. 
 
 ## Custom Neighborhood Map
 
@@ -139,7 +136,7 @@ You can turn on/off each of the following layers in the above custom neighborhoo
 
 Breakfast, lunch, snack breaks, coffee, and the like are all included.
 
-For lunch we will most likely walk as a group to one of the table service restaurants shown in the custom map above. For the sake of variety, I am expecting to pre-arrange lunch at a different restaurant each day. By communicating our menu selections a little in advance, the restaurants will be ready for us when we arrive.
+For lunch we will most likely walk as a group to one of the table service restaurants shown in the custom map above. For the sake of variety, I am expecting to pre-arrange lunch at a different restaurant each day. By communicating your menu selections a little in advance, the restaurants will be ready for us when we arrive.
 
 This approach to lunch will provide us with a mid-day change of scenery, let us stretch our legs a little, and hopefully provide more opportunity to get to know each other a little better.
 
