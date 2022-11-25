@@ -57,35 +57,18 @@ All participants get access to the book: _Large-Scale Scrum: More with LeSS_
 
 # Travel Logistics
 
-The Milwaukee training venue is in a walkable neighborhood less than a 5 minute Uber ride from the [downtown Milwaukee hotels](https://www.visitmilwaukee.org/plan-a-visit/places-to-stay/downtown-hotel-directory/).
+The Milwaukee training venue is in a walkable neighborhood less than a 5 minute Uber ride from the [downtown and Third Ward hotels]({{site.url}}{{site.baseurl}}/mke_clp/hotel). If you fly in or arrive by train you won't need to bother with a rental car.
 
-If you [fly in](https://www.mitchellairport.com/) or [arrive by train](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf), you won't need to bother with a rental car. 
+If you live in the MidWest you may find [taking the train]({{site.url}}{{site.baseurl}}/mke_clp/train) or driving to be a nice low-stress option.
 
-The [Hiawatha](https://amtrakhiawatha.com/amtrak/schedules.php) is a particularly easy travel choice if you are coming from downtown Chicago. It only takes one hour and fifteen minutes to travel between downtown Chicago and downtown Milwaukee.  When you look at the [Hiawatha schedule](https://amtrakhiawatha.com/amtrak/schedules.php) you will see multiple routes per day in both directions. Almost all of these are proper trains with [large comfortable seats](https://youtu.be/Cu9p0_h2x_w?t=167), even though technically "coach" class.  The one notable exception is train #8307 which is indicated as "BUS" on the schedule. I strongly advise avoiding the "BUS" version of the train in favor of the real train.
+Your options for [traveling by plane]({{site.url}}{{site.baseurl}}/mke_clp/plane) include both the Milwaukee Mitchell airport as well as the Chicago O'Hare airport.
 
-There are a lot of walkable dining and shopping options in the southern end of downtown, as well as the adjacent Third Ward neighborhood which it blends into.
+See the following pages for additional travel details:
+* [Hotels and nearby Dining and Shopping]({{site.url}}{{site.baseurl}}/mke_clp/hotel)
+* [Travel by Train]({{site.url}}{{site.baseurl}}/mke_clp/train)
+* [Travel by Plane]({{site.url}}{{site.baseurl}}/mke_clp/plane)
 
-[East Saint Paul Ave & North Broadway](https://goo.gl/maps/iNyirDp4VWs5Hbt19) is the heart of the Third Ward shopping and restaurant area. The Third Ward shopping area is anchored by the [Milwaukee Public Market](https://milwaukeepublicmarket.org/).
-
-Many of the brew pubs and other table service restaurants are located along the Milwaukee River. These start as far north as [Water Street & E Knapp Street](https://goo.gl/maps/MazcREr3RX2aivV88), and continue south along Water street deep into the Third Ward as far south as [Water Street & East Erie Street](https://goo.gl/maps/MazcREr3RX2aivV88). If you prefer, you can access most of this via the pedestrian riverwalk, which is where you will find the [Bronze Fonz](https://goo.gl/maps/qFHV1ad5Y9veMfrf8).
-
-A few well located hotel choices include:
-
-- [Westin Downtown](https://www.marriott.com/en-us/hotels/mkeiw-the-westin-milwaukee/overview/): ~$240/night
-- [Pfister](https://www.thepfisterhotel.com/): ~$190/night
-- [Milwaukee Marriott Downtown](https://www.marriott.com/en-us/hotels/mkedn-milwaukee-marriott-downtown/overview/): ~$180/night
-- [Hilton Garden Inn Milwaukee Downtown](https://www.hilton.com/en/hotels/mkemdgi-hilton-garden-inn-milwaukee-downtown/): ~$120/night
-- [Homewood Suites by Hilton Milwaukee Downtown](https://www.hilton.com/en/hotels/mkedohw-homewood-suites-milwaukee-downtown/): ~$115/night
-
-For those of you arriving at the [Milwaukee airport](https://www.mitchellairport.com/), an Uber or taxi will be the easiest way to get to your hotel. The rental car center is on-site at the MKE airport adjacent to baggage pickup.
-
-Flying into [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx) can be a good option in some cases. You will need to rent a car, or use a car service, to get to Milwaukee. I can provide more details upon request.
-
-Those of you arriving by train, will arrive at the [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA) which is a few blocks away from everything mentioned above. Although you could easily walk to your hotel if traveling light, a short Uber or taxi ride is probably a better idea with heavy bags, or if arriving late at night.
-
-A [roomette on Amtrak](https://www.amtrak.com/roomettes) can be a nice way to travel if you are not pressed for time, and make sure to avoid any connections other than the very reliable [Hiawatha](https://amtrakhiawatha.com/) connection between Chicago and Milwaukee. You can find the Amtrak [route map here](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf). Although Amtrak will sell you a connecting ticket with at least a two hour layover, you should know that you can always take any of the Hiawatha trains with your connecting ticket. There is usually a much shorter layover choice than they will officially sell you. On long-distance trains with multiple levels, the upstairs roomettes generally have a much better view and make it easier to access the rest of the train. The only downside is they are less handicap accessible than the lower levels.
-
-# Venue Details
+# Training Venue Details
 
 The expected training venue is an upscale event room on the Upper East Side of Milwaukee, overlooking Lake Michigan. This is in a more residential urban neighborhood. There are lots of walkable restaurants, grocery stores, and an amazing park system; but no hotels. There is all-day paid parking available nearby.
 
