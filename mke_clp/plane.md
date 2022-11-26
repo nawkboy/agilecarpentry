@@ -5,7 +5,7 @@ author: James
 layout: book
 ---
 
-# Travel by Air
+# Travel by Plane
 
 It is generally easiest to fly into the [Milwaukee Mitchell airport](https://www.mitchellairport.com/) (MKE), even if doing so requires a connection. The other good alternative is to fly into [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx) (ORD).
 
