@@ -1,5 +1,5 @@
 ---
-title: Milwaukee Certified LeSS Practitioner Venue Information
+title: Milwaukee Certified LeSS Practitioner Course
 image: /assets/images/mke_clp/MilwaukeeCLPBanner.png
 author: James
 layout: book
