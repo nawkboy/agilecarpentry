@@ -5,6 +5,8 @@ author: James
 layout: book
 ---
 
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/certified-less-practitioner-workshop" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Jan 24-26: Get Tickets</a>
+
 <iframe class="video" src="https://www.youtube.com/embed/kTPidsR9d0o" allowfullscreen frameborder="0"></iframe>
 
 
@@ -137,3 +139,8 @@ Please let me know of any food restrictions so I can make appropriate accomodati
 This will be a small class with no more than fifteen participants. This should result in a better learning experience for everyone. It also provides us with a bit more flexiblity than is practical with a larger group.
 
 Please [email me](mailto:james@agilecarpentry.com) with any questions you may have. Similarly, feel free to provide any constructive guidance you think appropriate.
+
+# Tickets
+
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/certified-less-practitioner-workshop" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Jan 24-26: Get Tickets</a>
+
