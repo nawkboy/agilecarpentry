@@ -1,6 +1,6 @@
 ---
 title: Milwaukee Certified LeSS Practitioner Course
-image: /assets/images/mke_clp/MilwaukeeCLPBanner.png
+image: /assets/images/mke_clp/MilwaukeeCLPBannerJan24_26.png
 author: James
 layout: book
 ---
