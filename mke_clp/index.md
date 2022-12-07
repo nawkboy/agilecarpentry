@@ -140,7 +140,13 @@ This will be a small class with no more than fifteen participants. This should r
 
 Please [email me](mailto:james@agilecarpentry.com) with any questions you may have. Similarly, feel free to provide any constructive guidance you think appropriate.
 
+# Course Poster
+
+Please consider placing [this poster]({{site.baseurl}}/assets/pdfs/MilwaukeeCLP_Poster_Jan_24to26_2023.pdf) in your office kitchen or in a similar high-traffic location to encourage others to join.
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/certified-less-practitioner-workshop" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Jan 24-26: Get Tickets</a>
+
+
 
