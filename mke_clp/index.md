@@ -61,7 +61,7 @@ All participants get access to the book: _Large-Scale Scrum: More with LeSS_
 
 The Milwaukee training venue is in a walkable neighborhood less than a 5 minute Uber ride from the [downtown and Third Ward hotels]({{site.url}}{{site.baseurl}}/mke_clp/hotel). If you fly in or arrive by train you won't need to bother with a rental car.
 
-If you live in the MidWest you may find [taking the train]({{site.url}}{{site.baseurl}}/mke_clp/train) or driving to be a nice low-stress option.
+If you live in the Midwest you may find [taking the train]({{site.url}}{{site.baseurl}}/mke_clp/train) or driving to be a nice low-stress option.
 
 Your options for [traveling by plane]({{site.url}}{{site.baseurl}}/mke_clp/plane) include both the Milwaukee Mitchell airport as well as the Chicago O'Hare airport.
 
