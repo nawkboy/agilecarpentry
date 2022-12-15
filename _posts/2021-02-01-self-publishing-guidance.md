@@ -211,6 +211,9 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - Must feed into InDesign or similar to produce print-ready hardcover book
   - Has built-in styles (easy, but not always pretty)
   - Familiar (it's the devil I know)
+* Affinity Publisher
+  * Although I typeset Forging Change using InDesign, I have since switched to Affinity Publisher. It is almost as capable as InDesign, and is vastly less expensive. This is a much better fit for my current occassional use.
+
 
 ## Preparing a File for Print
 
@@ -256,7 +259,7 @@ It turns out that creating a file for POD within InDesign is a bit tricky, with 
   - Phone: 866.421.8872 ext. 101
   - Fax: 866.630.2919
   - Note: Deb designed my cover and also took care of interior design when I no longer had time to do it myself. It was a pleasure working with her.
- 
+
 * Linh Thoi
   - Freelance E-book Designer
   - Website: [https://lttebooks.com/](https://lttebooks.com/)
