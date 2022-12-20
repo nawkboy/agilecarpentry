@@ -4,8 +4,8 @@
 - title: Courses
   link: 'https://less.works/course_filters/jamesandgene-34'
   dropdown:
-    - title: Summary
-      link: 'https://less.works/course_filters/jamesandgene-34'
+    - title: James On Tour
+      link: /clp/
     - title: Milwaukee
       link: /mke_clp/
     - title: Orange County
@@ -15,7 +15,9 @@
     - title: Atlanta
       link: /clp/atlanta/
     - title: Miami
-      link: /clp/miami/     
+      link: /clp/miami/
+    - title: LeSS.Works Summary
+      link: 'https://less.works/course_filters/jamesandgene-34'    
 
 - title: About
   link: '/about/'

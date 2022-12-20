@@ -1,3 +1,8 @@
+- title: James on Tour
+  category: LeSS
+  image: /assets/images/clp/biplane.jpg
+  link: /clp/
+
 - title: LeSS Practitioner Course Now In Milwaukee!
   category: LeSS
   image: /assets/images/portfolio/milwaukee-clp-portfolio-image.png
@@ -27,11 +32,6 @@
   category: Book
   image: /assets/images/portfolio/forging-change-anvil-excerpt.png
   link: /blog/using-structure-to-mold-culture/
-
-- title: Recorded Case Study Presentation
-  category: LeSS
-  image: /assets/images/portfolio/twin-cities-less-meetup-case-study.jpg
-  link: /blog/mcs-case-study-presentation/
 
 
 #- title: Forging Change Synopsis
