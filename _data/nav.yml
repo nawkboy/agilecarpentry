@@ -3,6 +3,19 @@
   
 - title: Courses
   link: 'https://less.works/course_filters/jamesandgene-34'
+  dropdown:
+    - title: Summary
+      link: 'https://less.works/course_filters/jamesandgene-34'
+    - title: Milwaukee
+      link: /mke_clp/
+    - title: Orange County
+      link: /clp/orange_county/
+    - title: Washington DC
+      link: /clp/washington_dc/
+    - title: Atlanta
+      link: /clp/atlanta/
+    - title: Miami
+      link: /clp/miami/     
 
 - title: About
   link: '/about/'
@@ -39,8 +52,6 @@
       link: https://pages.agilecarpentry.com/ 
     - title: Previous Newsletters
       link: https://pages.agilecarpentry.com/posts
-    - title: MKE CLP Course
-      link: /mke_clp/
     - title: Search
       link: /search/
 
