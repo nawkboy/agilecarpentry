@@ -23,7 +23,7 @@ If any of these locations is particularly compelling to you, I strongly suggest 
 
 If you pre-register for a course which fails to reach critical mass, you will be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Washington DC and the Washington DC course fails to reach critical mass, you can choose to transfer your pre-registration to Florida where you can enjoy a little warm weather.
 
-* [Milwaukee: January 24-26, 2022]({{site.url}}{{site.baseurl}}/mke_clp/)
+* [Milwaukee: January 24-26, 2022: Locked-In]({{site.url}}{{site.baseurl}}/mke_clp/)
 
 * [Orange County: February 7-9, 2023]({{site.url}}{{site.baseurl}}/clp/orange_county/)
 
