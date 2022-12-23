@@ -40,5 +40,5 @@ You will typically be given an option to attend a later course as long as capaci
 
 * [LeSS.works summary of all courses by James Carpenter or Gene Gendel](https://less.works/course_filters/jamesandgene-34)
 
-
+{% include_relative _includes/course_tour_poster.md %}
 

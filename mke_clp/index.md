@@ -142,7 +142,7 @@ Please [email me](mailto:james@agilecarpentry.com) with any questions you may ha
 
 # Course Poster
 
-Please consider placing [this poster]({{site.baseurl}}/assets/pdfs/MilwaukeeCLP_Poster_Jan_24to26_2023.pdf) in your office kitchen or in a similar high-traffic location to encourage others to join.
+Please consider placing [this course tour poster]({{site.baseurl}}/assets/pdfs/Feb_2023_CLP_Tour_Poster.pdf) in your office kitchen or in a similar high-traffic location to encourage others to join.
 
 # Tickets
 
