@@ -131,6 +131,8 @@ Sources:
 * Lowe's
     - DPI Thrifty White (#300): [SKU 16605: 48-in x 96-in Smooth White Wall Panel](https://www.lowes.com/pd/47-75-in-x-7-98-ft-Smooth-White-Wall-Panel/3015239)
     - DPI Frost White (#310): Available via special order.
+        + Lowe's special product item number for any special product from DPI: 297576
+        + Lowe's Vendor Number for DPI: 46498
 * Do It Best
     - DPI Thrifty White (#300): [SKU: 106364: DPI 4 Ft. x 8 Ft. x 1/8 In. White Smooth Wall Paneling](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling/dpi-4-ft-x-8-ft-x-18-in-white-smooth-wall-paneling)
     - DPI Frost White (#310): [SKU 108706: DPI 4 Ft. x 8 Ft. x 1/8 In. Frost White Smooth Wall Paneling](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling/dpi-4-ft-x-8-ft-x-18-in-frost-white-smooth-wall-paneling)
