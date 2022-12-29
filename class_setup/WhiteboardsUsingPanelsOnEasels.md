@@ -133,6 +133,8 @@ Sources:
     - DPI Frost White (#310): Available via special order.
         + Lowe's _Special Product Item Number_ for any special product from DPI: 297576
         + Lowe's _Vendor Number_ for DPI: 46498
+        + DPI Special Order Fax Number: 419-535-1678
+        + See DPI Contact Information section below for more details.
 * Do It Best
     - DPI Thrifty White (#300): [SKU: 106364: DPI 4 Ft. x 8 Ft. x 1/8 In. White Smooth Wall Paneling](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling/dpi-4-ft-x-8-ft-x-18-in-white-smooth-wall-paneling)
     - DPI Frost White (#310): [SKU 108706: DPI 4 Ft. x 8 Ft. x 1/8 In. Frost White Smooth Wall Paneling](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling/dpi-4-ft-x-8-ft-x-18-in-frost-white-smooth-wall-paneling)
@@ -258,6 +260,7 @@ Cindy Prahl
 * One of DPI's Inside sales managers for Menards, the VMO for Lowe's, and for Do It Best
 * Direct Line: 419-720-0953
 * Main DPI Number: 419-535-5921
+* Special Order Fax Number: 419-535-1678
 
 Smooth Panel Board Webpage: [https://www.decpanels.com/product/smooth-panel-board/](https://www.decpanels.com/product/smooth-panel-board/)
 
