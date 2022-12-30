@@ -3,6 +3,7 @@ title: DPI Panel Based Whiteboards
 image: /assets/images/class_setup/WestinClassroom.png
 author: James
 layout: book
+sitemap: false
 ---
 
 #  Panel Whiteboard Overview

@@ -3,6 +3,7 @@ title: Certified LeSS Practitioner Classroom Setup
 image: /assets/images/class_setup/WestinClassroom.png
 author: James
 layout: book
+sitemap: false
 ---
 
 # Overview
