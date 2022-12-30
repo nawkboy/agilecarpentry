@@ -8,8 +8,13 @@
 <head>
 
   <!-- Required meta tags -->
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+  
+  {% if page.noindex %}
+  <!-- turn of indexing for this page, but allow following -->
+  <meta name="robots" content="noindex,follow"/>
+  {% endif %}
 
   <!-- Prefetch DNS for faster page speed -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
