@@ -48,8 +48,8 @@
   dropdown:
     - title: Testimonials
       link: /testimonials/
-    - title: Class Setup
-      link: /class_setup/
+#    - title: Class Setup
+#      link: /class_setup/
     - title: Subscribe to Newsletter
       link: https://pages.agilecarpentry.com/ 
     - title: Previous Newsletters
