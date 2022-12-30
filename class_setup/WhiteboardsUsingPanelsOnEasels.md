@@ -118,7 +118,7 @@ One can always apply WizardWall to most any flat surface, including any smooth h
 
 After a great deal of research I have discovered [clear florist's cellophane can be used similarly to WizardWall](https://www.youtube.com/watch?v=oBMUI-Mj_YU), so long as you place it on a light colored surface. A layer of inexpensive BOPP film stapled, tacked, or otherwise affixed on top of any white hardboard  provides a viable solution whenever a product like DPI Frost White is not readily available.
 
-Not just any [variation of film](https://www.ecoplastindia.com/flexible-packaging-film-types/) will have a smooth enough surface to work well with dry-erase markers. It is *Biaxially Oriented PolyPropylene (BOPP)* extruded cellophane film that is needed. Not all clear cellophane variations used by florists are extruded BOPP film.
+Not just any [variation of film](https://www.ecoplastindia.com/flexible-packaging-film-types/) will have a smooth enough surface to work well with dry-erase markers. It is *Biaxially Oriented Polypropylene Polymer (BOPP)* extruded cellophane film that is needed. Not all clear cellophane variations used by florists are extruded BOPP film.
 
 Here are two examples of BOPP film.
 
