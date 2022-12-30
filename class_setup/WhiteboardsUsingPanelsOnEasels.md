@@ -108,6 +108,29 @@ Consider using more floor space efficient WizardWall based temporary whiteboards
 
 In a private training context using company event space, it is usually preferable to setup the training space a day or two ahead of the training event. In this situation, assuming WizardWall alone won't work, it may be preferable to use dry-erase panels for all temporary whiteboards. The panels provide a better dry-erase surface, and are not significantly more expensive than WizardWall. If you have storage space for the panels, you can even store them afterwards for when you need them again. If you decide to adopt LeSS you are likely to frequently need a large amount of whiteboard space for effective multi-team refinement meetings anyway.
 
+# Cellophane Film Hack
+
+Finding inexpensive hardboard with a dry-erase surface can be challenging in the United States, and is even more difficult outside of North America. In constrast, white hardboard is a stock item around the world at many lumberyards.
+
+One can always apply WizardWall to most any flat surface, including any smooth hardboard. The main issue with WizardWall is the excessive cost of each roll.
+
+After a great deal of research I have discovered [clear florist's cellophane can be used similarly to WizardWall](https://www.youtube.com/watch?v=oBMUI-Mj_YU), so long as you place it on a light colored surface. A layer of inexpensive BOPP film stapled, tacked, or otherwise affixed on top of any white hardboard  provides a viable solution whenever a product like DPI Frost White is not readily available.
+
+Not just any [variation of film](https://www.ecoplastindia.com/flexible-packaging-film-types/) will have a smooth enough surface to work well with dry-erase markers. It is *Biaxially Oriented PolyPropylene (BOPP)* extruded cellophane film that is needed. Not all clear cellophane variations used by florists are extruded BOPP film.
+
+Here are two examples of BOPP film.
+
+* [Borningfire Clear Wrap Cellophane 31.5 In x 100 Ft Folded in Half on 16" Roll](https://www.amazon.com/gp/product/B07SLM48SX)
+* [CLEARPHANE 1200-1500 FT CELLOPHANE COUNTER ROLLS- CLEAR](https://floralsupply.com/product/clearphane-1500-ft-cellophane-counter-rolls-clear/)
+
+I believe it is likely WizardWall is simply overpriced white BOPP film. Unfortuantely, I have not yet been able to find a source of inexpensive white BOPP film.
+
+Plain brown hardboard is even more readily available than white hardboard. A quick inexpensive portable solution if only plain hardboard is available is to use a layer of [white kraft butcher paper](https://www.amazon.com/dp/B07TKGKB63/) in combination with a layer of BOPP film.
+
+A small battery powered crown stapler such as the [Milwaukee Tool M12 3/8" Crown Stapler](https://www.milwaukeetool.com/Products/Power-Tools/Woodworking/Nailers-and-Staplers/Staplers/2447-20) is one way to make quick work of affixing BOPP film and/or butcher paper to hardboard.
+
+
+
 # Ordering Links
 
 ## DPI Dry-Erase Panels

@@ -89,6 +89,9 @@ It is important to remember food catering services typically need at least one t
 
 If you don't have enough smooth contiguous wall space to satisfy the needs of every participant table, consider combining WizardWall based whiteboards with other temporary whiteboard solutions.
 
+# Cellophane Film Alternative
+The *Cellophane Film Hack* section of the [whiteboard panels sitting on artist easels]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/#cellophane-film-hack) page explains how some inexpensive variations of florist's cellophane can be used instead of WizardWall.
+
 # Ordering Links
 
 ## WizardWall Rolls
