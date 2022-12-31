@@ -262,6 +262,38 @@ Sources:
   - [Star: SKU 200299: Grip-Rite PrimeGuard Plus #8 x 1-1/4 In. Premium Star Green Deck Screw (250 Ct. Jar)](https://www.doitbest.com/shop/hardware/fasteners/screws/deck-screws/grip-rite-primeguard-plus-8-x-1-14-in-premium-star-green-deck-screw-250-ct-jar?SKU=200299)
   - [Star: SKU 729956: Do it #8 x 1-1/4 In. Primeguard Plus Premium-Coated Combo Bugle-Head Exterior Screw (1 Lb. Box)](https://www.doitbest.com/shop/hardware/fasteners/screws/deck-screws/do-it-8-x-1-14-in-primeguard-plus-premium-coated-combo-bugle-head-exterior-screw-1-lb-box)
 
+## Moulding Divider
+
+Full-sized 4'x8' sheet materials such as DPI Frost White panels won't fit into most of the rental vehicles available from an on-airport rental car center.  A  _premium SUV_, such as a [Chevy Surburban](https://fourwheeltrends.com/can-a-4x8-sheet-of-plywood-fit-in-a-suburban/), and perhaps a _full-sized mini-van_, such as a [Chrysler Pacifica](https://vehq.com/can-you-fit-4x8-sheet-of-plywood-in-chrysler-pacifica/), are potential exceptions.
+
+Fitting the furring strips into a standard sized SUV or mini-van is less challenging than the panels. The furring strips can slide under the front seats, and/or intrude into the front passenger seating space.
+
+One solution for being able to transport panels in an airport rental vehicle is cutting the panels in half. Most lumber yards will do this for a small charge. Alternatively, you can cut it yourself using a cordless circular saw. 
+
+With the panels cut in half, they also become much easier to move on a hotel bellman cart.
+
+The downside is you no longer have a solid panel for bridging the span between easels. The furring strips (reinforcing ribs) must bear all the spanning load. Furthermore, the cut panels are likely to flop around a bit more, and are less likely to stay aligned. One solution for improving alignment is moulding dividers. A [continuous hinge](https://www.homedepot.com/p/Everbilt-1-1-16-in-x-48-in-Bright-Nickel-Continuous-Hinge-15370/202034110) is another possibility.
+
+Another variation is to use corrugated plastic panels instead of coated hardboard panels such as DPI Frost White. Creating a hinge in a corrugated plastic panel is as simple as only cutting one side of a flute. This can be done with either a utility knife, or a tool such as the [Saw Trax Coro-Claw](https://www.amazon.com/Saw-Trax-CCD4-Coro-Claw-Coroplast/dp/B00DTNNTTY). Using corrugated plastic will necessitate using the [Cellophane Film Hack](#cellophane-film-hack).
+
+
+Quantity: 1 per every 2 cut panels
+
+Usage:
+
+* Keeping surfaces aligned between panels
+
+Sources:
+
+* Menards
+  - [1-3/8" x 8' White PVC FRP Divider Moulding](https://www.menards.com/main/mouldings/panel-mouldings/1-3-8-x-8-pvc-frp-divider-moulding/91400/p-1444423153635-c-8164.htm)
+* Lowe's
+  - [Sequentia 1.42-in x 8-ft Finished Vinyl Wall Panel Moulding](https://www.lowes.com/pd/Sequentia-8-White-PVC-Fiberglass-Reinforced-Plastic-Divider/3044511)
+  - [Sequentia 1.42-in x 10-ft Finished Vinyl Wall Panel Moulding](https://www.lowes.com/pd/Sequentia-1-42-in-x-10-ft-Prefinished-Vinyl-Wall-Panel-Moulding/4768249)
+* Do It Best
+  - [ACP Bath & Kitchen 1/8 In. x 8 Ft. White PVC Divider Wall Paneling Molding](https://www.doitbest.com/shop/building-materials/wall-materials/wall-paneling-and-accessories/wall-paneling-moldings/acp-bath-and-kitchen-18-in-x-8-ft-white-pvc-divider-wall-paneling-molding?SKU=106666)
+* Home Depot
+  - [855 1/4 in. x 1-1/8 in. x 96 in. PVC Composite White FRP Divider Moulding fits 1/8 in. Material](https://www.homedepot.com/p/Stabilit-855-1-4-in-x-1-1-8-in-x-96-in-PVC-Composite-White-FRP-Divider-Moulding-fits-1-8-in-Material-HDPVC471869/321338686)
 
 # Whiteboard Panels Sourcing Details
 
