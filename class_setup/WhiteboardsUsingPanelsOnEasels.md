@@ -93,8 +93,7 @@ The main downsides to panel based temporary whiteboards are:
 
 # Conference Room Sizing 
 
-The conference room sizing concerns are almost the same as those for using WizardWall
-[those for using WizardWall]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/#conference-room-sizing). The only difference is a little more floor space will often be required to account for the easels. 
+The conference room sizing concerns are almost the same as [those for using WizardWall]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/#conference-room-sizing). The only difference is a little more floor space will often be required to account for the easels. 
 
 A full class of 30 participants, will potentially need as many as 13 panels. Two for each participant table, and one for the instructor. Assuming a 4 foot deep by 8 foot wide footprint for each panel, suggests an additional 416 square feet of floor space will be needed for the easels and panels. 
 
