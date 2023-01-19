@@ -37,6 +37,7 @@ A couple restaurants a short drive away include:
 
 I expect to do a bit more restaurant sleuthing once on the ground, and welcome any guidance.
 
+
 {% include_relative _includes/course_tour_poster.md %}
 
 # Tickets
