@@ -25,16 +25,13 @@ By default, with any course which fails to reach critical mass, your card on fil
 
 You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Washington DC and the Washington DC course fails to reach critical mass, you can choose to transfer your pre-registration to Florida where you can enjoy a little warm weather.
 
-* [Milwaukee: January 24-26, 2022: Locked-In]({{site.url}}{{site.baseurl}}/mke_clp/)
+* [Milwaukee, WI, USA: January 24-26, 2022: Locked-In]({{site.url}}{{site.baseurl}}/mke_clp/)
 
-* [Orange County: February 7-9, 2023]({{site.url}}{{site.baseurl}}/clp/orange_county/)
+* [Atlanta, GA, USA: February 21-23, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta/)
 
-* [Washington DC: February 15-17, 2023]({{site.url}}{{site.baseurl}}/clp/washington_dc/)
+* [Dublin, Ireland: February 28-March 2, 2023]({{site.url}}{{site.baseurl}}/clp/dublin/)
 
-* [Atlanta: February 21-23, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta/)
-
-* [Miami/Ft. Lauderdale: February 28 - March 2, 2023]({{site.url}}{{site.baseurl}}/clp/miami/)
-
+* [Dubai, United Arab Emirates: March 14-16, 2023]({{site.url}}{{site.baseurl}}/clp/dubai/)
 
 # LeSS.Works Summary
 
