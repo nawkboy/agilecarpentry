@@ -10,7 +10,7 @@ Please send me an email at <a href="mailto: james@agilecarpentry.com">james@agil
 
 For those of you working in a contract capacity, the loss of billable time during the work week is often a greater concern than the cost of the course itself. This time compressed Certified LeSS Practitioner course is designed with you in mind.
 
-Unlike a normal 3-day course with 8 hour days, the course will be compressed into only two 12 hour days and run at an on-airport location. 
+Unlike a normal 3-day course with 8 hour days, the course will be compressed into only two 12 hour days and run at an on-airport location or extremely close by. 
 
 By limiting the venues to only include those walk-able from airport security, you will be able to fly-in Friday evening and walk directly to your hotel room. Similarly, you will be able to roll out of your hotel bed early Monday morning and be at the airport security checkpoint only moments later. With a non-stop outbound flight, you are likely to be at your client's office by at least mid-morning.
 
@@ -42,12 +42,13 @@ The constraint of keeping non-stop flights short for both east and west coast at
     + The Hyatt Grand is the more luxurious and more expensive of of the two hotels. I have stayed at both.
     + DFW is the second largest hub in the nation. 
     + DFW is a primary hub for American Airlines.
+    + The Gaylord Texan is only a short Uber ride away from the airport.
 
 * [Denver International Airport (DEN)](https://www.flydenver.com/)
   + [Westin Denver International Airport](https://www.marriott.com/en-us/hotels/denaw-the-westin-denver-international-airport/overview/)
   + Notes:
-    + One of my favorite on-airport hotels given the very cool architecture and Westin nice beds. I have stayed here several times when I missed a connecting flight.
-    + The nearby Denver Gaylord is also very nice and tempting, yet that introduces an Uber ride.
+    + One of my favorite on-airport hotels given the very cool architecture and nice Westin beds. I have stayed here several times when I missed a connecting flight.
+    + The Gaylord Rockies is only a short Uber ride away from the airport.
     + Denver is a bit far for any east coast participants.
     + DEN is the third largest hub in the nation. 
     + DEN is a primary hub for United Airlines.
@@ -59,7 +60,11 @@ The constraint of keeping non-stop flights short for both east and west coast at
     + ORD is the fourth largest hub in the nation.
     + ORD is a primary hub for United Airlines, and a major hub for American Airlines.
 
-* Slightly smaller centrally located hub airports such as Detroit (DTW), Minneapolis (MSP), and Nashville (BNA) may also be workable based on where pre-registered participants happen to be based.
+* Slightly smaller centrally located hub airports such as Detroit (DTW), Minneapolis (MSP), and Nashville (BNA) may also be workable based on where pre-registered participants happen to be based and what non-stop flights are available.
+
+# Venue Specifics May Differ From Design Intent
+
+The above vision explains the intent. Once all the pricing and venue research is done, it is possible a very near airport resort venue such as one of the Gaylord Hotels a short Uber ride from DFW or DEN will be more sensible.
 
 # Agenda Tweak
 Aside from the contents of Day 2 being split between Day 1 and Day 3, the standard agenda applies.
