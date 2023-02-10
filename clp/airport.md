@@ -24,7 +24,7 @@ I will be shocked if I am able to provide any significant discounts for this cou
 
 The exact choice of hotel and venue will depend on where pre-registered attendees are based, and which on-airport hotels have availability with workable pricing. 
 
-The constraint of keeping non-stop flights short for both east and west coast attendees results in the short list below. I have already requested tentative weekend pricing from each of these venues for March 20 to March 21. 
+The constraint of keeping non-stop flights short for both east and west coast attendees results in the short list below. I have already requested tentative weekend pricing from each of these venues for Saturday, March 25 to Sunday, March 26. Exact dates could change, but this will refine what is possible.
 
 * [Atlanta Hartsfield-Jackson International Airport (ATL)](https://www.atl.com/)
   + [Marriott Gateway Hotel](https://www.marriott.com/en-us/hotels/atlma-atlanta-airport-marriott-gateway/overview/)
