@@ -34,6 +34,8 @@ Agile Carpentry
 
 # Training Venue Details
 
+*UPDATE: I don't yet know if the venue will need to change with the new dates, hopefully not. I plan to keep the course in the Buckhead area, or potentially the Perimeter area just to the north if I must. I have sent a RFQ to over two dozen hotels in the Buckhead and Perimeter area, one of which will surely have last minute space available.*
+
 [Hyatt Place Atlanta/Buckhead](https://www.hyatt.com/en-US/hotel/georgia/hyatt-place-atlanta-buckhead/atlzb)  
 3242 Peachtree Road NE, Atlanta, Georgia, United States, 30305  
 
