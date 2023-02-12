@@ -62,7 +62,7 @@ I expect to do a bit more restaurant sleuthing once on the ground, and welcome a
 
 {% include_relative _includes/course_tour_poster.md %}
 
-# Consider Staying On-Airport Sunday Night
+# Consider Staying On-Airport The Last Night
 
 The training venue will be on the northern side of Atlanta, likely in the Buckhead area. This is about 30 minutes away from [Atlanta Hartsfield-Jackson International Airport (ATL)](https://www.atl.com/).
 
