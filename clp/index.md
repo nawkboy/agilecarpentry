@@ -27,7 +27,7 @@ You will typically be given an option to attend a later course as long as capaci
 
 * [Milwaukee, WI, USA: January 24-26, 2022: Locked-In]({{site.url}}{{site.baseurl}}/mke_clp/)
 
-* [Atlanta, GA, USA: February 21-23, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta/)
+* [Atlanta, GA, USA: February 18-20, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta/)
 
 * [Dublin, Ireland: February 28-March 2, 2023]({{site.url}}{{site.baseurl}}/clp/dublin/)
 
