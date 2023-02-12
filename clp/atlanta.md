@@ -62,6 +62,17 @@ I expect to do a bit more restaurant sleuthing once on the ground, and welcome a
 
 {% include_relative _includes/course_tour_poster.md %}
 
+# Consider Staying On-Airport Sunday Night
+
+The training venue will be on the northern side of Atlanta, likely in the Buckhead area. This is about 30 minutes away from [Atlanta Hartsfield-Jackson International Airport (ATL)](https://www.atl.com/).
+
+If you have an early outbound flight, you may want to consider spending the last night at one of the on-airport hotels. These are connected to the aiport terminal by the airport's [SkyTrain](https://martaguide.com/things-to-know-about-the-atlanta-skytrain/). This is the same SkyTrain you will have taken to get to the airport rental car center when you flew in.
+
+* [Marriott Gateway Hotel](https://www.marriott.com/en-us/hotels/atlma-atlanta-airport-marriott-gateway/overview/)
+* [Renaissance Atlanta Airport Gateway](https://www.marriott.com/en-us/hotels/atlag-renaissance-atlanta-airport-gateway-hotel/overview/)
+* [SpringHill Suites Gateway](https://www.marriott.com/en-us/hotels/atlgi-springhill-suites-atlanta-airport-gateway/overview/)
+* [AC Hotel by Marriott Atlanta Airport Gateway](https://www.marriott.com/en-us/hotels/atlat-ac-hotel-atlanta-airport-gateway/overview/)
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/atlanta-metro-certified-less-practitioner-workshop-2023-q1" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Feb 21-23=>Feb 18-20: Get Tickets</a>
