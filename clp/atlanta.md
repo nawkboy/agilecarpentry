@@ -9,7 +9,7 @@ layout: book
 
 # Scheduling Update
 
-Everyone who is currently signed up for the Atlanta Certified LeSS Practitioner course would prefer to have it over the long weekend instead (February 18-20). The venue scheduling shuffle is in flight!
+Everyone who is currently signed up for the Atlanta Certified LeSS Practitioner course would prefer to have it over the long weekend instead (February 18-20). The same Hyatt Place Atlanta/Buckhead training venue has been confirmed for the new dates.
 
 What this means for you:
 * No need to take off work
@@ -20,8 +20,6 @@ What this means for you:
 * Spend Monday night at one of four on-airport hotels a short tram ride away from the security checkpoint
 * Non-stop flights to almost everywhere in the United States
 * Meet friendly Atlanta-based classmates who are also interested in LeSS
-
-Please reach out ASAP if you are interested.
 
 James Carpenter  
 Certified LeSS Trainer  
@@ -34,7 +32,7 @@ Agile Carpentry
 
 # Training Venue Details
 
-*UPDATE: I don't yet know if the venue will need to change with the new dates, hopefully not. I plan to keep the course in the Buckhead area, or potentially the Perimeter area just to the north if I must. I have sent a RFQ to over two dozen hotels in the Buckhead and Perimeter area, one of which will surely have last minute space available.*
+*UPDATE: I have confirmed event space at the original venue with the new dates. The training will be conducted at the Hyatt Place Atlanta/Bucket from February 18 to February 20 (President's Day Weekend).*
 
 [Hyatt Place Atlanta/Buckhead](https://www.hyatt.com/en-US/hotel/georgia/hyatt-place-atlanta-buckhead/atlzb)  
 3242 Peachtree Road NE, Atlanta, Georgia, United States, 30305  
