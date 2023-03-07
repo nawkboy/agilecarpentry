@@ -1,5 +1,5 @@
 ---
-title: Milwaukee Certified LeSS Practitioner Course
+title: Weekend Milwaukee Certified LeSS Practitioner Course
 image: /assets/images/clp/MilwaukeeCLPWebsitePageHeaderMar24_26.png
 author: James
 layout: book
