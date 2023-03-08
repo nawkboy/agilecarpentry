@@ -11,6 +11,6 @@ Flying-in is also extremely reasonable for most people in the United States and 
 
 For those of you on a tight schedule who are flying, staging yourself at the [on-airport Hilton at Chicago O'Hare](https://www.hilton.com/en/hotels/chiohhh-hilton-chicago-ohare-airport/) on Sunday night will let you catch an early non-stop flight back home on Monday morning. The money you save by returning your rental car early, will easily pay for the slightly higher premium of spending your last night a few steps away from the security checkpoint.
 
-For those of you doing contract work, the money you save by minimizing lost billable time should easily compensate for any additional travel costs.
+The money you save by minimizing lost billable time may easily compensate for any additional travel costs.
 
 See the travel logistics section for all your travel and hotel options.
