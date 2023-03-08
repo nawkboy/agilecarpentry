@@ -21,17 +21,20 @@ If any of these locations is particularly compelling to you, I strongly suggest 
 
 # Pre-Registrations Are Transferable to Other Locations
 
-By default, with any course which fails to reach critical mass, your card on file will never be charged.
+With any course which fails to reach critical mass, your card on file will never be charged.
 
-You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Washington DC and the Washington DC course fails to reach critical mass, you can choose to transfer your pre-registration to Florida where you can enjoy a little warm weather.
+You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Washington DC and the Washington DC course fails to reach critical mass, you can choose to transfer your pre-registration to another upcoming location.
 
-* [Milwaukee, WI, USA: January 24-26, 2022: Locked-In]({{site.url}}{{site.baseurl}}/mke_clp/)
+* Milwaukee, WI, USA: January 24-26, 2022: Delivered
 
-* [Atlanta, GA, USA: February 18-20, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta/)
+* Atlanta, GA, USA: February 18-20, 2023: Delivered
 
-* [Dublin, Ireland: February 28-March 2, 2023]({{site.url}}{{site.baseurl}}/clp/dublin/)
+* Dublin, Ireland: Anticipating co-located remote training in a video conferencing room in a company office in Waterford, Ireland there instead. Re-scheduling is in progress. If you are interested in attending please let me know.
 
 * [Dubai, United Arab Emirates: March 14-16, 2023]({{site.url}}{{site.baseurl}}/clp/dubai/)
+
+* [Milwaukee, WI, USA: March 24-26, 2023]({{site.url}}{{site.baseurl}}/clp/milwaukee_weekend/)
+
 
 # LeSS.Works Summary
 
