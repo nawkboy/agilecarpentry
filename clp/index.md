@@ -29,7 +29,7 @@ You will typically be given an option to attend a later course as long as capaci
 
 * Atlanta, GA, USA: February 18-20, 2023: Delivered
 
-* Dublin, Ireland: Anticipating co-located remote training in a video conferencing room in a company office in Waterford, Ireland there instead. Re-scheduling is in progress. If you are interested in attending please let me know.
+* Dublin, Ireland: Anticipating co-located remote training in a video conferencing room in a company office in Waterford, Ireland instead. Re-scheduling is in progress. If you are interested in attending please let me know.
 
 * [Dubai, United Arab Emirates: March 14-16, 2023]({{site.url}}{{site.baseurl}}/clp/dubai/)
 
