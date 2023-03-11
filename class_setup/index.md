@@ -19,9 +19,9 @@ Each table of participants in a system modeling heavy version of a Certified LeS
 
 A few possible solutions for temporary whiteboards include:
 
-* [WizardWall]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/)
+* [Easels In Flight Cases]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/)
 
-* [Panels on Easels]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/)
+* [WizardWall]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/)
 
 The remainder of the hosting requirements are described below, and are far less exotic than the massive whiteboard requirement.
 
@@ -44,10 +44,9 @@ Durable Equipment Available:
 * PA system in a flight case
 * Projector in a flight case
 * Projector screen in a flight case
-* Easels for whiteboard panels in a flight case
+* Whiteboard Easels in a flight case
 
 Services Available:
-* Arrange to have DPI Frost White dry-erase panels and associated materials drop shipped to a client location
 * Assist in the location, booking, and costing calculations of off-site meeting room space and associated catering services
 * Provide kits containing various office supplies required by the training
 

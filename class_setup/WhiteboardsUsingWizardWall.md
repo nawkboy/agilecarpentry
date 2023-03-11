@@ -11,9 +11,9 @@ noindex: true
 
 Each table of participants in a system modeling heavy version of a Certified LeSS Practitioner course require far more whiteboard space than is typically available in a conference room. A variety of creative solutions exist for facilitating the required whiteboard space.
 
-The easiest solution for creating a large expanse of temporary whiteboards is to use [WizardWall](https://wizardwall.com/).
+One solution for creating a large expanse of temporary whiteboards is to use [WizardWall](https://wizardwall.com/).
 
-If there is not enough smooth wall surface for WizardWall to provide all the temporary whiteboards needed, consider using [whiteboard panels sitting on artist easels]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/).
+Agile Carpentry now has a set of [flight cases with easels]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/) which provide the needed whiteboard space. In most cases, this has become an easier solution than relying upon WizardWall.
 
 All the details including the huge amount of contiguous smooth wall space required are provided below the photos.
 
