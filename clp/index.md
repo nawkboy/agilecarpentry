@@ -31,8 +31,6 @@ You will typically be given an option to attend a later course as long as capaci
 
 * Dublin, Ireland: Anticipating co-located remote training in a video conferencing room in a company office in Waterford, Ireland instead. Re-scheduling is in progress. If you are interested in attending please let me know.
 
-* [Dubai, United Arab Emirates: March 14-16, 2023]({{site.url}}{{site.baseurl}}/clp/dubai/)
-
 * [Milwaukee, WI, USA: March 24-26, 2023]({{site.url}}{{site.baseurl}}/clp/milwaukee_weekend/)
 
 
