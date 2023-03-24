@@ -4,8 +4,6 @@
 - title: Courses
   link: 'https://less.works/course_filters/jamesandgene-34'
   dropdown:
-    - title: Milwaukee Weekend
-      link: /clp/milwaukee_weekend/
     - title: Milwaukee
       link: /mke_clp/
     - title: Atlanta
