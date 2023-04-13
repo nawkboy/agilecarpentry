@@ -21,14 +21,14 @@ The Hilton Garden Inn is just over a block away from the [San Antonio Riverwalk]
 The venue location allows Agile Carpentry to cost effectively provide fantastic lunches outside of the training room along the Riverwalk. A few of the Riverwalk restaurants I am considering include:
 
 * [Salt Grass Steakhouse](https://www.saltgrass.com/location/saltgrass-san-antonio-riverwalk/)
-* [Bubba Gump Shrimp](https://www.bubbagump.com/location/bubba-gump-san-antonio-tx/)
-* [Hard Rock Cafe](https://www.hardrockcafe.com/location/san-antonio/)
 * [Paesanos River Walk](https://www.paesanosriverwalk.com/)
 * [Boudros](https://www.boudros.com)
+* [Bubba Gump Shrimp](https://www.bubbagump.com/location/bubba-gump-san-antonio-tx/)
+* [Hard Rock Cafe](https://www.hardrockcafe.com/location/san-antonio/)
 
 Any of these will likely be more pleasant than a catered lunch in the event space. All of these have relatively fast high volume kitchens and take reservations.
 
-Note: The inevitable course related lunch conversations are considered to be critical to training, and students are therefore required to attend all meals. Those of you subject to [U.S. General Services Adminstration regulations](https://www.gsa.gov/cdnstatic/SIN_C541_4D_ODC_Guidance_for_Conferences-Rewrite.pdf) will recognize this allows you to participate as you socialize with and learn from your fellow classmates.
+Note: The inevitable course related lunch conversations are considered to be critical to training, and students are therefore required to attend all meals. Those of you subject to [U.S. General Services Administration regulations](https://www.gsa.gov/cdnstatic/SIN_C541_4D_ODC_Guidance_for_Conferences-Rewrite.pdf) will recognize this allows you to participate as you socialize with and learn from your fellow classmates.
 
 # Fiesta
 
