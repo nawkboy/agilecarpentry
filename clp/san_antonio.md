@@ -30,16 +30,16 @@ Any of these will likely be more pleasant than a catered lunch in the event spac
 
 Note: The inevitable course related lunch conversations are considered to be critical to training, and students are therefore required to attend all meals. Those of you subject to [U.S. General Services Administration regulations](https://www.gsa.gov/cdnstatic/SIN_C541_4D_ODC_Guidance_for_Conferences-Rewrite.pdf) will recognize this allows you to participate as you socialize with and learn from your fellow classmates.
 
+# Commemorative Drink-ware
+Agile Carpentry is expecting to provide commemorative drink-ware for participants. This has been included in the price of the course. In the event of logistical complications, Agile Carpentry reserves the right conduct the training without providing the commemorative drink-ware.
+
+Those of you subject to [U.S. General Services Administration regulations regarding gifts](https://training.smartpay.gsa.gov/rules-about-gifts) will recognize this triggers the gift exclusion rule of "Anything which is paid for by the Government or secured by the Government under Government contract".
+
 # Fiesta
 
 As luck would have it, the course just happens to be scheduled immediately after the annual fiesta along the Riverwalk. For those coming from out of town, consider coming a little early to experience the fiesta.
 
 [Fiesta San Antonio Website](https://fiestasanantonio.org/)
-
-# Course Anchored By Private Client
-Agile Carpentry is grateful to have a private client who has requested this training. This client has generously agreed to allow Agile Carpentry to fill any remaining seats with public students. 
-
-Agile Carpentry is collaborating with the private client to ensure as many people in the community as possible have an opportunity to attend, while concurrently making sure all the private client's students have a seat. It is currently expected there will be enough open seats for anyone from the community who wants to attend.
 
 # Tickets
 
