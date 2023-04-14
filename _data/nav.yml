@@ -4,6 +4,8 @@
 - title: Courses
   link: 'https://less.works/course_filters/jamesandgene-34'
   dropdown:
+    - title: San Antonio
+      link: /clp/san_antonio/
     - title: Milwaukee
       link: /mke_clp/
     - title: Atlanta
