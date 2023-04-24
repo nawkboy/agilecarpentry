@@ -1,11 +1,11 @@
 ---
 title: San Antonio Certified LeSS Practitioner Course
-image: /assets/images/clp/SanAntonioCLPWebsitePageHeaderMay1to3.png
+image: /assets/images/clp/SanAntonioCLPWebsitePageHeaderMay2to4.png
 author: James
 layout: book
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-q2-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">May 1 - 3: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-q2-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">May 2 - 4: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -37,13 +37,13 @@ Those of you subject to [U.S. General Services Administration regulations regard
 
 # Fiesta
 
-As luck would have it, the course just happens to be scheduled immediately after the annual fiesta along the Riverwalk. For those coming from out of town, consider coming a little early to experience the fiesta.
+As luck would have it, the course just happens to be scheduled after the annual fiesta along the Riverwalk. For those coming from out of town, consider coming a little early to experience the fiesta.
 
 [Fiesta San Antonio Website](https://fiestasanantonio.org/)
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-q2-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">May 1 - 3: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-q2-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">May 2 - 4: Get Tickets</a>
 
 
 
