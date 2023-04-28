@@ -41,6 +41,17 @@ As luck would have it, the course just happens to be scheduled after the annual 
 
 [Fiesta San Antonio Website](https://fiestasanantonio.org/)
 
+# Air Force Training Catalogue
+This course is now listed in the United State Air Force's *Education and Training Management System (ETMS)* under *"Certified LeSS Practitioner: Principles to Practices"*. This should make getting approval much faster and easier for Air Force related personnel.
+
+As I understand it, since the course is now listed in ETMS, the process only involves the following steps:
+* Submit form SF182 (Authorization, Agreement, and Certification of Training).
+* Once your SF182 is approved, your local purchase card holder will book the course on your behalf. 
+
+I have very little insight into the labyrinth of the Air Force requisition process, but hopefully the above incantations will be helpful breadcrumbs for those who need them. If you need more help, please reach out to me and I can direct you to someone who knows a lot more than I do regarding the Air Force specific details.
+
+However it works, please make sure to reach out and let me know you are coming so I can share with you the pre-read content. I am suspicous that might otherwise get lost along the way.
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-q2-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">May 2 - 4: Get Tickets</a>
