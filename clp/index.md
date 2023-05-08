@@ -26,11 +26,8 @@ With any course which fails to reach critical mass, your card on file will never
 You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Washington DC and the Washington DC course fails to reach critical mass, you can choose to transfer your pre-registration to another upcoming location.
 
 * Milwaukee, WI, USA: January 24-26, 2022: Delivered
-
 * Atlanta, GA, USA: February 18-20, 2023: Delivered
-
-* Dublin, Ireland: Anticipating co-located remote training in a video conferencing room in a company office in Waterford, Ireland instead. Re-scheduling is in progress. If you are interested in attending please let me know.
-
+* San Antonio, TX, USA: May 2-4, 2023: Delivered
 * [Milwaukee, WI, USA: March 24-26, 2023]({{site.url}}{{site.baseurl}}/clp/milwaukee_weekend/)
 
 
