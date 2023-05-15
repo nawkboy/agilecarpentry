@@ -4,16 +4,18 @@
 - title: Courses
   link: 'https://less.works/course_filters/jamesandgene-34'
   dropdown:
-    - title: San Antonio
-      link: /clp/san_antonio/
+    - title: Atlanta Summer 2023
+      link: /clp/atlanta_summer_2023/
+    - title: Seattle Summer 2023
+      link: /clp/seattle_summer_2023/
+    - title: San Antonio Fall 2023
+      link: /clp/san_antonio_fall_2023/    
     - title: Milwaukee
       link: /mke_clp/
-    - title: Atlanta
-      link: /clp/atlanta/
     - title: Weekend
       link: /clp/airport/      
     - title: LeSS.Works Summary
-      link: 'https://less.works/course_filters/jamesandgene-34'    
+      link: 'https://less.works/course_filters/jamesandgene-34'
 
 - title: About
   link: '/about/'
