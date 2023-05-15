@@ -16,10 +16,10 @@ I have very little insight into the labyrinth of the Air Force requisition proce
 
 However it works, please make sure to reach out and let me know you are coming so I can share with you the pre-read content. I am suspicous that might otherwise get lost along the way.
 
+# Lunches
+The inevitable course related lunch conversations are considered to be critical to training, and students are therefore required to attend all meals. Those of you subject to [U.S. General Services Administration regulations](https://www.gsa.gov/cdnstatic/SIN_C541_4D_ODC_Guidance_for_Conferences-Rewrite.pdf) will recognize this allows you to participate as you socialize with and learn from your fellow classmates.
+
 # Commemorative Drink-ware
 Agile Carpentry is expecting to provide commemorative drink-ware for participants. This has been included in the price of the course. In the event of logistical complications, Agile Carpentry reserves the right conduct the training without providing the commemorative drink-ware.
 
 Those of you subject to [U.S. General Services Administration regulations regarding gifts](https://training.smartpay.gsa.gov/rules-about-gifts) will recognize this triggers the gift exclusion rule of "Anything which is paid for by the Government or secured by the Government under Government contract".
-
-
-

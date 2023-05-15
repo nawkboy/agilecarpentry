@@ -47,3 +47,6 @@ Each participant will be a Certified LeSS Practitioner and will get an account o
 
 All participants get access to the book: _Large-Scale Scrum: More with LeSS_
 
+# Air-Force Specifics
+
+This course is listed in the [Air Force’s Education and Training Management System (ETMS)]({{site.url}}{{site.baseurl}}/clp/airforce_specifics/). More details are available [here]({{site.url}}{{site.baseurl}}/clp/airforce_specifics/).
