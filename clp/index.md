@@ -9,27 +9,27 @@ layout: book
 
 # Overview
 
-In early 2023 I will be going on the road to deliver a Certified LeSS Practitioner course to all of the cities below.
+I am going on the road to deliver a Certified LeSS Practitioner course to all of the cities below.
 
-As soon as a course obtains enough pre-registrations to become financially viable, I will finalize the venue details, process all pre-registration credit cards, and raise the price.
 
-# Suggested Actions
 
-If any of these locations is particularly compelling to you, I strongly suggest you do the following:
-* Pre-register ASAP to take advantage of the pre-registration discount.
-* Encourage your friends and peers to pre-register as well to ensure the course reaches critical mass.
+* Milwaukee, WI, USA: January 24-26, 2022: Delivered
+* Atlanta, GA, USA: February 18-20, 2023: Delivered
+* San Antonio, TX, USA: May 2-4, 2023: Delivered
+* [Atlanta, GA, USA: June 13-15, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta_summer_2023/)
+* [Seattle, WA, USA: June 21-23, 2023]({{site.url}}{{site.baseurl}}/clp/seattle_summer_2023/)
+* [Dallas/Fort Worth, TX, USA: July 11-13, 2023]({{site.url}}{{site.baseurl}}/clp/dallas_summer_2023/)
+* [Denver, CO, USA: July 18-20, 2023]({{site.url}}{{site.baseurl}}/clp/denver_summer_2023/)
+* [Milwaukee, WI, USA: August 28-30, 2023]({{site.url}}{{site.baseurl}}/clp/milwaukee_summer_2023/)
+* [San Antonio, TX, USA: September 12-14, 2023]({{site.url}}{{site.baseurl}}/clp/san_antonio_fall_2023/)
+
+As soon as a course obtains enough pre-registrations to become financially viable, I will finalize the venue details, and process all pre-registration credit cards.
 
 # Pre-Registrations Are Transferable to Other Locations
 
 With any course which fails to reach critical mass, your card on file will never be charged.
 
-You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Washington DC and the Washington DC course fails to reach critical mass, you can choose to transfer your pre-registration to another upcoming location.
-
-* Milwaukee, WI, USA: January 24-26, 2022: Delivered
-* Atlanta, GA, USA: February 18-20, 2023: Delivered
-* San Antonio, TX, USA: May 2-4, 2023: Delivered
-* [Milwaukee, WI, USA: March 24-26, 2023]({{site.url}}{{site.baseurl}}/clp/milwaukee_weekend/)
-
+You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Altanta and the Atlanta course fails to reach critical mass, you can choose to transfer your pre-registration to another upcoming location.
 
 # LeSS.Works Summary
 
