@@ -12,7 +12,7 @@ layout: book
 
 # Training Venue Details
 
-TBD: Very likely in the Buckhead area at a venue near a large number of walkable restaurants, similar to my last course in Atlanta.
+TBD: Very likely in the Buckhead area at a venue near a large number of walkable restaurants.
 
 Great advantages of the Buckhead area venues under consideration include:
 * Proximity to an area where many potential attendees live
