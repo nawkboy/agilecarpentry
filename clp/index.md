@@ -32,9 +32,20 @@ With any course which fails to reach critical mass, your card on file will never
 
 You will typically be given an option to attend a later course as long as capacity allows. For example, if you pre-register for Altanta and the Atlanta course fails to reach critical mass, you can choose to transfer your pre-registration to another upcoming location.
 
+# Course Agenda
+
+To see the course agenda, please click on any of the listings above. The [listing for Milwaukee]({{site.url}}{{site.baseurl}}/clp/milwaukee_summer_2023/) is as good as any.
+
+{% include_relative _includes/course_tour_poster.md %}
+
+
+# Air-Force Specifics
+
+These courses are listed in the [Air Force’s Education and Training Management System (ETMS)]({{site.url}}{{site.baseurl}}/clp/airforce_specifics/). More details are available [here]({{site.url}}{{site.baseurl}}/clp/airforce_specifics/).
+
 # LeSS.Works Summary
 
 * [LeSS.works summary of all courses by James Carpenter or Gene Gendel](https://less.works/course_filters/jamesandgene-34)
 
-{% include_relative _includes/course_tour_poster.md %}
+
 
