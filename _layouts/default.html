@@ -35,7 +35,50 @@
   <link rel="prerender" href="{{'/blog/' | relative_url}}" />
   {% endif %}
 
-  {% seo %}
+  {% if page.trainingevent %}
+    <!-- custom seo stuff goes here-->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "{{page.title}}",
+      "startDate": "{{page.trainingevent.startDate}}",
+      "endDate": "{{page.trainingevent.endDate}}",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+      "location": {
+        "@type": "Place",
+        "name": "{{page.trainingevent.location.name}}",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "{{page.trainingevent.location.address.streetAddress}}",
+          "addressLocality": "{{page.trainingevent.location.address.addressLocality}}",
+          "postalCode": "{{page.trainingevent.location.address.postalCode}}",
+          "addressRegion": "{{page.trainingevent.location.address.addressRegion}}",
+          "addressCountry": "{{page.trainingevent.location.address.addressCountry}}"
+        }
+      },
+      "image": [
+        {% for i in page.trainingevent.images -%}
+          "{{ i }}",
+        {% endfor -%}
+       ],
+      "description": "{{ page.trainingevent.description | strip }}",
+      "performer": {
+        "@type": "Person",
+        "name": "{{page.trainingevent.trainer}}"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "{{ page.trainingevent.organizer.name }}",
+        "url": "{{ page.trainingevent.organizer.url }}"
+      }
+    }
+  </script>
+
+  {% else %}
+    <!-- standard seo stuff goes here-->
+    {% seo %}
+  {% endif %}  
 
   {% if page.layout != 'post' %}
   <meta property="og:image" content="{{site.url}}{{site.default-image}}" />
