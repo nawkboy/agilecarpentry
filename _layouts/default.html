@@ -37,6 +37,22 @@
 
   {% if page.trainingevent %}
     <!-- custom seo stuff goes here-->
+    <title>{{page.title}} | {{site.title}}</title>
+    <meta name="generator" content="Jekyll v3.9.3" />
+    <meta property="og:title" content="{{page.title}}" />
+    <meta name="author" content="{{page.author}}" />
+    <meta property="og:locale" content="en_US" />
+    <meta name="description" content="{{ page.trainingevent.description | strip }}" />
+    <meta property="og:description" content="{{ page.trainingevent.description | strip }}" /> 
+    <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
+    <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
+    <meta property="og:site_name" content="{{site.title}}" />
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{page.image}}" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="{{site.url}}{{site.baseurl}}{{page.image}}" />
+    <meta property="twitter:title" content="{{page.title}}" />
+
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
