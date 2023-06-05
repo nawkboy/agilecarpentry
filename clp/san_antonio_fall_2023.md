@@ -14,10 +14,10 @@ trainingevent:
       postalCode: "78205"
       addressRegion: "TX"
       addressCountry: "US"
-#  images:
-#    - /assets/images/clp/certified-less-practitioner.png
-#    - /assets/images/clp/certified-less-practitioner-small.png
-#  description: "Certified LeSS Practitioner course description"
+  images:
+    - /assets/images/clp/CLP_Event_1_1_aspect_ratio.png
+    - /assets/images/clp/CLP_Event_4_3_aspect_ratio.png
+    - /assets/images/clp/CLP_Event_16_9_aspect_ratio.png
   description: >
    The Certified LeSS Practitioner course is an in-depth course covering the LeSS principles, framework and rules, and guides. It provides essential information for adopting and improving LeSS to your product development group. The course contains an overview of LeSS, stories on LeSS adoptions, exercises and extensive LeSS Q&A to ensure we discuss the topics most of interest to the participants.
   trainer: "James Carpenter"
