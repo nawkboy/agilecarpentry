@@ -75,7 +75,7 @@
       },
       "image": [
         {% for i in page.trainingevent.images -%}
-          "{{ i }}",
+          "{{site.url}}{{site.baseurl}}{{i}}",
         {% endfor -%}
        ],
       "description": "{{ page.trainingevent.description | strip }}",
