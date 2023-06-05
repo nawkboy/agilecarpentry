@@ -75,7 +75,10 @@
       },
       "image": [
         {% for i in page.trainingevent.images -%}
-          "{{site.url}}{{site.baseurl}}{{i}}",
+          {% if forloop.length > 0 -%}
+            "{{site.url}}{{site.baseurl}}{{ i }}"
+            {%- unless forloop.last %},{% endunless -%}
+          {%- endif -%}
         {% endfor -%}
        ],
       "description": "{{ page.trainingevent.description | strip }}",
