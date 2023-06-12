@@ -21,6 +21,10 @@ trainingevent:
   description: >
    The Certified LeSS Practitioner course is an in-depth course covering the LeSS principles, framework and rules, and guides. It provides essential information for adopting and improving LeSS to your product development group. The course contains an overview of LeSS, stories on LeSS adoptions, exercises and extensive LeSS Q&A to ensure we discuss the topics most of interest to the participants.
   trainer: "James Carpenter"
+  offer:
+    ticketUrl: "https://agilecarpentry.ticketspice.com/atlanta-metro-certified-less-practitioner-workshop-summer-2023"
+    price: "2699"
+    priceCurrency: "USD"
   organizer:
     name: "Agile Carpentry"
     url: "https://agilecarpentry.com"
