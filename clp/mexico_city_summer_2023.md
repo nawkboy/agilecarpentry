@@ -61,7 +61,7 @@ I am expecting to deliver the course in one of the many convention hotels in Ref
 
 Of the two dozen venues I requested quotes from, the quote from the [Sheraton Maria Isabel](https://www.marriott.com/en-us/hotels/mexis-sheraton-mexico-city-maria-isabel-hotel/overview/) has been the most compelling so far. The nearby [Marriott Reforma Hotel](https://www.marriott.com/en-us/hotels/mexmc-mexico-city-marriott-reforma-hotel/overview/) provides a good backup choice.
 
-As I anticipate a smaller class, I am expecting to take the group to a different table service restaurant each day for lunch. The Reforma neighborhood is blessed with a multitude gourmet restaurants to make reservations at. This approach to lunch will provide a more social experience for everyone, and hopefully provide a break from being in an event room all day.
+As I anticipate a smaller class, I am expecting to take the group to a different table service restaurant each day for lunch. The Reforma neighborhood is blessed with a multitude of gourmet restaurants to make reservations at. This approach to lunch will provide a more social experience for everyone, and hopefully provide a break from being in an event room all day.
 
 I am expecting to have breakfast provided by the event venue.
 
