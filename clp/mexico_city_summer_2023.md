@@ -79,7 +79,7 @@ I have assembled the necessary equipment, flight cases, and logistics to cost ef
 
 This is the in-person [Certified LeSS Practitioner (CLP)](https://less.works/courses/less-practitioner) course being offered, not the [Certified LeSS Basics (CLB)](https://less.works/courses/less-basics) course. 
 
-Although the CLB may be offered by any [LeSS-Friendly Scrum Trainer](https://less.works/users/scrum-trainers), only a [Certified LeSS Trainers (CLT)](https://less.works/users/trainers) is licensed to teach the CLP course. There are twenty six CLTs globally. Only five of us live in the Americas, and none of us live anywhere near Mexico City. International airline flights are particuarly price at the moment, even when not flying with a multitude of heavy flight cases.
+Although the CLB may be offered by any [LeSS-Friendly Scrum Trainer](https://less.works/users/scrum-trainers), only a [Certified LeSS Trainers (CLT)](https://less.works/users/trainers) is licensed to teach the CLP course. There are twenty six CLTs globally. Only five of us live in the Americas, and none of us live anywhere near Mexico City. International airline flights are particuarly pricey at the moment, even when not flying with a multitude of heavy flight cases.
 
 Although the [Provisional Certified LeSS Practitioner](https://less.works/courses/provisional-less-practitioner.html) is available remotely, the CLP is always in-person. The motivations for keeping the CLP in-person, while concurrently making the Provisional CLP available can be found at this [FAQ page](https://less.works/courses/courses-faq).
 
