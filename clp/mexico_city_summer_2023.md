@@ -51,9 +51,9 @@ I'm expecting at least some of the participants to be extremely fluent in both S
 
 ## Awareness and Sensitivity
 
-By leveraging all the mitigation techniques above, and remaining sensitive to the language issue, I expect we will be able to muddle through together.
+By leveraging all the mitigation techniques above, and remaining sensitive to the language issue, I expect we will be able to help each other overcome any language related obstacles we encounter.
 
-Someone who doesn't know any English shouldn't attend, but I doubt that is likely anyway given the audience to whom this class appeals. If you managed to read everything here so far, your English is probably strong enough to be workable.
+Someone who doesn't know any English probably should not attend. That said, I doubt there will be many people who are interested in LeSS who don't know at least some English. If you managed to read everything here so far, your English is probably strong enough to be workable for the course.
 
 # Training Venue Details
 
@@ -73,17 +73,17 @@ A price of USD$2299 is as low as I can reasonably offer this course with the exp
 ## Logistical Overhead
 A system modeling heavy Certified LeSS Practitioner (CLP) requires a tremendous amount of floor space per participant, and a very large number of whiteboards for systems modeling. On top of this are all the normal facilitation costs of any in-person 3-day off-site conference or training event.
 
-I have assembled the necessary equipment, flight cases, and logistics to cost effectively deliver a public or private systems modeling heavy course most anywhere in the world with ease. Even with all this in place, the fixed overhead remains significant.
+I have assembled the necessary equipment, flight cases, and logistics to cost effectively deliver a public or private systems modeling heavy CLP course most anywhere in the world with ease. Even with all this in place, the fixed overhead remains significant.
 
 ## Understanding the LeSS Course Offerings
 
 This is the in-person [Certified LeSS Practitioner (CLP)](https://less.works/courses/less-practitioner) course being offered, not the [Certified LeSS Basics (CLB)](https://less.works/courses/less-basics) course. 
 
-Although the CLB may be offered by any [LeSS-Friendly Scrum Trainer](https://less.works/users/scrum-trainers), only one of the 26 [Certified LeSS Trainers (CLT)](https://less.works/users/trainers) is licensed to teach the CLP course. There are only five CLTs in all of the Americas, and none of us live anywhere near Mexico City. International airline flights are remain pricey, especially when flying with a multitude of heavy flight cases as checked luggage.
+Although the CLB may be offered by any [LeSS-Friendly Scrum Trainer](https://less.works/users/scrum-trainers), only a [Certified LeSS Trainers (CLT)](https://less.works/users/trainers) is licensed to teach the CLP course. There are twenty six CLTs globally. Only five of us live in the Americas, and none of us live anywhere near Mexico City. International airline flights are particuarly price at the moment, even when not flying with a multitude of heavy flight cases.
 
-Although the [Provisional Certified LeSS Practitioner](https://less.works/courses/provisional-less-practitioner.html) is available remotely, the CLP is always in person. The motivations for keeping the CLP in-person, while concurrently making the Provisional CLP available can be found at this [FAQ page](https://less.works/courses/courses-faq).
+Although the [Provisional Certified LeSS Practitioner](https://less.works/courses/provisional-less-practitioner.html) is available remotely, the CLP is always in-person. The motivations for keeping the CLP in-person, while concurrently making the Provisional CLP available can be found at this [FAQ page](https://less.works/courses/courses-faq).
 
-This information is not intended to take anything away from the many wonderful LeSS-friendly Scrum trainers out there. I am simply trying to help people understand the facts when comparing the various LeSS courses. A CLP and CLB are nothing like the same thing, and the course pricing reflects that.
+The information I am providing here is not intended to take anything away from the many wonderful LeSS-friendly Scrum trainers out there. I am simply trying to help people understand the facts when comparing the various LeSS courses. A LeSS Practitioner and LeSS Basics course are nothing like the same thing, and the course pricing reflects that.
 
 # Tickets
 
