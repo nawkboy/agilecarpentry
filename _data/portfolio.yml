@@ -1,12 +1,12 @@
 - title: James on Tour
   category: LeSS
-  image: /assets/images/clp/JamesCLPTourPortfolioImage.png
+  image: /assets/images/clp/JamesCLPTourPortfolioImageSummer2023.png
   link: /clp/
 
-- title: LeSS Practitioner Course Now In Milwaukee!
-  category: LeSS
-  image: /assets/images/portfolio/milwaukee-clp-portfolio-image.png
-  link: /mke_clp/
+#- title: LeSS Practitioner Course Now In Milwaukee!
+#  category: LeSS
+#  image: /assets/images/portfolio/milwaukee-clp-portfolio-image.png
+#  link: /mke_clp/
 
 - title: Where would you like a public Certified LeSS Practitioner course?
   category: LeSS
@@ -23,10 +23,10 @@
   image: /assets/images/portfolio/deriving-less-article-header.png
   link: /blog/deriving-less/
 
-#- title: Examining LeSS Huge
-#  category: LeSS
-#  image: /assets/images/portfolio/examining-less-huge-article-header.png
-#  link: /blog/examining-less-huge/
+- title: Examining LeSS Huge
+  category: LeSS
+  image: /assets/images/portfolio/examining-less-huge-article-header.png
+  link: /blog/examining-less-huge/
 
 - title: Using Structure to Mold Culture
   category: Book
