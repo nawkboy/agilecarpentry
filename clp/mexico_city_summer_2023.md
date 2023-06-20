@@ -25,18 +25,18 @@ That said, I think we can collectively muddle our way through using a mix of Eng
 
 ## Live Transcription and Live Translation
 
-As long as I bring a little bit of audio gear with me, I am expecting to be able to use Microsoft's  [Conversation App](https://translator.microsoft.com/) which provides both live transcription and live translation.
+As long as I bring a little bit of audio gear with me, I am expecting to be able to use Microsoft's [Conversation App](https://translator.microsoft.com/) which provides both live transcription and live translation.
 
-Microsoft Powerpoint 365 on Mac supports live transcription, but not live translation. Fortunately, Microsoft's [conversation web app](https://translator.microsoft.com/) worked well in my testing. This is not as nice as having live translation integrated into PowerPoint, but it still works.
+Microsoft PowerPoint 365 on Mac supports both live transcription and live translation as captions, but doesn't integrate with the conversation application like the Microsoft Windows version does. Fortunately, Microsoft's [conversation web app](https://translator.microsoft.com/) worked well in my testing.
 
-If I can get the Microsoft Windows version of Microsoft PowerPoint 365 running on my Mac via [Parallels](https://www.parallels.com/pd/windows-on-mac/) and listening to a loopback channel of my [Presonus Revelator io24](https://www.presonus.com/en-US/interfaces/usb-audio-interfaces/revelator-series/2777700302.html), the live transcription experience should be even smoother.
+By using the loop-back interfaces of my [audio interface](https://www.presonus.com/en-US/interfaces/usb-audio-interfaces/revelator-series/2777700302.html), I can concurrently feed microphone input to both the conversation web app, and PowerPoint at the same time. This solution is a slightly clunky compared to the Microsoft Windows experience, but it is still very workable.
 
 Related Links:
 * [Video: Live Conversation App in Use](https://www.youtube.com/watch?v=MgsSoZZVe2U&t=1s)
 * [Video: Engage your audience with Live Presentations in PowerPoint](https://www.youtube.com/watch?v=Lzfqwn05Lzg)
 
 ## Breakout Groups Can Use Spanish
-A huge percentage of the course leverages breakout groups for both table discusisons and system modeling. Each table should feel free to conduct their table discussions and system modeling activities in whatever language they are most comfortable with.
+A huge percentage of the course leverages breakout groups for both table discussions and system modeling. Each table should feel free to conduct their table discussions and system modeling activities in whatever language they are most comfortable with.
 
 Class level discussions with me will need to be mostly in English.
 
