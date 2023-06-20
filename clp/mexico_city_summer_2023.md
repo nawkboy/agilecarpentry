@@ -29,7 +29,7 @@ As long as I bring a little bit of audio gear with me, I am expecting to be able
 
 Microsoft PowerPoint 365 on Mac supports both live transcription and live translation as captions, but doesn't integrate with the conversation application like the Microsoft Windows version does. Fortunately, Microsoft's [conversation web app](https://translator.microsoft.com/) worked well in my testing.
 
-By using the loop-back interfaces of my [audio interface](https://www.presonus.com/en-US/interfaces/usb-audio-interfaces/revelator-series/2777700302.html), I can concurrently feed microphone input to both the conversation web app, and PowerPoint at the same time. This solution is a slightly clunky compared to the Microsoft Windows experience, but it is still very workable.
+By using the loop-back interfaces of my [audio interface](https://www.presonus.com/en-US/interfaces/usb-audio-interfaces/revelator-series/2777700302.html), I can concurrently feed microphone input to both the conversation web app, and PowerPoint at the same time. This solution is slightly clunky compared to the Microsoft Windows experience, but it is still very workable.
 
 Related Links:
 * [Video: Live Conversation App in Use](https://www.youtube.com/watch?v=MgsSoZZVe2U&t=1s)
