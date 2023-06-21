@@ -23,6 +23,10 @@ Although I have spent a great deal of [time studying Spanish](https://www.linked
 
 That said, I think we can collectively muddle our way through using a mix of English and Spanish. My ideas to help us are below.
 
+## Participants Can Help
+
+I'm expecting at least some of the participants to be extremely fluent in both Spanish and English, with everyone else having at least workable English skills. More fluent participants should be able to translate more confusing aspects in the moment.
+
 ## Live Transcription and Live Translation
 
 As long as I bring a little bit of audio gear with me, I am expecting to be able to use Microsoft's [Conversation App](https://translator.microsoft.com/) which provides both live transcription and live translation.
@@ -45,9 +49,6 @@ Class level discussions with me will need to be mostly in English.
 This course has a large amount of pre-reading content which I will distribute to those who sign up. I expect it is easier for most native Spanish speakers to read English, than to hear it. Furthermore, online text translators have become extremely good lately, so that should help with any tricky aspects of the pre-reading.
 
 Being diligent about the pre-reading will go a very long way in helping to follow along during class.
-
-## Participants Can Help
-I'm expecting at least some of the participants to be extremely fluent in both Spanish and English, with everyone else having at least workable English skills. More fluent participants should be able to translate more confusing aspects in the moment.
 
 ## Awareness and Sensitivity
 
