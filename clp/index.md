@@ -11,16 +11,9 @@ layout: book
 
 I am going on the road to deliver a Certified LeSS Practitioner course to all of the cities below.
 
-
-
 * Milwaukee, WI, USA: January 24-26, 2022: Delivered
 * Atlanta, GA, USA: February 18-20, 2023: Delivered
 * San Antonio, TX, USA: May 2-4, 2023: Delivered
-* [Atlanta, GA, USA: June 13-15, 2023]({{site.url}}{{site.baseurl}}/clp/atlanta_summer_2023/)
-* [Seattle, WA, USA: June 21-23, 2023]({{site.url}}{{site.baseurl}}/clp/seattle_summer_2023/)
-* [Phoenix, AZ, USA: June 27-29, 2023]({{site.url}}{{site.baseurl}}/clp/phoenix_summer_2023/)
-* [Dallas/Fort Worth, TX, USA: July 11-13, 2023]({{site.url}}{{site.baseurl}}/clp/dallas_summer_2023/)
-* [Denver, CO, USA: July 18-20, 2023]({{site.url}}{{site.baseurl}}/clp/denver_summer_2023/)
 * [Milwaukee, WI, USA: August 28-30, 2023]({{site.url}}{{site.baseurl}}/clp/milwaukee_summer_2023/)
 * [San Antonio, TX, USA: September 12-14, 2023]({{site.url}}{{site.baseurl}}/clp/san_antonio_fall_2023/)
 

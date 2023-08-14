@@ -6,22 +6,14 @@
   dropdown:
     - title: Course Tour
       link: /clp/
-    - title: Atlanta Summer 2023
-      link: /clp/atlanta_summer_2023/
-    - title: Seattle Summer 2023
-      link: /clp/seattle_summer_2023/
-    - title: Phoenix Summer 2023
-      link: /clp/phoenix_summer_2023/
-    - title: Dallas Summer 2023
-      link: /clp/dallas_summer_2023/
-    - title: Denver Summer 2023
-      link: /clp/denver_summer_2023/
     - title: Milwaukee Summer 2023
       link: /clp/milwaukee_summer_2023/
     - title: San Antonio Fall 2023
       link: /clp/san_antonio_fall_2023/
     - title: Mexico City Summer 2023
       link: /clp/mexico_city_summer_2023/
+    - title: Global
+      link: /clp/global/  
     - title: Weekend Concept
       link: /clp/airport/      
     - title: LeSS.Works Summary
