@@ -1,5 +1,5 @@
 ---
-title: Global Certified LeSS Practitioner Course
+title: Certified LeSS Practitioner In-Person Course Available Globally
 image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 author: James
 layout: book
