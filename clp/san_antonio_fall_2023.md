@@ -1,11 +1,11 @@
 ---
 title: San Antonio Certified LeSS Practitioner Course Fall 2023
-image: /assets/images/clp/SanAntonioCLPWebsitePageHeaderSep12_14.png
+image: /assets/images/clp/SanAntonioCLPWebsitePageHeaderNov13_15.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2023-09-12T08:30-05:00"
-  endDate: "2023-09-14T18:00-05:00"
+  startDate: "2023-11-13T08:30-05:00"
+  endDate: "2023-11-15T18:00-05:00"
   location:
     name: "TBD"
     address:
@@ -30,7 +30,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-fall-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">September 12 - 14: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-fall-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">November 13 - 15: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -52,7 +52,7 @@ Any of these will likely be more pleasant than a catered lunch in the event spac
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-fall-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">September 12 - 14: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-antonio-certified-less-practitioner-workshop-fall-2023" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">November 13 - 15: Get Tickets</a>
 
 
 
