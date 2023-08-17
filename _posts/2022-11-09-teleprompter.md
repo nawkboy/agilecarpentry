@@ -66,6 +66,20 @@ Although this hardware can greatly improve the quality of your remote meetings, 
   * The LunaDisplay has the “teleprompter” mode you need. Unfortunately, Apple Sidecar doesn't currently have this feature.
   * Dedicated teleprompter monitors don’t have the high resolution you need for Zoom meetings. iPad or iPad Pro rules the day.
 
+### Luna Display Alternatives
+
+Most of the time the LunaDisplay works well. Occasionally, the image quality degrades for whatever reason. Unplugging and re-plugging the USB-C cable typically fixes the problem.
+
+In the future I am tempted to try a hardware only solution. Any of the following broadcast monitors with image flip capabilities might be a good choice. I have not tested any of these choices. If anyone has experience with this sort of approach, please let me know what hardware you are using and how it is working for you.
+
+* [FeelWorld P133-9HSD 13.3" Broadcast IPS LCD Monitor](https://www.bhphotovideo.com/c/product/1251100-REG/feelworld_fwp133_9hsd_13_3_pro_broadcast_lcd.html)
+
+* [Laizeske 13.3" Full HD IPS Multi-format Pro HDMI Broadcast LCD Monitor](https://www.bhphotovideo.com/c/product/1371658-REG/laizeske_lzedr133h_13_3_aluminum_design_ips.html)
+
+* [Lilliput A12 12.5" 4K Monitor](https://www.bhphotovideo.com/c/product/1366917-REG/lilliput_a12_12_5_4k_broadcast.html)
+
+Another option would be a [portable monitor](https://www.bhphotovideo.com/c/buy/portable-monitors/ci/48139) coupled with a [UpDownCross Converter](https://www.bhphotovideo.com/c/product/1401679-REG/blackmagic_design_convmudcstd_hd_mini_converter_updowncross_hd.html) of some sort.
+
 
 ## Lighting
 
