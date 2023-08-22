@@ -1,5 +1,8 @@
 - title: Home
   link: '/'
+
+- title: Services
+  link: '/services/'
   
 - title: Courses
   link: 'https://less.works/course_filters/jamesandgene-34'
