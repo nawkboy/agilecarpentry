@@ -1,6 +1,6 @@
 ---
 title: Services Offered
-image: /assets/images/garden-maze.jpg
+image: /assets/images/services/map-of-the-world-429784_1280.jpg
 author: James
 layout: book
 ---
