@@ -27,7 +27,7 @@ Coupling formal off-site executive training with an informed consent workshop is
 
 An Informed Consent Workshop is intended to achieve the alignment, buy-in, and commitment of management to move to action. This is manifested as an extra day following a system-modeling based [_Certified LeSS Practitioner_]({{site.url}}{{site.baseurl}}/clp/global/) or _Certified LeSS for Executives_ course. The formal course instruction illuminates the motivation for change, and the informed consent workshop focuses on gaining the alignment and commitment required to move to action.
 
-An off-site workshop is typically designed in collaboration with an internal client advocate to ensure the best outcomes possible. This involves both shaping the agenda for the last day, and ensuring the right people are in the off-site. Including people with authority to change the system, as well as people who can bring ground truth to the discussions is critical to success.
+An off-site workshop is typically designed in collaboration with an internal client advocate to ensure the best outcomes possible. This involves both shaping the agenda for the last day, and ensuring the right people are in the off-site. Including people with authority to change the system is critical to success. Just as critical is including experienced hands-on practitioners to bring ground truth to the discussions.
 
 Although the agenda will vary based on need, the high-level objectives are more straightforward. The objectives include but are not limited to the following:
 
