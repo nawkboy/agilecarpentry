@@ -59,13 +59,13 @@ All the details including the huge amount of contiguous smooth wall space requir
 
 * Conference rooms which provide the greatest amount of WizardWall friendly wall surface area for the least amount of floor surface area tend to be windowless caves.
 
+* Far more fussy and error prone than the [portable whiteboards in flight cases]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/) solution.
+
 ## Other Details
 
 * WizardWall edges typically require a little bit of painters tape to avoid curling.
 
 * Relatively expensive at $80/roll
-  + Still more cost effective than most other solutions
-
 
 # Amount of WizardWall Required
 

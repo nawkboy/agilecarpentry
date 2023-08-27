@@ -19,40 +19,42 @@ Each table of participants in a system modeling heavy version of a Certified LeS
 
 A few possible solutions for temporary whiteboards include:
 
-* [Easels In Flight Cases]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/)
+* [Easels In Flight Cases]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/): Preferred solution, easiest on client
 
-* [WizardWall]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/)
+* [WizardWall]({{site.baseurl}}/class_setup/WhiteboardsUsingWizardWall/): Decent alternative in specific circumstances
 
 The remainder of the hosting requirements are described below, and are far less exotic than the massive whiteboard requirement.
 
 # Responsibility Boundaries Are Negotiable
 
-For the sake of clarity, the lists below are written from the perspective of a private course in which the client is performing all hosting responsibilities. In this scenario the only formal responsibility of the instructor is to provide course specific printed materials and to show up and teach the course. 
+For the sake of clarity, the lists below are written from the perspective of a private course in which the client is performing all hosting responsibilities. In this scenario the only formal responsibility of the instructor is to provide course specific printed materials, and to show up and teach the course.
 
-Agile Carpentry is able to help with some of the hosting responsibilities if desired, especially within the United States. However we collaboratively achieve it, the hosting requirements must be met and the costs of doing so must be passed onto the client in some way. By achieving this, we will have set the stage for delivering a great participant experience.
+Agile Carpentry can alleviate the majority of the hosting burden in most circumstances and most countries. This is especially true when using external event space at a hotel. With on-campus hosting greater client collaboration is required.
 
+However we collaboratively achieve it, the hosting requirements must be met and the costs of doing so must be passed onto the client in some way. By achieving this, we will have set the stage for delivering a great participant experience.
 
 # Leveraging Agile Carpentry Infrastructure
+
+![flight case]({{site.baseurl}}/assets/images/class_setup/SKB3i-4719-8_WithRemoveableCasters.jpg)
 
 Agile Carpentry has done a lot of research and preparation to make it possible to deliver public training anywhere on the globe, while minimizing the fees paid to conference hotel venues. The same preparation and equipment Agile Carpentry has designed for economically facilitating public training can also be used to make it easier for a client to host a private course on their own property, or at a nearby facility. 
 
 The additional costs incurred by Agile Carpentry when providing logistical support will need to be passed onto the client, yet that is often less expensive and more convenient for the client than the alternatives.
 
-Within the United States, Agile Carpentry can provide the following at additional cost:
+Agile Carpentry can provide the following at additional cost on a global basis:
 
 Durable Equipment Available:
+* [Whiteboard Easels in flight cases]({{site.baseurl}}/class_setup/WhiteboardsUsingPanelsOnEasels/)
 * PA system in a flight case
 * Projector in a flight case
 * Projector screen in a flight case
-* Whiteboard Easels in a flight case
 
 Services Available:
 * Assist in the location, booking, and costing calculations of off-site meeting room space and associated catering services
 * Provide kits containing various office supplies required by the training
 
-Notes:
-* Outside of the United States, only some of this additional support is practical.
-* In some situations the equipment kits are fully designed in preparation for the anticipated need, but not yet assembled. In such situations manufacturing ready 3D foam designs, complete parts lists with pricing, weight calculations, size calculations, and all shipping logistics have been accounted for. The acquisition lead time is generally less than a week or two.
+Note: 
+* The logistics of traveling with the above equipment are identical to that of a professional film crew or band. Most countries participate in the [ATA Carnet](http://www.atacarnet.com/carnet-countries) program, which makes it easy to avoid any customs problems. Careful flight routing keeps [baggage charges to a minimum](https://travel.nbcuni.com/accordion/airline-media-bags-pricing).
 
 # Typical Private Course Responsibility Boundaries
 
