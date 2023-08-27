@@ -27,5 +27,5 @@ From the perspective of an event hotel, the training event looks like any other 
 
 # Bonus Features
 
-If a hotel's audio-visual equipment provider is drastically overcharging for any of the more generic audio-visual equipment, Agile Carpentry has compact flight-ready solutions designed for each of these as well.
+If a hotel is drastically overcharging for more generic audio-visual equipment, Agile Carpentry is willing to provide these as well.
 
