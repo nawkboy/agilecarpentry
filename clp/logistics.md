@@ -23,7 +23,7 @@ This is achieved using flight cases containing a set of custom self-standing whi
 
 From the perspective of the airlines, U.S. customs officials, and international customs officials; I am just another professional film crew member or traveling musician with all the paperwork required to obtain better luggage rates and avoid paying customs duties on professional equipment with which I will soon return.
 
-From the perspective of an event hotel, the training event looks like any other cookie-cutter business meeting. There is zero need to worry about what sort of wall surfaces are available, and whether hotel management will allow the use of [WizardWall](https://wizardwall.com/) on them. 
+From the perspective of an event hotel, the training event looks like any other cookie-cutter business meeting. There is no need to worry about what sort of wall surfaces are available, and whether hotel management will allow the use of [WizardWall](https://wizardwall.com/) on them. 
 
 # Bonus Features
 
