@@ -25,7 +25,10 @@ From the perspective of the airlines, U.S. customs officials, and international 
 
 From the perspective of an event hotel, the training event looks like any other cookie-cutter business meeting. There is zero need to worry about what sort of wall surfaces are available, and whether hotel management will allow the use of [WizardWall](https://wizardwall.com/) on them. 
 
-# Bonus Feature
+# Bonus Features
 
 If a hotel is drastically overcharging for more generic audio-visual equipment, Agile Carpentry is able to provide this as well.
+
+Agile Carpentry has the systems and knowledge required to quickly identify, accurately estimate, and finalize event space on a global basis.
+
 
