@@ -22,10 +22,7 @@ Before settling down to read [Book 3: Large-Scale Scrum: More with LeSS  (2015)]
 
 * [LeSS Rules](https://less.works/less/rules): The LeSS Rules are the definition of the LeSS Framework.
 
-* [LeSS Complete Picture](https://less.works/resources/LeSS-complete-picture.pdf): Covers the following topics:
-  * _LeSS Principles_
-  * _LeSS Rules_
-  * _LeSS Guide_ and _LeSS Experiment_ indexes for all three LeSS books
+* [LeSS Complete Picture](https://less.works/resources/LeSS-complete-picture.pdf): Covers the following topics: _LeSS Principles_, _LeSS Rules_, _LeSS Guides_ index for book 3, and _LeSS Experiments_ indices for books 1 and 2.
 
 * [LeSS Website](https://less.works/):
 Reference style arrangement of _LeSS framework_ information using a large overview diagram as a navigational launch pad.
@@ -56,8 +53,8 @@ When it makes sense, I can arrange a call with "Mitya" in my case study. I am gr
 
 * [Global In-Person Certified LeSS Practitioner]({{site.baseurl}}/clp/global/): Includes the CLP course agenda, multi-lingual training options, a brief video describing the course, and video testimonials of past participants. The page also links to an interest survey you can use to request a public course by Agile Carpentry in your home town.
 * [Summary of Services Offered]({{site.baseurl}}/services/): Details services from Agile Carpentry in terms of discrete packages, in addition to long-term consulting arrangements.
-* [Testimonials]({{site.baseurl}}/testimonials): Contains written recomendations.
-* [Logistics Page]({{site.baseurl}}/clp/logistics/): Agile Carpentry has logistics in place to make faciliating a system modeling based _Certified LeSS Practitioner_ or _Certified LeSS for Executives_ course very easy for a client.
+* [Testimonials]({{site.baseurl}}/testimonials): Contains written recommendations.
+* [Logistics Page]({{site.baseurl}}/clp/logistics/): Agile Carpentry has logistics in place to make facilitating a system modeling based _Certified LeSS Practitioner_ or _Certified LeSS for Executives_ course very easy for a client.
 
 
 
