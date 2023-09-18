@@ -42,16 +42,16 @@ This is the 3rd LeSS book. It provides a better high-level overview of LeSS than
 
 # My LeSS Case Study:
 
-To become a LeSS trainer one must have implemented a non-trivial LeSS adoption, written an extensive experience report regarding the effort, and go through an extensive editorial process used as a mentorship scaffold for refining the thought process of the candidate trainer. It is not unlike a doctoral thesis in some regards. The level of effort and depth of experience required to go through the process is one reason there are only 26 LeSS trainers globally at present.
+To become a LeSS trainer one must have implemented a non-trivial LeSS adoption, written an extensive experience report regarding the effort, and gone through an extensive editorial process used as a mentorship scaffold for refining the thought process of the candidate trainer. It is not unlike a doctoral thesis in some regards. The level of effort and depth of experience required to go through the process is one reason there are only 26 LeSS trainers globally at present.
 
-My LeSS case study regarding a [Large Server Hardware Company (pseudo name)](https://less.works/case-studies/large-server-hardware-company) provides a hands-on experience report of my efforts at one particular client. By reading this, you and I will have at least one concrete reference context for discussing real-world application of LeSS. There other [great case studies](https://less.works/case-studies) worth reading, but none that I can personally speak to at the same level of depth I can my own.
+My LeSS case study regarding a [Large Server Hardware Company](https://less.works/case-studies/large-server-hardware-company) provides a hands-on experience report of my efforts at one particular client. By reading this, you and I will have at least one concrete reference context for discussing real-world application of LeSS. There other [great case studies](https://less.works/case-studies) worth reading, but none that I can personally speak to at the same level of depth I can my own.
 
-When it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
+If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
 
 # Understanding Agile Carpentry Offerings
 
-* [Global In-Person Certified LeSS Practitioner]({{site.baseurl}}/clp/global/): Includes the CLP course agenda, multi-lingual training options, a brief video describing the course, and video testimonials of past participants. The page also links to an interest survey you can use to request a public course by Agile Carpentry in your home town.
+* [Global In-Person Certified LeSS Practitioner]({{site.baseurl}}/clp/global/): Includes the CLP course agenda, multi-lingual training options, a brief video describing the course, and video testimonials by past participants. The page also links to an interest survey you can use to request a public course by Agile Carpentry in your home town.
 * [Summary of Services Offered]({{site.baseurl}}/services/): Details services from Agile Carpentry in terms of discrete packages, in addition to long-term consulting arrangements.
 * [Testimonials]({{site.baseurl}}/testimonials): Contains written recommendations.
 * [Logistics Page]({{site.baseurl}}/clp/logistics/): Agile Carpentry has logistics in place to make facilitating a system modeling based _Certified LeSS Practitioner_ or _Certified LeSS for Executives_ course very easy for a client.
