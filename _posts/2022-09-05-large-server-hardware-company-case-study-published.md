@@ -27,3 +27,15 @@ The case study is extremely long and detailed. If you prefer to skim it very qui
 * Synopsis section
 * All figures and associated captions
 * Conclusion section 
+
+# Audio Version of My Case Study
+
+An audio version of my case study is available at the following venues:
+* [Agile Carpentry YouTube Channel](https://youtu.be/2m3TAIN7TiI)
+* [Agile Carpentry Podcast on Spotify](https://open.spotify.com/show/1bnMmFj7F6q0jXuEWHcSaq)
+* [Agile Carpentry Podcast on every major podcast platform](https://podcasters.spotify.com/pod/show/agilecarpentry/)
+
+The YouTube and Spotify versions contain video which shows the relevant figures as they are mentioned. The remaining venues are audio only.
+
+<iframe class="video" src="https://www.youtube.com/embed/2m3TAIN7TiI" allowfullscreen frameborder="0"></iframe>
+

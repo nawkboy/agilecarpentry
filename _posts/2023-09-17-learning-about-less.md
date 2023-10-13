@@ -48,6 +48,17 @@ My LeSS case study regarding a [Large Server Hardware Company](https://less.work
 
 If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
+## Audio Version of My Case Study
+
+An audio version of my case study is available at the following venues:
+* [Agile Carpentry YouTube Channel](https://youtu.be/2m3TAIN7TiI)
+* [Agile Carpentry Podcast on Spotify](https://open.spotify.com/show/1bnMmFj7F6q0jXuEWHcSaq)
+* [Agile Carpentry Podcast on every major podcast platform](https://podcasters.spotify.com/pod/show/agilecarpentry/)
+
+The YouTube and Spotify versions contain video which shows the relevant figures as they are mentioned. The remaining venues are audio only.
+
+<iframe class="video" src="https://www.youtube.com/embed/2m3TAIN7TiI" allowfullscreen frameborder="0"></iframe>
+
 
 # Understanding Agile Carpentry Offerings
 
