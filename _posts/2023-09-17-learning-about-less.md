@@ -27,7 +27,7 @@ Before settling down to read [Book 3: Large-Scale Scrum: More with LeSS  (2015)]
 * [LeSS Website](https://less.works/):
 Reference style arrangement of _LeSS framework_ information using a large overview diagram as a navigational launch pad.
 
-# Long-Form Reading:
+# Long-Form Reading
 
 When you are ready to settle down for a deep dive into LeSS, the long-form narative structure of a book is often best.
 
@@ -40,7 +40,7 @@ This is the 3rd LeSS book. It provides a better high-level overview of LeSS than
 * [Book 2: Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum (2010)](https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406):
 2nd LeSS book. Contains a multitude of “Experiments”, almost like a recipe book. As the sub-title suggests this book focuses more on multisite and offshore development than the 1st book does. The 3rd book is a better book to start with for most people.
 
-# My LeSS Case Study:
+# My LeSS Case Study
 
 To become a LeSS trainer one must have implemented a non-trivial LeSS adoption, written an extensive experience report regarding the effort, and gone through an extensive editorial process used as a mentorship scaffold for refining the thought process of the candidate trainer. It is not unlike a doctoral thesis in some regards. The level of effort and depth of experience required to go through the process is one reason there are only 26 LeSS trainers globally at present.
 
@@ -48,17 +48,7 @@ My LeSS case study regarding a [Large Server Hardware Company](https://less.work
 
 If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
-## Audio Version of My Case Study
-
-An audio version of my case study is available at the following venues:
-* [Agile Carpentry YouTube Channel](https://youtu.be/DVmoFEmi4xU)
-* [Agile Carpentry Podcast on Spotify](https://open.spotify.com/show/1bnMmFj7F6q0jXuEWHcSaq)
-* [Agile Carpentry Podcast on every major podcast platform](https://podcasters.spotify.com/pod/show/agilecarpentry/)
-
-The YouTube and Spotify versions contain video which shows the relevant figures as they are mentioned. The remaining venues are audio only.
-
-<iframe class="video" src="https://www.youtube.com/embed/DVmoFEmi4xU" allowfullscreen frameborder="0"></iframe>
-
+{% include audio_version_of_my_case_study.md %}
 
 # Understanding Agile Carpentry Offerings
 
