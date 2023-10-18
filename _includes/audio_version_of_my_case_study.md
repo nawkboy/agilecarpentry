@@ -7,5 +7,7 @@ An audio version of [my LeSS case study](https://less.works/case-studies/large-s
 
 The YouTube and Spotify versions contain video which shows the relevant figures as they are mentioned. The remaining venues are audio only.
 
+The YouTube closed captions are based on the written case study text so they are much better than auto-generated captions. The auto-translated captions for other languages should therefore be reasonably good. Only the YouTube version has closed captions.
+
 <iframe class="video" src="https://www.youtube.com/embed/DVmoFEmi4xU" allowfullscreen frameborder="0"></iframe>
 
