@@ -44,7 +44,7 @@ This is the 3rd LeSS book. It provides a better high-level overview of LeSS than
 
 To become a LeSS trainer one must have implemented a non-trivial LeSS adoption, written an extensive experience report regarding the effort, and gone through an extensive editorial process used as a mentorship scaffold for refining the thought process of the candidate trainer. It is not unlike a doctoral thesis in some regards. The level of effort and depth of experience required to go through the process is one reason there are only 26 LeSS trainers globally at present.
 
-My LeSS case study regarding a [Large Server Hardware Company](https://less.works/case-studies/large-server-hardware-company) provides a hands-on experience report of my efforts at one particular client. By reading this, you and I will have at least one concrete reference context for discussing real-world application of LeSS. There are other [great case studies](https://less.works/case-studies) worth reading, but none that I can personally speak to at the same level of depth I can my own.
+My LeSS case study regarding a [Large Server Hardware Company](https://less.works/case-studies/large-server-hardware-company) provides a hands-on experience report of my efforts at one particular client. By reading this, you and I will have at least one concrete reference context for discussing real-world application of LeSS. There are [other great case studies](https://less.works/case-studies) worth reading, but none that I can personally speak to at the same level of depth I can my own.
 
 If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
