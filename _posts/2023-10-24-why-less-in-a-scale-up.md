@@ -9,9 +9,9 @@ layout: post
 
 # Why LeSS in a Scale-Up?
 
-Your technology start-up business is growing, you think adding resources will help you deliver, but how do you scale up your organization without loosing the best parts of the lean and adaptable organization you have?
+Your technology start-up business is growing, you think adding resources will help you deliver, but how do you scale up your organization without losing the best parts of the lean and adaptable organization you have?
 
-As a LeSS trainer and coach, people often ask why a product development organization which is getting ready to quickly expand well beyond a small handful of engineers should consider Large-Scale Scrum. 
+People often ask why executive management of a product development organization on the verge of rapidly growing their engineering footprint should consider Large-Scale Scrum. 
 
 Some of the most compelling reasons include:
 * Retain the ability to turn on a dime for a dime
