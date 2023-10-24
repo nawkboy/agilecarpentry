@@ -3,7 +3,7 @@ title: Learning About LeSS
 image: /assets/images/glasses-1052010_1280.jpg
 author: James
 categories:
-    - Miscellaneous
+    - LeSS
 layout: post
 ---
 
