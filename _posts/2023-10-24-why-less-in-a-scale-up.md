@@ -11,9 +11,7 @@ layout: post
 
 Your technology start-up business is growing, you think adding resources will help you deliver, but how do you scale up your organization without losing the best parts of the lean and adaptable organization you have?
 
-People often ask why executive management of a product development organization on the verge of rapidly growing their engineering footprint should consider Large-Scale Scrum. 
-
-Some of the most compelling reasons include:
+People often ask why executive management of a product development organization on the verge of rapidly growing their engineering footprint should consider Large-Scale Scrum. Some of the most compelling reasons include:
 * Retain the ability to turn on a dime for a dime
 * Continue to be able to achieve the company mission far into the future
 * Continue to grow a culture of technical excellence
