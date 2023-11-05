@@ -1,5 +1,5 @@
 ---
-title: Certified LeSS for Executives In-Person Available Globally
+title: Certified LeSS for Executives Available Globally
 image: /assets/images/cle/GlobalCLEWebsitePageHeader.png
 author: James
 layout: book
@@ -12,22 +12,22 @@ Achieving the executive alignment and commitment required to implement meaningfu
 The intended outcomes include:
 * Knowledge Transfer
 	- Why LeSS is designed the way it is, and how the structures and concepts it contains can help an organization quickly become more adaptive.
-	- Participants collaboratively teaching each other as they gain a much deeper understanding of how their own organization actually works, verses the perception of the same.
+	- Participants collaboratively teaching each other as they gain a much deeper understanding of how their own organization actually works, versus the perception of the same.
 * Executive Alignment
 	- Consensus on the actionable organizational changes required to achieve a more adaptive organizations.
 	- Consensus on which portions of a product development organization will be the best place to start, who should be involved, and the steps required to move to action.
 * Go/No-Go Executive Decision
 	- An aligned executive decision on whether or not to move to action.
 
-In contrast, the primary outcome of a stand-alone [Certified LeSS Practitioner]({{site.baseurl}}/clp/global/) is knowledge transfer alone.
+In contrast, the primary outcome of a stand-alone [Certified LeSS Practitioner]({{site.baseurl}}/clp/global/) is only knowledge transfer.
 
 # Planning For Success
 
-To achieve all of the desired outcomes it is critical to have the right people in the room. It is impossible to make organizational design decisions without the people who have the necessary formal positional authority to do so. Without senior hands-on engineering staff who bring ground truth to the discussions, the discussions and resulting decisions are likely to be based in fantasy rather than reality.
+To achieve all of the desired outcomes it is critical to have the right people in the room. It is impossible to make organizational design decisions without the people who have the necessary formal positional authority to do so. Without senior hands-on engineering staff who bring ground truth to the discussions, those discussions and resulting decisions are likely to be based in fantasy rather than reality.
 
-The specific mix of participants will be somewhat contextual, and requires preparatory discussions to fine tune. The proto-typical examples below should provide some idea of what is needed.
+The specific mix of participants will be somewhat contextual, and requires preparatory discussions to fine-tune. The prototypical examples below should provide some idea of what is needed.
 
-## Proto-typical Participants
+## Prototypical Participants
 
 * People With Structural Authority
 	- Head of Division
@@ -77,7 +77,7 @@ The formal learning objectives of the _Certified LeSS for Executives: Principles
   - Typical Organizational Structures and Patterns
   - Multi-site Implications
 
-Although the official learning objectives of a _Certified LeSS for Executives_ differ from a [Certified LeSS Practitioner (CLP)]({{site.baseurl}}/clp/global/), in practice there is tremendous overlap. This is especially true of a systems modeling heavy course design. The backbone of the courses tend to be very similar, with the changes mostly being subtle adjustments in the amount of time and emphasis spent on various topics.
+Although the official learning objectives of a _Certified LeSS for Executives_ differ from a [Certified LeSS Practitioner (CLP)]({{site.baseurl}}/clp/global/), in practice there is tremendous overlap. This is especially true of a systems modeling-heavy course design. The backbone of the courses tend to be very similar, with the changes mostly being subtle adjustments in the amount of time and emphasis spent on various topics.
 
 The more meaningful differences are seen by examining the intended overall outcomes. A CLE is working to set the stage for achieving executive alignment and an actionable executive decision to change the organizational structure, policies, practices, incentive systems, and related aspects. In contrast, a CLP is focused on knowledge transfer to improve overall awareness, and/or focused on preparing potential volunteers for what will be expected when they launch themselves into a new structure a week or two later.
 
@@ -89,11 +89,11 @@ The Informed Consent Workshop is intended to achieve the alignment, buy-in, and 
 Although the agenda is expected to vary as needed, the day's objectives are more straightforward. The day's objectives include but are not limited to the following:
 
 * Clarify the product definition for the pilot effort
-* Determine who will be given an opportunity to participant in the pilot effort, and
+* Determine who will be given an opportunity to participate in the pilot effort, and
 their anticipated roles
 * Identify the initial adoption boundary within the product
 * Create a tentative timeline for training and launching the pilot teams
-* Address any critical concerns which are surfaced
+* Address any critical concerns which surface
 * Obtain commitment to move forward (Go/No-Go Decision)
 
 At a high level the Informed Consent Workshop is about figuring out the who, what, when, and where; and obtaining the buy-in to move forward.
