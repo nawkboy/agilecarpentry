@@ -9,7 +9,7 @@ noindex: true
 
 # The Logistical Problem
 
-The learning outcomes of a system modeling-based [Certified LeSS Practitioner]({{site.baseurl}}/clp/global/) course are fantastic. Unfortunately, facilitating the amount of whiteboard space involved can place a heavy burden on whomever is helping to host the event.
+The learning outcomes of a system modeling-based [Certified LeSS Practitioner]({{site.baseurl}}/clp/global/) and [Certified LeSS for Executives]({{site.baseurl}}/cle/global/)course are fantastic. Unfortunately, facilitating the amount of whiteboard space involved can place a heavy burden on whomever is helping to host the event.
 
 Ask almost anyone who has attended such a course, and they will say wonderful things about how much they learned doing the system modeling, and how much fun they had. Ask anyone who helped facilitate such a course, and they will tell you how much trouble it was preparing for it.
 
