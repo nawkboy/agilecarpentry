@@ -7,7 +7,7 @@ layout: book
 
 # LeSS Practitioner Course Available Globally
 
-I can easily run a Certified LeSS Practitioner course most anywhere the airlines can take me. 
+I can easily run a Certified LeSS Practitioner course or [Executive Workshop]({{site.baseurl}}/cle/global/) most anywhere the airlines can take me.
 
 If you are interested in a private course, please contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/).
 

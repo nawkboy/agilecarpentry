@@ -12,9 +12,9 @@ The work covered by [my LeSS case study](https://less.works/case-studies/large-s
 
 # Private Training and Workshops
 
-An executive off-site including formal training coupled with an informed consent workshop is a particularly good way to establish a relationship. The focus is on achieving alignment within management, and then determining and committing to an agreed course of action. This is discussed in greater detail farther down.
+An [Executive Workshop]({{site.baseurl}}/cle/global/) including formal training coupled with an informed consent workshop is a particularly good way to establish a relationship. The focus is on achieving alignment within management, and then determining and committing to an agreed course of action. This is discussed in greater detail farther down.
 
-At other times, a stand-alone private [_Certified LeSS Practitioner_]({{site.url}}{{site.baseurl}}/clp/global/) or _Certified LeSS for Executives_ course can be a good way to increase awareness, and hopefully open the door for future changes.
+At other times, a stand-alone private [_Certified LeSS Practitioner_]({{site.url}}{{site.baseurl}}/clp/global/) course can be a good way to increase awareness, and hopefully open the door for future changes.
 
 # Ongoing Consulting Versus Separate Packages
 
