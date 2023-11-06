@@ -25,18 +25,18 @@ Coupling formal off-site executive training with an informed consent workshop is
 
 ## Formal Training Coupled With Informed Consent Workshop
 
-An Informed Consent Workshop is intended to achieve the alignment, buy-in, and commitment of management to move to action. This is manifested as an extra day following a system-modeling based [_Certified LeSS Practitioner_]({{site.url}}{{site.baseurl}}/clp/global/) or _Certified LeSS for Executives_ course. The formal course instruction illuminates the motivation for change, and the informed consent workshop focuses on gaining the alignment and commitment required to move to action.
+An Informed Consent Workshop is intended to achieve the alignment, buy-in, and commitment of management to move to action. This is manifested as an extra day following a system-modeling based [Certified LeSS Practitioner]({{site.url}}{{site.baseurl}}/clp/global/) or [Certified LeSS for Executives]({{site.url}}{{site.baseurl}}/clp/global/) course. The formal course instruction illuminates the motivation for change, and the informed consent workshop focuses on gaining the alignment and commitment required to move to action.
 
 An off-site workshop is typically designed in collaboration with an internal client advocate to ensure the best outcomes possible. This involves both shaping the agenda for the last day, and ensuring the right people are in the off-site. Including people with authority to change the system is critical to success. Just as critical is including experienced hands-on practitioners to bring ground truth to the discussions.
 
 Although the agenda will vary based on need, the high-level objectives are more straightforward. The objectives include but are not limited to the following:
 
 * Clarify the product definition for the pilot effort
-* Determine who will be given an opportunity to participant in the pilot effort, and
+* Determine who will be given an opportunity to participate in the pilot effort, and
 their anticipated roles
 * Identify the initial adoption boundary within the product
 * Create a tentative timeline for training and launching the pilot teams
-* Address any critical concerns which have surfaced
+* Address any critical concerns which surface
 * Obtain commitment to move forward
 
 There is unlikely to ever again be as good a time to make a fully informed decision to enact structural change than during the Informed Consent Workshop. It is critical the executive sponsor leads the group to a committed decision before the workshop concludes. Agile Carpentry can provide guidance and counsel, yet only the executive sponsor can lead the group to act on what has been learned.
