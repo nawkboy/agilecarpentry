@@ -136,7 +136,8 @@ If you have a kid who is into YouTube stuff, just ask them to do the research fo
   * This is a useful guide even if you don't buy any Elgato hardware.
   
 * [Canon EOS RP Mirrorless Camera](https://www.bhphotovideo.com/c/product/1459282-REG/canon_eos_rp_mirrorless_digital.html)
-  * This is the camera body I have. 
+  * The RP is the camera body I have.
+  * The [Canon EOS R8](https://www.bhphotovideo.com/c/product/1748813-REG/canon_eos_r8_mirrorless_camera.html) is the new model which fills the same spot in the Canon product line the RP previously filled.
 
 * [Canon EOS RP Mirrorless Camera with 24-105mm f/4-7.1 Lens](https://www.bhphotovideo.com/c/product/1558260-REG/canon_3380c132_eos_rp_mirrorless_digital.html)
   * The kit lens included here will probably work well in the telemprompter setup I have described. Ask B&H to be certain.
