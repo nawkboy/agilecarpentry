@@ -53,6 +53,7 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 # Understanding Agile Carpentry Offerings
 
 * [Global In-Person Certified LeSS Practitioner]({{site.baseurl}}/clp/global/): Includes the CLP course agenda, multi-lingual training options, a brief video describing the course, and video testimonials by past participants. The page also links to an interest survey you can use to request a public course by Agile Carpentry in your home town.
+* [Global In-Person Certified LeSS for Executives]({{site.baseurl}}/cle/global/): Details how the overall intended outcomes of an _Executive Workshop_ containing a _Certified LeSS for Executives_ and _Informed Consent Workshop_ differ from those of a _Certified LeSS Practitioner_ course.
 * [Summary of Services Offered]({{site.baseurl}}/services/): Details services from Agile Carpentry in terms of discrete packages, in addition to long-term consulting arrangements.
 * [Testimonials]({{site.baseurl}}/testimonials): Contains written recommendations.
 * [Logistics Page]({{site.baseurl}}/clp/logistics/): Agile Carpentry has logistics in place to make facilitating a system modeling based _Certified LeSS Practitioner_ or _Certified LeSS for Executives_ course very easy for a client.
