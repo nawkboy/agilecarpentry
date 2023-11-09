@@ -19,7 +19,7 @@ A few well located hotel choices within easy walking distance of the various res
 - [Hilton Garden Inn Milwaukee Downtown](https://www.hilton.com/en/hotels/mkemdgi-hilton-garden-inn-milwaukee-downtown/): ~$120/night
 - [Homewood Suites by Hilton Milwaukee Downtown](https://www.hilton.com/en/hotels/mkedohw-homewood-suites-milwaukee-downtown/): ~$115/night
 
-There are other down hotels, but most are a bit farther away from the cluster of dining and shopping options found along the riverwalk and within the ThirdWard. For example, if you stay at [Hilton Milwaukee Center](https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/) you will most likely end up eating in the hotel each night. As a general rule, the closer one is to Lake Michigan the more upscale the area is.
+There are other downtown hotels, but most are a bit farther away from the cluster of dining and shopping options found along the riverwalk and within the ThirdWard. For example, if you stay at [Hilton Milwaukee Center](https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/) you will most likely end up eating in the hotel each night. As a general rule, the closer one is to Lake Michigan the more upscale the area is.
 
 A more comprehensive list of downtown hotels can be found on the [Visit Milwaukee Hotel Directory](https://www.visitmilwaukee.org/plan-a-visit/places-to-stay/downtown-hotel-directory/). 
 
