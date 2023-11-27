@@ -279,7 +279,7 @@ It turns out that creating a file for POD within InDesign is a bit tricky, with 
 * Amy Vaughn
   - Soundview Design Studio
   - Website: [http://www.soundviewdesign.com](http://www.soundviewdesign.com)
-  - Note: I was referred to both Deb Tremper and Amy Vaughn by Jennifer Riemenschneider, who is a salesperson at Sheridan. Based on how well Deb Tremper worked out, I expect Amy Vaughn is also very professional.
+  - Note: I was referred to Deb Tremper and several other designers by [Jennifer Riemenschneider](mailto:Jennifer.Riemenschneider@sheridan.com), who is a salesperson at Sheridan. [Sheridan](https://www.sheridan.com/#books) has printing, binding, and distribution available from their plant in Minnesota. Based on how well Deb Tremper worked out, I expect the other designers she recommends are also very professional.
 
 * Jamie Tipton
   - Open Heart Designs
