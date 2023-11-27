@@ -281,7 +281,15 @@ It turns out that creating a file for POD within InDesign is a bit tricky, with 
   - Website: [http://www.soundviewdesign.com](http://www.soundviewdesign.com)
   - Note: I was referred to both Deb Tremper and Amy Vaughn by Jennifer Riemenschneider, who is a salesperson at Sheridan. Based on how well Deb Tremper worked out, I expect Amy Vaughn is also very professional.
 
+* Jamie Tipton
+  - Open Heart Designs
+  - Website: [https://www.openheartdesigns.com](https://www.openheartdesigns.com)
+  - Note: Another book designer reference from Jennifer Riemenschneider.
 
+* Lori Martinsek
+  - Adept Content Solutions
+  - Website: [http://www.adeptcontentsolutions.com](http://www.adeptcontentsolutions.com)
+  - Note: Another book designer reference from Jennifer Riemenschneider.
 
 
 
