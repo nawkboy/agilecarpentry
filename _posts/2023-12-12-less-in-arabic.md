@@ -11,7 +11,7 @@ layout: post
 
 # Full Translation of All LeSS Content Now Available For Sponsorship
 
-I have been working with Pearson/Addison Wesley to gain their blessing and permission to provide Arabic translation rights of the three LeSS books by Bas Vodde and Craig Larman. Similar terms should be possible for other languages such as Spanish and Portuguese.
+I have been working with Pearson/Addison-Wesley to gain their blessing and permission to provide Arabic translation rights of the three LeSS books by Bas Vodde and Craig Larman. Similar terms should be possible for other languages such as Spanish and Portuguese.
 
 Generally speaking Pearson is only willing to do this with a traditional regional publisher, yet I have been able to convince them Agile Carpentry has the depth of publishing experience required.
 
@@ -29,11 +29,13 @@ Here are a couple relevant slides from a presentation of mine.
 
 The economic reality is professionally translating and publishing all the LeSS books in Arabic or any other language will never pay for itself in terms of book sales. Similarly, professional translation of the entirety of the LeSS website does not make economic sense in and of itself.
 
-Yet there is at least one context in which full translation makes perfect economic sense. If a large well funded company based in Saudi Arabia, the UAE, or other GCC country  is considering a LeSS-like adoption it would only makes sense to ensure everyone involved has a full understanding of the organizational changes involved. Although most Arab engineering staff is likely to be just as fluent in English as Arabic, other important parts of an organization may not be. Buy-in from other parts of the organization is likely to be just as important to creating the structural changes required to achieve organizational agility as buy-in within engineering.
+Yet there is at least one context in which full translation makes perfect economic sense. If a large well funded company based in Saudi Arabia, the UAE, or other GCC country is considering a LeSS-like adoption it would only makes sense to ensure everyone involved has a full understanding of the organizational changes involved. Although most Arab engineering staff is likely to be just as fluent in English as Arabic, other important parts of an organization may not be. Buy-in from other parts of the organization is likely to be just as important to creating the structural changes required to achieve organizational agility as buy-in within engineering.
 
-Agile Carpentry therefore set out to identify every language obstacle impeding the ability to provide LeSS [consultation]({{site.baseurl}}/services/), and [training]({{site.baseurl}}/cle/global/) in any desired global language, selecting Arabic as a test case for achieving sponsorship. Leveraging existing and new relationships within the publishing community I have been able to identify exceptionally qualified translators, and interior layout designers with experience typesetting Arabic. From my conversations with Pearson/Addison Wesley I have validated my ability to acquire translation rights for the three LeSS books. 
+Agile Carpentry therefore set out to identify every language obstacle impeding the ability to provide LeSS [consultation]({{site.baseurl}}/services/), [training]({{site.baseurl}}/cle/global/), and related supporting content in any desired global language. Arabic provides a particularly good test case with a higher probability of achieving sponsorship than some other language choices.
 
-I have also been coordinating with the LeSS Company. As a Certified LeSS Trainer this has been the easy part since the necessary relationships were already in place.
+Leveraging existing and newly formed relationships within the publishing community I have been able to identify exceptionally qualified Arabic translators, and interior layout designers with experience typesetting Arabic. From my conversations with Pearson/Addison-Wesley I have validated my ability to acquire translation rights for the three LeSS books. 
+
+I have also been coordinating with the LeSS Company. As a Certified LeSS Trainer this has been the easy part as the necessary relationships were already in place.
 
 # Translation Scopes
 
@@ -59,7 +61,7 @@ The current human translated LeSS content is summarized below. I expect the LeSS
 
 ## Existing Translated Website Content
 
-A few pages on the [LeSS.works](https://less.works/) website have been translated into other languages by the community.  You can use the language selection feature in the upper right corner to select your preferred language. If you are lucky the page will be in your preferred language, if not you will be presented with the English version of a page. German and Dutch seem to be best supported, although still only in part.
+A few pages on the [LeSS.works](https://less.works/) website have been translated into other languages by the community.  You can use the language selection feature in the upper right corner to select your preferred language. If you are lucky the page will be in your preferred language, if not you will be presented with the English version of the page. Other than English, German and Dutch seem to be best supported, although still only in part.
 
 Using [Google Translate](https://translate.google.com/) or a browser plugin for machine translation is another another option.
 
