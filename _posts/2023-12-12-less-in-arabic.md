@@ -7,6 +7,8 @@ categories:
 layout: post
 ---
 
+[اقرأ هذه الصفحة باللغة العربية](https://agilecarpentry-com.translate.goog/blog/less-in-arabic/?_x_tr_sl=en&_x_tr_tl=ar&_x_tr_hl=en&_x_tr_pto=wapp)
+
 # Full Translation of All LeSS Content Now Available For Sponsorship
 
 I have been working with Pearson/Addison Wesley to gain their blessing and permission to provide Arabic translation rights of the three LeSS books by Bas Vodde and Craig Larman. Similar terms should be possible for other languages such as Spanish and Portuguese.
