@@ -43,7 +43,8 @@ The natural translation scopes are as follows:
 * [Book 1: Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum (2009)](https://www.amazon.com/Scaling-Lean-Agile-Development-Organizational/dp/0321480961)
 * [Book 2: Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum (2010)](https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406)
 
-The translation cost for the entire scope will be at least USD$50k. When seen as part of a larger LeSS adoption effort this should be easy to justify. Agile Carpentry is uniquely positioned to add this as yet another line item in a larger scope of work if/when a client requires it.
+Based on initial rough estimates the translation cost for the entire scope will be at least USD$50k, and perhaps double that. When seen as part of a larger LeSS adoption effort this should be easy to justify. Agile Carpentry is uniquely positioned to add this as yet another line item in a larger scope of work if/when a client requires it.
+
 # Other Languages
 Everything written above regarding Arabic is just as true for languages such as Spanish and Portuguese. At a technical level left-to-right Latin based languages are easy in comparison to Arabic.
 
