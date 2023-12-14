@@ -57,8 +57,7 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 * [Summary of Services Offered]({{site.baseurl}}/services/): Details services from Agile Carpentry in terms of discrete packages, in addition to long-term consulting arrangements.
 * [Testimonials]({{site.baseurl}}/testimonials): Contains written recommendations.
 * [Logistics Page]({{site.baseurl}}/clp/logistics/): Agile Carpentry has logistics in place to make facilitating a system modeling based _Certified LeSS Practitioner_ or _Certified LeSS for Executives_ course very easy for a client.
-
-
+* [Translation Efforts]({{site.baseurl}}/blog/less-in-arabic/): Very little of the written LeSS content is currently available in any language other than English. This is true of the LeSS website as well as the three LeSS books by Bas Vodde and Craig Larman. Agile Carpentry can help solve that problem for most any desired language which a client wishes to sponsor translation for.
 
 
 
