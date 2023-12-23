@@ -67,18 +67,18 @@ If you are a little less price sensitive, I suggest buying the [GlideGear TMP750
 
 Since my telemprompter video and the _Reference Info_ section focuses so heavily on the teleprompter I won't repeat much of that here.
 
-If you have a really crummy webcam, or none at all, you will need to at least buy some sort of camera to place into the teleprompter. The challenge here is to balance the need to do something that works well enough to start with, verses jumping to a better streaming camera and paying the $500 to $1500 premium in camera and lens required to do it. 
+If you have a really crummy webcam, or none at all, you will need to at least buy some sort of camera to place into the teleprompter. The challenge here is to balance the need to do something that works well enough to start with, verses jumping to a better streaming camera and paying the $500 to $1,500 premium in camera and lens required to do it. 
 
 A google search for "best streaming camera" will show you lots of articles and YouTube videos discussing reasonable choices at different price points. My best advice is to review a few of these articles and videos, and then just ask B&H for guidance.
 
 ## Tier 4: Nicer Camera
-All of the above, plus a nice camera. $1200 to $1500
+All of the above, plus a nice camera. $1,200 to $1,500
 
 The simple answer is to just ask [B&H Photo](https://www.bhphotovideo.com/) for advice, and buy what they recommend. Make sure they understand your intention to use your camera in a teleprompter as a webcam.
 
 You will most likely end up with a less expensive full-frame Canon or Sony mirrorless camera with a kit lens feeding into your laptop with some sort of capture card such as an [Elgato Cam Link 4k](https://www.bhphotovideo.com/c/product/1453840-REG/elgato_systems_10gam9901_cam_link_4k_game.html) or a hardware video switcher such as an [ATEM Mini Pro](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html).
 
-As you are just doing video meetings and perhaps a bit of YouTube videos, you will quickly reach a point of diminishing return. You can spend far more than $1500 if you want. The next sweet spot is around $3,000. The one after that around $6,000. Then the prices really start to go to the moon as you get into [cameras used by motion picture professionals](https://www.arri.com/en/camera-systems/cameras). That said, heavily kitted out versions of the [Sony FX3](https://www.bhphotovideo.com/c/product/1624226-REG/sony_ilme_fx3_fx3_cinema_camera.html) are reportedly [finding their way into professional film production](https://www.youtube.com/watch?v=Gxi4jfFD5uA) these days.
+As you are just doing video meetings and perhaps a bit of YouTube videos, you will quickly reach a point of diminishing return. You can spend far more than $1,500 if you want. The next sweet spot is around $3,000. The one after that around $6,000. Then the prices really start to go to the moon as you get into [cameras used by motion picture professionals](https://www.arri.com/en/camera-systems/cameras). That said, heavily kitted out versions of the [Sony FX3](https://www.bhphotovideo.com/c/product/1624226-REG/sony_ilme_fx3_fx3_cinema_camera.html) are reportedly [finding their way into professional film production](https://www.youtube.com/watch?v=Gxi4jfFD5uA) these days.
 
 ## Other Considerations
 Some of the equipment you buy is likely to last decades, other equipment will be replaced over time. There is something to be said for being less price sensitive for the long-lived equipment.
