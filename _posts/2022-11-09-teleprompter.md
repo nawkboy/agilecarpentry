@@ -13,37 +13,40 @@ You can achive more natural video meetings by using a teleprompter. You will be 
 
 # Incremental Investment Advice
 
-A few people have asked for guidance on where to prioritize your spending to improve your video calls. Please keep in mind that it isn't possible to provide a perfect answer to this question as everyone's office configuration, existing equipment, and personal preferences tend to vary. Yet, sometimes imperfect guidance is still better than none at all.
+A few people have asked for guidance on where to prioritize your spending to improve your video calls. Please keep in mind that it isn't possible to provide a perfect answer to this question as everyone's office configuration, existing equipment, and personal preferences tend to vary. Yet sometimes imperfect guidance is still better than none at all.
 
-More detailed reference information is available in the _Reference Info_ section below. The one people find a bit overwhelming at times.
+I have included specific hardware recommendations at each investment tier as representative samples. For every piece of equipment I have listed there are lots of great competing choices in the same market niche. This is also a moving target as the equipment choices improve every year, and I only occasionally update this article.
+
+More detailed reference information is available in the _Reference Info_ section below, the one people find a bit overwhelming at times.
 
 ## Tier 1: Basic Lighting
 
 Basic lighting improvements. $300
 
 * A pair of edge-lighted panels to clamp to the back of your desk. 
-   + [Godox ES45](https://www.bhphotovideo.com/c/product/1626329-REG/godox_es45_kit_e_sports_es45_led_light.html) 
-   + [Elgato Key Light](https://www.elgato.com/en/key-light)
+   + [Godox ES45](https://www.bhphotovideo.com/c/product/1626329-REG/godox_es45_kit_e_sports_es45_led_light.html) or [Elgato Key Light](https://www.elgato.com/en/key-light)
 * Inexpensive daylight balanced bulbs where appropriate to supplement your edge-lighted panels.
    + [Various Alzo LED bulbs](https://www.bhphotovideo.com/c/products/led-lamps/ci/24485/N/3943306111?filters=fct_brand_name%3Aalzo)
 * Ensure your laptop camera or webcam is sitting at eye level.
 
 ## Tier 2: Improved Sound
 
-All of the above plus a proper microphone. $250
+All of the above plus a proper microphone. $350
 
-* Option A: Audio Interface + Basic XLR Microphone: Most flexible choice with lots of room for future expansion.
+* Option A: Audio Interface + Basic XLR Microphone: Flexible choice with room for future expansion
   +  [PreSonus Revelator io24 Audio Interface](
       https://www.bhphotovideo.com/c/product/1642727-REG/presonus_revelator_io24_desktop_2x4.html)
   + [Shure SM58 Microphone](https://www.bhphotovideo.com/c/product/68464-REG/Shure_SM58S_SM58S_Cardioid_Dynamic.html)
    + [Shure A55M Isolation and Swivel Shock Stopper Microphone Mount](https://www.bhphotovideo.com/c/product/68624-REG/Shure_A55M_A55M_Isolation_and_Swivel.html)
   + [Kopul Studio Elite 4000 Series Neutrik XLR M to XLR F Microphone Cable (6', Black)](https://www.bhphotovideo.com/c/product/845507-REG/Kopul_m4006_Kopul_Studio_Elite_4000.html)
    + [Auray TT-6220 Telescoping Tabletop Microphone Stand](https://www.bhphotovideo.com/c/product/1023331-REG/auray_tt_6220_telescoping_table_top_mic.html)
+   + [Sony MDR-7506 Headphones](https://www.bhphotovideo.com/c/product/49510-REG/Sony_MDR_7506_MDR_7506_Headphone.html)
 
 * Option B: USB Microphone: Simplicity without flexibility
   + [PreSonus Revelator USB Mic with Studio Live Vocal Processing](https://www.bhphotovideo.com/c/product/1594441-REG/presonus_revelator_usb_mic.html)
   + [PreSonus SHK-2 Shockmount for Revelator Microphone](https://www.bhphotovideo.com/c/product/1694386-REG/presonus_shk_2_shock_mount_for_presonus.html)
   + [Auray TT-6220 Telescoping Tabletop Microphone Stand](https://www.bhphotovideo.com/c/product/1023331-REG/auray_tt_6220_telescoping_table_top_mic.html)
+  + [Sony MDR-7506 Headphones](https://www.bhphotovideo.com/c/product/49510-REG/Sony_MDR_7506_MDR_7506_Headphone.html)
 
 I have intentionally listed PreSonus models in both cases since Presonus has a very rich software ecosystem. Each of these options includes a sophisticated sound mixer you access with software on your computer or tablet. By the time you outgrow the functionality of the included mixer, you will no longer be intimidated by more sophisticated mixers such as any of the following: 
 * [Mackie DLZ Creator](https://www.bhphotovideo.com/c/product/1750072-REG/mackie_2053754_00_dlz_creator_advanced_content.html)
@@ -95,7 +98,8 @@ Things that will become outdated every half decade or so:
 * Audio interface
 * Capture card
 
-Yet another consideration is your intended usage. For example if you are going to be creating podcasts with multiple co-located people you will need to look into products such as the Mackie DLZ or RodeCaster Pro II. If you are walking around at a conference filming interviews for your YouTube channel, you will want to invest in a digital pocket recorder. By the time you get this far you will have your own opinions of what to buy, and will likely know more than I do about the topic.
+Yet another consideration is your intended usage. If you are going to be creating podcasts with multiple co-located people you will need to look into products such as the [Mackie DLZ](https://www.bhphotovideo.com/c/product/1750072-REG/mackie_2053754_00_dlz_creator_advanced_content.html) or [RODE RODECaster Pro II](https://www.bhphotovideo.com/c/product/1696424-REG/rode_rcp2_rodecaster_pro_2_podcasting.html). If you are walking around at a conference filming interviews for your YouTube channel, you will want to invest in a digital pocket recorder. By the time you get this far you will have your own opinions of what to buy, and will likely know more than I do about the topic.
+
 
 # Reference Info
 
