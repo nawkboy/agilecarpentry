@@ -7,7 +7,7 @@ categories:
 layout: post
 ---
 
-You can achive more natural video meetings by using a teleprompter. You will be able to look directly at the video feed of the other meeting participants, while simultaneously looking directly at your own camera. The video carefully explains all the details.
+You can achieve more natural video meetings by using a teleprompter. You will be able to look directly at the video feed of the other meeting participants, while simultaneously looking directly at your own camera. The video carefully explains all the details.
 
 <iframe class="video" src="https://www.youtube.com/embed/2sspdlEv23U" allowfullscreen frameborder="0"></iframe>
 
@@ -53,7 +53,7 @@ I have intentionally listed PreSonus models in both cases since Presonus has a v
 * [RODE RODECaster Pro II Integrated Audio Production Studio](https://www.bhphotovideo.com/c/product/1696424-REG/rode_rcp2_rodecaster_pro_2_podcasting.html)
 *  [PreSonus StudioLive 32SC Series III S 32-Channel Subcompact Digital Mixer/Recorder/Interface](https://www.bhphotovideo.com/c/product/1464988-REG/presonus_studiolive_32sc_compact_32_channel.html)
 
-If you decide on an audio interface and XLR microphone, feel free to pick most any dyanamic microphone you like. Curtis Judd's [Part 1: Dynamic Microphones for Podcasting](https://www.youtube.com/watch?v=RX3mgP09St8) video and Podcastage's [12 Best Podcast Microphones](https://www.youtube.com/watch?v=_bg1cy8AUvI) videos provide good guidance on microphone choice.
+If you decide on an audio interface and XLR microphone, feel free to pick most any dynamic microphone you like. Curtis Judd's [Part 1: Dynamic Microphones for Podcasting](https://www.youtube.com/watch?v=RX3mgP09St8) video and Podcastage's [12 Best Podcast Microphones](https://www.youtube.com/watch?v=_bg1cy8AUvI) videos provide good guidance on microphone choice.
 
 ## Tier 3: Teleprompter
 
@@ -67,7 +67,7 @@ The [Elgato Prompter](https://www.elgato.com/us/en/p/prompter) is particularly t
 
 If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using either a pre-existing iPad with LunaDisplay or an iPad sized monitor such as the less expensive Lilliput. Once the prices drop on the larger production monitors you can always upgrade to one of the 13" monitors listed below without needing to buy a larger teleprompter to support it. 
 
-Since my telemprompter video and the _Reference Info_ section focuses so heavily on the teleprompter I won't repeat much of that here.
+Since my teleprompter video and the _Reference Info_ section focuses so heavily on the teleprompter I won't repeat much of that here.
 
 If you have a really crummy webcam, or none at all, you will need to at least buy some sort of camera to place into the teleprompter. The challenge here is to balance the need to do something that works well enough to start with, verses jumping to a better streaming camera and paying the $500 to $1,500 premium in camera and lens required to do it. 
 
@@ -78,16 +78,18 @@ All of the above, plus a nice camera. $1,200 to $1,500
 
 The simple answer is to just ask [B&H Photo](https://www.bhphotovideo.com/) for advice, and buy what they recommend. Make sure they understand your intention to use your camera in a teleprompter as a webcam.
 
-You will most likely end up with a less expensive full-frame Canon or Sony mirrorless camera with a kit lens feeding into your laptop with some sort of capture card such as an [Elgato Cam Link 4k](https://www.bhphotovideo.com/c/product/1453840-REG/elgato_systems_10gam9901_cam_link_4k_game.html) or a hardware video switcher such as an [ATEM Mini Pro](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html).
+As of December 2023, you will most likely end up with the full-frame [Canon EOS R8 Mirrorless Camera](https://www.bhphotovideo.com/c/product/1748813-REG/canon_eos_r8_mirrorless_camera.html) or the [Sony a7 III Mirrorless Camera](https://www.bhphotovideo.com/c/product/1394217-REG/sony_ilce_7m3_alpha_a7_iii_mirrorless.html). Assuming you don't have a lot of space behind your desk, you will likely end up with a kit zoom lens capable of a 35mm focal length, or perhaps a prime lens somewhere around a 35mm focal length. To feed the camera into your laptop you will need some sort of capture card such as an [Elgato Cam Link 4k](https://www.bhphotovideo.com/c/product/1453840-REG/elgato_systems_10gam9901_cam_link_4k_game.html) or a hardware video switcher such as an [ATEM Mini Pro](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html).
 
-As you are just doing video meetings and perhaps a bit of YouTube videos, you will quickly reach a point of diminishing return. You can spend far more than $1,500 if you want. The next sweet spot is around $3,000. The one after that around $6,000. Then the prices really start to go to the moon as you get into [cameras used by motion picture professionals](https://www.arri.com/en/camera-systems/cameras). That said, heavily kitted out versions of the [Sony FX3](https://www.bhphotovideo.com/c/product/1624226-REG/sony_ilme_fx3_fx3_cinema_camera.html) are reportedly [finding their way into professional film production](https://www.youtube.com/watch?v=Gxi4jfFD5uA) these days.
+I would not spend too much time comparing the nuanced specifications between two similar models from different brands. The more interesting question is which ecosystem you wish to buy into. Do you find one brand has menu systems you like better than the next? Do you find the ergonomics of one brand much better than another? Do you have more faith in the reputation of one brand verses another? Canon, Sony, Nikon, and Panasonic each have their own fans for various reasons. If confused about what to choose, ask B&H Photo for advice and watch a few YouTube videos comparing the models you are considering buying. The more mainstream choice you make, the easier it will be to google for help when you need it. If you are living in or visiting Manhattan, consider going to the B&H store in-person.
+
+As you are just doing video meetings and perhaps a bit of YouTube videos, you will quickly reach a point of diminishing returns. You can spend far more than $1,500 if you want. The next sweet spot is around $3,000. The one after that around $6,000. Then the prices really start to go to the moon as you get into [cameras used by motion picture professionals](https://www.arri.com/en/camera-systems/cameras). That said, heavily kitted out versions of the [Sony FX3](https://www.bhphotovideo.com/c/product/1624226-REG/sony_ilme_fx3_fx3_cinema_camera.html) are reportedly [finding their way into professional film production](https://www.youtube.com/watch?v=Gxi4jfFD5uA) these days.
 
 ## Tier 5: Additional Improvements
 All of the above, plus whatever else you think makes sense for your needs.
 
 The short list of improvements is likely to include these sorts of things:
-* Fancier microphone such as a [Shure SM7B](https://www.bhphotovideo.com/c/product/225820-REG/Shure_SM7B_SM7B_Cardioid_Dynamic.html?sts=pi&pim=Y) or [ElectroVoice RE20](https://www.bhphotovideo.com/c/product/1590184-REG/electro_voice_f_01u_388_793_re20_broadcast_announcer_microphone.html). Make sure to either buy a [CloudLifter CL1 Mic Activator](
-https://www.bhphotovideo.com/c/product/1177578-REG/cloud_microphones_cl_1_cloudlifter_mic_activator.html) or upgrade to an audio interface with enough gain to handle it.
+* A fancier microphone such as a [Shure SM7B](https://www.bhphotovideo.com/c/product/225820-REG/Shure_SM7B_SM7B_Cardioid_Dynamic.html?sts=pi&pim=Y) or [ElectroVoice RE20](https://www.bhphotovideo.com/c/product/1590184-REG/electro_voice_f_01u_388_793_re20_broadcast_announcer_microphone.html). Make sure to either buy a [CloudLifter CL1 Mic Activator](
+https://www.bhphotovideo.com/c/product/1177578-REG/cloud_microphones_cl_1_cloudlifter_mic_activator.html) or upgrade to an audio interface with enough gain to handle these gain hungry microphones.
 * A secondary camera and hardware based video switcher such as the [ATEM Mini Pro](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html). You may want to buy one or two small on-camera monitors such as a [FeelWorld F6 Plus 5.5" 4K HDMI Monitor](https://www.bhphotovideo.com/c/product/1556369-REG/feelworld_f6plus_f6_plus_5_5_4k.html) to place on your desk and let you more easily monitor your podcast.
 * Add a few professional lights. Perhaps one as a rim light, and a couple more to light your backdrop. See _Reference Info_ section for more details.
 * A UHF wireless microphone kit such as the [Deity Microphones Theos Digital 2-Person Camera-Mount Wireless Omni Lavalier Microphone System](https://www.bhphotovideo.com/c/product/1779378-REG/deity_microphones_dtu0253d56_theos_digital_uhf_wireless.html) for use when running around an event interviewing people.
