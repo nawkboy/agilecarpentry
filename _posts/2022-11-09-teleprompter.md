@@ -11,12 +11,97 @@ You can achive more natural video meetings by using a teleprompter. You will be 
 
 <iframe class="video" src="https://www.youtube.com/embed/2sspdlEv23U" allowfullscreen frameborder="0"></iframe>
 
+# Incremental Investment Advice
+
+A few people have asked for guidance on where to prioritize your spending to improve your video calls. Please keep in mind that It isn't possible to provide a perfect answer to this question as everyone's office configuration, existing equipment, and personal preferences tend to vary. Yet, sometimes imperfect guidance is still better than none at all.
+
+More detailed reference information is available in the _Reference Info_ section below. The one people find a bit overwhelming at times.
+
+## Tier 1: Basic Lighting
+
+Basic lighting improvements. $300
+
+* A pair of edge-lighted panels to clamp to the back of your desk. 
+   + [Godox ES45](https://www.bhphotovideo.com/c/product/1626329-REG/godox_es45_kit_e_sports_es45_led_light.html) 
+   + [Elgato Key Light](https://www.elgato.com/en/key-light)
+* Inexpensive daylight balanced bulbs where appropriate to supplement your edge-lighted panels.
+   + [Various Alzo LED bulbs](https://www.bhphotovideo.com/c/products/led-lamps/ci/24485/N/3943306111?filters=fct_brand_name%3Aalzo)
+* Ensure your laptop camera or webcam is sitting at eye level.
+
+## Tier 2: Improved Sound
+
+All of the above plus a proper microphone. $250
+
+* Option A: Audio Interface + Basic XLR Microphone: Most flexible choice with lots of room for future expansion.
+  +  [PreSonus Revelator io24 Audio Interface](
+      https://www.bhphotovideo.com/c/product/1642727-REG/presonus_revelator_io24_desktop_2x4.html)
+  + [Shure SM58 Microphone](https://www.bhphotovideo.com/c/product/68464-REG/Shure_SM58S_SM58S_Cardioid_Dynamic.html)
+   + [Shure A55M Isolation and Swivel Shock Stopper Microphone Mount](https://www.bhphotovideo.com/c/product/68624-REG/Shure_A55M_A55M_Isolation_and_Swivel.html)
+  + [Kopul Studio Elite 4000 Series Neutrik XLR M to XLR F Microphone Cable (6', Black)](https://www.bhphotovideo.com/c/product/845507-REG/Kopul_m4006_Kopul_Studio_Elite_4000.html)
+   + [Auray TT-6220 Telescoping Tabletop Microphone Stand](https://www.bhphotovideo.com/c/product/1023331-REG/auray_tt_6220_telescoping_table_top_mic.html)
+
+* Option B: USB Microphone: Simplicity without flexibility
+  + [PreSonus Revelator USB Mic with Studio Live Vocal Processing](https://www.bhphotovideo.com/c/product/1594441-REG/presonus_revelator_usb_mic.html)
+  + [PreSonus SHK-2 Shockmount for Revelator Microphone](https://www.bhphotovideo.com/c/product/1694386-REG/presonus_shk_2_shock_mount_for_presonus.html)
+  + [Auray TT-6220 Telescoping Tabletop Microphone Stand](https://www.bhphotovideo.com/c/product/1023331-REG/auray_tt_6220_telescoping_table_top_mic.html)
+
+I have intentionally listed PreSonus models in both cases since Presonus has a very rich software ecosystem. Each of these options includes a sophisticated sound mixer you access with software on your computer or tablet. By the time you outgrow the functionality of the included mixers, you will no longer be intimidated by more mixers such as any of the following: 
+* [Mackie DLZ Creator](https://www.bhphotovideo.com/c/product/1750072-REG/mackie_2053754_00_dlz_creator_advanced_content.html)
+* [RODE RODECaster Pro II Integrated Audio Production Studio](https://www.bhphotovideo.com/c/product/1696424-REG/rode_rcp2_rodecaster_pro_2_podcasting.html)
+*  [PreSonus StudioLive 32SC Series III S 32-Channel Subcompact Digital Mixer/Recorder/Interface](https://www.bhphotovideo.com/c/product/1464988-REG/presonus_studiolive_32sc_compact_32_channel.html)
+
+## Tier 3: Teleprompter
+
+All of the above, plus a teleprompter. $300 to $500
+
+I love my teleprompter so much that I suggest prioritizing a teleprompter over a super fancy camera. A teleprompter with a decent webcam or handicam is likely to improve your ability to connect with your conversational partner(s) in a video call more than a better camera will.
+
+I think a bigger teleprompter screen helps, so I suggest buying a larger rather than smaller teleprompter. The iPad sized models are becoming especially well priced these days, and the iPad Pro sized models are only a little more. Any bigger and the price skyrockets. 
+
+The [Elgato Prompter](https://www.elgato.com/us/en/p/prompter) is particularly tempting, but I still think it is a bit small. Perhaps the best balance of value verses price is a [GlideGear TMP100](https://www.bhphotovideo.com/c/product/1610382-REG/glide_gear_tmp_100_ipad_smartphone_teleprompter.html) with a [Lilliput FA1016-NP/C 10.1"](https://www.bhphotovideo.com/c/product/1507742-REG/lilliput_fa1016_np_c_10_1_16_9_lcd_monitor.html). 
+
+If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using either a pre-existing iPad with LunaDisplay or an iPad sized monitor such as the less expensive Lilliput. Once the prices drop on the larger production monitors you can always upgrade to one of the 13" monitors listed below without needing to buy a larger teleprompter to support it. 
+
+Since the detailed reference info focuses so heavily on the teleprompter I won't repeat much of that here.
+
+If you have a really crummy webcam, or none at all, you will need to at least buy some sort of camera to place into the teleprompter. The challenge here is to balance the need to do something that works well enough to start with, verses jumping to a better streaming camera and paying the $500 to $1500 premium in camera and lens required to do it. 
+
+A google search for "best streaming camera" will show you lots of articles and YouTube videos discussing reasonable choices at different price points. My best advice is to review a few of these articles and videos, and then just ask B&H for guidance.
+
+## Tier 4: Nicer Camera
+All of the above, plus a nice camera. $1200 to $1500
+
+The simple answer is to just ask [B&H Photo](https://www.bhphotovideo.com/) for advice, and buy what they recommend. Make sure they understand your intention to use your camera in a teleprompter as a webcam.
+
+You will most likely end up with a less expensive full-frame Canon or Sony mirrorless camera with a kit lens feeding into your laptop with some sort of capture card such as an [Elgato Cam Link 4k](https://www.bhphotovideo.com/c/product/1453840-REG/elgato_systems_10gam9901_cam_link_4k_game.html) or a hardware video switcher such as an [ATEM Mini Pro](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html).
+
+Remember you are just doing video meetings and perhaps a bit of YouTube videos. You will quickly reach a point of diminishing return. You can spend far more than $1500 if you want. The next sweet spot is around $2500. The one after that around $6,000. Then the prices really start to go to the moon as you get into the cameras used in motion picture production.
+
+## Other Considerations
+Some of the equipment you buy is likely to last decades, other equipment will be replaced over time. There is something to be said for being less price sensitive for the long-lived equipment.
+
+Things that tend to last a very long time:
+* Sit stand desk
+* Varipoles, super clamps, and similar rigging hardware
+* Light and microphone stands
+* XLR Microphones
+* Teleprompter
+* LED lights
+* Camera lenses. You marry your lenses and only date your camera body.
+
+Things that will become outdated every half decade or so:
+* Better laptop (Macbook Pro, etc.)
+* Camera body
+* Audio interface
+* Capture card
+
+Yet another consideration is your intended usage. For example if you are going to be creating podcasts with multiple co-located people you will need to look into products such as the Mackie DLZ or RodeCaster Pro II. If you are walking around at a conference filming interviews for your YouTube channel, you will want to invest in a digital pocket recorder. By the time you get this far you will have your own opinions of what to buy, and will likely know more than I do about the topic.
+
 # Reference Info
 
 The equipment shown in the video can be found in the links below. I have also included links to various sound and lighting equipment.
 
 Although this hardware can greatly improve the quality of your remote meetings, don't expect the experience to be as good as in-person can be.
-
 
 ## Teleprompter
 
@@ -29,7 +114,6 @@ Although this hardware can greatly improve the quality of your remote meetings, 
 
 * [GlideGear TMP100](https://www.bhphotovideo.com/c/product/1610382-REG/glide_gear_tmp_100_ipad_smartphone_teleprompter.html)
   * This smaller GlideGear model will only support a standard sized iPad such as the one you see me using in the video.
-
 
 * [IKan PT Elite Universal Table Teleprompter](https://www.bhphotovideo.com/c/product/1024410-REG/ikan_pt_elite_ul_pt_elite_u_universal_tablet_teleprompter.html)
   * A more expensive iKan model will be better built than the GlideGear models.
