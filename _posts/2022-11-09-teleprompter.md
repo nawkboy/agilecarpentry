@@ -3,7 +3,7 @@ title: "Teleprompter for Zoom Meetings"
 image: /assets/images/video_stills/TeleprompterWithZoomStill.png
 author: James
 categories: 
-    - LeSS
+    - Miscellaneous
 layout: post
 ---
 
@@ -13,7 +13,7 @@ You can achive more natural video meetings by using a teleprompter. You will be 
 
 # Incremental Investment Advice
 
-A few people have asked for guidance on where to prioritize your spending to improve your video calls. Please keep in mind that It isn't possible to provide a perfect answer to this question as everyone's office configuration, existing equipment, and personal preferences tend to vary. Yet, sometimes imperfect guidance is still better than none at all.
+A few people have asked for guidance on where to prioritize your spending to improve your video calls. Please keep in mind that it isn't possible to provide a perfect answer to this question as everyone's office configuration, existing equipment, and personal preferences tend to vary. Yet, sometimes imperfect guidance is still better than none at all.
 
 More detailed reference information is available in the _Reference Info_ section below. The one people find a bit overwhelming at times.
 
@@ -45,7 +45,7 @@ All of the above plus a proper microphone. $250
   + [PreSonus SHK-2 Shockmount for Revelator Microphone](https://www.bhphotovideo.com/c/product/1694386-REG/presonus_shk_2_shock_mount_for_presonus.html)
   + [Auray TT-6220 Telescoping Tabletop Microphone Stand](https://www.bhphotovideo.com/c/product/1023331-REG/auray_tt_6220_telescoping_table_top_mic.html)
 
-I have intentionally listed PreSonus models in both cases since Presonus has a very rich software ecosystem. Each of these options includes a sophisticated sound mixer you access with software on your computer or tablet. By the time you outgrow the functionality of the included mixers, you will no longer be intimidated by more mixers such as any of the following: 
+I have intentionally listed PreSonus models in both cases since Presonus has a very rich software ecosystem. Each of these options includes a sophisticated sound mixer you access with software on your computer or tablet. By the time you outgrow the functionality of the included mixer, you will no longer be intimidated by more sophisticated mixers such as any of the following: 
 * [Mackie DLZ Creator](https://www.bhphotovideo.com/c/product/1750072-REG/mackie_2053754_00_dlz_creator_advanced_content.html)
 * [RODE RODECaster Pro II Integrated Audio Production Studio](https://www.bhphotovideo.com/c/product/1696424-REG/rode_rcp2_rodecaster_pro_2_podcasting.html)
 *  [PreSonus StudioLive 32SC Series III S 32-Channel Subcompact Digital Mixer/Recorder/Interface](https://www.bhphotovideo.com/c/product/1464988-REG/presonus_studiolive_32sc_compact_32_channel.html)
@@ -56,13 +56,13 @@ All of the above, plus a teleprompter. $300 to $500
 
 I love my teleprompter so much that I suggest prioritizing a teleprompter over a super fancy camera. A teleprompter with a decent webcam or handicam is likely to improve your ability to connect with your conversational partner(s) in a video call more than a better camera will.
 
-I think a bigger teleprompter screen helps, so I suggest buying a larger rather than smaller teleprompter. The iPad sized models are becoming especially well priced these days, and the iPad Pro sized models are only a little more. Any bigger and the price skyrockets. 
+I think a bigger teleprompter screen helps, so I suggest buying a larger rather than smaller teleprompter. The iPad sized models are becoming especially well priced these days, and the iPad Pro sized models are only a little more expensive. Any larger and the price skyrockets. 
 
 The [Elgato Prompter](https://www.elgato.com/us/en/p/prompter) is particularly tempting, but I still think it is a bit small. Perhaps the best balance of value verses price is a [GlideGear TMP100](https://www.bhphotovideo.com/c/product/1610382-REG/glide_gear_tmp_100_ipad_smartphone_teleprompter.html) with a [Lilliput FA1016-NP/C 10.1"](https://www.bhphotovideo.com/c/product/1507742-REG/lilliput_fa1016_np_c_10_1_16_9_lcd_monitor.html). 
 
 If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using either a pre-existing iPad with LunaDisplay or an iPad sized monitor such as the less expensive Lilliput. Once the prices drop on the larger production monitors you can always upgrade to one of the 13" monitors listed below without needing to buy a larger teleprompter to support it. 
 
-Since the detailed reference info focuses so heavily on the teleprompter I won't repeat much of that here.
+Since my telemprompter video and the _Reference Info_ section focuses so heavily on the teleprompter I won't repeat much of that here.
 
 If you have a really crummy webcam, or none at all, you will need to at least buy some sort of camera to place into the teleprompter. The challenge here is to balance the need to do something that works well enough to start with, verses jumping to a better streaming camera and paying the $500 to $1500 premium in camera and lens required to do it. 
 
@@ -75,7 +75,7 @@ The simple answer is to just ask [B&H Photo](https://www.bhphotovideo.com/) for 
 
 You will most likely end up with a less expensive full-frame Canon or Sony mirrorless camera with a kit lens feeding into your laptop with some sort of capture card such as an [Elgato Cam Link 4k](https://www.bhphotovideo.com/c/product/1453840-REG/elgato_systems_10gam9901_cam_link_4k_game.html) or a hardware video switcher such as an [ATEM Mini Pro](https://www.bhphotovideo.com/c/product/1557461-REG/blackmagic_design_atem_mini_pro_hdmi.html).
 
-Remember you are just doing video meetings and perhaps a bit of YouTube videos. You will quickly reach a point of diminishing return. You can spend far more than $1500 if you want. The next sweet spot is around $2500. The one after that around $6,000. Then the prices really start to go to the moon as you get into the cameras used in motion picture production.
+As you are just doing video meetings and perhaps a bit of YouTube videos, you will quickly reach a point of diminishing return. You can spend far more than $1500 if you want. The next sweet spot is around $3,000. The one after that around $6,000. Then the prices really start to go to the moon as you get into [cameras used by motion picture professionals](https://www.arri.com/en/camera-systems/cameras). That said, heavily kitted out versions of the [Sony FX3](https://www.bhphotovideo.com/c/product/1624226-REG/sony_ilme_fx3_fx3_cinema_camera.html) are reportedly [finding their way into professional film production](https://www.youtube.com/watch?v=Gxi4jfFD5uA) these days.
 
 ## Other Considerations
 Some of the equipment you buy is likely to last decades, other equipment will be replaced over time. There is something to be said for being less price sensitive for the long-lived equipment.
@@ -257,7 +257,7 @@ https://www.bhphotovideo.com/c/product/1177578-REG/cloud_microphones_cl_1_cloudl
 An advantage of the Shure SM58 and Sennheiser e835 is they are not as gain hungry as the SM7B or RE20 and therefore won’t require spending money on a mic activator. Curtis Judd has a great [video comparing the SM7B to the SM58](https://www.youtube.com/watch?v=KPAKlk1Tt-I) for livestream and podcasting use.
 
 My audio interface is a [PreSonus Revelator io24](
-https://www.bhphotovideo.com/c/product/1642727-REG/presonus_revelator_io24_desktop_2x4.html). Although the audio processing is done on the PreSonus hardware, while the internal mixer is mostly controlled remotely using either a desktop or iPad application. This has been wonderful in allowing me to get help from my friends with more sound experience than myself. For example, a friend in Canada was able to help me adjust my settings over a Zoom call in which I was sharing my screen.
+https://www.bhphotovideo.com/c/product/1642727-REG/presonus_revelator_io24_desktop_2x4.html). Although the audio processing is done on the PreSonus hardware, the internal mixer is mostly controlled remotely using either a desktop or iPad application. This has been wonderful in allowing me to get help from my friends with more sound experience than myself. For example, a friend in Canada was able to help me adjust my settings over a Zoom call in which I was sharing my screen.
 
 ## Desk
 
