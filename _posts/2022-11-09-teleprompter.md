@@ -164,7 +164,7 @@ Although this hardware can greatly improve the quality of your remote meetings, 
   * You can use a thinner apple box such as this one as an alternative to the round board I have used.
   * A standard sized apple box is likely to place the top of the iFootage monopod a bit too high.
 *  Modified Matthews Telescopic Baby Stand Extension
-  * I modifed a [Matthews Telescopic Baby Stand Extension](https://www.bhphotovideo.com/c/product/33185-REG/Matthews_429499_Telescopic_Baby_Stand_Extension.html) by using a pipe cutter to shorten each telescopic section slightly. You can find my modification instructions in one of the B&H reviews entitled "Modifying Minimum Length".
+  * I modified a [Matthews Telescopic Baby Stand Extension](https://www.bhphotovideo.com/c/product/33185-REG/Matthews_429499_Telescopic_Baby_Stand_Extension.html) by using a pipe cutter to shorten each telescopic section slightly. You can find my modification instructions in one of the B&H reviews entitled "Modifying Minimum Length".
   * I am using the upside down telescopic baby stand extension in combination with a [Matthews Mounting Plate with 5/8" Receiver](https://www.bhphotovideo.com/c/product/33214-REG/Matthews_429621_Mounting_Plate_5_8_Receiver.html) and a [Manfrotto 208 3/8" Head Mounting Plate with Lock Screws](https://www.bhphotovideo.com/c/product/554347-REG/Manfrotto_208_208_3_8_Head_Mounting.html).
   *  Since the small 1/4"-20 t-handle knob nearest the Manfroto mounting plate was hitting the mounting plate, I replaced it with a standard hex head 1/4"-20 bolt. 
   *  The [iFootage RB-A200 monopod](https://www.bhphotovideo.com/c/product/1671052-REG/ifootage_401000087_rb_a200_cobra_2_round.html) should be a better choice than what I am using. I wasn't aware of the iFootage RB-200 at the time I created my solution.
@@ -237,7 +237,7 @@ Another option would be a [portable monitor](https://www.bhphotovideo.com/c/buy/
 	* This is getting into ask for advice from B&H territory. 
 	
 * [Impact Super Clamp with Ratchet Handle](https://www.bhphotovideo.com/c/product/824360-REG/impact_cc_106r_super_clamp_with_ratchet.html?sts=pi&pim=Y)
-  * A "super clamp" is a staple of photographic equipment. My Godox S60 lights and their balasts are attached to my varipoles and cross bar using super clamps and baby pins.
+  * A "super clamp" is a staple of photographic equipment. My Godox S60 lights and their ballasts are attached to my varipoles and cross bar using super clamps and baby pins.
   * This standard type of clamp is produced by a large number of brands. They all take a "baby pin", and also have a few useful threaded holes you can use when attaching things.
 
 ## Cameras
