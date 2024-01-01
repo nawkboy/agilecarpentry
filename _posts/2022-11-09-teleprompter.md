@@ -57,7 +57,7 @@ If you decide on an audio interface and XLR microphone, feel free to pick most a
 
 ## Tier 3: Teleprompter
 
-All of the above, plus a teleprompter. $300 to $500
+All of the above, plus a teleprompter. $300 to $1200
 
 I love my teleprompter so much that I suggest prioritizing a teleprompter over a super fancy camera. A teleprompter with a decent webcam or handicam is likely to improve your ability to connect with your conversational partner(s) in a video call more than a better camera will.
 
@@ -65,7 +65,9 @@ I think a bigger teleprompter screen helps, so I suggest buying a larger rather 
 
 The [Elgato Prompter](https://www.elgato.com/us/en/p/prompter) is particularly tempting, but I still think it is a bit small. Perhaps the best balance of value verses price is a [GlideGear TMP100](https://www.bhphotovideo.com/c/product/1610382-REG/glide_gear_tmp_100_ipad_smartphone_teleprompter.html) with a [Lilliput FA1016-NP/C 10.1"](https://www.bhphotovideo.com/c/product/1507742-REG/lilliput_fa1016_np_c_10_1_16_9_lcd_monitor.html). 
 
-If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using either a pre-existing iPad with LunaDisplay or an iPad sized monitor such as the less expensive Lilliput. Once the prices drop on the larger production monitors you can always upgrade to one of the 13" monitors listed below without needing to buy a larger teleprompter to support it. 
+If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using an iPad with [Orion](https://orion.tube/), iPad with [LunaDisplay](https://astropad.com/product/lunadisplay/), or an iPad sized display monitor. Once the prices drop on the larger dispaly solutions you will be able to upgrade without needing to buy a larger teleprompter.
+
+The optimal solution is likely to be a 2021 or newer iPad Pro running [Orion](https://orion.tube/), placed within an iPad Pro sized teleprompter. Until Orion adds a teleprompter mode, this will require using the [Mac Mirror Flip Utility](https://telepromptermirror.com/mirror-flip-your-mac/) or equivalent. I do not have any hands-on experience with this configuration, and I have not yet heard from anyone who does.
 
 Since my teleprompter video and the _Reference Info_ section focuses so heavily on the teleprompter I won't repeat much of that here.
 
@@ -174,9 +176,20 @@ Although this hardware can greatly improve the quality of your remote meetings, 
 
 * [Luna Display](https://astropad.com/product/lunadisplay/)
   * The LunaDisplay has the “teleprompter” mode you need. Unfortunately, Apple Sidecar doesn't currently have this feature.
-  * Dedicated teleprompter monitors don’t have the high resolution you need for Zoom meetings. iPad or iPad Pro rules the day.
+  * Dedicated teleprompter monitors do not have the high resolution you need for Zoom meetings, although they are bright. 
+  * Production monitors have the required resolution, but are seldom as bright as an iPad.
+  * An iPad running Orion or a dedicated production monitor might be a better solution than a LunaDisplay.
 
-### Luna Display Alternatives
+### iPad running Orion
+
+The [Orion HDMI iPad application](https://orion.tube/) by LUX looks likely to be a better iPad based solution than the Luna Display. 
+
+The iPad screens are far brighter than the reasonably priced display monitors. The reasonably priced production monitors are listed as having anywhere from 300 to 400 nits of brightness. In comparison, various generations of iPad displays range from 600 nits on the low end, to as high as 1000 nits. A friend is using a [Lilliput 10.1" FA1016/C IPS](https://www.amazon.com/dp/B07XBPD5BF) in his iPad sized teleprompter. He is generally happy with his purchase, but wishes it was brighter.
+
+I don't think Orion currently supports a teleprompter mode, although I put in a feature request in hopes they will add it. In the meantime, Mac users could try the free [Mac Mirror Flip Utility](https://telepromptermirror.com/mirror-flip-your-mac/). I believe there are lots of comparable Microsoft Windows based solutions.
+
+
+### Broadcast Monitor Display Alternatives
 
 Most of the time the LunaDisplay works well. Occasionally, the image quality degrades for whatever reason. Unplugging and re-plugging the USB-C cable typically fixes the problem.
 
@@ -189,6 +202,8 @@ In the future I am tempted to try a hardware only solution. Any of the following
 * [Lilliput A12 12.5" 4K Monitor](https://www.bhphotovideo.com/c/product/1366917-REG/lilliput_a12_12_5_4k_broadcast.html)
 
 Another option would be a [portable monitor](https://www.bhphotovideo.com/c/buy/portable-monitors/ci/48139) coupled with a [UpDownCross Converter](https://www.bhphotovideo.com/c/product/1401679-REG/blackmagic_design_convmudcstd_hd_mini_converter_updowncross_hd.html) of some sort.
+
+
 
 
 ## Lighting
