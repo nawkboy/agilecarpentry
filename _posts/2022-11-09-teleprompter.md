@@ -186,7 +186,7 @@ LunaDisplay support claims they see the least problems with customers who are us
 
 ### iPad running Orion
 
-The [Orion HDMI iPad application](https://orion.tube/) by LUX looks likely to be a great iPad once the continous power problem is solved. 
+[Orion HDMI iPad application](https://orion.tube/) by LUX looks  to be a great iPad solution once the continous power and teleprompter mode problems are solved. 
 
 The iPad screens are far brighter than the reasonably priced display monitors. The reasonably priced production monitors are listed as having anywhere from 300 to 400 nits of brightness. In comparison, various generations of iPad displays range from 600 nits on the low end, to as high as 1000 nits. A friend is using a [Lilliput 10.1" FA1016/C IPS](https://www.amazon.com/dp/B07XBPD5BF) in his iPad sized teleprompter. He is generally happy with his purchase, but wishes it was brighter.
 
