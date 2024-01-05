@@ -65,9 +65,9 @@ I think a bigger teleprompter screen helps, so I suggest buying a larger rather 
 
 The [Elgato Prompter](https://www.elgato.com/us/en/p/prompter) is particularly tempting, but I still think it is a bit small. Perhaps the best balance of value verses price is a [GlideGear TMP100](https://www.bhphotovideo.com/c/product/1610382-REG/glide_gear_tmp_100_ipad_smartphone_teleprompter.html) with a [Lilliput FA1016-NP/C 10.1"](https://www.bhphotovideo.com/c/product/1507742-REG/lilliput_fa1016_np_c_10_1_16_9_lcd_monitor.html). 
 
-If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using an iPad with [Orion](https://orion.tube/), iPad with [LunaDisplay](https://astropad.com/product/lunadisplay/), or an iPad sized display monitor. Once the prices drop on the larger dispaly solutions you will be able to upgrade without needing to buy a larger teleprompter.
+If you are a little less price sensitive, I suggest buying the [GlideGear TMP750](https://www.bhphotovideo.com/c/product/1607037-REG/glide_gear_tmp_750_17_professional.html), using an  iPad with [LunaDisplay](https://astropad.com/product/lunadisplay/), an iPad with [Orion](https://orion.tube/), or an iPad sized display monitor. Once the prices drop on the larger dispaly solutions you will be able to upgrade without needing to buy a larger teleprompter.
 
-The optimal solution is likely to be a 2021 or newer iPad Pro running [Orion](https://orion.tube/), placed within an iPad Pro sized teleprompter. Until Orion adds a teleprompter mode, this will require a solution for flipping the display. Perhaps an [UpDownCross Converter](https://www.bhphotovideo.com/c/product/1401679-REG/blackmagic_design_convmudcstd_hd_mini_converter_updowncross_hd.html) would work well. I do not have any hands-on experience with this configuration, and I have not yet heard from anyone who does.
+The optimal solution is likely to be a 2021 or newer iPad Pro within an iPad Pro sized teleprompter, as this will allow use of either a  [LunaDisplay](https://astropad.com/product/lunadisplay/) or [Orion](https://orion.tube/) based solution. I believe LUX will soon solve both the continous power and teleprompter mode issues with Orion. Both the LunaDisplay and Orion solutions are very inexpensive compared to the other equipment involved, which makes it practical to experiment with both.
 
 Since my teleprompter video and the _Reference Info_ section focuses so heavily on the teleprompter I won't repeat much of that here.
 
@@ -180,19 +180,23 @@ Although this hardware can greatly improve the quality of your remote meetings, 
   * Production monitors have the required resolution, but are seldom as bright as an iPad.
   * An iPad running Orion or a dedicated production monitor might be a better solution than a LunaDisplay.
 
+Most of the time my LunaDisplay works well. Occasionally, the image quality degrades for whatever reason. Unplugging and re-plugging the USB-C cable typically fixes the problem. Switching around which USB ports I am using seems to have mostly solved my issues.
+
+LunaDisplay support claims they see the least problems with customers who are using [CalDigit](https://www.caldigit.com/) brand hubs. I don't understand all the details, but it seems not all USB hubs support all protocols. Some of the more exotic protocols are only occassionally implemented by a hub. This is why a LunaDisplay device must typically be plugged directly into a USB port on your computer. 
+
 ### iPad running Orion
 
-The [Orion HDMI iPad application](https://orion.tube/) by LUX looks likely to be a better iPad based solution than the Luna Display. 
+The [Orion HDMI iPad application](https://orion.tube/) by LUX looks likely to be a great iPad once the continous power problem is solved. 
 
 The iPad screens are far brighter than the reasonably priced display monitors. The reasonably priced production monitors are listed as having anywhere from 300 to 400 nits of brightness. In comparison, various generations of iPad displays range from 600 nits on the low end, to as high as 1000 nits. A friend is using a [Lilliput 10.1" FA1016/C IPS](https://www.amazon.com/dp/B07XBPD5BF) in his iPad sized teleprompter. He is generally happy with his purchase, but wishes it was brighter.
 
-I don't think Orion currently supports a teleprompter mode, although I put in a feature request in hopes they will add it. In the meantime, perhaps an [UpDownCross Converter](https://www.bhphotovideo.com/c/product/1401679-REG/blackmagic_design_convmudcstd_hd_mini_converter_updowncross_hd.html) would work well.
+Orion doesn't currently support a teleprompter mode, although I put in a feature request in hopes they will add it. My suspicion is this will be fixed by the time there is a good solution for continous power. In the meantime, perhaps an [UpDownCross Converter](https://www.bhphotovideo.com/c/product/1401679-REG/blackmagic_design_convmudcstd_hd_mini_converter_updowncross_hd.html) would work well.
+
+It is likely the perfect choice of USB hub supporting the required protocols will solve the power problem, but LUX doesn't yet have any concrete guidance on hub choice in this regard. Many people in online forums are anxious to see a solution for the continuous power problem, so I think it will eventually get sorted out. There is mention in online forums in which LUX developers actively participate which talk of using the keyboard pins to power the iPad. The challenge with using any powered USB hub to provide continuous power is complicated by the fact Orion makes use of protocols few USB hubs support.
 
 ### Broadcast Monitor Display Alternatives
 
-Most of the time the LunaDisplay works well. Occasionally, the image quality degrades for whatever reason. Unplugging and re-plugging the USB-C cable typically fixes the problem.
-
-In the future I am tempted to try a hardware only solution. Any of the following broadcast monitors with image flip capabilities might be a good choice. I have not tested any of these choices. If anyone has experience with this sort of approach, please let me know what hardware you are using and how it is working for you.
+Any of the following broadcast monitors with image flip capabilities might be a good choice. A friend has gone down this path. His only complaint is the display is a bit dim, which is generally true of every one of the broadcast monitor choices compared to an iPad. 
 
 * [FeelWorld P133-9HSD 13.3" Broadcast IPS LCD Monitor](https://www.bhphotovideo.com/c/product/1251100-REG/feelworld_fwp133_9hsd_13_3_pro_broadcast_lcd.html)
 
