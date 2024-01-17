@@ -39,7 +39,7 @@ Event venue selection is heavily influenced by both logistical and hosting cost 
 
 I am expecting event space pricing for the Hotel Teatro and The Curtis to be cost effective with a smaller class size. If I am wrong about pricing or if we need more date options, one of the back-up options will do the trick.
 
-If you are going to be paying for a hotel room using points, it is extremely likely you will find a hotel within your desired frequent traveler program within walking distance of the event hotel. Nothing is easier than staying in the same hotel as the event itself.
+If you are going to be paying for a hotel room using points, it is likely you will find a hotel within your desired frequent traveler program within walking distance of the event hotel. Nothing is easier than staying in the same hotel as the event itself.
 
 # Lunches Will Be Great
 
