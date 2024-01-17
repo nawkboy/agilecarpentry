@@ -1,6 +1,7 @@
 ---
 title: Denver Certified LeSS Practitioner Course Summer 2023
 image: /assets/images/clp/DenverCLPWebsitePageHeaderJuly18_20.png
+ogimage: /assets/images/clp/DenverCLPWebsitePageHeaderJuly18_20.png
 author: James
 layout: book
 trainingevent:

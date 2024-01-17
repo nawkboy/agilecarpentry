@@ -1,6 +1,7 @@
 ---
 title: Milwaukee Certified LeSS Practitioner Course Summer 2023
 image: /assets/images/clp/MilwaukeeCLPWebsitePageHeaderAug28_30.png
+ogimage: /assets/images/clp/MilwaukeeCLPWebsitePageHeaderAug28_30.png
 author: James
 layout: book
 trainingevent:

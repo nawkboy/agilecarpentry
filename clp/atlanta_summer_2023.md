@@ -1,6 +1,7 @@
 ---
 title: Atlanta Certified LeSS Practitioner Course Summer 2023
 image: /assets/images/clp/AtlantaCLPWebsitePageHeaderJune13_15.png
+ogimage: /assets/images/clp/AtlantaCLPWebsitePageHeaderJune13_15.png
 author: James
 layout: book
 trainingevent:

@@ -47,7 +47,7 @@
     <link rel="canonical" href="{{site.url}}{{site.baseurl}}{{page.url}}" />
     <meta property="og:url" content="{{site.url}}{{site.baseurl}}{{page.url}}" />
     <meta property="og:site_name" content="{{site.title}}" />
-    <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{page.image}}" />
+    <meta property="og:image" content="{{site.url}}{{site.baseurl}}{{page.ogimage}}"/>
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta property="twitter:image" content="{{site.url}}{{site.baseurl}}{{page.image}}" />
@@ -105,9 +105,9 @@
     <!-- standard seo stuff goes here-->
     {% seo %}
   {% endif %}  
-
-  {% if page.layout != 'post' %}
-  <meta property="og:image" content="{{site.url}}{{site.default-image}}" />
+  
+  {% if page.layout != 'post' and page.layout != 'book' %}
+    <meta property="og:image" content="{{site.url}}{{site.default-image}}" />
   {% endif %}
 
   <!-- Custom CSS -->
