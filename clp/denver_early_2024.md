@@ -20,26 +20,26 @@ The [Denver Airport Rail](https://www.denver.org/about-denver/transportation/den
 
 ![Denver Union Station](/assets/images/clp/Denver_union_station.jpg)
 
-A [Roomette](https://www.amtrak.com/onboard/onboard-accommodations-for-all-your-needs/sleeper-car-accommodations/roomettes.html) on the [Amtrak California Zephyr](https://www.amtrak.com/california-zephyr-train) is a particularly low stress option which will let you watch the countryside roll by. Here is a YouTube [video showing what it is like to ride the California Zephyr](https://www.youtube.com/watch?v=m1gRPEZdKyI).
+A [Roomette](https://www.amtrak.com/onboard/onboard-accommodations-for-all-your-needs/sleeper-car-accommodations/roomettes.html) on the [Amtrak California Zephyr](https://www.amtrak.com/california-zephyr-train) is a particularly low-stress option which will let you watch the countryside roll by. Here is a YouTube [video showing what it is like to ride the California Zephyr](https://www.youtube.com/watch?v=m1gRPEZdKyI).
 
 Union Station is in the middle of downtown Denver and within walking distance of every event venue being considered. It is likely I will be taking the California Zephyr in a Roomette myself on either my outbound or return trip from Milwaukee to Denver.
 
-Going across the country on Amtrak works best if you are able to avoid any connections aside from those with frequent commuter lines. Feel free to reach out with any questions.
+Going across the country on Amtrak works best if you are able to avoid any connections aside from those with frequent commuter lines.
 
 
 # Training Venue Details
 
 Event venue selection is heavily influenced by both logistical and hosting cost constraints. The hotels below have made the short list.
 
-* [Hotel Teatro](https://www.hotelteatro.com/): Very pretty 4 star boutique hotel in a historic building in downtown Denver. This hotel is not affiliated with any of the large hotel chains. This is my favorite choice at the moment.
-* [The Curtis (A Doubletree Hotel By Hilton)](https://www.thecurtis.com/): A very artistic 4 star hotel. I like this one almost as much as the Hotel Teatro. The beds look comfortable, and they have a lot of event space.
+* [Hotel Teatro](https://www.hotelteatro.com/): A very pretty 4 star boutique hotel in a historic building in downtown Denver. This hotel is not affiliated with any of the large hotel chains.
+* [The Curtis (A Doubletree Hotel By Hilton)](https://www.thecurtis.com/): A very artistic 4 star hotel. The beds look comfortable, and they have a lot of event space.
 * [Hyatt Place](https://www.hyatt.com/hyatt-place/denzd-hyatt-place-denver-downtown): Upscale limited service 3 star hotel. Possible back-up option.
 * [Hilton Garden Inn](https://www.hilton.com/en/hotels/denddgi-hilton-garden-inn-denver-downtown/): Upscale limited service 3 star hotel. Possible back-up option.
 * [Home 2 By Hilton](https://www.hilton.com/en/hotels/dentiht-home2-suites-denver-downtown-convention-center/): Limited service 3 star hotel. Possible back-up option.
 
 I am expecting event space pricing for the Hotel Teatro and The Curtis to be cost effective with a smaller class size. If I am wrong about pricing or if we need more date options, one of the back-up options will do the trick.
 
-If you are going to be paying for a hotel room using points, it is extremely likely you will find a hotel within your desired frequent traveler program within walking distance of the event hotel. Of course nothing is easier than staying in the same hotel as the event itself.
+If you are going to be paying for a hotel room using points, it is extremely likely you will find a hotel within your desired frequent traveler program within walking distance of the event hotel. Nothing is easier than staying in the same hotel as the event itself.
 
 # Lunches Will Be Great
 
