@@ -46,7 +46,7 @@ The [Denver Airport Rail](https://www.denver.org/about-denver/transportation/den
 
 ![Denver Union Station](/assets/images/clp/Denver_union_station.jpg)
 
-A [Roomette](https://www.amtrak.com/onboard/onboard-accommodations-for-all-your-needs/sleeper-car-accommodations/roomettes.html) on the [Amtrak California Zephyr](https://www.amtrak.com/california-zephyr-train) is a particularly low-stress option which will let you watch the countryside roll by. Here is a YouTube [video showing what it is like to ride the California Zephyr](https://www.youtube.com/watch?v=m1gRPEZdKyI).
+A [Roomette](https://www.amtrak.com/onboard/onboard-accommodations-for-all-your-needs/sleeper-car-accommodations/roomettes.html) on the [Amtrak California Zephyr](https://www.amtrak.com/california-zephyr-train) is a particularly low-stress option which will let you watch the countryside roll by. Here is a YouTube [video showing what it is like to ride the California Zephyr](https://www.youtube.com/watch?v=m1gRPEZdKyI). A traditional printable  [schedule for the California Zephyr](https://www.railpassengers.org/site/assets/files/20928/california-zephyr.pdf) is sometimes quicker to read than the Amtrak website.
 
 Union Station is in the middle of downtown Denver and within walking distance of every event venue being considered. It is likely I will be taking the California Zephyr in a Roomette myself on either my outbound or return trip from Milwaukee to Denver.
 
