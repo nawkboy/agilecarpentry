@@ -50,7 +50,9 @@ A [Roomette](https://www.amtrak.com/onboard/onboard-accommodations-for-all-your-
 
 Union Station is in the middle of downtown Denver and within walking distance of every event venue being considered. It is likely I will be taking the California Zephyr in a Roomette myself on either my outbound or return trip from Milwaukee to Denver.
 
-Going across the country on Amtrak works best if you are able to avoid any connections aside from those with frequent commuter lines.
+Going across the country on Amtrak works best if you are able to avoid any connections aside from those with frequent commuter lines. Amtrak trains generally leave their origin station on time, but tend to arrive and depart late from stations farther from the origin station. 
+
+You may want to [check historical arrival and departure times](https://juckins.net/amtrak_status/archive/html/history.php) for Denver (DEN) and whatever other station along the route is relevant to you. The west-bound California Zephyr which starts in Chicago (CHI) is train #5, and the east-bound California Zephyr which starts in Emeryville (EMY) is train #6.
 
 
 # Training Venue Details
