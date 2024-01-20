@@ -61,6 +61,7 @@ Event venue selection is heavily influenced by both logistical and hosting cost 
 
 * [Hotel Teatro](https://www.hotelteatro.com/): A very pretty 4 star boutique hotel in a historic building in downtown Denver. This hotel is not affiliated with any of the large hotel chains.
 * [The Curtis (A Doubletree Hotel By Hilton)](https://www.thecurtis.com/): A very artistic 4 star hotel. The beds look comfortable, and they have a lot of event space.
+* [Embassy Suites](https://www.hilton.com/en/hotels/deneses-embassy-suites-denver-downtown-convention-center/): Very upscale limited service 3 star hotel. The [3D scan](https://visitingmedia.com/tt8/?ttid=embassy-suites-denver-convention-center/#/360?group=0&tour=0) looks nice.
 * [Hyatt Place](https://www.hyatt.com/hyatt-place/denzd-hyatt-place-denver-downtown): Upscale limited service 3 star hotel. Possible back-up option.
 * [Hilton Garden Inn](https://www.hilton.com/en/hotels/denddgi-hilton-garden-inn-denver-downtown/): Upscale limited service 3 star hotel. Possible back-up option.
 * [Home 2 By Hilton](https://www.hilton.com/en/hotels/dentiht-home2-suites-denver-downtown-convention-center/): Limited service 3 star hotel. Possible back-up option.
