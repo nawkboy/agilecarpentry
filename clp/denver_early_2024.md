@@ -1,12 +1,12 @@
 ---
-title: Denver Certified LeSS Practitioner Early 2024
+title: Denver Certified LeSS Practitioner February 20-22, 2024
 image: /assets/images/clp/DenverCLPWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/DenverCLPWebsitePageHeaderNoDatesOgImage.png
+ogimage: /assets/images/clp/DenverCLPWebsitePageHeaderFeb20to22OgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2024-02-01T09:30-06:00"
-  endDate: "2024-02-03T19:00-06:00"
+  startDate: "2024-02-20T09:30-06:00"
+  endDate: "2024-02-22T19:00-06:00"
   location:
     name: "TBD"
     address:
@@ -23,7 +23,7 @@ trainingevent:
    The Certified LeSS Practitioner course is an in-depth course covering the LeSS principles, framework and rules, and guides. It provides essential information for adopting and improving LeSS to your product development group. The course contains an overview of LeSS, stories on LeSS adoptions, exercises and extensive LeSS Q&A to ensure we discuss the topics most of interest to the participants.
   trainer: "James Carpenter"
   offer:
-    ticketUrl: "https://forms.gle/BdgCsuuPQbRME8Ug6"
+    ticketUrl: "https://agilecarpentry.ticketspice.com/denver-certified-less-practitioner-workshop-early-2024"
     price: "2699"
     priceCurrency: "USD"
   organizer:
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://forms.gle/BdgCsuuPQbRME8Ug6" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Express Interest</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/denver-certified-less-practitioner-workshop-early-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 20-22: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -59,14 +59,10 @@ You may want to [check historical arrival and departure times](https://juckins.n
 
 Event venue selection is heavily influenced by both logistical and hosting cost constraints. The hotels below have made the short list.
 
-* [Hotel Teatro](https://www.hotelteatro.com/): A very pretty 4 star boutique hotel in a historic building in downtown Denver. This hotel is not affiliated with any of the large hotel chains.
-* [The Curtis (A Doubletree Hotel By Hilton)](https://www.thecurtis.com/): A very artistic 4 star hotel. The beds look comfortable, and they have a lot of event space.
 * [Embassy Suites](https://www.hilton.com/en/hotels/deneses-embassy-suites-denver-downtown-convention-center/): Very upscale limited service 3 star hotel. The [3D scan](https://visitingmedia.com/tt8/?ttid=embassy-suites-denver-convention-center/#/360?group=0&tour=0) looks nice.
 * [Hyatt Place](https://www.hyatt.com/hyatt-place/denzd-hyatt-place-denver-downtown): Upscale limited service 3 star hotel. Possible back-up option.
 * [Hilton Garden Inn](https://www.hilton.com/en/hotels/denddgi-hilton-garden-inn-denver-downtown/): Upscale limited service 3 star hotel. Possible back-up option.
 * [Home 2 By Hilton](https://www.hilton.com/en/hotels/dentiht-home2-suites-denver-downtown-convention-center/): Limited service 3 star hotel. Possible back-up option.
-
-I am expecting event space pricing for the Hotel Teatro and The Curtis to be cost effective with a smaller class size. If I am wrong about pricing or if we need more date options, one of the back-up options will do the trick.
 
 If you are going to be paying for a hotel room using points, it is likely you will find a hotel within your desired frequent traveler program within walking distance of the event hotel. Nothing is easier than staying in the same hotel as the event itself.
 
@@ -78,7 +74,7 @@ Breakfast will also be provided. I anticipate we will be eating as a group at th
 
 # Tickets
 
-<a class="wx-button" href="https://forms.gle/BdgCsuuPQbRME8Ug6" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Express Interest</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/denver-certified-less-practitioner-workshop-early-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 20-22: Get Tickets</a>
 
 
 
