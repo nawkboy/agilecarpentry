@@ -35,6 +35,15 @@ trainingevent:
 
 {% include_relative _includes/course_agenda.md %}
 
+# Early Bird Bonus
+
+The first 4 people who purchase a ticket have their choice of custom drinkware. The available choices are:
+
+* [40 Ounce Road Trip Tumbler](https://rticoutdoors.com/Road-Trip-Tumbler?size=40oz&color=Storm): The vacuum insulated stainless steel RTIC 40 oz. Road Trip Tumbler has a ceramic lined interior to protect against metallic taste. It also has a screw on lid to protect against spills. It is almost identical to the 40 oz. Stanley Quencher H2.0, and perhaps better considering the addition of a ceramic lining.
+* [30 Ounce Road Trip Tumbler](https://rticoutdoors.com/Road-Trip-Tumbler?size=30oz&color=Storm): The vacuum insulated stainless steel RTIC 30 oz. Road Trip Tumbler has a ceramic lined interior to protect against metallic taste. It also has a screw on lid to protect against spills. It is almost identical to the 30 oz Stanley Quencher H2.0, and perhaps better considering the addition of a ceramic lining.
+* [18 Ounce Yeti Rambler](https://www.yeti.com/drinkware/bottles/21071060021.html): The Yeti Rambler 18 oz. bottle with chug cap is a very nice vacuum insulated stainless steel bottle. It has a large lid which makes adding ice easy. This is perhaps a more convenient size for taking on a hike, whereas the larger tumblers are likely better in the car or at a desk.
+
+
 # Travel Logistics
 
 ## Ariving By Air
