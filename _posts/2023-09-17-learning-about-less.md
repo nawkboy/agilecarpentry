@@ -46,6 +46,8 @@ To become a LeSS trainer one must have implemented a non-trivial LeSS adoption, 
 
 My LeSS case study regarding a [Large Server Hardware Company](https://less.works/case-studies/large-server-hardware-company) provides a hands-on experience report of my efforts at one particular client. By reading this, you and I will have at least one concrete reference context for discussing real-world application of LeSS. There are [other great case studies](https://less.works/case-studies) worth reading, but none that I can personally speak to at the same level of depth I can my own.
 
+I also have [business focused summary]({{site.baseurl}}/blog/business-summary-of-case-study/) of my case study which you may find useful.
+
 If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
 {% include audio_version_of_my_case_study.md %}
