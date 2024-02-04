@@ -1,5 +1,5 @@
 ---
-title: Billions of Lost Revenue Avoided
+title: Billions In Lost Revenue Avoided
 image: /assets/images/burning-money.jpg
 author: James
 categories:

@@ -3,26 +3,41 @@
   image: /assets/images/clp/clp-denver-early-2024-portfolio.png
   link: /clp/denver_early_2024/
 
-- title: Economic View Of LeSS Case Study
+#- title: Economic View Of LeSS Case Study
+#  category: LeSS
+#  image: /assets/images/portfolio/case-study-biz-summary-portfolio.png
+#  link: /blog/business-summary-of-case-study/
+
+
+- title: Learning About LeSS
   category: LeSS
-  image: /assets/images/portfolio/case-study-biz-summary-portfolio.png
-# image: /assets/images/money-1428584_1280.jpg
-  link: /blog/business-summary-of-case-study/
+  image: /assets/images/portfolio/learning-about-less-portfolio.png
+  link: /blog/learning-about-less/
+
+- title: Hundreds Of Millions In Savings
+  category: LeSS
+  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
+  link: /blog/hundreds-of-millions-saved/
+
+- title: Billions In Lost Revenue Avoided
+  category: LeSS
+  image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
+  link: /blog/billions-in-risk-avoidance/
+
+#- title: Where would you like a public Certified LeSS Practitioner course?
+#  category: LeSS
+#  image: /assets/images/portfolio/clp-location-survey-portfolio.png
+#  link: /blog/clp-location-survey/
 
 #- title: LeSS Practitioner Course Now In Milwaukee!
 #  category: LeSS
 #  image: /assets/images/portfolio/milwaukee-clp-portfolio-image.png
 #  link: /mke_clp/
 
-- title: Where would you like a public Certified LeSS Practitioner course?
-  category: LeSS
-  image: /assets/images/portfolio/clp-location-survey-portfolio.png
-  link: /blog/clp-location-survey/
-
-- title: LeSS Case Study Formally Published
-  category: LeSS
-  image: /assets/images/mcs_case_study_updated/timelineGraphFakeMonths.png
-  link: /blog/large-server-hardware-company-case-study-published/
+#- title: LeSS Case Study Formally Published
+#  category: LeSS
+#  image: /assets/images/mcs_case_study_updated/timelineGraphFakeMonths.png
+#  link: /blog/large-server-hardware-company-case-study-published/
 
 - title: Deriving LeSS
   category: LeSS
