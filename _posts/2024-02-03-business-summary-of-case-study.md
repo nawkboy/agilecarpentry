@@ -13,15 +13,15 @@ This business focused summary will attempt to fill that void. Please see the cas
 
 # Diagnostics Team
 
-I led the effort to establish an agile team focused on creating improved hardware diagnostics capabilities. Every bi-weekly release added a few millions dollars of savings in warranty costs per year. The cumulative savings over the course of a year were easily on the order of hundreds of millions of dollars. 
+I led the effort to establish an agile team focused on creating improved hardware diagnostics capabilities. Every bi-weekly release added a few millions dollars of savings in warranty costs per year. _The cumulative savings over the course of a year were easily on the order of hundreds of millions of dollars._
 
-The diagnostic gap this team closed had gone unaddressed for many years due to organizational dysfunctions. The cross-functional cross-component team I stood up worked directly with the field support division, bypassing all the organizational cruft which had prevented the problem from being solved in years past.
+The diagnostics capability gap this team closed had gone unaddressed for many years due to organizational dysfunctions. The cross-functional cross-component team I stood up worked directly with the field support division, bypassing all the organizational cruft which had prevented the problem from being solved in years past.
 
 # BIOS Teams
 
 Following my success with the above diagnostics team, I helped restructure a large number of teams responsible for bringing up and integrating each new generation of Intel CPU within the blade computing product. In collaboration with the relevant senior director I facilitated a correction of the organizational issues, and the attendant engineering and cultural issues which had historically necessitated an army of engineers over a year to integrate each new generation of Intel CPU. 
 
-Future generations of Intel CPU are expected to take a tenth of the calendar time, and a tenth of the engineering effort, historically required. Failure to successfully integrate the newest server grade Intel CPU generation prior to each Intel CPU official launch perpetually presents an existential threat to around a billion dollars of annual divisional revenue.
+_Future generations of Intel CPU are expected to take a tenth of the calendar time, and a tenth of the engineering effort, historically required._ Failure to successfully integrate the newest server grade Intel CPU generation prior to each Intel CPU official launch perpetually presents an existential threat to around a billion dollars of annual divisional revenue.
 
 # Validating The Business Benefits
 
