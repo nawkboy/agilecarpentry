@@ -3,6 +3,11 @@
   image: /assets/images/clp/clp-denver-early-2024-portfolio.png
   link: /clp/denver_early_2024/
 
+- title: Business Focused Summary of My LeSS Case Study
+  category: LeSS
+  image: /assets/images/money-1428584_1280.jpg
+  link: /blog/business-summary-of-case-study/
+
 #- title: LeSS Practitioner Course Now In Milwaukee!
 #  category: LeSS
 #  image: /assets/images/portfolio/milwaukee-clp-portfolio-image.png
@@ -23,10 +28,10 @@
   image: /assets/images/portfolio/deriving-less-article-header.png
   link: /blog/deriving-less/
 
-- title: Examining LeSS Huge
-  category: LeSS
-  image: /assets/images/portfolio/examining-less-huge-article-header.png
-  link: /blog/examining-less-huge/
+#- title: Examining LeSS Huge
+#  category: LeSS
+#  image: /assets/images/portfolio/examining-less-huge-article-header.png
+#  link: /blog/examining-less-huge/
 
 - title: Using Structure to Mold Culture
   category: Book
