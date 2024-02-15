@@ -55,3 +55,5 @@ This course is listed in the [Air Force’s Education and Training Management Sy
 
 <iframe class="video" src="https://www.youtube.com/embed/kkeUFigIjQg" allowfullscreen frameborder="0"></iframe>
 
+<iframe class="video" src="https://www.youtube.com/embed/oH9b1gw0XcE" allowfullscreen frameborder="0"></iframe>
+
