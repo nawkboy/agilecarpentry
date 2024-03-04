@@ -15,7 +15,7 @@ In collaboration with the relevant senior director I facilitated a correction of
 
 Any failure to successfully integrate the newest server grade Intel CPU generation prior to each Intel CPU launch would result in a threat to around a billion dollars of annual sales revenue. A failure would mean missing the ability to participate in Intel launch announcements, reputational damage, and lost sales to competing products.
 
-__Integrating future generations of Intel CPU are expected to take a tenth of the calendar time, and a tenth of the engineering effort that had historically been required.__
+__Integrating future generations of Intel CPU are expected to take an eighth of the calendar time, and an eighth of the engineering effort that had historically been required.__
 
 
 # Validating The Business Benefits
