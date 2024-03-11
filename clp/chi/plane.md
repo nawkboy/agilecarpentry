@@ -33,6 +33,8 @@ On the other hand, flying out of Milwaukee when traveling from downtown Chicago 
 The Milwaukee Mitchell airport website has more details on the [Airport Rail Station](https://www.mitchellairport.com/parking-transportation/ground-transportation#Amtrak){:target="_blank"}.
 
 
+# Consider Taking Amtrak
 
+If you live along one of many direct Amtrak routes to Chicago, consider [taking the train]({{site.url}}{{site.baseurl}}/clp/chi/train) in a sleeping car instead.
 
 

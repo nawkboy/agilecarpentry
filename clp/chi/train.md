@@ -7,17 +7,16 @@ layout: book
 
 # Travel By Train
 
-If you live anywhere in the Midwest taking a train to Chicago is can be easier than flying. It is often possible to get a great deal of reading, writing, and other work done while riding the train.
+If you live anywhere in the Midwest taking a train to Chicago can be easier than flying. It is often possible to get a great deal of reading, writing, and other work done while riding the train.
 
 Using a combination of WiFi access on the train, and tethering to your phone you should be able to access the internet during your trip. This access can be a bit intermitent, yet is generally sufficient for emailing and basic web browsing.
 
-Outside of the Midwest, it generally makes more sense to [fly]({{site.url}}{{site.baseurl}}/clp/chi/plane){:target="_blank"}.
+Outside of the Midwest, it generally makes more sense to [fly]({{site.url}}{{site.baseurl}}/clp/chi/plane).
 
-## Avoid Connections
-
-Going across the country on Amtrak works best if you are able to avoid any connections aside from those with frequent commuter lines. 
 
 ## Consider a Roomette
+
+![Roomette](/assets/images/clp/amtrak_roomette.jpg)
 
 I strongly recommend a [roomette](https://www.amtrak.com/roomettes){:target="_blank"} or at least business class if traveling for more than a few hours. 
 
@@ -25,17 +24,21 @@ A first class ticket comes with free meals, which helps to make up for the addit
 
 On long-distance trains with multiple levels, the upstairs roomettes generally have a much better view and make it easier to access the rest of the train. The only downside is they are less handicap accessible than the lower levels.
 
+
+## Avoid Connections
+
+Going across the country on Amtrak works best if you are able to avoid any connections aside from those with frequent commuter lines. 
+
+
 ## Navigating Amtrak's Website
 
 The Amtrak website can be a bit clunky to navigate. The following links can be helpful.
 
-* [Amtrak Home Page](https://www.amtrak.com/home.html){:target="_blank"} with a booking feature comparable to most airline websites.
-	- The search results will be less confusing if you already know which train routes will work best for you.
+* [Amtrak Home Page](https://www.amtrak.com/home.html){:target="_blank"} with a booking feature comparable to most airline websites. The search results will be less confusing if you already know which train routes will work best for you.
 
 * [Amtrak System Map](https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/Maps/Amtrak-System-Map-1018.pdf){:target="_blank"}
 
-* [Summary page of every Amtrak route](https://www.amtrak.com/routes){:target="_blank"}
-	- The schedules link in the navigation bar is especially useful for identifying your best option for travel to Union Station in Chicago (CHI).
+* Summary page of [every Amtrak route](https://www.amtrak.com/routes){:target="_blank"}. The schedules link in the navigation bar is especially useful for identifying your best option for travel to Union Station in Chicago (CHI).
 
 
 ## Summary of Mid-West Train Options To Chicago
