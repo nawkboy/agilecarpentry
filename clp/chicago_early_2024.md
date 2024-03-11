@@ -59,7 +59,7 @@ Midway is a regional airport which is a bit closer to downtown Chicago than O'Ha
 
 ![Roomette](/assets/images/clp/amtrak_roomette.jpg)
 
-A [direct Amtrak route]({{site.url}}{{site.baseurl}}/clp/chi/train) can be a wonderful low stress choice for travel to and from downtown Chicago. This is especially true for anyone living in the mid-west. Only direct cross-country routes on Amtrak tend to make sense.
+A [direct Amtrak route]({{site.url}}{{site.baseurl}}/clp/chi/train) can be a wonderful low-stress choice for travel to and from downtown Chicago. This is especially true for anyone living in the mid-west. Only direct cross-country routes on Amtrak tend to make sense.
 
 ## Detailed Travel Logistics
 
