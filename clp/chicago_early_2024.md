@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-certified-less-practitioner-workshop-early-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 20-22: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-certified-less-practitioner-workshop-early-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 9-11: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -83,7 +83,7 @@ Breakfast will also be provided. I anticipate we will be eating as a group at th
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-certified-less-practitioner-workshop-early-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 20-22: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-certified-less-practitioner-workshop-early-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 9-11: Get Tickets</a>
 
 
 
