@@ -61,7 +61,7 @@ The Amtrak website can be a bit clunky to navigate. The following links can be h
 
 In my experience, the schedule reliability of a long-distance Amtrak train becomes increasingly worse the farther one gets from the origin. A train such as the [Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"} will consistently leave Chicago on-time as it begins its journey towards Los Angles. In contrast, if you are attempting to go from Dallas to Chicago on the north-easterly bound Texas Eagle which originates in Los Angeles, don't expect the train to pass through Dallas on schedule.
 
-When taking a long-distance train from the mid-point it is best to plan to check the train status during its journey, and only go the train station once it starts to get close to your embarkation point.
+When taking a long-distance train from the mid-point it is best to check the train status during its journey, and only go to the train station once the train starts to get close to your embarkation point.
 
 For this reason, it sometimes makes sense to take the train in one direction but not the other.
 
