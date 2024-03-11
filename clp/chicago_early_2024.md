@@ -37,7 +37,7 @@ trainingevent:
 
 # Early Bird Bonus
 
-The first 5 people who purchase a ticket have their choice of custom drinkware. The available choices are:
+The first 5 people who purchase a ticket have their choice of custom laser-engraved drinkware. The available choices are:
 
 * [40 Ounce Road Trip Tumbler](https://rticoutdoors.com/Road-Trip-Tumbler?size=40oz&color=Storm){:target="_blank"}: The vacuum insulated stainless steel RTIC 40 oz. Road Trip Tumbler has a ceramic lined interior to protect against metallic taste. It also has a screw on lid to protect against spills. It is almost identical to the 40 oz. Stanley Quencher H2.0, and perhaps better considering the addition of a ceramic lining.
 * [30 Ounce Road Trip Tumbler](https://rticoutdoors.com/Road-Trip-Tumbler?size=30oz&color=Storm){:target="_blank"}: The vacuum insulated stainless steel RTIC 30 oz. Road Trip Tumbler has a ceramic lined interior to protect against metallic taste. It also has a screw on lid to protect against spills. It is almost identical to the 30 oz Stanley Quencher H2.0, and perhaps better considering the addition of a ceramic lining.
