@@ -9,7 +9,7 @@ layout: book
 
 If you live anywhere in the Midwest taking a train to Chicago can be easier than flying. It is often possible to get a great deal of reading, writing, and other work done while riding the train.
 
-Using a combination of WiFi access on the train, and tethering to your phone you should be able to access the internet during your trip. This access can be a bit intermitent, yet is generally sufficient for emailing and basic web browsing.
+Using a combination of WiFi access on the train, and tethering to your phone you should be able to access the internet during your trip. This access can be a bit intermittent, yet is generally sufficient for emailing and basic web browsing.
 
 Outside of the Midwest, it generally makes more sense to [fly]({{site.url}}{{site.baseurl}}/clp/chi/plane).
 

@@ -46,18 +46,20 @@ The first 5 people who purchase a ticket have their choice of custom drinkware. 
 
 # Travel Logistics
 
-## Ariving By Air
+## Arriving By Air
 
-Chicago is served by [two commercial aiports]({{site.url}}{{site.baseurl}}/clp/chi/plane), O'Hare (ORD) and Midway (MDW). 
+Chicago is served by [two commercial airports]({{site.url}}{{site.baseurl}}/clp/chi/plane), O'Hare (ORD) and Midway (MDW). 
 
-O'Hare airport is a huge international aiport with non-stop flights to almost anywhere on the planet. O'Hare is a hub for United Airlines and American Airlines.
+O'Hare airport is a huge international airport with non-stop flights to almost anywhere on the planet. O'Hare is a hub for United Airlines and American Airlines.
 
 Midway is a regional airport which is a bit closer to downtown Chicago than O'Hare. Southwest Airlines operates most of the flights into Midway.
 
 
-## Ariving By Amtrak
+## Arriving By Amtrak
 
-A [direct Amtrak route]({{site.url}}{{site.baseurl}}/clp/chi/train) can be a wonderful low stress choice for travel to and from downtown Chicago. This is especially true for anyone living in mid-west. Only direct cross-country routes on Amtrak tend to make sense.
+![Roomette](/assets/images/clp/amtrak_roomette.jpg)
+
+A [direct Amtrak route]({{site.url}}{{site.baseurl}}/clp/chi/train) can be a wonderful low stress choice for travel to and from downtown Chicago. This is especially true for anyone living in the mid-west. Only direct cross-country routes on Amtrak tend to make sense.
 
 ## Detailed Travel Logistics
 
@@ -70,9 +72,7 @@ See the following pages for additional travel details:
 
 The event venue is very likely to be in the downtown Chicago area.
 
-I am hoping to select a venue which is reasonably close to the Chicago loop. 
-
-My intention is to ensure you can reach the training venue from Union Station with only a short walk, short ride on the L train; or five minute Uber ride.
+My intention is to ensure you can reach the training venue from Union Station with only a short walk, short ride on the L train, or five minute Uber ride.
 
 
 # Lunches Will Be Great
