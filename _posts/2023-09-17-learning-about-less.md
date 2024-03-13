@@ -40,9 +40,7 @@ This is the 3rd LeSS book. It provides a better high-level overview of LeSS than
 * [Book 2: Practices for Scaling Lean & Agile Development: Large, Multisite, and Offshore Product Development with Large-Scale Scrum (2010)](https://www.amazon.com/Practices-Scaling-Lean-Agile-Development/dp/0321636406){:target="_blank"}:
 2nd LeSS book. Contains a multitude of “Experiments”, almost like a recipe book. As the sub-title suggests this book focuses more on multisite and offshore development than the 1st book does. The 3rd book is a better book to start with for most people.
 
-# LeSS Logo Sheet
-
-Here is a logo sheet showing a few companies who have adopted LeSS.
+# LeSS Adopters
 
 ![LeSS Logo Sheet by Sector](/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)
 

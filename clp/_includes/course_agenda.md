@@ -57,3 +57,6 @@ This course is listed in the [Air Force’s Education and Training Management Sy
 
 <iframe class="video" src="https://www.youtube.com/embed/oH9b1gw0XcE" allowfullscreen frameborder="0"></iframe>
 
+# LeSS Adopters
+
+![LeSS Logo Sheet by Sector](/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)

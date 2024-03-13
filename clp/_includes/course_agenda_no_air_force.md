@@ -52,3 +52,7 @@ All participants get access to the book: _Large-Scale Scrum: More with LeSS_
 <iframe class="video" src="https://www.youtube.com/embed/kkeUFigIjQg" allowfullscreen frameborder="0"></iframe>
 
 <iframe class="video" src="https://www.youtube.com/embed/oH9b1gw0XcE" allowfullscreen frameborder="0"></iframe>
+
+# LeSS Adopters
+
+![LeSS Logo Sheet by Sector](/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)
