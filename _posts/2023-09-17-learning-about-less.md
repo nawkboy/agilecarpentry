@@ -70,7 +70,7 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 
 # Upcoming Courses
 
-* [Denver Certified LeSS Practitioner: February 20-22, 2024]({{site.url}}{{site.baseurl}}/clp/denver_early_2024/)
+* [Chicago Certified LeSS Practitioner: April 9-11, 2024]({{site.url}}{{site.baseurl}}/clp/chicago_early_2024/)
 
 
 
