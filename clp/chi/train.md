@@ -50,7 +50,8 @@ The Amtrak website can be a bit clunky to navigate. The following links can be h
 * Cleveland, OH (CLE): [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train){:target="_blank"} and [Capital Limited](https://www.amtrak.com/capitol-limited-train){:target="_blank"}
 * Pittsburg, PA (PGH): [Capital Limited](https://www.amtrak.com/capitol-limited-train){:target="_blank"}
 * Buffalo, NY (BUF): [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train){:target="_blank"}
-* Indianapolis, IN (IND): No remaining train route.
+* Indianapolis, IN (IND): [Cardinal](https://www.amtrak.com/cardinal-train){:target="_blank"}
+* Cincinnati, OH (CIN): [Cardinal](https://www.amtrak.com/cardinal-train){:target="_blank"}
 * St. Louis, MO (STL): [Lincoln Service](https://amtrakguide.com/routes/lincoln-service/){:target="_blank"}, [Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"}, [Lincoln Service Missouri Runner](https://www.amtrak.com/lincoln-service-missouri-river-runner-train){:target="_blank"}
 * Kansas City, MO (KCY): [Southwest Chief](https://www.amtrak.com/southwest-chief-train){:target="_blank"} and [Lincoln Service Missouri Runner](https://www.amtrak.com/lincoln-service-missouri-river-runner-train){:target="_blank"}
   -  [The Westin Kansas City at Crown Center](https://www.marriott.com/en-us/hotels/mciwi-the-westin-kansas-city-at-crown-center/overview/){:target="_blank"} and [Sheraton Kansas City Hotel at Crown Center](https://www.marriott.com/en-us/hotels/mciwi-the-westin-kansas-city-at-crown-center/overview/){:target="_blank"} are both accessible to the Kansas City Union Station via a glass enclosed overhead walkway.
