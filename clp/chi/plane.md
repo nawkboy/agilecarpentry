@@ -1,6 +1,6 @@
 ---
 title: Travel By Plane to Chicago
-image: /assets/images/clp/ChicagoCLPWebsitePageHeaderNoDates.png
+image: /assets/images/clp/chicago-night-skyscape-blank.png
 author: James
 layout: book
 ---
