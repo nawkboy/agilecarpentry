@@ -4,17 +4,19 @@
 - title: Services
   link: '/services/'
   
-- title: Courses
+- title: Events
   link: 'https://less.works/course_filters/jamesandgene-34'
   dropdown:
+    - title: Chicago Fractionals 2024
+      link: https://agilecarpentry.regfox.com/chicago-fractionals-unconference-2024
+#    - title: Chicago April 2024
+#      link: /clp/chicago_early_2024/    
+#    - title: Course Tour
+#      link: /clp/
     - title: Global CLP
       link: /clp/global/
     - title: Global CLE
       link: /cle/global/
-    - title: Chicago April 2024
-      link: /clp/chicago_early_2024/    
-#    - title: Course Tour
-#      link: /clp/
     - title: Weekend Concept
       link: /clp/airport/      
     - title: LeSS.Works Summary
