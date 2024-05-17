@@ -7,7 +7,7 @@ layout: book
 
 # Travel by Plane
 
-It is generally easiest to fly into the [Milwaukee Mitchell airport](https://www.mitchellairport.com/) (MKE), even if doing so requires a connection. The other good alternative is to fly into [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx) (ORD).
+It is generally easiest to fly into the [Milwaukee Mitchell airport](https://www.mitchellairport.com/){:target="_blank"} (MKE), even if doing so requires a connection. The other good alternative is to fly into [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx){:target="_blank"} (ORD).
 
 I personally use both MKE and ORD depending on the situation. With international travel the cost of taking a sedan between Milwaukee and ORD is often offset by the additional savings in flight costs. For regional travel, it is generally less expensive and more convenient to fly into and out of MKE.
 
@@ -29,7 +29,7 @@ Typical daily non-stop flights are therefore as follows:
 
 Southwest Airlines has non-stop flights to a lot of the cities the major airlines do not.
 
-You can find a [complete list of non-stop locations here](https://www.mitchellairport.com/flights-airlines/cities-served-nonstop).
+You can find a [complete list of non-stop locations here](https://www.mitchellairport.com/flights-airlines/cities-served-nonstop){:target="_blank"}.
 
 Mitchell is large enough to be able to easily fly almost anywhere with no more than a single connection, and small enough to be an easy airport to navigate. The parking structure and rental car center are both attached to the aiport.
 
@@ -37,15 +37,15 @@ Unlike some larger airports, there is no on-campus hotel. There are a few budget
 
 ## Chicago O'Hare
 
-The [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx) (ORD) is one of the largest international airports in the nation. It is a hub airport for both United Airlines, and American Airlines. It even has its own [Die Hard movie](https://www.imdb.com/title/tt0099423/).
+The [Chicago O'Hare airport](https://www.flychicago.com/ohare/home/pages/default.aspx){:target="_blank"} (ORD) is one of the largest international airports in the nation. It is a hub airport for both United Airlines, and American Airlines. It even has its own [Die Hard movie](https://www.imdb.com/title/tt0099423/){:target="_blank"}.
 
 Since O'Hare airport is located on the northern edge of Chicago, it is a relatively easy 75 minute freeway drive from Milwaukee. Most of the heavy Chicago traffic occurs further south than the O'Hare airport.
 
 The advantage of O'Hare is the tremendous number of flights available. The disadvantage is the huge size. It can easily take 20 minutes to walk between more distant terminals, even when you know exactly where you are going.
 
-As with many big airports, getting to the rental car center [requires taking a train](https://www.flychicago.com/ohare/ServicesAmenities/services/Pages/transitupdate.aspx). Which is at least better than taking a rental center bus.
+As with many big airports, getting to the rental car center [requires taking a train](https://www.flychicago.com/ohare/ServicesAmenities/services/Pages/transitupdate.aspx){:target="_blank"}. Which is at least better than taking a rental center bus.
 
-Since traveling from Milwaukee to ORD requires crossing the Wisconsin/Illinois state line, you are better off using a sedan service than an Uber. I have been very happy with sedan service from [AccuTrans](https://accutransgroup.com/). AccuTrans has a large enough fleet to handle last minute changes, while avoiding being overly expensive. As of November 2022, the all-inclusive costs from AccuTrans to go from/to downtown Milwaukee and ORD is as follows:
+Since traveling from Milwaukee to ORD requires crossing the Wisconsin/Illinois state line, you are better off using a sedan service than an Uber. I have been very happy with sedan service from [AccuTrans](https://accutransgroup.com/){:target="_blank"}. AccuTrans has a large enough fleet to handle last minute changes, while avoiding being overly expensive. As of November 2022, the all-inclusive costs from AccuTrans to go from/to downtown Milwaukee and ORD is as follows:
 
 * ORD to downtown Milwaukee: $256.18
 * Downtown Milwaukee to ORD: $252.18
@@ -56,7 +56,7 @@ As a frequent flyer, I typically check routes from both airports and then pick w
 
 As long as you have TSA Pre or Global Entry, security at ORD is relatively quick and painless. If you don't, that alone might be a good reason to avoid flying out of ORD.
 
-The on-campus hotel at ORD is the [Hilton Chicago O'Hare Airport](https://www.hilton.com/en/hotels/chiohhh-hilton-chicago-ohare-airport/).
+The on-campus hotel at ORD is the [Hilton Chicago O'Hare Airport](https://www.hilton.com/en/hotels/chiohhh-hilton-chicago-ohare-airport/){:target="_blank"}.
 
 
 
