@@ -21,11 +21,13 @@ A few well located hotel choices within easy walking distance of the various res
 
 There are other downtown hotels, but most are a bit farther away from the cluster of dining and shopping options found along the riverwalk and within the ThirdWard. For example, if you stay at [Hilton Milwaukee Center](https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/){:target="_blank"} you will most likely end up eating in the hotel each night. As a general rule, the closer one is to Lake Michigan the more upscale the area is.
 
-A more comprehensive list of downtown hotels can be found on the [Visit Milwaukee Hotel Directory](https://www.visitmilwaukee.org/plan-a-visit/places-to-stay/downtown-hotel-directory/){:target="_blank"}. 
+Be warned that Priceline and Hotwire currently have an overly broad area defined for their _Downtown_ mystery hotel deals. They do this to include hotels like the Ambassador Hotel, which is not at all in what I would consider _Downtown_.
+
+A more comprehensive list of _Downtown_ hotels can be found on the [Visit Milwaukee Hotel Directory](https://www.visitmilwaukee.org/plan-a-visit/places-to-stay/downtown-hotel-directory/){:target="_blank"}. 
 
 # Downtown and Third Ward Restaurants
 
-There are a lot of walkable dining and shopping options in the southern end of downtown, as well as the adjacent Third Ward neighborhood which it blends into.
+There are a lot of walkable dining and shopping options in the southern end of _Downtown_, as well as the adjacent Third Ward neighborhood which it blends into.
 
 [East Saint Paul Ave & North Broadway](https://goo.gl/maps/iNyirDp4VWs5Hbt19){:target="_blank"} is the heart of the Third Ward shopping and restaurant area. The Third Ward shopping area is anchored by the [Milwaukee Public Market](https://milwaukeepublicmarket.org/){:target="_blank"}.
 
