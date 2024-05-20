@@ -22,7 +22,7 @@ I strongly recommend a [roomette](https://www.amtrak.com/roomettes){:target="_bl
 
 A first class ticket comes with free meals, which helps to make up for the additional cost. 
 
-On long-distance trains with multiple levels, the upstairs roomettes generally have a much better view and make it easier to access the rest of the train. The only downside is they are less handicap accessible than the lower levels.
+On long-distance trains with multiple levels, the upstairs roomettes generally have a much better view and make it easier to access the rest of the train. The only downside is they are less ADA accessible than the lower levels.
 
 
 ## Avoid Connections
