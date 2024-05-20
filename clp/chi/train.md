@@ -48,19 +48,19 @@ The Amtrak website can be a bit clunky to navigate. The following links can be h
 * Grand Rapids, MI (GRR): [Pere Marquette](https://amtrakguide.com/routes/pere-marquette/){:target="_blank"}
 * Detroit, MI (DET): [Wolverine](https://amtrakguide.com/routes/wolverine/){:target="_blank"}
 * Cleveland, OH (CLE): [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train){:target="_blank"} and [Capital Limited](https://www.amtrak.com/capitol-limited-train){:target="_blank"}
-* Pittsburg, PA (PGH): [Capital Limited](https://www.amtrak.com/capitol-limited-train){:target="_blank"}
+* Pittsburgh, PA (PGH): [Capital Limited](https://www.amtrak.com/capitol-limited-train){:target="_blank"}
 * Buffalo, NY (BUF): [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train){:target="_blank"}
 * Indianapolis, IN (IND): [Cardinal](https://www.amtrak.com/cardinal-train){:target="_blank"}
 * Cincinnati, OH (CIN): [Cardinal](https://www.amtrak.com/cardinal-train){:target="_blank"}
 * St. Louis, MO (STL): [Lincoln Service](https://amtrakguide.com/routes/lincoln-service/){:target="_blank"}, [Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"}, [Lincoln Service Missouri Runner](https://www.amtrak.com/lincoln-service-missouri-river-runner-train){:target="_blank"}
 * Kansas City, MO (KCY): [Southwest Chief](https://www.amtrak.com/southwest-chief-train){:target="_blank"} and [Lincoln Service Missouri Runner](https://www.amtrak.com/lincoln-service-missouri-river-runner-train){:target="_blank"}
   -  [The Westin Kansas City at Crown Center](https://www.marriott.com/en-us/hotels/mciwi-the-westin-kansas-city-at-crown-center/overview/){:target="_blank"} and [Sheraton Kansas City Hotel at Crown Center](https://www.marriott.com/en-us/hotels/mciwi-the-westin-kansas-city-at-crown-center/overview/){:target="_blank"} are both accessible to the Kansas City Union Station via a glass enclosed overhead walkway.
-* Omaha, NE (OMA) and Denver (DEN): [California Zepher](https://www.amtrak.com/california-zephyr-train){:target="_blank"}
+* Omaha, NE (OMA) and Denver (DEN): [California Zephyr](https://www.amtrak.com/california-zephyr-train){:target="_blank"}
 
 
 ## Train Schedule Reliability
 
-In my experience, the schedule reliability of a long-distance Amtrak train becomes increasingly worse the farther one gets from the origin. A train such as the [Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"} will consistently leave Chicago on-time as it begins its journey towards Los Angles. In contrast, if you are attempting to go from Dallas to Chicago on the north-easterly bound Texas Eagle which originates in Los Angeles, don't expect the train to pass through Dallas on schedule.
+In my experience, the schedule reliability of a long-distance Amtrak train becomes increasingly worse the further one gets from the origin. A train such as the [Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"} will consistently leave Chicago on-time as it begins its journey towards Los Angles. In contrast, if you are attempting to go from Dallas to Chicago on the north-easterly bound Texas Eagle which originates in Los Angeles, don't expect the train to pass through Dallas on schedule.
 
 When taking a long-distance train from the mid-point it is best to check the train status during its journey, and only go to the train station once the train starts to get close to your embarkation point.
 
