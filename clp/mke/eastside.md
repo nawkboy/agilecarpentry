@@ -81,7 +81,7 @@ If you are racing along the sidewalk, as you dream of riding in the _Tour de Fra
 
 Every spring the dockless electric scooters start showing up. Each vendor has their own mobile application for showing where to find a nearby scooter. Technically people are supposed to park them in designated spots, but no one does.
 
-These are fast enough that police are more likely to enforce the no-side walk rule. Riding on the Oak Leaf Trail is perfectly fine.
+These are fast enough that police are more likely to enforce the no sidewalk rule. Riding on the Oak Leaf Trail is perfectly fine.
 
 The two brands I am currently seeing are:
 * [Uber-Lime](https://www.uber.com/us/en/ride/scooters/){:target="_blank"}
@@ -106,7 +106,7 @@ You can turn on/off each of the following layers in the above custom neighborhoo
 
 # Meals
 
-Agile Carpentry typically provides breakfast, snacks, and drinks in the _Upper East Side_ event space.
+Agile Carpentry typically provides breakfast, snacks, and beverages in the _Upper East Side_ event space.
 
 For lunch, it is often easiest to walk as a group to one of the table service restaurants nearby. With multi-day events and a larger group, I typically pre-arrange lunch at a different restaurant each day.
 
@@ -118,15 +118,15 @@ The four best walk-able table service restaurant options on the _Upper East Side
 
 A forth potential restaurant choice is [Stone Bowl Grill](https://www.stonebowlgrill.com/). Stone Bowl is a dive compared to the other four places, but the food and service are good.
 
-Please let me know of any food restrictions so I can make appropriate accommodations.
+Please let me know of any food restrictions so appropriate accommodations can be made.
 
 # Are Meals Included In Your Event Ticket?
 
-## Certified LeSS Practioner: YES
+## Certified LeSS Practitioner: YES
 
-With a training event such as a Certified LeSS Practitioner, all meals are typically included in the ticket price. This includes lunch at the above restaurants.
+With a training event such as a _Certified LeSS Practitioner_, breakfast and lunch are typically included in the ticket price. This includes lunch at the above restaurants.
 
-## UnConference: NOT LUNCH
+## UnConference: NO
 
 A reasonable hosting strategy for an UnConference is to begin with the _Upper East Side_ event space, and to only relocate the UnConference to a larger _Downtown_ hotel event space once the event grows large enough to require doing so. 
 
@@ -136,7 +136,7 @@ Since an UnConference has a strong chance of being relocated to _Downtown_ hotel
 
 If an UnConference is in hotel event space, catering may initially be limited to beverage service. At higher attendee numbers, AM breaks and PM breaks are likely to be included as well.
 
-## UnConference: Bring Cash For Lunch
+## UnConference: Please Bring Cash For Lunch
 
 Considering the UnConference lunch strategy, I recommend bringing enough cash to pay for lunch. This will make it easier for your lunch group to settle the bill without needing to ask the server to run a credit card for each person.
 
