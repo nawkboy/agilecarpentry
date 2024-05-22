@@ -68,9 +68,15 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 * [Translation Efforts]({{site.baseurl}}/blog/less-in-arabic/): Very little of the written LeSS content is currently available in any language other than English. This is true of the LeSS website as well as the three LeSS books by Bas Vodde and Craig Larman. Agile Carpentry can help solve that problem for most any desired language which a client wishes to sponsor translation for.
 * [PowerPoint Pitch Deck]({{site.baseurl}}/assets/pdfs/PitchDeckGeneric.pptx){:target="_blank"}: Here is a pitch deck for LeSS related services from Agile Carpentry in an effort to support internal client advocates. ([PDF Version]({{site.baseurl}}/assets/pdfs/PitchDeckGeneric.pdf){:target="_blank"})
 
-# Upcoming Courses
+# Upcoming Events
 
-* [Chicago Certified LeSS Practitioner: April 9-11, 2024]({{site.url}}{{site.baseurl}}/clp/chicago_early_2024/)
+![LeSS Logo Sheet by Sector](/assets/images/clp/MilwaukeeUnConferenceJune27_28_OgImage.png)
+
+* [North American LeSS UnConference on June 27-28](https://agilecarpentry.regfox.com/north-american-less-unconference-2024){:target="_blank"}
+  + Gain new skills, knowledge, and insights from others in the LeSS community. 
+  + Come early to attend a Certified LeSS Practitioner course. 
+  + Stay late to attend SummerFest, the largest annual music festival in the United States. 
+  + Experience the heart of Milwaukee in the summertime.
 
 
 
