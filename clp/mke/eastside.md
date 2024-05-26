@@ -60,6 +60,8 @@ Here are a few folding bicycle helmet models.
 * [Plixi](https://overade.com/en/products/plixi-foldable-urban-bike-helmet){:target="_blank"} 
 * [Closca](https://www.closca.com/en-us/collections/foldable-helmets){:target="_blank"}
 
+You may also find the [Virgina Tech Helmet Ratings](https://www.helmet.beam.vt.edu/bicycle-helmet-ratings.html){:target="_blank"} useful. See the [Are Cheap Helmets Unsafe?](https://youtu.be/ZKbYaOiz5U4?si=l7_ue3Osy2GnfQH0){:target="_blank"} YouTube video for the story of the Virgina Tech helmet ratings lab.
+
 ## Bublr Ride-Share Bicycles
 
 ![Bublr Ride-Share Bicycles](/assets/images/clp/bublr_bicycles.jpeg)
