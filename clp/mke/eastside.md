@@ -118,7 +118,7 @@ The four best walk-able table service restaurant options on the _Upper East Side
 * [Comet Cafe](https://www.thecometcafe.com){:target="_blank"}
 * [Backstreet BBQ & Hot Pot](https://maps.app.goo.gl/Z5cNVZ9Ap7fQuX3c7){:target="_blank"}
 
-A forth potential restaurant choice is [Stone Bowl Grill](https://www.stonebowlgrill.com/). Stone Bowl is a dive compared to the other four places, but the food and service are good.
+Another potential restaurant choice is [Stone Bowl Grill](https://www.stonebowlgrill.com/). Stone Bowl is a dive compared to the other four places, but the food and service are good.
 
 Please let me know of any food restrictions so appropriate accommodations can be made.
 
