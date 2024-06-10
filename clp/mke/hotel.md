@@ -39,4 +39,12 @@ For those of you who like to stock your hotel mini-fridge with a few snacks and 
 
 There is also a [Whole Foods](https://goo.gl/maps/ZdyW9mMnhs1vQQ2W9){:target="_blank"} a few blocks walk north of the training venue. This isn't within walking distance of the downtown hotels, yet you could always stop by after training before taking an Uber back to your hotel.
 
+# The Hop
 
+Milwaukee has a small, free streetcar system called [The Hop](https://thehopmke.com/){:target="_blank"}. As you can see from the [system map](https://thehopmke.com/interactive-map/){:target="_blank"}, it doesn't go very far. Yet it is still worth knowing about if you are downtown without a car.
+
+The greatest value is perhaps providing an easy way to get back and forth between the Downtown and Third Ward areas and the  [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA){:target="_blank"} with heavy luggage. This is especially important if you are [traveling by train to Milwaukee]({{site.url}}{{site.baseurl}}/clp/mke/train).  There is also a small chance you decided to take the Amtrak Hiawatha from the Milwaukee airport to the Milwaukee Intermodal Station.
+
+# Ride-Share Bicycles and Scooters
+
+Milwaukee also has an extensive ride-share network of bicycles and scooters. These are covered in more detail on the  [Milwaukee Upper East Side Event Venue Details]({{site.url}}{{site.baseurl}}/clp/mke/eastside) page.

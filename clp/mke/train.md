@@ -32,6 +32,8 @@ On long-distance trains with multiple levels, the upstairs roomettes generally h
 
 The Milwaukee Amtrak station is at the [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA){:target="_blank"} which is a few blocks away from the various Milwaukee downtown hotels. Although you could easily walk to your hotel if traveling light, a short Uber or taxi ride is probably a better idea with heavy bags, or if arriving late at night.
 
+Milwaukee's free streetcar system, named [The Hop](https://thehopmke.com/){:target="_blank"}, has a stop just outside of the Milwaukee Intermodal Station. It is very likely this goes right past your downtown hotel, and could be an easy option for you. As you can see from the [system map](https://thehopmke.com/interactive-map/){:target="_blank"}, it terminates in front of the Amtrak station. Late at night, an Uber or taxi might be safer.
+
 To obtain a Certified LeSS Practitioner certification you must attend the entire course. As a practical matter this often requires spending an additional night in a hotel, and returning home the next day. Please plan accordingly.
 
 
@@ -91,5 +93,4 @@ For this reason, it sometimes makes sense to take the train in one direction but
 Similarly, all other things being equal, a regional train route is often more reliable than a national train route. Regional routes are shorter, and thus have less opportunity to become drastically behind schedule.
 
 Consider [checking historical arrival and departure times](https://juckins.net/amtrak_status/archive/html/history.php){:target="_blank"} before you finalize your travel plans.
-
 
