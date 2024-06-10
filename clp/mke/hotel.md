@@ -43,7 +43,7 @@ There is also a [Whole Foods](https://goo.gl/maps/ZdyW9mMnhs1vQQ2W9){:target="_b
 
 Milwaukee has a small, free streetcar system called [The Hop](https://thehopmke.com/){:target="_blank"}. As you can see from the [system map](https://thehopmke.com/interactive-map/){:target="_blank"}, it doesn't go very far.
 
-The greatest value of The Hop to someone from out of town is perhaps the ability to easily travel from the Amtrak station in the [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA){:target="_blank"} to the Downtown and Third Ward neighborhoods. This is important information if you are [traveling by train to Milwaukee]({{site.url}}{{site.baseurl}}/clp/mke/train).  There is also a small chance you decided to take the Amtrak Hiawatha from the Milwaukee airport to the Milwaukee Intermodal Station.
+The greatest value of _The Hop_ to someone from out of town is perhaps the ability to easily travel from the Amtrak station in the [Milwaukee Intermodal Station](https://goo.gl/maps/ipm7kCKJbvjVYGFGA){:target="_blank"} to the Downtown and Third Ward neighborhoods. This is important information if you are [traveling by train to Milwaukee]({{site.url}}{{site.baseurl}}/clp/mke/train).  There is also a small chance you decided to take the Amtrak Hiawatha from the Milwaukee airport to the Milwaukee Intermodal Station.
 
 # Ride-Share Bicycles and Scooters
 
