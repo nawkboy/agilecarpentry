@@ -11,6 +11,7 @@ Traveling by Amtrak can be a good option when traveling to Milwaukee from within
 
 Amtrak is a **great option** for those coming from:
 
+* Chicago, IL
 * Minneapolis, MN
 * La Crosse, WI
 
@@ -40,6 +41,27 @@ For broader information, please see the following links:
 # Midwest City Specifics
 
 An aggregated summary of the specifics for various key cities in the Midwest is provided below. The times and prices shown here are based on the assumption someone is traveling to the LeSS UnConference on June 27-28, and also planning to attend the Certified LeSS Practitioner course which preceeds it on June 24-26.
+
+## Chicago, IL
+
+### Notes
+
+The Hiawatha runs between Chicago and Milwaukee every couple hours during the day. The trip takes around 1h30m in each direction. A flexible coach ticket is around $43 in each way during peak times, and a good bit less in off-peak times.
+
+There isn't an easier way to go back and forth between dowtown Chicago and downtown Milwaukee. For people in the northern suburbs of Chicago, driving will be a better option.
+
+You can find a table of all the travel times in both directions on  [Amtrak's dedicated Hiawatha page](https://amtrakhiawatha.com/amtrak/schedules.php). 
+
+The northbound Borealis 1333 and the Hiawatha 333 are the same train. Similarly, the Borealis 1340 and the Hiawatha 340 are the same train. 
+
+Be warned, the last northbound Hiawatha 8307 "train" of the day at 9:15 p.m. is really a bus. It is not a pleasurable experience when compared to the train. This is shown on the table, just remember to pay attention to the fact.
+
+Almost every Amtrak route to Milwaukee involves traveling on the Hiawatha for the final segment. The only exception is the Empire Builder/Borealis route. The Empire Builder/Borealis route is how people from Minneapolis and La Crosse get to Milwaukee. The Empire Builder route starts off in Seattle and Portland and runs roughly parallel to the Canadian border.
+
+### Summary
+
+The Hiawatha is super easy, costs less than gas and parking, and avoids driving in heavy Chicago traffic. If you live near downtown Chicago, the Hiawatha is your best bet. Otherwise, you should probably just drive.
+
 
 ## Minneapolis, MN
 
