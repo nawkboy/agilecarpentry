@@ -13,7 +13,7 @@ I personally use both MKE and ORD depending on the situation. With international
 
 The Milwaukee airport is a 15 minute drive or Uber ride from downtown Milwuakee. Travel time from downtown Milwaukee to ORD consistently takes less than 75 minutes, even in bad weather and heavy traffic.
 
-If you live in the Midwest United States, you may want to consider [taking the train]({{site.url}}{{site.baseurl}}/mke_clp/train) instead of flying.
+If you live in the Midwest United States, you may want to consider [taking the train]({{site.url}}{{site.baseurl}}/clp/mke/train) instead of flying.
 
 To obtain a Certified LeSS Practioner certification you must attend the entire course. As a practical matter this often requires spending an additional night in a hotel, and returning home the next day. Please plan accordingly.
 

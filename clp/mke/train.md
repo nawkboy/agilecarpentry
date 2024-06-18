@@ -14,7 +14,7 @@ Using a combination of WiFi access on the train, and tethering to your phone you
 Connections on Amtrak are often excessively long and unpredictable, and typically best avoided. The [Hiawatha commuter link](https://amtrakhiawatha.com/amtrak/schedules.php){:target="_blank"} between Chicago and Milwaukee is an exception to this rule. The Hiawatha route is short, frequent, and fairly reliable.
 
 Outside of the Midwest, it generally makes far more sense to
-[fly]({{site.url}}{{site.baseurl}}/mke_clp/plane).
+[fly]({{site.url}}{{site.baseurl}}/clp/mke/plane).
 
 
 ## Consider a Roomette
