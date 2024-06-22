@@ -40,7 +40,7 @@ Espero que al menos algunos de los participantes hablen inglés con mucha fluide
 
 ## Transcripción en vivo y traducción en vivo
 
-Siempre que lleve conmigo un poco de equipo de audio, espero poder utilizar la [Aplicación de conversación] de Microsoft (https://translator.microsoft.com/){:target="_blank"} que proporciona transcripción y traducción en vivo. Microsoft PowerPoint 365 en Mac también admite transcripción y traducción en vivo utilizando el mismo servicio de traducción subyacente.
+Siempre que lleve conmigo un poco de equipo de audio, espero poder utilizar la [Aplicación de conversación de Microsoft](https://translator.microsoft.com/){:target="_blank"} que proporciona transcripción y traducción en vivo. Microsoft PowerPoint 365 en Mac también admite transcripción y traducción en vivo utilizando el mismo servicio de traducción subyacente.
 
 Enlaces relacionados:
 * [Video: Aplicación de conversación en vivo en uso](https://www.youtube.com/watch?v=MgsSoZZVe2U&t=1s){:target="_blank"}
