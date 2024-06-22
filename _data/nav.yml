@@ -3,7 +3,7 @@
 
 - title: Services
   link: '/services/'
-  
+
 - title: Events
   link: 'https://less.works/course_filters/jamesandgene-34'
   dropdown:
@@ -24,6 +24,14 @@
 
 - title: Learn
   link: '/blog/learning-about-less/'
+
+- title: Spanish
+  link: /clp/sp_global/
+  dropdown:
+    - title: CLP Global
+      link: /clp/sp_global/
+    - title: CLE Global
+      link: /cle/sp_global/
 
 - title: About
   link: '/about/'

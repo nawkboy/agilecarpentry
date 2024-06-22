@@ -7,6 +7,8 @@ sitemap: false
 noindex: true
 ---
 
+[Esta página en español]({{site.baseurl}}/clp/sp_logistics/)
+
 # The Logistical Problem
 
 The learning outcomes of a system modeling-based [Certified LeSS Practitioner]({{site.baseurl}}/clp/global/) and [Certified LeSS for Executives]({{site.baseurl}}/cle/global/)course are fantastic. Unfortunately, facilitating the amount of whiteboard space involved can place a heavy burden on whomever is helping to host the event.
@@ -23,7 +25,7 @@ This is achieved using flight cases containing a set of custom self-standing whi
 
 From the perspective of the airlines, U.S. customs officials, and international customs officials; I am just another professional film crew member or traveling musician with all the paperwork required to obtain better luggage rates and avoid paying customs duties on professional equipment with which I will soon return.
 
-From the perspective of an event hotel, the training event looks like any other cookie-cutter business meeting. There is no need to worry about what sort of wall surfaces are available, and whether hotel management will allow the use of [WizardWall](https://wizardwall.com/) on them. 
+From the perspective of an event hotel, the training event looks like any other cookie-cutter business meeting. There is no need to worry about what sort of wall surfaces are available, and whether hotel management will allow the use of [WizardWall](https://wizardwall.com/){:target="_blank"} on them. 
 
 # Bonus Features
 

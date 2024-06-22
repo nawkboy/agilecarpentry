@@ -5,6 +5,8 @@ author: James
 layout: book
 ---
 
+[Esta página en español]({{site.baseurl}}/cle/sp_global/)
+
 # Intended Overall Outcomes
 
 Achieving the executive alignment and commitment required to implement meaningful productive structural change and thereby improve organizational adaptability is challenging. The best way I know to do this is an off-site _Executive Workshop_ which includes both a _Certified LeSS for Executives (CLE)_ course and an _Informed Consent Workshop_. 
@@ -117,6 +119,6 @@ See the [logistics page]({{site.baseurl}}/clp/logistics/) for more details.
 
 # Are You Interested?
 
-If you are interested in having me deliver this workshop for your company, please feel free to contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/).
+If you are interested in having me deliver this workshop for your company, please feel free to contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
 

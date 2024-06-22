@@ -5,13 +5,15 @@ author: James
 layout: book
 ---
 
+[Esta página en español]({{site.baseurl}}/clp/sp_global/)
+
 # LeSS Practitioner Course Available Globally
 
 I can easily run a Certified LeSS Practitioner course or [Executive Workshop]({{site.baseurl}}/cle/global/) most anywhere the airlines can take me.
 
-If you are interested in a private course, please contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/).
+If you are interested in a private course, please contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
-If you are interested in having me deliver a public course in your city, please fill out [this survey](https://forms.gle/7BtgehG84c73YTmJA).
+If you are interested in having me deliver a public course in your city, please fill out [this survey](https://forms.gle/7BtgehG84c73YTmJA){:target="_blank"}.
 
 As an example, my spreadsheets tell me I can run a public in-person 3-day CLP in Dubai for USD$2699/person if I can identify at least 10 people who would like one. I expect similar pricing will hold for other cities in the Gulf States.
 
@@ -21,9 +23,9 @@ Any course will be primarily in English, with the local language being leveraged
 
 # English and Local Language
 
-The majority of the LeSS related content is in English, including the [LeSS website](https://less.works), [LeSS case studies](https://less.works/case-studies), and [LeSS books](https://less.works/resources/learning-resources/books). My native language is English. I also [know some Spanish](https://www.linkedin.com/pulse/learning-spanish-baselang-james-carpenter/).
+The majority of the LeSS related content is in English, including the [LeSS website](https://less.works){:target="_blank"}, [LeSS case studies](https://less.works/case-studies){:target="_blank"}, and [LeSS books](https://less.works/resources/learning-resources/books){:target="_blank"}. My native language is English. I also [know some Spanish](https://www.linkedin.com/pulse/learning-spanish-baselang-james-carpenter/){:target="_blank"}.
 
-A small portion of the LeSS content has been translated into other languages. For example, people have graciously translated [my LeSS case study](https://less.works/case-studies/large-server-hardware-company) into [Japanese](https://less.works/jp/case-studies/large-server-hardware-company) and [Chinese](https://less.works/zh-CN/case-studies/large-server-hardware-company).
+A small portion of the LeSS content has been translated into other languages. For example, people have graciously translated [my LeSS case study](https://less.works/case-studies/large-server-hardware-company){:target="_blank"} into [Japanese](https://less.works/jp/case-studies/large-server-hardware-company){:target="_blank"} and [Chinese](https://less.works/zh-CN/case-studies/large-server-hardware-company){:target="_blank"}.
 
 That said, I think we can collectively muddle our way through using a mix of English and the local language. My ideas to help us are below.
 
@@ -33,11 +35,11 @@ I'm expecting at least some of the participants to be extremely fluent in Englis
 
 ## Live Transcription and Live Translation
 
-As long as I bring a little bit of audio gear with me, I am expecting to be able to use Microsoft's [Conversation App](https://translator.microsoft.com/) which provides both live transcription and live translation. Microsoft PowerPoint 365 on Mac also supports both live transcription and live translation using the same underlying translation service.
+As long as I bring a little bit of audio gear with me, I am expecting to be able to use Microsoft's [Conversation App](https://translator.microsoft.com/){:target="_blank"} which provides both live transcription and live translation. Microsoft PowerPoint 365 on Mac also supports both live transcription and live translation using the same underlying translation service.
 
 Related Links:
-* [Video: Live Conversation App in Use](https://www.youtube.com/watch?v=MgsSoZZVe2U&t=1s)
-* [Video: Engage your audience with Live Presentations in PowerPoint](https://www.youtube.com/watch?v=Lzfqwn05Lzg)
+* [Video: Live Conversation App in Use](https://www.youtube.com/watch?v=MgsSoZZVe2U&t=1s){:target="_blank"}
+* [Video: Engage your audience with Live Presentations in PowerPoint](https://www.youtube.com/watch?v=Lzfqwn05Lzg){:target="_blank"}
 
 ## Breakout Groups Can Use Local Language
 A huge percentage of the course leverages breakout groups for both table discussions and system modeling. Each table should feel free to conduct their table discussions and system modeling activities in whatever language they are most comfortable with.
@@ -62,7 +64,7 @@ Someone who doesn't know any English probably should not attend. That said, I do
 
 # Are You Interested?
 
-If you are interested in having me deliver a public course in your city, please fill out [this survey](https://forms.gle/7BtgehG84c73YTmJA). 
+If you are interested in having me deliver a public course in your city, please fill out [this survey](https://forms.gle/7BtgehG84c73YTmJA){:target="_blank"}. 
 
-You are also welcome to contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/).
+You are also welcome to contact me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com) or via [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
