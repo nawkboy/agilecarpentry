@@ -1,58 +1,64 @@
 <iframe class="video" src="https://www.youtube.com/embed/kTPidsR9d0o" allowfullscreen frameborder="0"></iframe>
 
-# Agenda del curso
+# Itinerario Del Curso
 
-La mañana del primero de los tres días se utilizará para establecer el contexto general de las actividades de modelado de sistemas que siguen. Esto se hará a través de una pequeña cantidad de conferencias, combinadas con discusiones en grupos grandes y pequeños.
 
-Una vez que el escenario esté listo, pasaremos a un análisis reflexivo del impacto de diferentes decisiones de diseño organizacional en la adaptabilidad y la entrega de valor utilizando el modelado de sistemas. Después de cada avance incremental independiente del marco en nuestra comprensión, mapearemos aspectos concretos de LeSS en nuestra comprensión cada vez más ilustrada de la dinámica del sistema organizacional. El modelado del sistema aporta un conocimiento más profundo, mientras que el mapeo de este conocimiento en LeSS facilita una mejor retención junto con una comprensión de cómo actuar sobre lo que se está aprendiendo.
+La mañana del primer día se utilizará para enmarcar el contexto general dentro del cual realizaremos los modelamientos de sistema los días siguientes.  Esto se hará mediante un puñado de conferencias, combinadas con discusiones de grupos grandes y pequeños.
 
-Continuaremos avanzando gradualmente en nuestra profundidad de comprensión utilizando el modelado de sistemas durante la mayor parte de los tres días. Hacia el final del tercer día se dedicará tiempo a fusionar toda nuestra comprensión mejorada; brindar orientación sobre cómo avanzar; y orientar a los participantes sobre cómo navegar por una gran cantidad de información adicional.
+Una vez que el contexto se haya montado, pasaremos a un análisis reflexivo del impacto que tienen diferentes decisiones de diseño organizacional en la capacidad de la misma para adaptarse y entregar valor.  A medida que avanzamos en nuestro entendimiento teórico-agnóstico de las dinámicas de los sistemas organizacionales, iremos identificando como ciertos aspectos específicos de LeSS encajan en dichas dinámicas.  Modelar el sistema aporta una visión profunda, al tiempo que identificar cómo LeSS encaja en este conocimiento permite tener una mejor retención y un entendimiento de cómo aplicar lo aprendido en la vida real.
 
-## DÍA 1: Preparando el escenario
+Continuaremos avanzando gradualmente en nuestra comprensión profunda utilizando el modelamiento de sistemas durante la mayor parte de los tres días.  Hacia el final del tercer día se dedicará tiempo a fusionar todo nuestro aprendizaje; se brindará orientación sobre cómo avanzar; y sobre cómo navegar a través de una gran cantidad de información adicional.
 
-El primero de tres días se utilizará para establecer el contexto general de las actividades de modelado de sistemas que siguen. Esto se hará con una pequeña cantidad de conferencias, pero principalmente a través de discusiones y ejercicios en grupos pequeños y grandes. Seguiremos este hilo durante todo el evento de 3 días.
+
+## DÍA 1: Montando El Contexto
+
+El primero de los tres días se utilizará para establecer el contexto general de las actividades de modelado de sistemas que seguirán. Esto se hará con una cantidad pequeña de conferencias, pero principalmente a través de discusiones y ejercicios en grupos pequeños y grandes. Seguiremos este hilo durante los tres días del evento.
 
 - Introducción
-- Evitar el taylorismo
-- Estimaciones, no compromisos
-- Las personas son valiosas
-- Optimización del sistema, no optimización local
-- Descubriendo Valor
-- Implicaciones de múltiples Product Backlogs
+- Evitando el Taylorismo
+- Estimaciones, no Compromisos
+- Las Personas son Valiosas
+- Optimización del Sistema, no Optimización Local
+- Descubriendo el Valor
+- Implicancias de Múltiples Product Backlogs
 
-## DÍA 2: Ver la simplicidad a través del modelado de sistemas
 
-El segundo día, tomaremos lo que aprendimos sobre el modelado de sistemas el día 1 y usaremos esas herramientas para comprender:
+## DÍA 2: Viviendo La Simplicidad A Través Del Modelamiento De Sistemas
 
-- Beneficios de los equipos multifuncionales
-- Consideraciones sobre la amplitud del producto
-- El código privado impide la excelencia técnica
-- Gestión de la plenitud cognitiva
-- Consideraciones sobre el tamaño del área requerida
 
-## DÍA 3: Modelado de decisiones mediante Modelado de Sistemas y LeSS
+El segundo día tomaremos lo que aprendimos sobre el modelado de sistemas el día 1 y usaremos esas herramientas para comprender:
 
-A medida que continuamos avanzando en nuestra comprensión profunda utilizando el modelado de sistemas, el tercer día lo dedicaremos a fusionar toda nuestra comprensión mejorada, brindando orientación sobre cómo avanzar y orientando a los participantes sobre cómo navegar por una gran cantidad de información adicional.
+- Beneficios de los Equipos Multifuncionales
+- Consideraciones Sobre la Amplitud del Producto
+- El Código Privado Impide la Excelencia Técnica
+- Gestión de la Plenitud Cognitiva
+- Consideraciones Sobre la Estimación del Tamaño de Requerimientos
 
-- Amplitud y adaptabilidad del producto
-- Evitar intermediarios
-- Imagen menos completa
-- La estructura impulsa la cultura
-- Adopción en su organización
-- Preguntas y respuestas ampliadas
 
-# Después de finalizar el curso
+## DÍA 3: Modelar Decisiones A Travez del Modelamiento De Sistemas Y LeSS
+
+A medida que continuamos profundizando en nuestra comprensión mediante el modelamiento de sistemas, el tercer día lo dedicamos a fusionar toda nuestra comprensión, brindando orientación sobre cómo avanzar y guiando a los participantes a través de una gran cantidad de información adicional.
+
+- Amplitud y Adaptabilidad del Producto
+- Evitar los Intermediarios
+- La Foto Completa LeSS
+- La Estructura Impulsa la Cultura
+- Adopción en su Organización
+- Sesión de Preguntas y Respuestas Extendidas
+
+
+# Después De Finalizar El Curso
 
 Cada participante será un practicante certificado de LeSS y obtendrá una cuenta en less.works. Aquí se puede encontrar información adicional sobre LeSS, compartir información del curso y mantenerse en contacto con los demás participantes del curso.
 
 Todos los participantes obtienen acceso al libro: _Large-Scale Scrum: More with LeSS_
 
-# Testimonios de los participantes
+# Testimonios De Participantes
 
 <iframe class="video" src="https://www.youtube.com/embed/kkeUFigIjQg" allowfullscreen frameborder="0"></iframe>
 
 <iframe class="video" src="https://www.youtube.com/embed/oH9b1gw0XcE" allowfullscreen frameborder="0"></iframe>
 
-# Menos adoptantes
+# Adoptantes De Less
 
 ![Hoja de logotipos de LeSS por sector](/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)
