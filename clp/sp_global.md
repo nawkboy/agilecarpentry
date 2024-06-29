@@ -7,19 +7,17 @@ layout: book
 
 [This page in English]({{site.baseurl}}/clp/global/)
 
-# Curso LeSS Practitioner disponible a nivel mundial
+# Curso Certificado de LeSS Practitioner Disponible Globalmente
 
-Puedo impartir fácilmente un curso de profesional certificado de LeSS o un [taller ejecutivo]({{site.baseurl}}/cle/sp_global/) en casi cualquier lugar donde las aerolíneas puedan llevarme.
+Puedo fácilmente realizar un curso Certificado de LeSS Practitioner (CLP) o un [Taller Ejecutivo]({{site.baseurl}}/cle/sp_global/) en casi cualquier lugar que sea asequible por medio de vuelos comerciales.
 
+Si está interesado en un curso privado, por favor contácteme por correo electrónico a [james@agilecarpentry.com](mailto:james@agilecarpentry.com) o a través de [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
-Si está interesado en un curso privado, comuníquese conmigo por correo electrónico a [james@agilecarpentry.com](mailto:james@agilecarpentry.com) o a través de [LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
+Si está interesado en que imparta un curso pagado en tu ciudad, por favor completa [esta encuesta](https://forms.gle/sPPpRzEa41Q95mtFA){:target="_blank"}.
 
-Si está interesado en que imparta un curso público en su ciudad, complete [esta encuesta](https://forms.gle/sPPpRzEa41Q95mtFA){:target="_blank"}.
+Como ejemplo, mis planillas de cálculo indican que puedo realizar un curso presencial de 3 días en Ciudad de México por USD $2699 por asistente si existen al menos 10 personas interesadas. Mi impresión es que podré ofrecer precios similares en otras ciudades de América Latina.
 
-Como ejemplo, mis hojas de cálculo me dicen que puedo realizar un CLP público presencial de 3 días en la Ciudad de México por USD$2699 por persona si puedo identificar al menos una docena de personas que quieran uno. Espero que se apliquen precios similares en otras ciudades de América Latina.
-
-Un curso en un país de habla hispana será una combinación de inglés y español. Espero hablar en español cuando pueda y en inglés cuando sea necesario. Consulte la sección _Inglés E Idioma Local_ a continuación para obtener más detalles.
-
+Estos cursos serán impartidos en una combinación de castellano e inglés, utilizando el castellano cuando me sea posible y el inglés cuando no exista otra opción. Consulte la sección de _Inglés Y Castellano_ a continuación para más detalles.
 
 {% include_relative _includes/sp_course_agenda_no_air_force.md %}
 
