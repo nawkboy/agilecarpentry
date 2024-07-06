@@ -113,8 +113,6 @@ Es fundamental que el patrocinador ejecutivo lleve al grupo a tomar una decisió
 
 Todo lo que se ofrece en la [sección de inglés e idioma local de Curso LeSS Practitioner Disponible A Nivel Mundial]({{site.baseurl}}/clp/sp_global/#inglés-e-idioma-local) es igualmente relevante para un _Taller ejecutivo_ externo. que incluye un curso _Certified LeSS for Executives (CLE)_ y un _Taller de Consentimiento Informado_.
 
-CURSO LESS PRACTITIONER DISPONIBLE A NIVEL MUNDIAL
-
 Además, he estado explorando cómo puedo ayudar a facilitar la traducción profesional de la totalidad del sitio web LeSS.works y de los tres libros de LeSS a cualquier idioma deseado en nombre de un cliente.
 
 # Logística

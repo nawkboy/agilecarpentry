@@ -17,7 +17,7 @@ Si está interesado en que imparta un curso pagado en tu ciudad, por favor compl
 
 Como ejemplo, mis planillas de cálculo indican que puedo realizar un curso presencial de 3 días en Ciudad de México por USD $2299 por asistente si existen al menos 12 personas interesadas. Mi impresión es que podré ofrecer precios similares en otras ciudades de América Latina.
 
-Estos cursos serán impartidos en una combinación de castellano e inglés, utilizando el castellano cuando me sea posible y el inglés cuando no exista otra opción. Consulte la sección de _Inglés Y Castellano_ a continuación para más detalles.
+Estos cursos serán impartidos en una combinación de castellano e inglés, utilizando el castellano cuando me sea posible y el inglés cuando no exista otra opción. Consulte la sección de _Inglés Y e idioma local_ a continuación para más detalles.
 
 {% include_relative _includes/sp_course_agenda_no_air_force.md %}
 
@@ -58,7 +58,19 @@ Los traductores de texto en línea se han vuelto extremadamente buenos últimame
 
 Ser diligente en la lectura previa será de gran ayuda para seguir la clase.
 
-Con un poco de ayuda, es posible que incluso pueda traducir completamente todos los materiales del curso al idioma local. Esto es especialmente cierto para el español.
+Con un poco de ayuda, es posible que incluso pueda traducir completamente todos los materiales del curso al idioma local. Como se detalla a continuación, esto ya se hace para el español.
+
+## Traducción Española
+
+Las versiones en español del contenido escrito del curso ya están disponibles.
+
+El contenido traducido incluye:
+* Paquete del curso (más de 130 páginas de contenido de referencia)
+* Diapositivas (más de 175 diapositivas)
+* Variables de modelado del sistema.
+* La mayoría de los numerosos diagramas
+
+Copias impresas del paquete del curso y folletos de diapositivas están disponibles tanto en inglés como en español. Un conjunto completo de materiales impresos permite a los participantes consultar el texto original en inglés cada vez que la traducción al español carece de claridad. Al mismo tiempo, se aprovecha predominantemente la traducción al español para una lectura y comprensión más rápidas.
 
 ## Conciencia y Sensibilidad
 
