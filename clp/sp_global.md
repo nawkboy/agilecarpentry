@@ -15,7 +15,7 @@ Si está interesado en un curso privado, por favor contácteme por correo electr
 
 Si está interesado en que imparta un curso pagado en tu ciudad, por favor completa [esta encuesta](https://forms.gle/sPPpRzEa41Q95mtFA){:target="_blank"}.
 
-Como ejemplo, mis planillas de cálculo indican que puedo realizar un curso presencial de 3 días en Ciudad de México por USD $2699 por asistente si existen al menos 10 personas interesadas. Mi impresión es que podré ofrecer precios similares en otras ciudades de América Latina.
+Como ejemplo, mis planillas de cálculo indican que puedo realizar un curso presencial de 3 días en Ciudad de México por USD $2299 por asistente si existen al menos 12 personas interesadas. Mi impresión es que podré ofrecer precios similares en otras ciudades de América Latina.
 
 Estos cursos serán impartidos en una combinación de castellano e inglés, utilizando el castellano cuando me sea posible y el inglés cuando no exista otra opción. Consulte la sección de _Inglés Y Castellano_ a continuación para más detalles.
 
