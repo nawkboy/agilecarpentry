@@ -28,6 +28,8 @@
 - title: Spanish
   link: /clp/sp_global/
   dropdown:
+    - title: CLP Barcelona
+      link: /clp/sp_barcelona_fall_2024/
     - title: CLP Global
       link: /clp/sp_global/
     - title: CLE Global
