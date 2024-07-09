@@ -67,16 +67,6 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 * [Logistics Page]({{site.baseurl}}/clp/logistics/): Agile Carpentry has logistics in place to make facilitating a system modeling based _Certified LeSS Practitioner_ or _Certified LeSS for Executives_ course very easy for a client. [Lo mismo en español.]({{site.baseurl}}/clp/sp_logistics/)
 * [Translation Efforts]({{site.baseurl}}/blog/less-in-arabic/): Very little of the written LeSS content is currently available in any language other than English. This is true of the LeSS website as well as the three LeSS books by Bas Vodde and Craig Larman. Agile Carpentry can help solve that problem for most any desired language which a client wishes to sponsor translation for.
 * [PowerPoint Pitch Deck]({{site.baseurl}}/assets/pdfs/PitchDeckGeneric.pptx){:target="_blank"}: Here is a pitch deck for LeSS related services from Agile Carpentry in an effort to support internal client advocates. ([PDF Version]({{site.baseurl}}/assets/pdfs/PitchDeckGeneric.pdf){:target="_blank"})
-
-# Upcoming Events
-
-![LeSS Logo Sheet by Sector](/assets/images/clp/MilwaukeeUnConferenceJune27_28_OgImage.png)
-
-* [North American LeSS UnConference on June 27-28](https://agilecarpentry.regfox.com/north-american-less-unconference-2024){:target="_blank"}
-  + Gain new skills, knowledge, and insights from others in the LeSS community. 
-  + Come early to attend a Certified LeSS Practitioner course. 
-  + Stay late to attend SummerFest, the largest annual music festival in the United States. 
-  + Experience the heart of Milwaukee in the summertime.
-
+* [Course Focused PowerPoint Pitch Deck]({{site.baseurl}}/assets/pdfs/PromoSlide_CertifiedLeSSPractitioner_Public.pptx){:target="_blank"}: Here is a second pitch deck which mostly focuses on sponsoring an in-person LeSS course.([PDF Version]({{site.baseurl}}/assets/pdfs/PromoSlide_CertifiedLeSSPractitioner_Public.pdf){:target="_blank"})
 
 
