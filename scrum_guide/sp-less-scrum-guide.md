@@ -8,7 +8,7 @@ noindex: true
 ---
 
 <div style="text-align: right; font-size: smaller;">
-  Descargue el <a href="https://less.works/scrum-guide/scrum-guide.pdf">PDF en inglés</a>
+  Descargue el <a target="_blank" href="https://less.works/scrum-guide/scrum-guide.pdf">PDF en inglés</a>
 </div>
 
 <center style="color: #1997C0;">Craig Larman & Bas Vodde</center>
