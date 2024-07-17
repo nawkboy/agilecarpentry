@@ -34,6 +34,8 @@
       link: /clp/sp_global/
     - title: CLE Global
       link: /cle/sp_global/
+    - title: Guía Scrum (versión LeSS)
+      link: /scrum_guide/sp-less-scrum-guide/
 
 - title: About
   link: '/about/'
