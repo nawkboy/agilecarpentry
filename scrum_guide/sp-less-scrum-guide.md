@@ -3,8 +3,8 @@ title: Guía Scrum (versión LeSS)
 image: /assets/images/scrum_guide/overview.png
 author: James
 layout: book
-sitemap: false
-noindex: true
+sitemap: true
+noindex: false
 ---
 
 <div style="text-align: right; font-size: smaller;">
