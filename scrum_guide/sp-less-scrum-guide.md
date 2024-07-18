@@ -119,8 +119,6 @@ El Propietario del Producto (_Product Owner_) también es responsable de la gest
 
 El Propietario del Producto (_Product Owner_) puede realizar el trabajo anterior o puede delegar la responsabilidad a otros. De todos modos, el Propietario del Producto (_Product Owner_) sigue siendo responsable.
 
-WARNING: SHOULD THIS BE Propietarios del Productos or Propietario del Productos. There is only one PO for a given product.
-
 Para que los Propietarios del Productos (_Product Owners_) tengan éxito, toda la organización debe respetar sus decisiones. Estas decisiones son transparentes en el contenido y ordenamiento del Pila del Producto (_Product Backlog_), y a través del Incremento (_Increment_) inspeccionable en el Revisión del Sprint (_Sprint Review_).
 
 El Propietario del Producto (_Product Owner_) es una persona, no un comité. El Propietario del Producto (_Product Owner_) puede representar las necesidades de muchas partes interesadas (_stakeholders_) en el Pila del Producto (_Product Backlog_). Aquellos que quieran cambiar el Pila del Producto (_Product Backlog_) pueden hacerlo intentando convencer al Propietario del Producto (_Product Owner_).
