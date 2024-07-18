@@ -40,7 +40,7 @@ En pocas palabras, Scrum requiere:
 1. Un Propietario del Producto (_Product Owner_) ordena el trabajo de un problema complejo en un _Product Backlog_.
 2. El Equipo (_Team_) convierte una selección de estas ideas en un valioso Incremento (_Increment_) de producto.
 3. El Equipo (_Team_), el Propietario del Producto (_Product Owner_) y sus partes interesadas (_stakeholders_) inspeccionan los resultados y realizan los ajustes necesarios para el próximo Sprint.
-4. Repetir
+4. Repetir.
 
 El marco Scrum está deliberadamente incompleto. Proporciona un caparazón que requiere la inteligencia colectiva de las personas que lo utilizan para completarlo. Hace transparente la eficacia relativa de la gestión, el entorno y las técnicas de trabajo actuales, de modo que la mejora continua del producto, el equipo y el entorno de trabajo puede pasar.
 
@@ -82,7 +82,7 @@ Estos valores dan dirección con respecto al trabajo, las acciones y el comporta
 
 ## Roles de Scrum (_Scrum Roles_)
 
-Scrum consta de un Scrum Master (_Scrum Master_), un Propietario del Producto (Product Owner) y un Equipo (_Team_), todos enfocados en la Visión del Producto (_Product Vision_).
+Scrum consta de un Scrum Master (_Scrum Master_), un Propietario del Producto (_Product Owner_) y un Equipo (_Team_), todos enfocados en la Visión del Producto (_Product Vision_).
 
 El equipo (_Team_) es lo suficientemente pequeño como para seguir siendo ágil y lo suficientemente grande como para completar un trabajo importante dentro de un Sprint, generalmente de 10 personas o menos. En general, hemos descubierto que los equipos más pequeños se comunican mejor y son más productivos. Si el equipo (_Team_) se vuelve demasiado grande, deberían considerar reorganizarse en varios equipos cohesionados, cada uno centrado en el mismo producto. Por lo tanto, deben compartir la misma Visión del Producto (_Product Vision_), Pila del Producto (_Product Backlog_) y Propietario del Producto (_Product Owner_).
 
@@ -110,6 +110,7 @@ Las habilidades específicas que necesitan los miembros del Equipo (_Team_) suel
 ### Propietario del Producto (_Product Owner_)
 
 El Propietario del Producto (_Product Owner_) es responsable de maximizar el valor del producto resultante del trabajo del Equipo (_Team_). La forma en que se hace esto puede variar ampliamente entre organizaciones.
+
 El Propietario del Producto (_Product Owner_) también es responsable de la gestión eficaz del Pila del Producto (_Product Backlog_), que incluye:
 
 * Desarrollar y comunicar explícitamente la Visión del Producto (_Product Vision_);
@@ -153,6 +154,7 @@ El Scrum Master sirve a la organización de varias maneras, que incluyen:
 ## El Sprint (_Sprint_)
 
 Los Sprints son el corazón de Scrum, donde las ideas se convierten en valor.
+
 Tienen una duración fija de un mes o menos para crear coherencia. Un nuevo Sprint comienza inmediatamente después de la conclusión del Sprint anterior.
 
 Todo el trabajo necesario para lograr la Visión del Producto (_Product Vision_), incluida la Planificación del Sprint (_Sprint Planning_), los Scrums Diarios (_Daily Scrums_), la Revisión del Sprint (_Sprint Review_), la Retrospectiva del Sprint (_Sprint Retrospective_) y el Refinamiento del Pila del Producto (_Product Backlog Refinement_), se realizan dentro de los Sprints.
@@ -173,7 +175,7 @@ Un Sprint puede cancelarse si el objetivo del Sprint queda obsoleto. Sólo el Pr
 
 Cada evento en Scrum es una oportunidad formal para inspeccionar y adaptarse. Estos eventos están diseñados específicamente para permitir la transparencia requerida. No operar cualquier evento según lo prescrito da como resultado la pérdida de oportunidades para inspeccionar y adaptarse. Los eventos se utilizan en Scrum para crear regularidad y minimizar la necesidad de reuniones no definidas en Scrum. De manera óptima, todos los eventos se llevan a cabo al mismo tiempo y lugar para reducir la complejidad.
 
-### Planificación de Sprints (_Sprint Planning_)
+### Planificación del Sprint (_Sprint Planning_)
 
 La Planificación del Sprint (_Sprint Planning_) inicia el Sprint estableciendo el trabajo que se realizará para el Sprint. Este plan resultante se crea mediante el trabajo colaborativo del Equipo (_Team_) y el Propietario del Producto (_Product Owner_). Es posible que se invite a otras personas a asistir a Planificación del Sprint (_Sprint Planning_) para brindar asesoramiento.
 
@@ -181,9 +183,9 @@ El Propietario del Producto (_Product Owner_) se asegura de que los asistentes e
 
 Planificación del Sprint (_Sprint Planning_) aborda los siguientes temas:
 
-**¿Por qué es valioso este Sprint?** — El Propietario del Producto (_Product Owner_) propone cómo el producto podría aumentar su valor y utilidad en el Sprint actual. Luego, el Equipo (_Team_) y el Propietario del Producto (_Product Owner_) colaboran para definir una Meta de Sprint (_Spring Goal_) que comunique por qué el Sprint es valioso para las partes interesadas (_stakeholders_) y cómo ayuda a lograr la Visión del Producto (_Product Vision_). La Meta de Sprint (_Spring Goal_) debe finalizarse antes del final de la Planificación del Sprint (_Sprint Planning_).
+**¿Por qué es valioso este Sprint?** — El Propietario del Producto (_Product Owner_) propone cómo el producto podría aumentar su valor y utilidad en el Sprint actual. Luego, el Equipo (_Team_) y el Propietario del Producto (_Product Owner_) colaboran para definir una Meta de Sprint (_Sprint Goal_) que comunique por qué el Sprint es valioso para las partes interesadas (_stakeholders_) y cómo ayuda a lograr la Visión del Producto (_Product Vision_). La Meta de Sprint (_Sprint Goal_) debe finalizarse antes del final de la Planificación del Sprint (_Sprint Planning_).
 
-**¿Qué se puede hacer en este Sprint?**: a través de una discusión con el Propietario del Producto (_Product Owner_), el Equipo (_Team_) selecciona elementos de la parte superior del Pila del Producto (_Product Backlog_) para incluirlos en el Sprint actual. El Equipo (_Team_) puede refinar estos elementos durante este proceso.
+**¿Qué se puede hacer en este Sprint?**: A través de una discusión con el Propietario del Producto (_Product Owner_), el Equipo (_Team_) selecciona elementos de la parte superior del Pila del Producto (_Product Backlog_) para incluirlos en el Sprint actual. El Equipo (_Team_) puede refinar estos elementos durante este proceso.
 
 **¿Cómo se realizará el trabajo elegido?**: Para cada elemento seleccionado del Pila del Producto (_Product Backlog_), el Equipo (_Team_) planifica el trabajo necesario para crear un Incremento (_Increment_) que cumpla con la Definición de Hecho (_Definition of Done_). Esto a menudo se hace descomponiendo los elementos del Pila del Producto (_Product Backlog_) en tareas más pequeñas de un día o menos. La forma en que se hace esto queda a discreción exclusiva del Equipo (_Team_).
 
@@ -280,7 +282,7 @@ La Guía Scrum documenta Scrum desarrollado, evolucionado y sostenido durante m�
 
 La historia completa de Scrum se describe en otra parte. Para honrar los primeros lugares donde se probó y demostró, reconocemos a Individual Inc., Newspage, Fidelity Investments e IDX (ahora GE Medical).
 
-Esta publicación se ofrece bajo la licencia Attribution Share-Alike de Creative Commons, accesible en [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by -sa/4.0/legalcode) y también se describe en forma resumida en [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/) . Al utilizar esta Guía Scrum, usted reconoce y acepta que ha leído y acepta regirse por los términos de la licencia Attribution Share-Alike de Creative Commons.
+Esta publicación se ofrece bajo la licencia Attribution Share-Alike de Creative Commons, accesible en [https://creativecommons.org/licenses/by-sa/4.0/legalcode](https://creativecommons.org/licenses/by -sa/4.0/legalcode) y también se describe en forma resumida en [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/). Al utilizar esta Guía Scrum, usted reconoce y acepta que ha leído y acepta regirse por los términos de la licencia Attribution Share-Alike de Creative Commons.
 
 Este documento es una adaptación de la Guía Scrum original de Ken Schwaber y Jeff Sutherland. Craig Larman y Bas Vodde realizaron cambios en el documento original en 2024, incluidas ediciones menores y resúmenes de cambios.
 
@@ -299,6 +301,6 @@ Esta actualización de la Guía Scrum tiene como base la Guía Scrum 2020, aunqu
 * Se eliminó la terminología del Tema 1/2/3 y simplemente lo llamó por qué/qué/cómo.
 * Se agregó un Refinamiento de la Pila de Productos a los eventos Scrum, pero se mencionó que se puede realizar como una actividad en lugar de un evento.
 * Se eliminó el lenguaje de compromiso con los artefactos.
-* Se movió la Meta de Sprint a un solo lugar, dentro de Sprint Planning.
+* Se movió la Meta de Sprint a un solo lugar, dentro de Planificación del Sprint.
 * Introdujo la Definición de Hecho, no como compromiso sino como acuerdo.
 
