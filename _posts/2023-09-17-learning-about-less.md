@@ -16,7 +16,7 @@ Before dedicating the time to read through an entire book, most people prefer to
 
 Before settling down to read [Book 3: Large-Scale Scrum: More with LeSS  (2015)](https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710){:target="_blank"}, 
 
-* [Why LeSS](https://less.works/less/framework/why-less){:target="_blank"}: Provides a high level survey of the motivations around LeSS.
+* [Why LeSS](https://less.works/less/framework/why-less){:target="_blank"}: Provides a high-level survey of the motivations around LeSS.
 
 * [Introduction To LeSS](https://less.works/less/framework/introduction){:target="_blank"}: Provides a summary overview of LeSS.
 
@@ -26,6 +26,8 @@ Before settling down to read [Book 3: Large-Scale Scrum: More with LeSS  (2015)]
 
 * [LeSS Website](https://less.works/){:target="_blank"}:
 Reference style arrangement of _LeSS framework_ information using a large overview diagram as a navigational launch pad.
+
+* [LeSS Version of Scrum Guide](https://less.works/less/scrum-guide){:target="_blank"}: As newer versions of the official Scrum Guide have been released, the articulation and arguably the intent has drifted. In an effort to avoid confusion within the LeSS community, a LeSS Version of the Scrum Guide has recently been published.
 
 # Long-Form Reading
 
