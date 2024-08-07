@@ -1,5 +1,5 @@
 ---
-title: Dallas/Fort Worth Certified LeSS Practitioner Course Summer 2023
+title: Dallas/Fort Worth Certified LeSS Practitioner Course Fall 2024
 image: /assets/images/clp/DallasCLPWebsitePageHeaderSept18_20_2024.png
 ogimage: /assets/images/clp/DallasCLPWebsitePageHeaderSept18_20_2024.png
 author: James
