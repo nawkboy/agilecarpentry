@@ -1,7 +1,7 @@
-- title: North America LeSS UnConference 2024
+- title: Dallas CLP Fall 2024
   category: Events
-  image: /assets/images/portfolio/na-less-unconference-2024-portfolio.png
-  link: https://agilecarpentry.regfox.com/north-american-less-unconference-2024
+  image: /assets/images/clp/clp-dallas-fall-2024-portfolio.png
+  link: /clp/dallas_fall_2024/
 
 #- title: Economic View Of LeSS Case Study
 #  category: LeSS
@@ -14,11 +14,21 @@
   image: /assets/images/portfolio/learning-about-less-portfolio.png
   link: /blog/learning-about-less/
 
+- title: Singapore CLP Fall 2024
+  category: Events
+  image: /assets/images/clp/clp-singapore-fall-2024-portfolio.png
+  link: /clp/singapore_fall_2024/
+
 - title: Hundreds Of Millions In Savings
   category: LeSS
   image: /assets/images/portfolio/diagnostics-savings-portfolio.png
   link: /blog/hundreds-of-millions-saved/
 
+- title: Deriving LeSS
+  category: LeSS
+  image: /assets/images/portfolio/deriving-less-article-header.png
+  link: /blog/deriving-less/
+  
 - title: Billions In Lost Revenue Avoided
   category: LeSS
   image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
@@ -39,20 +49,17 @@
 #  image: /assets/images/mcs_case_study_updated/timelineGraphFakeMonths.png
 #  link: /blog/large-server-hardware-company-case-study-published/
 
-- title: Deriving LeSS
-  category: LeSS
-  image: /assets/images/portfolio/deriving-less-article-header.png
-  link: /blog/deriving-less/
+
 
 #- title: Examining LeSS Huge
 #  category: LeSS
 #  image: /assets/images/portfolio/examining-less-huge-article-header.png
 #  link: /blog/examining-less-huge/
 
-- title: Using Structure to Mold Culture
-  category: Book
-  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
-  link: /blog/using-structure-to-mold-culture/
+#- title: Using Structure to Mold Culture
+#  category: Book
+#  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
+#  link: /blog/using-structure-to-mold-culture/
 
 
 #- title: Forging Change Synopsis
