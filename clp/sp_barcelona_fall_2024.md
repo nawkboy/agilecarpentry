@@ -1,6 +1,6 @@
 ---
 #title: Practicante certificado de LeSS en Barcelona
-title: Practicante certificado de LeSS en Barcelona 30/9/2024 - 2/10/2024
+title: Practicante certificado de LeSS en Barcelona 8/10/2024 - 10/10/2024
 image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 #image: /assets/images/clp/SpanishCLPPost.png
 author: James
