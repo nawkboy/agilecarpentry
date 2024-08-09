@@ -15,6 +15,8 @@
       link: /clp/washington_dc_fall_2024/
     - title: Osaka Nov 19-21
       link: /clp/osaka_fall_2024/
+    - title: Bogota Dec 10-12
+      link: /clp/sp_bogota_fall_2024/
 #    - title: Course Tour
 #      link: /clp/
     - title: Global CLP
@@ -34,6 +36,8 @@
   dropdown:
     - title: CLP Barcelona
       link: /clp/sp_barcelona_fall_2024/
+    - title: CLP Bogota
+      link: /clp/sp_bogota_fall_2024/
     - title: CLP Global
       link: /clp/sp_global/
     - title: CLE Global
