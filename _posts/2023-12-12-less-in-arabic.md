@@ -83,7 +83,7 @@ The 3rd LeSS book has been translated into both German and Chinese.
 * [Book 3: Large-Scale Scrum: More with LeSS  (2015) in English](https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710)
 * [Book 3: Large-Scale Scrum in German](https://www.amazon.com/Large-Scale-Scrum/dp/3864903769)
 * [Book 3: Large-Scale Scrum in Chinese](https://www.amazon.com/%E5%A4%A7%E8%A7%84%E6%A8%A1Scrum%EF%BC%9A%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%95%8F%E6%8D%B7%E7%BB%84%E7%BB%87%E7%9A%84%E8%AE%BE%E8%AE%A1-%E5%85%8B%E9%9B%B7%E6%A0%BC%C2%B7%E6%8B%89%E5%B0%94%E6%9B%BC%EF%BC%88Craig-Larman%EF%BC%89-%E5%B7%B4%E6%96%AF%C2%B7%E6%B2%83%E4%BB%A3%EF%BC%88Bas-Vodde%EF%BC%89/dp/B07GVXHSV2)
-* [Book3: Large-Scale Scrum in Japanese](https://www.amazon.co.jp//dp/B09991154H)
+* [Book 3: Large-Scale Scrum in Japanese](https://www.amazon.co.jp//dp/B09991154H)
 
 
 
