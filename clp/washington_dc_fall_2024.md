@@ -38,7 +38,15 @@ trainingevent:
 
 # Training Venue Details
 
-To be determined.
+The venue is yet to be confirmed.
+
+The venue is likely to be a 3.5 to 4.5 star event hotel in walking distance, or at least a short Uber ride from the Amtrak Washington Union Station, in an upscale and safe area within that constraint. This will provide the most transportation and hotel stay options for most attendees, regardless of their point of origin.
+
+The event venue is likely to one of the following:
+* Embassy Suites, Hilton Garden Inn (~3.75 star, upscale limited service)
+* Marriott, Westin, Hilton, Sheraton, etc. (4 to 4.5 star, full service event hotels)
+* Various hotels Marriott classifies as “Premium Brands”. This includes the smaller boutique brands such as the Autograph Collection and Tribute Portfolio.
+
 
 Lunch is included in the price of the course.
 
