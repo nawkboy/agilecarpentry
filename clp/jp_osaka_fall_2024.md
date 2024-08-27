@@ -33,9 +33,9 @@ trainingevent:
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/osaka-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">11月19日～21日: チケットを取得</a>
 
-![日本語コース](/assets/images/clp/SpanishCLPPost.png)
+![日本語コース](/assets/images/clp/JapaneseCLPPost.png)
 
-この 3 日間の対面式 LeSS 認定実践者コースは、日本語と英語を組み合わせて実施されます。 書面によるコンテンツの大部分はスペイン語に翻訳されています。 教室レベルのディスカッションは、必要に応じて英語で、可能な場合は日本語で実施されます。
+この 3 日間の対面式 LeSS 認定実践者コースは、日本語と英語を組み合わせて実施されます。 書面によるコンテンツの大部分は日本語に翻訳されています。 教室レベルのディスカッションは、必要に応じて英語で、可能な場合は日本語で実施されます。
 
 翻訳されたコンテンツには以下が含まれます:
 
