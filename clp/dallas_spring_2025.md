@@ -23,7 +23,7 @@ trainingevent:
    The Certified LeSS Practitioner course is an in-depth course covering the LeSS principles, framework and rules, and guides. It provides essential information for adopting and improving LeSS to your product development group. The course contains an overview of LeSS, stories on LeSS adoptions, exercises and extensive LeSS Q&A to ensure we discuss the topics most of interest to the participants.
   trainer: "James Carpenter"
   offer:
-    ticketUrl: "https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-fall-2024"
+    ticketUrl: "https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-spring-2025"
     price: "2699"
     priceCurrency: "USD"
   organizer:
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">September 18-20: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 4-6: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -44,7 +44,7 @@ Lunch is included in the price of the course.
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">September 18-20: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 4-6: Get Tickets</a>
 
 
 
