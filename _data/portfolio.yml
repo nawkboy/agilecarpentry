@@ -1,58 +1,57 @@
-- title: Dallas CLP Fall 2024
-  category: Events
-  image: /assets/images/clp/clp-dallas-fall-2024-portfolio.png
-  link: /clp/dallas_fall_2024/
-
 #- title: Economic View Of LeSS Case Study
 #  category: LeSS
 #  image: /assets/images/portfolio/case-study-biz-summary-portfolio.png
 #  link: /blog/business-summary-of-case-study/
 
-
-- title: Learning About LeSS
-  category: LeSS
-  image: /assets/images/portfolio/learning-about-less-portfolio.png
-  link: /blog/learning-about-less/
-
-- title: Singapore CLP Fall 2024
-  category: Events
-  image: /assets/images/clp/clp-singapore-fall-2024-portfolio.png
-  link: /clp/singapore_fall_2024/
-
-- title: Hundreds Of Millions In Savings
-  category: LeSS
-  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
-  link: /blog/hundreds-of-millions-saved/
-
-- title: Deriving LeSS
-  category: LeSS
-  image: /assets/images/portfolio/deriving-less-article-header.png
-  link: /blog/deriving-less/
-  
-- title: Billions In Lost Revenue Avoided
-  category: LeSS
-  image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
-  link: /blog/billions-in-risk-avoidance/
+#- title: Singapore CLP Fall 2024
+#  category: Events
+#  image: /assets/images/clp/clp-singapore-fall-2024-portfolio.png
+#  link: /clp/singapore_fall_2024/
 
 - title: Washington CLP Fall 2024
   category: Events
   image: /assets/images/clp/clp-district-of-columbia-fall-2024-portfolio.png
   link: /clp/washington_dc_fall_2024/
 
+- title: Learning About LeSS
+  category: LeSS
+  image: /assets/images/portfolio/learning-about-less-portfolio.png
+  link: /blog/learning-about-less/
+
 - title: Osaka CLP Fall 2024
   category: Events
   image: /assets/images/clp/clp-osaka-fall-2024-portfolio.png
   link: /clp/jp_osaka_fall_2024/
+
+- title: Hundreds Of Millions In Savings
+  category: LeSS
+  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
+  link: /blog/hundreds-of-millions-saved/
 
 - title: Bogotá CLP Otoño 2024
   category: Events
   image: /assets/images/clp/clp-bogota-fall-2024-portfolio.png
   link: /clp/sp_bogota_fall_2024/
 
-#- title: Where would you like a public Certified LeSS Practitioner course?
-#  category: LeSS
-#  image: /assets/images/portfolio/clp-location-survey-portfolio.png
-#  link: /blog/clp-location-survey/
+- title: Billions In Lost Revenue Avoided
+  category: LeSS
+  image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
+  link: /blog/billions-in-risk-avoidance/
+
+- title: Dallas CLP Spring 2025
+  category: Events
+  image: /assets/images/clp/clp-dallas-spring-2025-portfolio.png
+  link: /clp/dallas_spring_2025/
+
+- title: Deriving LeSS
+  category: LeSS
+  image: /assets/images/portfolio/deriving-less-article-header.png
+  link: /blog/deriving-less/
+
+- title: Where would you like a public Certified LeSS Practitioner course?
+  category: LeSS
+  image: /assets/images/portfolio/clp-location-survey-portfolio.png
+  link: /blog/clp-location-survey/
 
 #- title: LeSS Practitioner Course Now In Milwaukee!
 #  category: LeSS
@@ -63,7 +62,6 @@
 #  category: LeSS
 #  image: /assets/images/mcs_case_study_updated/timelineGraphFakeMonths.png
 #  link: /blog/large-server-hardware-company-case-study-published/
-
 
 
 #- title: Examining LeSS Huge
