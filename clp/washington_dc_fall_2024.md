@@ -1,5 +1,5 @@
 ---
-title: Washington DC Certified LeSS Practitioner Course Fall 2024
+title: Washington DC - Baltimore Certified LeSS Practitioner Course Fall 2024
 image: /assets/images/clp/DistrictOfColumbiaCLPWebsitePageHeaderOct22_24_2024.png
 ogimage: /assets/images/clp/DistrictOfColumbiaCLPWebsitePageHeaderNoDatesOgImage.png
 author: James
@@ -38,17 +38,13 @@ trainingevent:
 
 # Training Venue Details
 
-The venue is yet to be confirmed.
+Downtown Baltimore turns out to be the best choice for the course, as it provides the best balance of logistics and cost.
 
-The venue is likely to be a 3.5 to 4.5 star event hotel in walking distance, or at least a short Uber ride from the Amtrak Washington Union Station, in an upscale and safe area within that constraint. This will provide the most transportation and hotel stay options for most attendees, regardless of their point of origin.
+The downtown Baltimore Amtrak station (BAL) is a short Uber ride to the downtown hotels, which makes it super easy and quick for participants to travel from New York City (2h20m via Acela), and Philadelphia (1h10m via Acela). There is also a light rail link from BWI airport to downtown Baltimore for those of us who are flying.
 
-The event venue is likely to be one of the following:
-* Embassy Suites, Hilton Garden Inn (~3.75 star, upscale limited service)
-* Marriott, Westin, Hilton, Sheraton, etc. (4 to 4.5 star, full service event hotels)
-* Various hotels Marriott classifies as “Premium Brands”. This includes the smaller boutique brands such as the Autograph Collection and Tribute Portfolio.
+I am currently planning to host the event in the [Kimpton Hotel Monaco Baltimore Inner Harbor](https://www.monaco-baltimore.com/){:target="_blank"}. I will bind the event space concurrent with transitioning out of pre-registration. The Kimpton Monaco is situated along with other 4 and 5 star event hotels in the upscale Inner Harbor area.
 
-
-Lunch is included in the price of the course.
+Lunch each day is included in the price of the course.
 
 # Tickets
 
