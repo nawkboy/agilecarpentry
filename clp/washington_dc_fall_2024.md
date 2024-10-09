@@ -1,19 +1,19 @@
 ---
 title: Washington DC - Baltimore Certified LeSS Practitioner Course Fall 2024
-image: /assets/images/clp/DistrictOfColumbiaCLPWebsitePageHeaderOct22_24_2024.png
+image: /assets/images/clp/DistrictOfColumbiaCLPWebsitePageHeaderOct28_30_2024.png
 ogimage: /assets/images/clp/DistrictOfColumbiaCLPWebsitePageHeaderNoDatesOgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2024-10-22T08:30-05:00"
-  endDate: "2024-10-24T18:00-05:00"
+  startDate: "2024-10-28T08:30-05:00"
+  endDate: "2024-10-30T18:00-05:00"
   location:
     name: "TBD"
     address:
       streetAddress: "TBD"
-      addressLocality: "Washington, DC"
-      postalCode: "20002"
-      addressRegion: "DC"
+      addressLocality: "Baltimore, MD"
+      postalCode: "21201"
+      addressRegion: "MD"
       addressCountry: "US"
   images:
     - /assets/images/clp/CLP_Event_1_1_aspect_ratio.png
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/washington-dc-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">October 22-24: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/washington-dc-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">October 28-30: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -48,7 +48,7 @@ Lunch each day is included in the price of the course.
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/washington-dc-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">October 22-24: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/washington-dc-certified-less-practitioner-fall-2024" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">October 28-30: Get Tickets</a>
 
 
 
