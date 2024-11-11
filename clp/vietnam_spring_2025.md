@@ -1,8 +1,34 @@
 ---
 title: Certified LeSS Practitioner in Vietnam Spring 2025
-image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
+image: /assets/images/clp/VietnamCLPWebsitePageHeaderSpring_2025.png
+ogimage: /assets/images/clp/VietnamCLPWebsitePageHeaderNoDatesOgImage.png
 author: James
 layout: book
+trainingevent:
+  startDate: "2025-02-18T08:30+07:00"
+  endDate: "2025-02-20T18:00+07:00"
+  location:
+    name: "TBD"
+    address:
+      streetAddress: "TBD"
+      addressLocality: "Ho Chi Minh City, Vietnam"
+      postalCode: "700000"
+      addressRegion: "Ho Chi Minh City"
+      addressCountry: "VN"
+  images:
+    - /assets/images/clp/CLP_Event_1_1_aspect_ratio.png
+    - /assets/images/clp/CLP_Event_4_3_aspect_ratio.png
+    - /assets/images/clp/CLP_Event_16_9_aspect_ratio.png
+  description: >
+   The Certified LeSS Practitioner course is an in-depth course covering the LeSS principles, framework and rules, and guides. It provides essential information for adopting and improving LeSS to your product development group. The course contains an overview of LeSS, stories on LeSS adoptions, exercises and extensive LeSS Q&A to ensure we discuss the topics most of interest to the participants.
+  trainer: "James Carpenter"
+  offer:
+    ticketUrl: "https://agilecarpentry.com/clp/vietnam_spring_2025/"
+    price: "2299"
+    priceCurrency: "USD"
+  organizer:
+    name: "Agile Carpentry"
+    url: "https://agilecarpentry.com"
 ---
 
 <a class="wx-button" href="https://forms.gle/7BtgehG84c73YTmJA" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Express Interest</a>
