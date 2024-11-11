@@ -61,7 +61,7 @@ Lowering the price below USD$2299/person will make it very difficult for a publi
 
 The course will likely be presented entirely in English. 
 
-If one of the sponsors is willing to send a large enough number of participants, and willing to help out  with the translation efforts, it is possible to create a bi-lingual version of the course. I have already done this for Spanish. Repeating the effort for Vietnamese is straightforward as long as I have a well educated person helping me prepare and translate the written materials. 
+If one of the sponsors is willing to send a large enough number of participants, and willing to help out  with the translation efforts, it is possible to create a bi-lingual version of the course. I have already done this for Spanish. Repeating the effort for Vietnamese is straightforward as long as I have a Vietnamese native speaker and fellow technologist available to help me with the translation of the written materials.
 
 See the "English and Local Language" section below for more details.
 
