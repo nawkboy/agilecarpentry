@@ -73,17 +73,53 @@ The **last two weeks of February 2025**, although this could change based on the
 
 # Where
 
-* Ho Chi Minh City
+* Ho Chi Minh City?
    * Event hotel in District 1 or District 3
 
-* Hanoi
+* Hanoi?
    * Event hotel in Ba Dính, Hoán Kiem, or Tây Hó.
 
-The abilty to run the course in both Ho Chi Minh City and Hanoi assumes there will be enough people in attendance to justify doing so. With smaller numbers it will make the most sense to run a single event instead, presumably in Ho Chi Minh City.
+* Danang? (single central event location)
+   * Extremely pretty yet inexpensive beach resorts near Danang
+
+The abilty to run the course in both Ho Chi Minh City and Hanoi assumes there will be enough people in attendance to justify doing so. With smaller numbers it will make the most sense to run a single event instead.
 
 I have contemplated running a course somewhere in the middle of Vietnam easily accessible via train and air from both Ho Chi Minh City and Hanoi. A beach resort hotel in Danang would one such option. Personally, I am willing to do whatever works best for people.
 
 I have researched and obtained event space quotes from event hotels in all of the above locations.
+
+## Danang Resorts Are Starting To Win The Venue Search
+
+![Shilla Monogram Infinity Pool](/assets/images/clp/danang/shillamonogram_infinity_pool.jpg)
+
+![Shilla Monogram Seating Area](/assets/images/clp/danang/shillamonogram_seating_area.jpg)
+
+![VinPearl From Beach](/assets/images/clp/danang/vinpearl_from_beach.jpg){:target="_blank"}.
+
+The Danang beach resort hotels are proving to be exceptionally compelling. 
+
+* The natural beauty of the beach resorts around Danang are amazing. Less stressed students will have more time and energy to learn LeSS!
+   - The first two photos above are from the [Shilla Monogram Quangnam Danang](https://www.shillamonogram.com/dnmg/index.do?lang=en){:target="_blank"}.
+   - The third photo is from the [Vinpearl Resort & Golf Nam Hoi An](https://vinpearl.com/en/hotels/vinpearl-resort-golf-nam-hoi-an){:target="_blank"}.
+
+
+
+* Lower minimum student thresholds are achievable due to significantly lower hosting costs than HCMC and Hanoi. Modest HCMC and Hanoi event hotels are still more expensive than the 5 star Danang area resorts.
+
+* The Danang airport has [direct flights](https://www.flightconnections.com/flights-from-da-nang-dad){:target="_blank"} to a large number of destinations within Asia.
+
+* Danang is easily and inexpensively [accessed by train](https://www.seat61.com/Vietnam.htm){:target="_blank"} from both Ho Chi Minh City and Hanoi as well as by air.
+   + Soft sleeper prices on the Reunification Express trains
+     - Hanoi->Danang: USD$38 (1,137,000 VND) each way
+     - HCMC->Danang:  USD$45 (969,000 VND) each way
+   + By Air
+     - HCMC <->Danang: USD$85 (2,154,750 VND) round-trip economy
+     - Hanoi <->Danang: USD$102 (2,585,700 VND) round-trip economy
+
+* The resort hotels typically provide transportation to/from the airport and train station.
+
+
+
 
 # Pricing
 
