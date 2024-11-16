@@ -102,9 +102,9 @@ The preferred options above are just two of the luxury event hotels in the area.
 
 Vietnam has visa on arrival for some countries, and requires an electronic submission ahead of time for others.
 
-One of many places you can check the requirements is [https://visacentral.sg/](https://visacentral.sg/){:target="_blank"}. I often find some of the best information is available on the airline websites.
+One of many places you can check the requirements is [CIBT Visa Central](https://visacentral.sg/){:target="_blank"}.
 
-There are lots of YouTube videos which explain what you will need. Here is [one of many such videos](https://www.youtube.com/watch?v=kirFQzsv_VI){:target="blank_"} I found with a quick search. 
+Here is [one of many YouTube videos](https://www.youtube.com/watch?v=kirFQzsv_VI){:target="blank_"} which explain the visa requirements. This is video is produced by [iVisa](https://ivisatravel.com/){:target="blank_"}, which is a competitor to CIBT.
 
 Vietnam wants you to visit and spend money, so none of this hard. Just make sure to take care of it ahead of time.
 
@@ -113,6 +113,10 @@ Vietnam wants you to visit and spend money, so none of this hard. Just make sure
 The course will be presented in English.
 
 It is possible to create a bi-lingual version of the course if one of the sponsoring companies is willing to help out with the translation efforts. I have done [something similar in Spanish]({{site.baseurl}}/clp/sp_global/){:target="_blank"}.
+
+# Meals
+
+Lunch is included in the price of the course.
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/danang-vietnam-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 18-20: Get Tickets</a>
 
