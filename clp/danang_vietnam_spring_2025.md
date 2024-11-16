@@ -37,13 +37,13 @@ trainingevent:
 
 Do you want to **learn more about LeSS**? Do you enjoy **luxury beach resorts**? Do you like **great value** for your money? The Da Nang Certified LeSS Practitioner course delivers all three!
 
-For everyone in Vietnam who has been asking for a CLP course, your ask has been answered. The Da Nang area offers:
+For everyone in Vietnam who has been asking for a CLP course, I have one for you. This course in Da Nang area offers:
 
 * Amazing beaches;
 * Better hotel room prices than Hanoi or Ho Chi Minh City;
-* [Direct flights](https://www.flightconnections.com/flights-from-da-nang-dad){:target="_blank"} from many locations within South East Asia, including most larger cities within Vietnam;
+* [Direct flights](https://www.flightconnections.com/flights-from-da-nang-dad){:target="_blank"} from many locations within Southeast Asia, including most larger cities within Vietnam;
 * Accessible [via train](https://www.seat61.com/Vietnam.htm){:target="_blank"} and air within Vietnam; and
-* Resonable ticket prices while still achieving lower minimum student count thresholds due to lower event space costs.
+* Resonable ticket prices.
 
 
 # Video Introduction
@@ -63,26 +63,25 @@ Expected Venues:
 
 * [Shilla Monogram Quangnam Danang](https://www.shillamonogram.com/dnmg/index.do?lang=en){:target="_blank"}
 
-* [VinPearl From Beach](https://vinpearl.com/en/hotels/vinpearl-resort-golf-nam-hoi-an){:target="_blank"}
+* [VinPearl Resort & Golf Nam Hoi An](https://vinpearl.com/en/hotels/vinpearl-resort-golf-nam-hoi-an){:target="_blank"}
 
 I will not formally bind the event hotel space contract until enough people have signed up for the course to exit pre-registration. Once that happens I will concurrently lock-in the venue and process all credit cards on file. 
 
 I have detailed event venue pricing information from both of the hotels above. Each of these are large enough to have multiple event spaces capable of supporting the class. 
 
-If for whatever reason both of these venues fall through, there are lots of similar 5 star luxury beach resorts next to them.
-
-## Every Luxury Beach Resort Is Nice
+If for whatever reason both of these venues fall through, there are several similar 5-star luxury beach resorts near them.
 
 ![Shilla Monogram Infinity Pool](/assets/images/clp/danang/shillamonogram_infinity_pool.jpg)
 
 ![Shilla Monogram Seating Area](/assets/images/clp/danang/shillamonogram_seating_area.jpg)
 
-![VinPearl From Beach](/assets/images/clp/danang/vinpearl_from_beach.jpg){:target="_blank"}.
+![VinPearl From Beach](/assets/images/clp/danang/vinpearl_from_beach.jpg){:target="_blank"}
+
+The preferred options above are just two of the luxury event hotels in the area.
 
 * The first two photos above are from the [Shilla Monogram Quangnam Danang](https://www.shillamonogram.com/dnmg/index.do?lang=en){:target="_blank"}.
 * The third photo is from the [Vinpearl Resort & Golf Nam Hoi An](https://vinpearl.com/en/hotels/vinpearl-resort-golf-nam-hoi-an){:target="_blank"}.
 
-The preferred options above are just two of the luxury event hotels in the area. At this level every hotel is very nice. In Da Nang most of them are decently priced so long as you stay away from the extreme outliers.
 
 
 # Travel Logistics
@@ -97,7 +96,7 @@ The preferred options above are just two of the luxury event hotels in the area.
      - HCMC <->Danang: USD$85 (2,154,750 VND) round-trip economy
      - Hanoi <->Danang: USD$102 (2,585,700 VND) round-trip economy
 
-* The resort hotels typically provide transportation to/from the airport. When purchasing your hotel room, you will likely see an option to include an airport transfer in the room fee. The Da Nang aiport (DAD) and train station are very close to each other and presumably handed by the same fee.
+* The resort hotels typically provide transportation to/from the airport. When purchasing your hotel room, you will likely see an option to include an airport transfer in the room fee. The Da Nang aiport (DAD) and train station are very close to each other and presumably billed the same as an airport transfer.
 
 # Electronic Visa
 
@@ -111,9 +110,9 @@ Vietnam wants you to visit and spend money, so none of this hard. Just make sure
 
 # Language
 
-The course will likely be presented entirely in English. 
+The course will be presented in English.
 
-It is possible to create a bi-lingual version of the course as long as one of the sponsoring companies is willing to help out with the translation efforts. I have done [something similar in Spanish]({{site.baseurl}}/clp/sp_global/){:target="_blank"}.
+It is possible to create a bi-lingual version of the course if one of the sponsoring companies is willing to help out with the translation efforts. I have done [something similar in Spanish]({{site.baseurl}}/clp/sp_global/){:target="_blank"}.
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/danang-vietnam-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 18-20: Get Tickets</a>
 
