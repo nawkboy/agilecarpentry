@@ -127,6 +127,16 @@ With enough people, I should be able to keep the price to USD$2299/person.
 
 After currency conversion you will find USD$2299/person to be on the lower end of public CLP course prices globally, including those elsewhere within Asia. 
 
+# Electronic Visa
+
+Vietnam has visa on arrival for some countries, and requires an electronic submission ahead of time for others.
+
+One of many places you can check the requirements is [CIBT Visa Central](https://visacentral.sg/){:target="_blank"}.
+
+Here is [one of many YouTube videos](https://www.youtube.com/watch?v=kirFQzsv_VI){:target="blank_"} which explain the visa requirements. This is video is produced by [iVisa](https://ivisatravel.com/){:target="blank_"}, which is a competitor to CIBT.
+
+Vietnam wants you to visit and spend money, so none of this hard. Just make sure to take care of it ahead of time.
+
 # Language
 
 The course will likely be presented entirely in English. 
