@@ -43,7 +43,7 @@ For everyone in Vietnam who has been asking for a CLP course, I have one for you
 * Better hotel room prices than Hanoi or Ho Chi Minh City;
 * [Direct flights](https://www.flightconnections.com/flights-from-da-nang-dad){:target="_blank"} from many locations within Southeast Asia, including most larger cities within Vietnam;
 * Accessible [via train](https://www.seat61.com/Vietnam.htm){:target="_blank"} and air within Vietnam; and
-* Resonable ticket prices.
+* Reasonable ticket prices.
 
 
 # Video Introduction
