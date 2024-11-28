@@ -71,6 +71,8 @@ I have detailed event venue pricing information from both of the hotels above. E
 
 If for whatever reason both of these venues fall through, there are several similar 5-star luxury beach resorts near them.
 
+With an increasing amount of interest from within the Da Nang engineering community, I will try to select a 5-star luxury beach resort which is closer to the Da Nang airport and downtown if possible. This won't matter for people who are traveling, but it will for local attendees who wish to sleep at home each night.
+
 ![Shilla Monogram Infinity Pool](/assets/images/clp/danang/shillamonogram_infinity_pool.jpg)
 
 ![Shilla Monogram Seating Area](/assets/images/clp/danang/shillamonogram_seating_area.jpg)
