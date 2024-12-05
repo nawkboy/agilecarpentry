@@ -122,9 +122,13 @@ It is possible to create a bi-lingual version of the course if one of the sponso
 
 Lunch is included in the price of the course.
 
-# Course Poster
+# Course Posters
 
-Please consider printing [this poster]({{site.baseurl}}/assets/pdfs/DaNangCLP_Spring_2025_NonLocalPoster.pdf){:target="_blank"} and placing it in your office kitchen, elevator, or other appropriate location to help drive awarness of the course.
+Please consider printing one of the course posters and placing it in your office kitchen, elevator, or other appropriate location to help drive awarness of the course.
+
+* [English Poster]({{site.baseurl}}/assets/pdfs/DaNangCLP_Spring_2025_NonLocalPoster.pdf){:target="_blank"}
+* [Vietnamese Poster]({{site.baseurl}}/assets/pdfs/DaNangCLP_Spring_2025_NonLocalPosterInVietnamese.pdf){:target="_blank"}
+
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/danang-vietnam-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 18-20: Get Tickets</a>
 

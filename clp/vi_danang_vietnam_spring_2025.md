@@ -118,8 +118,11 @@ Có thể tạo phiên bản song ngữ của khóa học nếu một trong nh�
 
 Bữa trưa được bao gồm trong giá của khóa học.
 
-# Poster khóa học
+# Áp phích khóa học
 
-Vui lòng cân nhắc in [poster này]({{site.baseurl}}/assets/pdfs/DaNangCLP_Spring_2025_NonLocalPoster.pdf){:target="_blank"} và đặt trong bếp văn phòng, thang máy hoặc vị trí thích hợp khác để giúp nâng cao nhận thức về khóa học.
+Vui lòng cân nhắc in một trong những áp phích khóa học và đặt trong bếp văn phòng, thang máy hoặc địa điểm thích hợp khác để giúp nâng cao nhận thức về khóa học.
+
+* [Áp phích tiếng Anh]({{site.baseurl}}/assets/pdfs/DaNangCLP_Spring_2025_NonLocalPoster.pdf){:target="_blank"}
+* [Áp phích tiếng Việt]({{site.baseurl}}/assets/pdfs/DaNangCLP_Spring_2025_NonLocalPosterInVietnamese.pdf){:target="_blank"}
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/danang-vietnam-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">18-20 tháng 2: Nhận vé</a>
