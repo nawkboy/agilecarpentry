@@ -31,6 +31,8 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
+[Nhấp vào đây để xem mô tả bằng tiếng Anh]({{site.baseurl}}/clp/vi_danang_vietnam_spring_2025/)
+
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/danang-vietnam-certified-less-practitioner-spring-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">February 18-20: Get Tickets</a>
 
 # Learn LeSS While Enjoying A Luxury Beach Resort
