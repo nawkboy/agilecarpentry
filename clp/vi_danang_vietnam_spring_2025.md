@@ -20,7 +20,7 @@ trainingevent:
     - /assets/images/clp/CLP_Event_4_3_aspect_ratio.png
     - /assets/images/clp/CLP_Event_16_9_aspect_ratio.png
   description: >
-   The Certified LeSS Practitioner course is an in-depth course covering the LeSS principles, framework and rules, and guides. It provides essential information for adopting and improving LeSS to your product development group. The course contains an overview of LeSS, stories on LeSS adoptions, exercises and extensive LeSS Q&A to ensure we discuss the topics most of interest to the participants.
+   Khóa học Certified LeSS Practitioner là khóa học chuyên sâu bao gồm các nguyên tắc, khuôn khổ và quy tắc, cũng như hướng dẫn của LeSS. Khóa học cung cấp thông tin cần thiết để áp dụng và cải thiện LeSS cho nhóm phát triển sản phẩm của bạn. Khóa học bao gồm tổng quan về LeSS, các câu chuyện về việc áp dụng LeSS, các bài tập và phần Hỏi & Đáp về LeSS mở rộng để đảm bảo chúng ta thảo luận về các chủ đề mà người tham gia quan tâm nhất.
   trainer: "James Carpenter"
   offer:
     ticketUrl: "https://agilecarpentry.ticketspice.com/danang-vietnam-certified-less-practitioner-spring-2025"
