@@ -42,7 +42,7 @@ Please see the _Training Venue Details_ section for more logistical details.
 {% include_relative _includes/course_agenda.md %}
 
 
-# Tentative Training Venue Details
+# Tentative: Training Venue Details
 
 The course is being hosted directly on the DFW airport campus at the Hyatt Regency DFW.
 
