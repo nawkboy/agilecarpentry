@@ -8,11 +8,11 @@ trainingevent:
   startDate: "2025-02-04T08:30-05:00"
   endDate: "2025-02-06T18:00-05:00"
   location:
-    name: "TBD"
+    name: "Hyatt Regency DFW"
     address:
-      streetAddress: "TBD"
+      streetAddress: "2334 N International Pkwy"
       addressLocality: "Dallas"
-      postalCode: "76051"
+      postalCode: "75261"
       addressRegion: "TX"
       addressCountry: "US"
   images:
