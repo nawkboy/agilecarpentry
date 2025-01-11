@@ -39,6 +39,8 @@ Tentative: The course will be hosted at the [Hyatt Regency DFW Airport](https://
 
 Please see the _Training Venue Details_ section for more logistical details.
 
+# Introductory Video
+
 {% include_relative _includes/course_agenda.md %}
 
 
