@@ -35,7 +35,7 @@ trainingevent:
 
 # Venue Update
 
-Tentative: The course will be hosted at the [Hyatt Regency DFW Airport](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport){:target="_blank"}, which is at Terminal C on-campus at the DFW airport.
+The course will be hosted at the [Hyatt Regency DFW Airport](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport){:target="_blank"}, which is at Terminal C on-campus at the DFW airport.
 
 Please see the _Training Venue Details_ section for more logistical details.
 
@@ -44,7 +44,7 @@ Please see the _Training Venue Details_ section for more logistical details.
 {% include_relative _includes/course_agenda.md %}
 
 
-# Tentative: Training Venue Details
+# Training Venue Details
 
 The course is being hosted directly on the DFW airport campus at the Hyatt Regency DFW.
 
