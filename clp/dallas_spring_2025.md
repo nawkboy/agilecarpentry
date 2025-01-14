@@ -74,7 +74,10 @@ The second hotel is the newer 4.5 star [Hyatt Grand DFW](https://www.hyatt.com/g
 
 I have personally had a pleasant, restful experience at both hotels. While airport hotels are seldom exciting, they are certainly convenient.
 
-The Hyatt Regency DFW is providing a discounted price of $215/night for the first 8 participants. To obtain this discount, please use discount code ??? when booking your hotel room.
+The Hyatt Regency DFW is providing a discounted price of $215/night for the first 8 participants. To access this special room rate you will need to send an email to [Ashley Ward](mailto:ashley.ward@hyatt.com?subject=Certified%20LeSS%20Practitioner%20Course:%20Room%20Reservation%20For%20Feb%203%20to%20Feb%207%20hotel%20room%20needed). Ashley is the event sales manager at the Hyatt Regency DFW. 
+
+As I write this, the advance purchase price listed on the Hyatt Regency DFW website for a King bedroom is only $239/night, so the additional savings might not be worth the hassle required to access it. On the other hand, if the publicly listed prices become much higher, knowing you can reach out to Ashley for the $215/night rate could prove very useful.
+
 
 ## Navigating DFW Airport On Foot
 
@@ -95,6 +98,8 @@ Although there are signs marking the walking path from terminal C to the Hyatt R
 The newer Hyatt Grand is far better integrated into the airport than the older Hyatt Regency. The elevator for the Hyatt Grand opens a few steps away from the TSA security area in Terminal D. The hotel lobby is just one floor above the departure level.
 
 When departing for your flight Friday morning, your elevator ride experience will be a bit unusual. You will step into the elevator from a sleepy quiet hallway with people resting in their hotel rooms, push the button for departure level, and then be suddenly jarred awake as the elevator doors open to reveal the cacophony of airport security lines.
+
+Traveling between the Hyatt Grand DFW and the Hyatt Regency DFW is best done by calling the Hyatt Regency DFW shuttle. The two hotels work fairly closely with each other, so don't be afraid to ask either one for help on how to get to the other.
 
 ## Amtrak
 
