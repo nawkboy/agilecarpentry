@@ -1,7 +1,8 @@
 ---
 title: Dallas/Fort Worth Certified LeSS Practitioner Course Spring 2025
 image: /assets/images/clp/DallasCLPWebsitePageHeaderFeb4_6_2025.png
-ogimage: /assets/images/clp/DallasCLPWebsitePageHeaderNoDatesOgImageSpring2025.png
+#ogimage: /assets/images/clp/DallasCLPWebsitePageHeaderNoDatesOgImageSpring2025.png
+ogimage: /assets/images/clp/DallasCLPWebsitePageHeaderFeb4to6OgImageWithDFWAirport.png
 author: James
 layout: book
 trainingevent:
