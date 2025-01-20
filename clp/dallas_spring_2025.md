@@ -67,7 +67,7 @@ The meeting rooms in the executive conference level at the Hyatt Regency have go
 
 ## DFW Airport On-Campus Hotel Options
 
-There are two hotels on the [DFW airport](https://www.dfwairport.com/){:target="_blank"} campus. Both are walkable to the event space. 
+There are two hotels on the [DFW airport](https://www.dfwairport.com/){:target="_blank"} campus.
 
 The first hotel is the original 4 star [Hyatt Regency DFW Airport](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport){:target="_blank"} hotel in which the event is being hosted. The Hyatt Regency is located at Terminal C.
 
