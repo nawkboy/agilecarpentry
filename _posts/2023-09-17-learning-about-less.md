@@ -29,9 +29,24 @@ Reference style arrangement of _LeSS framework_ information using a large overvi
 
 * [LeSS Version of Scrum Guide](https://less.works/less/scrum-guide){:target="_blank"}: As newer versions of the official Scrum Guide have been released, the articulation and arguably the intent has drifted. In an effort to avoid confusion within the LeSS community, a LeSS Version of the Scrum Guide has recently been published.
 
+# LeSS Related Videos
+
+For those who prefer learning from videos, here are a few good places to start. 
+
+The short-form written content above is probably a better way for most people to gain an initial high-level overview of LeSS. This is especially true of the [Why LeSS](https://less.works/less/framework/why-less){:target="_blank"} article. Most of the audio and video content below tends to be narrowly focused on specific topics.
+
+* [LeSS Website Videos Page](https://less.works/videos){:target="_blank"}: A variety of short videos about LeSS. This page is new and is expected to have additional content over time.
+
+* [Business Resilience](https://less.works/business-resilience/what-is-less){:target="_blank"}: The Business Resilience page has a podcast and other content regarding LeSS adoptions from a business perspective. This page is new and is very likely to improve over time.
+
+* [Agile Carpentry YouTube Channel](https://www.youtube.com/@agilecarpentry){:target="_blank"}: A few short videos by Gene Gendel and I discussing various LeSS related topics is the main focus here. There is also an audio recording of my LeSS case study, and video recordings of past presentations of mine.
+
+* [LeSS Company YouTube Channel](https://www.youtube.com/@lessworks){:target="_blank"}: The original venue for LeSS Company curated videos about LeSS. This includes recordings of various LeSS conference presentations. I expect much of this will eventually be moved over to the new videos section of the LeSS website.
+
+
 # Long-Form Reading
 
-When you are ready to settle down for a deep dive into LeSS, the long-form narative structure of a book is often best.
+When you are ready to settle down for a deep dive into LeSS, the long-form narrative structure of a book is often best.
 
 * [Book 3: Large-Scale Scrum: More with LeSS  (2015)](https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710){:target="_blank"}:
 This is the 3rd LeSS book. It provides a better high-level overview of LeSS than the first two books. The LeSS "Guides" are all found in this book. In retrospect, this is perhaps the book Craig and Bas should have written first.
