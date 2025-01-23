@@ -104,7 +104,7 @@ Traveling between the Hyatt Grand DFW and the Hyatt Regency DFW is best done by 
 
 ## Amtrak
 
-Amtrak can be a viable option for traveling to the event for those living along [Amtrak's Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"} train. This could be a practical option for those coming from San Antonio, Austin, or Little Rock. An overnight trip in a sleeping cabin to Chicago is doable, just slow.
+Amtrak can be a viable option for traveling to the event for those living along [Amtrak's Texas Eagle](https://www.amtrak.com/texas-eagle-train){:target="_blank"} train. This could be a practical option for those coming from San Antonio, Austin, or Little Rock. An overnight trip in a sleeping cabin from or to Chicago is doable, just slow.
 
 For those in Oklahoma, the [Heartland Flyer](https://www.amtrak.com/heartland-flyer-train){:target="_blank"} might be a reasonable option.
 
