@@ -44,7 +44,7 @@ The Amtrak website can be a bit clunky to navigate. The following links can be h
 ## Summary of Mid-West Train Options To Chicago
 
 * Milwaukee, WI (MKE): [Hiawatha](https://amtrakhiawatha.com/amtrak/schedules.php){:target="_blank"}
-* St. Paul Minneapolis, MN (MSP): [Empire Builder](https://www.amtrak.com/routes/empire-builder-train.html){:target="_blank"}
+* St. Paul Minneapolis, MN (MSP): [Empire Builder](https://www.amtrak.com/routes/empire-builder-train.html){:target="_blank"}, [Borealis](https://www.amtrak.com/routes/borealis-train.html){:target="_blank"}
 * Grand Rapids, MI (GRR): [Pere Marquette](https://amtrakguide.com/routes/pere-marquette/){:target="_blank"}
 * Detroit, MI (DET): [Wolverine](https://amtrakguide.com/routes/wolverine/){:target="_blank"}
 * Cleveland, OH (CLE): [Lake Shore Limited](https://www.amtrak.com/lake-shore-limited-train){:target="_blank"} and [Capital Limited](https://www.amtrak.com/capitol-limited-train){:target="_blank"}
