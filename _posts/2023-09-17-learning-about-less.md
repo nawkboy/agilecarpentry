@@ -89,4 +89,5 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 # Upcoming Public Courses
 
 * [Dallas Certified LeSS Practitioner on February 4-6]({{site.baseurl}}/clp/dallas_spring_2025/){:target="_blank"}
+* [Chicago Certified LeSS Practitioner on June 10-12]({{site.baseurl}}/clp/chicago_summer_2025/){:target="_blank"}
 

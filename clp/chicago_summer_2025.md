@@ -1,12 +1,12 @@
 ---
-title: Chicago Certified LeSS Practitioner June 3-5, 2025
+title: Chicago Certified LeSS Practitioner June 10-12, 2025
 image: /assets/images/clp/ChicagoCLPWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderJune3to5_OgImage.png
+ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderJune10to12_OgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-06-03T08:30-06:00"
-  endDate: "2025-06-05T18:00-06:00"
+  startDate: "2025-06-10T08:30-06:00"
+  endDate: "2025-06-12T18:00-06:00"
   location:
     name: "TBD"
     address:
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 3-5: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 10-12: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -62,24 +62,32 @@ See the following pages for additional travel details:
 
 # Training Venue Details
 
-I fully expect the venue to be in the downtown Chicago area. This will ensure you can easily reach the venue from either airport on the L train without requiring an expensive taxi or sedan ride. 
+I have reserved a hospitality suite at [theWit Chicago](https://thewithotel.com/){:target="_blank"}, 201 N. State Street, Chicago IL 60601. 
 
-If you are instead traveling via Amtrak, you will arrive downtown at Amtrak Union Station. This will put you within a short walk, short L train ride, or a five minute Uber ride of any venue within the the downtown area.
+The hospitality suite will provide enough event capacity to support the first five or six attendees, at which point I will cancel the hospitality suite and book a larger nearby event space.
 
-Based on previous event venue research, I expect the nicest venues with the best meeting space and hotel room pricing will be found near the northern end of the loop, or somewhere along the magnificant mile.
+There is a significant chance any larger event space will be outside of TheWit. I therefore suggest you ensure any hotel reservations you make at TheWit can be canceled without penalty. 
 
-Safety is an important concern in any major city, Chicago is no exception. Rest assured I will only pick areas and venues in which my wife would feel safe.
+Hotel room prices in downtown Chicago are going up quickly. Therefore, it still makes sense to reserve your hotel room early, just make sure you can cancel and relocate if needed.
+
+TheWit has some very nice windowed event spaces, which are much better than the dark windowless event spaces found in a lot of the other 4 and 5 star Chicago hotels. If all goes well, larger event space will still be available at TheWit by the time I am able to justify contractly binding it. If not, there are a large number of backup options.
+
+Taking the Blue Line on the elevated train from Chicago O'Hare Airport (ORD) to the Clark/Lake station will put you within two blocks of TheWit Hotel.
+
+If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Station. This will put you within a long walk, short L train ride, or a five minute Uber ride of TheWit.
 
 
 # Meals
 
-Lunch will be provided. There is a good chance we will walk to lunch at pre-arranged table service restaurants. This will provide a better social experience for everyone, and allow us to spend some time outside of the event space.
+Lunch will be arranged, but will not necessarily included in the price of course until it becomes viable to do so. This helps to ensure I can run the course at as low of a break-even attendee threshold as possible.
 
-Evening dinners are not included in the cost of the course. During class, I suspect we will end up organizing evening dinners most nights.
+We will most likely be walking to pre-arranged lunches at nearby table service restaurants. This will provide a better social experience for everyone, and allow us to spend some time outside of the event space.
+
+Most people in attendance tend to be traveling on company expense reports. The ability to provide assurance the course will reach viablity sooner tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 3-5: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 10-12: Get Tickets</a>
 
 
 
