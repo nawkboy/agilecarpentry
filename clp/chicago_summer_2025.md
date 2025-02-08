@@ -64,26 +64,26 @@ See the following pages for additional travel details:
 
 I have reserved a hospitality suite at [theWit Chicago](https://thewithotel.com/){:target="_blank"}, 201 N. State Street, Chicago IL 60601. 
 
-The hospitality suite will provide enough event capacity to support the first five or six attendees, at which point I will cancel the hospitality suite and book a larger nearby event space.
+The hospitality suite will provide enough capacity to support the first five or six attendees, at which point I will cancel the hospitality suite and book a larger event space nearby.
 
-There is a significant chance any larger event space will be outside of TheWit. I therefore suggest you ensure any hotel reservations you make at TheWit can be canceled without penalty. 
+There is a significant chance any larger event space will be outside of theWit. I therefore suggest you ensure any hotel reservations you make at theWit can be canceled without penalty. 
 
-Hotel room prices in downtown Chicago are going up quickly. Therefore, it still makes sense to reserve your hotel room early, just make sure you can cancel and relocate if needed.
+Hotel room prices in downtown Chicago are rising quickly. Therefore, it makes sense to reserve your hotel room early, just make sure you can cancel and relocate if needed.
 
-TheWit has some very nice windowed event spaces, which are much better than the dark windowless event spaces found in a lot of the other 4 and 5 star Chicago hotels. If all goes well, larger event space will still be available at TheWit by the time I am able to justify contractly binding it. If not, there are a large number of backup options.
+TheWit has some very nice windowed event spaces, which are much better than the dark event spaces found in a lot of the other 4-star and 5-star Chicago hotels. If all goes well, larger event space will still be available at theWit by the time I am able to justify contractually binding it. If not, there are backup options.
 
-Taking the Blue Line on the elevated train from Chicago O'Hare Airport (ORD) to the Clark/Lake station will put you within two blocks of TheWit Hotel.
+Taking the Blue Line on the elevated train from Chicago O'Hare Airport (ORD) to the Clark/Lake station will put you within two blocks of theWit Hotel.
 
-If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Station. This will put you within a long walk, short L train ride, or a five minute Uber ride of TheWit.
+If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Station. This will put you within a long walk, short L train ride, or a five minute Uber ride of theWit.
 
 
 # Meals
 
-Lunch will be arranged, but will not necessarily included in the price of course until it becomes viable to do so. This helps to ensure I can run the course at as low of a break-even attendee threshold as possible.
+Lunch will be arranged, but will not necessarily be included in the price of course until it becomes viable to do so. This helps to assure that I can run the course at as low of a break-even attendee threshold as possible.
 
 We will most likely be walking to pre-arranged lunches at nearby table service restaurants. This will provide a better social experience for everyone, and allow us to spend some time outside of the event space.
 
-Most people in attendance tend to be traveling on company expense reports. The ability to provide assurance the course will reach viablity sooner tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
+Participant feedback indicates that the ability to provide assurance the course will reach viablity sooner, tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
 
 # Tickets
 
