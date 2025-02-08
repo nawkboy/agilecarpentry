@@ -83,7 +83,7 @@ Lunch will be arranged, but will not necessarily be included in the price of cou
 
 We will most likely be walking to pre-arranged lunches at nearby table service restaurants. This will provide a better social experience for everyone, and allow us to spend some time outside of the event space.
 
-Participant feedback indicates that the ability to provide assurance the course will reach viablity sooner, tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
+Participant feedback indicates that the ability to provide assurance the course will reach viability sooner, tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
 
 # Tickets
 
