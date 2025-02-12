@@ -57,7 +57,7 @@ I have reserved a hospitality suite at the [Swan Hotel](https://swandolphin.com/
 
 The Swan (Westin), Dolphin (Sheraton), and Reserve (Autograph Collection) hotel complex is extremely well located within Disney World, while still having hotel room prices which remain respectful of company expense policies. They are included in the [Extended Evening Theme Park Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"} program, just like the Disney owned "Deluxe" hotels.
 
-Some of the Disney owned "Deluxe" hotels such as the [Grand Floridian](https://disneyworld.disney.go.com/resorts/grand-floridian-resort-and-spa/){:target="_blank"} are better placed for visiting the Magic Kingdom park. Yet, the nightly prices are far outside of most expense policies. The [Disney World Transportation Map](https://magicguides.com/disney-world-transportation-map/){:target="_blank"} provides a good overview of how to travel within the various parks within Disney World.
+Some of the Disney owned "Deluxe" hotels such as the [Grand Floridian](https://disneyworld.disney.go.com/resorts/grand-floridian-resort-and-spa/){:target="_blank"} are better placed for visiting the Magic Kingdom park. Yet, the nightly prices are far outside of most expense policies. The [Disney World Transportation Map](https://magicguides.com/disney-world-transportation-map/){:target="_blank"} provides a good overview of how to travel between the various areas within Disney World.
 
 ## Relocation Strategy
 
