@@ -53,7 +53,7 @@ Here are a few useful logistics links regarding getting to Disney World.
 
 # Training Venue Details
 
-I have reserved a large hospitality suite at the [Signa by Hilton Orlando Bonnet Creek Hotel](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/){:target="_blank"} in which to host the course. The hotel address is 14100 Bonnet Creek Resort Ln, Orlando, FL, 32821.
+I have reserved a hospitality suite at the [Signa by Hilton Orlando Bonnet Creek Hotel](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/){:target="_blank"} in which to host the course. The hotel address is 14100 Bonnet Creek Resort Ln, Orlando, FL, 32821.
 
 The Signa is an Official DisneyWorld Hotel, with regular [shuttle service to the Disney World](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/disney/){:target="_blank"}, as well as [Early Theme Park Entry](https://disneyworld.disney.go.com/guest-services/early-entry/){:target="_blank"}.
 
@@ -65,13 +65,13 @@ I suggest you book your hotel room early to secure a better price, while making 
 
 # Shoulder Booking To Visit Disney World
 
-I expect many attendees will decide to extend their stay through the weekend so they can spend some time at [Disney World](https://disneyworld.disney.go.com/){:target="_blank"} and/or [Universal Studios](https://www.universalorlando.com/){:target="_blank"}. This is why I scheduled the course at the beginning of the week, rather than mid-week.
+I expect some of you will decide to stay through the weekend so you can spend some time at [Disney World](https://disneyworld.disney.go.com/){:target="_blank"} and/or [Universal Studios](https://www.universalorlando.com/){:target="_blank"}. This is why I scheduled the course at the beginning of the week, rather than mid-week.
 
-Alhough the Signa is a very nice [Official Walt Disney World Hotel](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/disney/){:target="_blank"}, guests do not have access to the [Extended Evening Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"} enjoyed by guests of the extremely expensive "Deluxe" category of Disney owned hotels. But, the Marriott operated [Swan (Westin), Dolphin (Sheraton), and Reserve (Autograph)](https://swandolphin.com/){:target="_blank"} hotels do!
+Alhough the Signa is a very nice [Official Walt Disney World Hotel](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/disney/){:target="_blank"}, guests do not have access to the [Extended Evening Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"}.
 
-I suggest staying at the [Signa by Hilton Orlando Bonnet Creek](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/){:target="_blank"} from Sunday night to Wednesday morning when attending the course.
+I suggest staying at the [Signa by Hilton Orlando Bonnet Creek](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/){:target="_blank"} from Sunday night to Wednesday morning while attending the course.
 
-From Wednesday night onwards, you may wish to consider shifting to the [Swan (Westin), Dolphin (Sheraton), or Reserve (Autograph)](https://swandolphin.com/){:target="_blank"}, or splurging on one of the [Disney Deluxe](https://disneyworld.disney.go.com/resorts/#/deluxe){:target="_blank"} hotels from Wednesday night onwards. This will put you slightly closer to the Walt Disney World parks, and most importantly will grant you access to [Extended Evening Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"} at the Disney parks.
+From Wednesday night onwards, you may wish to consider relocating to the [Swan (Westin), Dolphin (Sheraton), or Reserve (Autograph)](https://swandolphin.com/){:target="_blank"}, or splurging on one of the [Disney Deluxe](https://disneyworld.disney.go.com/resorts/#/deluxe){:target="_blank"} hotels from Wednesday night onwards. This will put you slightly closer to the Walt Disney World parks, and most importantly will grant you access to [Extended Evening Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"} at the Disney parks.
 
 The [Disney World Transportation Map](https://magicguides.com/disney-world-transportation-map/){:target="_blank"} shows the relative locations of the various hotels to the Disney World parks (Magic Kingdom, Epcot, Hollywood Studios, Animal Kingdom, and Typhoon Lagoon).
 
