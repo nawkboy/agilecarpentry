@@ -31,15 +31,15 @@
   image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
   link: /blog/billions-in-risk-avoidance/
 
-#- title: Orlando CLP Fall 2025
-#  category: Events
-#  image: /assets/images/clp/clp-orlando-fall-2025-portfolio.png
-#  link: /clp/orlando_fall_2025/
+- title: Orlando CLP Fall 2025
+  category: Events
+  image: /assets/images/clp/clp-orlando-fall-2025-portfolio.png
+  link: /clp/orlando_fall_2025/
 
-- title: Deriving LeSS
-  category: LeSS
-  image: /assets/images/portfolio/deriving-less-article-header.png
-  link: /blog/deriving-less/
+#- title: Deriving LeSS
+#  category: LeSS
+#  image: /assets/images/portfolio/deriving-less-article-header.png
+#  link: /blog/deriving-less/
 
 - title: Where would you like a public Certified LeSS Practitioner course?
   category: LeSS
