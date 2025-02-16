@@ -71,7 +71,7 @@ Alhough the Signa is a very nice [Official Walt Disney World Hotel](https://www.
 
 I suggest staying at the [Signa by Hilton Orlando Bonnet Creek](https://www.hilton.com/en/hotels/orlhhsa-signia-by-hilton-orlando-bonnet-creek/){:target="_blank"} from Sunday night to Wednesday morning while attending the course.
 
-From Wednesday night onwards, you may wish to consider relocating to the [Swan (Westin), Dolphin (Sheraton), or Reserve (Autograph)](https://swandolphin.com/){:target="_blank"}, or splurging on one of the [Disney Deluxe](https://disneyworld.disney.go.com/resorts/#/deluxe){:target="_blank"} hotels from Wednesday night onwards. This will put you slightly closer to the Walt Disney World parks, and most importantly will grant you access to [Extended Evening Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"} at the Disney parks.
+From Wednesday night onwards, you may wish to consider relocating to the [Swan (Westin), Dolphin (Sheraton), or Reserve (Autograph)](https://swandolphin.com/){:target="_blank"}, or splurging on one of the [Disney Deluxe](https://disneyworld.disney.go.com/resorts/#/deluxe){:target="_blank"} hotels. This will put you slightly closer to the Walt Disney World parks, and most importantly will grant you access to [Extended Evening Hours](https://disneyworld.disney.go.com/guest-services/extended-evening/){:target="_blank"} at the Disney parks.
 
 The [Disney World Transportation Map](https://magicguides.com/disney-world-transportation-map/){:target="_blank"} shows the relative locations of the various hotels to the Disney World parks (Magic Kingdom, Epcot, Hollywood Studios, Animal Kingdom, and Typhoon Lagoon).
 
