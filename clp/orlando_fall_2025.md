@@ -1,7 +1,9 @@
 ---
 title: Orlando Certified LeSS Practitioner October 27-29, 2025
-image: /assets/images/clp/OrlandoCLPWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/OrlandoCLPWebsitePageHeaderOct27to29_OgImage.png
+#image: /assets/images/clp/OrlandoCLPWebsitePageHeaderNoDates.png
+#ogimage: /assets/images/clp/OrlandoCLPWebsitePageHeaderOct27to29_OgImage.png
+image: /assets/images/clp/OrlandoCLPWebsitePageHeaderNoDatesAlt.png
+ogimage: /assets/images/clp/OrlandoCLPWebsitePageHeaderOct27to29_OgImage_Alt.png
 author: James
 layout: book
 trainingevent:

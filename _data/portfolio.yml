@@ -33,7 +33,8 @@
 
 - title: Orlando CLP Fall 2025
   category: Events
-  image: /assets/images/clp/clp-orlando-fall-2025-portfolio.png
+#  image: /assets/images/clp/clp-orlando-fall-2025-portfolio.png
+  image: /assets/images/clp/clp-orlando-fall-2025-portfolio-alt.png
   link: /clp/orlando_fall_2025/
 
 #- title: Deriving LeSS
