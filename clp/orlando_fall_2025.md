@@ -80,19 +80,9 @@ The [Disney World Transportation Map](https://magicguides.com/disney-world-trans
 
 # Discounted Disney World Tickets
 
-Walt Disney World is offering special discounted park tickets to attendees of the Orlando Certified LeSS Practioner course. In addition to the usual all-day tickets, this includes access to the following partial day park tickets:
+Walt Disney World is offering special discounted park tickets to attendees of the Orlando Certified LeSS Practioner course. In addition to the typical all-day tickets, there are special afternoon and twilight tickets not otherwise available.
 
-* After 1PM Park Ticket: Enjoy single-day admission to one theme park after 1 p.m.
-* Twilight Park Ticket: Enjoy single-day admission to one theme park after 5 p.m.
-
-
-### Disney Provided Specifics
-
-To purchase specially priced Walt Disney World® Meeting/Convention Theme Park tickets, [CLICK HERE](https://disneyevent.com/less2025){:target="_blank"} or call 407-566-5600 and provide group code G0858418. 
-
-Tickets are valid 7 days before, during, and 7 days after the meeting dates. To enter a park, both a park reservation and valid ticket on the same day are required. To make park reservations, you will need to sign-in to an existing Disney® Account or create a new one and link each ticket. Park reservations are subject to availability – please check the [Park Availability Calendar](https://disneyworld.disney.go.com/availability-calendar/?segments=tickets,resort,passholder&defaultSegment=tickets){:target="_blank"}. For details on making a park reservation, please visit [Disney Park Pass Experience Updates](https://disneyworld.disney.go.com/experience-updates/park-reservations/){:target="_blank"}. 
-
-Whether it’s your first visit or your 100th, we recommend reviewing the Walt Disney World® Resort [Experience Updates](https://disneyworld.disney.go.com/experience-updates/){:target="_blank"}. 
+The specifics to access these special park tickets are provided in the registration confirmation email. Please feel to [reach out via email](mailto:james@agilecarpentry.com){:target="_blank"} with any questions.
 
 # Meals
 
