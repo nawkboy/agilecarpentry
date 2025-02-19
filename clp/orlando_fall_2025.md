@@ -78,6 +78,22 @@ From Wednesday night onwards, you may wish to consider relocating to the [Swan (
 The [Disney World Transportation Map](https://magicguides.com/disney-world-transportation-map/){:target="_blank"} shows the relative locations of the various hotels to the Disney World parks (Magic Kingdom, Epcot, Hollywood Studios, Animal Kingdom, and Typhoon Lagoon).
 
 
+# Discounted Disney World Tickets
+
+Walt Disney World is offering special discounted park tickets to attendees of the Orlando Certified LeSS Practioner course. In addition to the usual all-day tickets, this includes access to the following partial day park tickets:
+
+* After 1PM Park Ticket: Enjoy single-day admission to one theme park after 1 p.m.
+* Twilight Park Ticket: Enjoy single-day admission to one theme park after 5 p.m.
+
+
+### Disney Provided Specifics
+
+To purchase specially priced Walt Disney World® Meeting/Convention Theme Park tickets, [CLICK HERE](https://disneyevent.com/less2025){:target="_blank"} or call 407-566-5600 and provide group code G0858418. 
+
+Tickets are valid 7 days before, during, and 7 days after the meeting dates. To enter a park, both a park reservation and valid ticket on the same day are required. To make park reservations, you will need to sign-in to an existing Disney® Account or create a new one and link each ticket. Park reservations are subject to availability – please check the Park Availability Calendar. For details on making a park reservation, please visit Disney Park Pass Experience Updates. 
+
+Whether it’s your first visit or your 100th, we recommend reviewing the Walt Disney World® Resort Experience Updates. 
+
 # Meals
 
 Lunch will be arranged, but will not necessarily be included in the price of the course until it becomes viable to do so. This helps to assure that I can run the course at as low of a break-even attendee threshold as possible.
