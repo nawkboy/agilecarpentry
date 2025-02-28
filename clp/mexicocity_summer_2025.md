@@ -13,7 +13,7 @@ trainingevent:
     address:
       streetAddress: "TBD"
       addressLocality: "Ciudad de México"
-      postalCode: "06600"
+      postalCode: "06500"
       addressRegion: "CDMX"
       addressCountry: "Mexico"
   images:
@@ -59,7 +59,7 @@ You can find more details about the [bilingual course strategy](https://agilecar
 
 # Training Venue Details
 
-I have reserved a hospitality suite at [Mexico City Marriott Reforma Hotel](https://www.marriott.com/en-us/hotels/mexmc-mexico-city-marriott-reforma-hotel/overview/){:target="_blank"}, Paseo de la Reforma 276 Col Juarez, Mexico City, Mexico, 06600.
+I have reserved a hospitality suite at [Sheraton Mexico City Maria Isabel Hotel](https://www.marriott.com/en-us/hotels/mexis-sheraton-mexico-city-maria-isabel-hotel/overview/){:target="_blank"}, Paseo de la Reforma 325 Col. Cuauhtémoc, Mexico City, Ciudad de Mexico, Mexico, 06500.
 
 The hospitality suite will provide enough capacity to support the first few attendees, at which point I will cancel the hospitality suite and book a larger event space nearby.
 

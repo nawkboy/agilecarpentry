@@ -13,7 +13,7 @@ trainingevent:
     address:
       streetAddress: "TBD"
       addressLocality: "Ciudad de México"
-      postalCode: "06600"
+      postalCode: "06500"
       addressRegion: "CDMX"
       addressCountry: "Mexico"
   images:
@@ -59,7 +59,7 @@ Puede encontrar más detalles sobre la [estrategia del curso bilingüe](https://
 
 # Detalles del lugar de la capacitación
 
-Reservé una suite de hospitalidad en [Mexico City Marriott Reforma Hotel](https://www.marriott.com/en-us/hotels/mexmc-mexico-city-marriott-reforma-hotel/overview/){:target="_blank"}, Paseo de la Reforma 276 Col Juarez, Ciudad de México, México, 06600.
+Reservé una suite de hospitalidad en [Sheraton Mexico City Maria Isabel Hotel](https://www.marriott.com/en-us/hotels/mexis-sheraton-mexico-city-maria-isabel-hotel/overview/){:target="_blank"}, Paseo de la Reforma 325 Col. Cuauhtémoc, Mexico City, Ciudad de Mexico, Mexico, 06500.
 
 La suite de hospitalidad brindará suficiente capacidad para albergar a los primeros asistentes, momento en el que cancelaré la suite de hospitalidad y reservaré un espacio para eventos más grande cerca.
 
