@@ -67,7 +67,7 @@ There is a significant chance any larger event space will be outside of the Marr
 
 Hotel room prices tend to rise quickly as the event date approaches. Therefore, it makes sense to reserve your hotel room early, just make sure you can cancel and relocate if needed.
 
-I have a strong preferrance for booking any additional event space at either the
+I have a strong preference for booking any additional event space at either the
 [Mexico City Marriott Reforma Hotel](https://www.marriott.com/en-us/hotels/mexmc-mexico-city-marriott-reforma-hotel/overview/){:target="_blank"}, or the
 [Sheraton Mexico City Maria Isabel Hotel](https://www.marriott.com/en-us/hotels/mexis-sheraton-mexico-city-maria-isabel-hotel/overview/){:target="_blank"}. Both of these hotels are a short walk from the Angel of Independence statue. This area has a large number of upscale hotels and restaurants, and provides a lot of options for places to go in the evenings.
 
