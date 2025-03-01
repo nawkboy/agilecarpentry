@@ -1,13 +1,14 @@
 ---
-title: Certified LeSS practitioner in Madrid 6/3/2024 - 6/5/2025 DUMMY DATES
-#image: /assets/images/clp/MexicoCityWebsitePageHeaderNoDates.png
-image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
+title: Certified LeSS practitioner in Madrid 6/24/2024 - 6/26/2025
+image: /assets/images/clp/MadridCityWebsitePageHeaderNoDates.png
+#image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 #image: /assets/images/clp/SpanishCLPPost.png
+ogimage: /assets/images/clp/MadridCLPWebsitePageHeaderJune24o26_OgImage.png
 Author: James
 layout: book
 trainingevent:
-  startDate: "2025-06-03T08:30-06:00"
-  endDate: "2025-06-05T18:00-06:00"
+  startDate: "2025-06-24T08:30+01:00"
+  endDate: "2025-06-26T18:00+01:00"
   location:
     name: "TBD"
     address:
@@ -35,7 +36,7 @@ trainingevent:
 [Leer la descripción del curso en español]({{site.url}}{{site.baseurl}}/clp/sp_madrid_summer_2025){:target="_blank"}
 
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 10-12: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 24-26: Get Tickets</a>
 
 ![Spanish Course Capability](/assets/images/clp/SpanishCLPPostCLPBadgeOnly.png)
 
@@ -73,4 +74,4 @@ Participant feedback indicates that the ability to provide assurance the course 
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 10-12: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 24-26: Get Tickets</a>

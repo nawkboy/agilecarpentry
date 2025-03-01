@@ -1,13 +1,14 @@
 ---
-title: Practicante certificado de LeSS en Ciudad de México 6/3/2024 - 6/5/2025 DUMMY DATES
+title: Practicante certificado de LeSS en Ciudad de México 5/27/2025 - 5/29/2025
 image: /assets/images/clp/MexicoCityWebsitePageHeaderNoDates.png
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 #image: /assets/images/clp/SpanishCLPPost.png
+ogimage: /assets/images/clp/MexicoCityCLPWebsitePageHeaderMay27to29_OgImage_Spanish.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-06-03T08:30-06:00"
-  endDate: "2025-06-05T18:00-06:00"
+  startDate: "2025-05-27T08:30-06:00"
+  endDate: "2025-05-29T18:00-06:00"
   location:
     name: "TBD"
     address:
@@ -35,7 +36,7 @@ trainingevent:
 [Read the course description in English]({{site.url}}{{site.baseurl}}/clp/mexicocity_summer_2025){:target="_blank"}
 
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/mexico-city-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 10-12: Obtener entradas</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/mexico-city-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Mayo 27-29: Obtener entradas</a>
 
 ![Capacidad del curso de español](/assets/images/clp/SpanishCLPPostCLPBadgeOnly.png)
 
@@ -81,4 +82,4 @@ Los comentarios de los participantes indican que la capacidad de brindar garant�
 
 # Entradas
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/mexico-city-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 10-12: Obtener entradas</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/mexico-city-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Mayo 27-29: Obtener entradas</a>
