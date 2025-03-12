@@ -49,7 +49,7 @@ Feel free to send me an email at [james@agilecarpentry.com](mailto:james@agileca
 
 You can also reach out to the internal advocate within your company who I have been coordinating with. Assuming you have found this page, you very likely know who that is.
 
-{% include_relative _includes/course_agenda.md %}
+{% include_relative _includes/course_agenda_no_air_force.md %}
 
 
 # Training Venue Details
