@@ -45,9 +45,9 @@ The TicketSpice based registration makes it possible for multiple small groups o
 
 As long as everyone acts quickly, it should be possible to achieve the target course dates of April 23 to April 25 while the hotel still has the event space on a courtesy hold. Otherwise, a coordinated effort will be made to reschedule.
 
-For additional details, feel free to email me, [James Carpenter](mailto:james@agilecarpentry.com){:target="_blank"}. Please use your corporate email when you do so. Alternatively, you are welcome to [connect with me on LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
+Feel free to send me an email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com){:target="_blank"} for additional detail. Please use your corporate email when you do so. Alternatively, you are welcome to [connect with me on LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
-You can also reach out to my internal advocate within your company who I have been coordinating with. Assuming you have found this page, you very likely know who that is.
+You can also reach out to the internal advocate within your company who I have been coordinating with. Assuming you have found this page, you very likely know who that is.
 
 {% include_relative _includes/course_agenda.md %}
 
