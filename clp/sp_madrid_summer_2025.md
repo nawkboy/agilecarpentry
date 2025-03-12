@@ -35,8 +35,7 @@ trainingevent:
 
 [Read the course description in English]({{site.url}}{{site.baseurl}}/clp/madrid_summer_2025){:target="_blank"}
 
-
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-city-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Junio 24-26: Obtener entradas</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Junio 24-26: Obtener entradas</a>
 
 ![Capacidad del curso de espaÃ±ol](/assets/images/clp/SpanishCLPPostCLPBadgeOnly.png)
 
@@ -74,4 +73,4 @@ Los comentarios de los participantes indican que la capacidad de brindar garantÃ
 
 # Entradas
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-city-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Junio 24-26: Obtener entradas</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Junio 24-26: Obtener entradas</a>

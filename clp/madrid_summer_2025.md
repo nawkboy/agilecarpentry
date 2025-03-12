@@ -35,7 +35,6 @@ trainingevent:
 
 [Leer la descripción del curso en español]({{site.url}}{{site.baseurl}}/clp/sp_madrid_summer_2025){:target="_blank"}
 
-
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/madrid-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">June 24-26: Get Tickets</a>
 
 ![Spanish Course Capability](/assets/images/clp/SpanishCLPPostCLPBadgeOnly.png)
