@@ -41,13 +41,13 @@ To enter the sign-up page, you will need to know the secret password. This was m
 
 The event venue will not be formally contracted until the minimum participant threshold has been reached, at which point all pre-registered credit cards on file will be processed. Agile Carpentry will formally bind the event venue contract at the same time. Anyone who has pre-registered will see an automated email from TicketSpice with their final receipt when the credit cards are processed.
 
-The TicketSpice based registration makes it possible for multiple small groups of people from different departments to easily sign-up, without having to coordinate a single big participant block. The logistics are nearly identical to that of a public course. As such, the ticket price carries the full weight of my travel costs, event hosting, printed training materials, royalties, and other details.
+The TicketSpice-based registration makes it possible for multiple small groups of people from different departments to easily sign up, without having to coordinate a single participant block. The logistics are nearly identical to that of a public course. As such, the ticket price carries the full weight of my travel costs, event hosting, printed training materials, royalties, and other details.
 
 As long as everyone acts quickly, it should be possible to achieve the target course dates of April 23 to April 25 while the hotel still has the event space on a courtesy hold. Otherwise, a coordinated effort will be made to reschedule.
 
-Feel free to send me an email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com){:target="_blank"} for additional detail. Please use your corporate email when you do so. Alternatively, you are welcome to [connect with me on LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
+Feel free to send me an email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com){:target="_blank"} for additional details. Please use your corporate email when you do so. Alternatively, you are welcome to [connect with me on LinkedIn](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
-You can also reach out to the internal advocate within your company who I have been coordinating with. Assuming you have found this page, you very likely know who that is.
+You can also reach out to the internal advocate within your company with whom I have been coordinating. Assuming you have found this page, you very likely know who that is.
 
 {% include_relative _includes/course_agenda_no_air_force.md %}
 
