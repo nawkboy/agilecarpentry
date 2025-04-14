@@ -1,9 +1,9 @@
 ---
 title: Practicante certificado de LeSS en Santiago 7/22/2024 - 7/24/2025
-#image: /assets/images/clp/MadridCityWebsitePageHeaderNoDates.png
-image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
+image: /assets/images/clp/SantiagoWebsitePageHeaderNoDates.png
+#image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 #image: /assets/images/clp/SpanishCLPPost.png
-#ogimage: /assets/images/clp/MadridCLPWebsitePageHeaderJune24o26_OgImage_Spanish.png
+ogimage: /assets/images/clp/SantiagoCLPWebsitePageHeaderJuly22o24_OgImage_Spanish.png
 author: James
 layout: book
 trainingevent:
