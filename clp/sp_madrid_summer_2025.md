@@ -1,5 +1,5 @@
 ---
-title: Practicante certificado de LeSS en Madrid 6/24/2024 - 6/26/2025
+title: Practicante certificado de LeSS en Madrid 6/24/2025 - 6/26/2025
 image: /assets/images/clp/MadridCityWebsitePageHeaderNoDates.png
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 #image: /assets/images/clp/SpanishCLPPost.png
