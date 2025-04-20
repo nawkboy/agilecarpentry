@@ -1,8 +1,8 @@
 ---
 title: San Francisco Certified LeSS Practitioner July 8-10, 2025
-#image: /assets/images/clp/ChicagoCLPWebsitePageHeaderNoDates.png
-image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
-#ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderJune10to12_OgImage.png
+image: /assets/images/clp/SanFranciscoWebsitePageHeaderNoDates.png
+#image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
+ogimage: /assets/images/clp/SanFranciscoCLPWebsitePageHeaderJuly8to10_OgImage.png
 author: James
 layout: book
 trainingevent:
