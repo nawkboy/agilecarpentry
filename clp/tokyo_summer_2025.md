@@ -1,8 +1,8 @@
 ---
 title: Tokyo Certified LeSS Practitioner Course Summer 2025
-image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
-#image: /assets/images/clp/OsakaCLPWebsitePageHeaderNov_19_21_2024.png
-#ogimage: /assets/images/clp/OsakaCLPWebsitePageHeaderNoDatesOgImage.png
+#image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
+image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
+ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug5to7_OgImage.png
 author: James
 layout: book
 trainingevent:
