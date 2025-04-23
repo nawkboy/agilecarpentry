@@ -65,7 +65,9 @@ To effectively run a Japanese course, I will also require the help of a human tr
 
 # Training Venue Details
 
-TBD: Likely in a large event hotel in Tokyo.
+To be determined. The venue will likely be a ballroom of a nicer event hotel within Tokyo.
+
+# Meals
 
 I am expecting to include lunch in the price of the course. The exception is if excluding lunch makes it economially viable to run the course when it otherwise will not be. In such a borderline case, I would likely still try to arrange lunch.
 
