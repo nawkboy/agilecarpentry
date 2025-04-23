@@ -60,7 +60,7 @@ To effectively run a Japanese course, I will also require the help of a human tr
 
 # Video Introduction
 
-{% include_relative _includes/course_agenda.md %}
+{% include_relative _includes/course_agenda_no_air_force.md %}
 
 
 # Training Venue Details
