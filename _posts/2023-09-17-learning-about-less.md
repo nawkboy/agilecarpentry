@@ -92,5 +92,6 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 * [Chicago Certified LeSS Practitioner on June 10-12]({{site.baseurl}}/clp/chicago_summer_2025/){:target="_blank"}
 * [Madrid Certificado Practicante de LeSS del 24 al 26 de junio]({{site.baseurl}}/clp/sp_madrid_summer_2025/){:target="_blank"}
 * [Santiago Certificado Practicante de LeSS del 22 al 24 de julio]({{site.baseurl}}/clp/sp_santiago_summer_2025/){:target="_blank"}
+* [Tokyo Certified LeSS Practitioner on August 5-7]({{site.baseurl}}/clp/tokyo_summer_2025/){:target="_blank"}
 * [Orlando Certified LeSS Practitioner on October 27-29]({{site.baseurl}}/clp/orlando_fall_2025/){:target="_blank"}
 
