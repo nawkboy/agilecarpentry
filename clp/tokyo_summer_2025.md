@@ -65,11 +65,20 @@ To effectively run a Japanese course, I will also require the help of a human tr
 
 # Training Venue Details
 
-To be determined. The venue will likely be a ballroom of a nicer event hotel within Tokyo.
+To be determined.
+
+Two of the most promising venues are the [Sheraton Grande Tokyo Bay](https://www.marriott.com/en-us/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/){:target="_blank"} and the [Hilton Tokyo Odaiba](https://www.hilton.com/en/hotels/tyotohi-hilton-tokyo-odaiba/){:target="_blank"}.
+
+The location of the Sheraton Grande is exceptionally convenient for anyone traveling from outside Tokyo who might want to spend a few days visiting [Tokyo Disney](https://www.tokyodisneyresort.jp/en/index.html){:target="_blank"} before or after the course. The downside is the Tokyo Disney area hotels require a transfer to the Disney Resort Line from Maihama Station, making access from the city center somewhat more time consuming.
+
+In contrast, the Hilton Tokyo Odaiba is directly connected to a Yurikamome Line station, providing relatively smooth access from central Tokyo areas such as Shimbashi or Toyosu. So no Disney, but somewhat better logistics.
+
+These hotels are far enough away from the city center to be cost effective at lower participant thresholds. This is critical for a course design which requires far more event space per participant than is typical and is being hosted in one of the more expensive cities in the world.
+
 
 # Meals
 
-I am expecting to include lunch in the price of the course. The exception is if excluding lunch makes it economially viable to run the course when it otherwise will not be. In such a borderline case, I would likely still try to arrange lunch.
+I am expecting to include lunch in the price of the course. The exception is if excluding lunch makes it economically viable to run the course when it otherwise will not be. In such a borderline case, I would likely still try to arrange lunch.
 
 # Tickets
 
