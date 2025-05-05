@@ -1,8 +1,8 @@
 ---
 title: Singapore Certified LeSS Practitioner Course August 12-14, 2025
-image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
-#image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
-#ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug5to7_OgImage.png
+#image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
+image: /assets/images/clp/SingaporeWebsitePageHeaderNoDates.png
+ogimage: /assets/images/clp/SingaporeCLPWebsitePageHeaderAug12to14_OgImage.png
 author: James
 layout: book
 trainingevent:
