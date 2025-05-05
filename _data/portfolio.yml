@@ -3,11 +3,6 @@
 #  image: /assets/images/portfolio/case-study-biz-summary-portfolio.png
 #  link: /blog/business-summary-of-case-study/
 
-#- title: Singapore CLP Fall 2024
-#  category: Events
-#  image: /assets/images/clp/clp-singapore-fall-2024-portfolio.png
-#  link: /clp/singapore_fall_2024/
-
 
 #- title: Mexico City CLP Summer 2025
 #  category: Events
@@ -55,21 +50,31 @@
   image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
   link: /blog/billions-in-risk-avoidance/
 
+- title: Singapore CLP Summer 2025
+  category: Events
+  image: /assets/images/clp/clp-singapore-summer-2025-portfolio.png
+  link: /clp/singapore_summer_2025/
+
 - title: Orlando CLP Fall 2025
   category: Events
 #  image: /assets/images/clp/clp-orlando-fall-2025-portfolio.png
   image: /assets/images/clp/clp-orlando-fall-2025-portfolio-alt.png
   link: /clp/orlando_fall_2025/
 
-#- title: Deriving LeSS
-#  category: LeSS
-#  image: /assets/images/portfolio/deriving-less-article-header.png
-#  link: /blog/deriving-less/
+- title: Deriving LeSS
+  category: LeSS
+  image: /assets/images/portfolio/deriving-less-article-header.png
+  link: /blog/deriving-less/
 
-#- title: Where would you like a public Certified LeSS Practitioner course?
-#  category: LeSS
-#  image: /assets/images/portfolio/clp-location-survey-portfolio.png
-#  link: /blog/clp-location-survey/
+- title: Where would you like a public Certified LeSS Practitioner course?
+  category: LeSS
+  image: /assets/images/portfolio/clp-location-survey-portfolio.png
+  link: /blog/clp-location-survey/
+
+#- title: Using Structure to Mold Culture
+#  category: Book
+#  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
+#  link: /blog/using-structure-to-mold-culture/
 
 
 #- title: LeSS Practitioner Course Now In Milwaukee!
@@ -87,11 +92,6 @@
 #  category: LeSS
 #  image: /assets/images/portfolio/examining-less-huge-article-header.png
 #  link: /blog/examining-less-huge/
-
-#- title: Using Structure to Mold Culture
-#  category: Book
-#  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
-#  link: /blog/using-structure-to-mold-culture/
 
 
 #- title: Forging Change Synopsis
