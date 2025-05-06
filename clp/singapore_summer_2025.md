@@ -1,8 +1,8 @@
 ---
-title: Singapore Certified LeSS Practitioner Course August 12-14, 2025
+title: Singapore Certified LeSS Practitioner Course August 13-15, 2025
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/SingaporeWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/SingaporeCLPWebsitePageHeaderAug12to14_OgImage.png
+ogimage: /assets/images/clp/SingaporeCLPWebsitePageHeaderAug13to15_OgImage.png
 author: James
 layout: book
 trainingevent:
@@ -32,7 +32,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 12-14: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 13-15: Get Tickets</a>
 
 {% include_relative _includes/course_agenda_no_air_force.md %}
 
@@ -56,7 +56,7 @@ More details of the refund strategy can be found on the ticket page.
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/singapore-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 12-14: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/singapore-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 13-15: Get Tickets</a>
 
 
 

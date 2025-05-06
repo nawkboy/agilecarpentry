@@ -1,13 +1,13 @@
 ---
-title: Tokyo Certified LeSS Practitioner Course Summer 2025
+title: Tokyo Certified LeSS Practitioner Course August 4-6, 2025
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug5to7_OgImage.png
+ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug4to6_OgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-08-05T08:30+09:00"
-  endDate: "2025-08-07T18:00+09:00"
+  startDate: "2025-08-04T08:30+09:00"
+  endDate: "2025-08-06T18:00+09:00"
   location:
     name: "TBD"
     address:
@@ -32,7 +32,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 5-7: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 4-6: Get Tickets</a>
 
 
 # 日本語は可能です
@@ -82,7 +82,7 @@ I am expecting to include lunch in the price of the course. The exception is if 
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 5-7: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 4-6: Get Tickets</a>
 
 
 
