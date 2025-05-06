@@ -39,7 +39,7 @@ trainingevent:
 
 # Training Venue Details
 
-To be determined. Likely a ballroom of a large event hotel within Singapore.
+To be determined. Likely a ballroom of a large event hotel in Singapore.
 
 
 # Meals
@@ -48,9 +48,9 @@ I am expecting to include lunch in the price of the course. The exception is if 
 
 # Early Registration Refund
 
-The learning outcomes made possible by a system modeling based Certified LeSS Practitioner course are fantastic. These wonderful learning outcomes are accompanied by the economic challenge of providing the large amount of event space per person required for such a floor space hungry course design in a city as expensive as Singapore.
+The learning outcomes made possible by a system modeling-based Certified LeSS Practitioner course are fantastic. These wonderful learning outcomes are accompanied by the economic challenge of providing the large amount of event space per person required for such a floor space-greedy course design in a city as expensive as Singapore.
 
-I am therefore charging a little more than I would in another city, while also providing a progressively larger refund based on the final class size, and how quickly each individual signs up. The quicker you sign-up and the more people attend, the greater your refund will be.
+Due to these costs I am charging a little more than I would in another city. To counter that, I am also providing a progressively larger refund based on the final class size, and how fast each individual signs up. The quicker you sign-up and the more people attend, the greater your refund will be.
 
 More details of the refund strategy can be found on the ticket page.
 
