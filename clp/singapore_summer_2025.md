@@ -32,7 +32,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 13-15: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/singapore-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 13-15: Get Tickets</a>
 
 {% include_relative _includes/course_agenda_no_air_force.md %}
 
