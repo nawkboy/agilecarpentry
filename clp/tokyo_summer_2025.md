@@ -54,20 +54,19 @@ My LeSS case study at a Large Server Hardware Company is available in a variety 
 You can also learn a little more about me by reviewing content on my [Agile Carpentry]({{site.url}}{{site.baseurl}}){:target} website and [LinkedIn profile](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
 
 
-# About The Interpreter
+# About Mickie Grace (the interpreter)
 
-I am collaborating with an exceptionally capable professional translator.
+You can read a little about Mickie Grace on her
+[LinkedIn profile](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}. 
 
-Based on the judgement of those I trust who referred me to her, and my own interactions, I am convinced we will be in extremely capable hands.
-
-Once I am certain she will be available, I will update this section with more specifics. In the event she is unexpectedly unavailable, she has provided guidance on some alternative interpreters.
+Based on the judgement of those I trust who referred me to her, and my own interactions, I am convinced we will be in extremely capable hands with Mickie as our interpreter.
 
 
 # Course Translation Effort
 
 I have been working to translate and typeset the entirety of my written course content into Japanese using a combination of human-translated content for the more important text, and machine translation for the less critical text. Just in case I make a few translation mistakes, I will likely provide both Japanese and English versions of the printed materials.
 
-I don't currently understand Japanese. Yet, I am confident that won't be a problem with the level of professional interpretation experience available.
+I don't currently understand Japanese, but my professional interpreter [Mickie Grace](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"} does.
 
 
 # Training Venue Details
