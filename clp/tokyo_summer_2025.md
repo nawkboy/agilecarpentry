@@ -32,42 +32,47 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
+[日本語で説明を読む]({{site.url}}{{site.baseurl}}/clp/jp_tokyo_summer_2025){:target="_blank"}
+
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">August 4-6: Get Tickets</a>
 
-
-# 日本語は可能です
-
-十分な人数を派遣し、翻訳を手伝ってくれるスポンサーがいれば、このコースは日本語で提供できます。
-
-私は [コースのスペイン語版]({{site.baseurl}}/clp/sp_global/){:target="_blank"} を作成しました。このコースでは、すべての文章コンテンツが翻訳されています。これには、製本された参考資料、スライド、システム変数が含まれます。また、ライブ機械翻訳の字幕のソリューションも考案しました。
-
-スペイン語版の組版とグラフィック作業が完了したため、コースの日本語版の作成が、そうでない場合よりもはるかに容易になると予想されます。英語をある程度習得している日本語ネイティブスピーカーの助けがあれば、2、3日もかからずにコースの日本語版を作成できるはずです。
-
-日本語コースを効果的に運営するには、人間の翻訳者の助けも必要です。ライブ翻訳者による日本語コースの実施経験を持つ別の認定 LeSS トレーナーからのアドバイスに基づいて、これはうまくいくと思います。
-
-
-日本語コースを効果的に運営するには、人間の通訳者の協力も必要です。実通訳者を交えて日本語コースを実施した経験のある別の認定LeSSトレーナーからのアドバイスに基づき、この方法はうまくいくと考えています。ご質問等ございましたら、お気軽に[お問い合わせ](mailto:james@agilecarpentry.com)ください。
-
-# Japanese Is Possible
-
-If there is a sponsor who is willing to send enough people, and is able to have someone help with the translation, this course can be delivered in Japanese.
-
-I have created a [Spanish version of the course]({{site.baseurl}}/clp/sp_global/){:target="_blank"} in which all of the written content has been translated. This includes the bound reference material, slides, and system variables. I have also worked out a solution for live machine-translated captions. 
-
-The typesetting and graphics work completed for the Spanish version is expected to make creating a Japanese version of the course far easier than it otherwise would be. With the help of a native Japanese speaker who has a reasonable mastery of English, it should be possible to create a Japanese version of the course in less than a couple days of effort.
-
-To effectively run a Japanese course, I will also require the help of a human translator. Based on guidance from another Certified LeSS Trainer who has experience delivering Japanese courses with a live translator, I believe this will work well. Please feel free to [contact me](mailto:james@agilecarpentry.com) with any questions.
 
 # Video Introduction
 
 {% include_relative _includes/course_agenda_no_air_force.md %}
 
+# About Me
+
+I, James Carpenter, am a Certified LeSS Trainer based in the United States, one of 28 LeSS trainers globally. I spent the first decade and a half of my career as a hands-on software engineer and manager before transitioning into consulting work. I have helped lead two separate LeSS-like transformations.
+
+I have discovered that LeSS resonates with my own understanding of what actually works more than any other approach I am aware of. By the time I became aware of LeSS, I was already helping companies do much of what LeSS suggests. 
+
+I am grateful for the tremendous amount of one-on-one mentorship provided by Craig Larman and Viktor Grgic when I was working through my case study. I am also grateful for the continued support and mentorship I continually receive from Bas Vodde, and the LeSS trainer community in general.
+
+My LeSS case study at a Large Server Hardware Company is available in a variety of languages, including [Japanese](https://less.works/jp/case-studies/large-server-hardware-company?setlang=true){:target="_blank"} and [English](https://less.works/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}.
+
+You can also learn a little more about me by reviewing content on my [Agile Carpentry]({{site.url}}{{site.baseurl}}){:target} website and [LinkedIn profile](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}.
+
+
+# About The Interpreter
+
+I am collaborating with an exceptionally capable professional translator.
+
+Based on the judgement of those I trust who referred me to her, and my own interactions, I am convinced we will be in extremely capable hands.
+
+Once I am certain she will be available, I will update this section with more specifics. In the event she is unexpectedly unavailable, she has provided guidance on some alternative interpreters.
+
+
+# Course Translation Effort
+
+I have been working to translate and typeset the entirety of my written course content into Japanese using a combination of human-translated content for the more important text, and machine translation for the less critical text. Just in case I make a few translation mistakes, I will likely provide both Japanese and English versions of the printed materials.
+
+I don't currently understand Japanese. Yet, I am confident that won't be a problem with the level of professional interpretation experience available.
+
 
 # Training Venue Details
 
-To be determined.
-
-Two of the most promising venues are the [Sheraton Grande Tokyo Bay](https://www.marriott.com/en-us/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/){:target="_blank"} and the [Hilton Tokyo Odaiba](https://www.hilton.com/en/hotels/tyotohi-hilton-tokyo-odaiba/){:target="_blank"}.
+To be determined. Two of the most promising venues are the [Sheraton Grande Tokyo Bay](https://www.marriott.com/en-us/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/){:target="_blank"} and the [Hilton Tokyo Odaiba](https://www.hilton.com/en/hotels/tyotohi-hilton-tokyo-odaiba/){:target="_blank"}.
 
 The location of the Sheraton Grande is exceptionally convenient for anyone traveling from outside Tokyo who might want to spend a few days visiting [Tokyo Disney](https://www.tokyodisneyresort.jp/en/index.html){:target="_blank"} before or after the course. The downside is the Tokyo Disney area hotels require a transfer to the Disney Resort Line from Maihama Station, making access from the city center somewhat more time consuming.
 
@@ -78,7 +83,17 @@ These hotels are far enough away from the city center to be cost effective at lo
 
 # Meals
 
-I am expecting to include lunch in the price of the course. The exception is if excluding lunch makes it economically viable to run the course when it otherwise will not be. In such a borderline case, I would likely still try to arrange lunch.
+Lunches are included in the price of the course.
+
+# Early Registration Refund
+
+The learning outcomes made possible by a system modeling-based Certified LeSS Practitioner course are fantastic. These wonderful learning outcomes are accompanied by the economic challenge of providing the large amount of event space per person required for such a floor space-greedy course design in a city as expensive as Tokyo.
+
+I am grateful to have Mickie Grace as our interpreter. I believe the benefit of conducting the course in Japanese instead of English justifies the additional cost required to do so.
+
+Due to these costs I am charging a little more than I otherwise would. To counter that, I am also providing a progressively larger refund based on the final class size, and how fast each individual signs up. The more quickly you sign-up and the more people attending, the greater your refund will be.
+
+More details of the refund strategy can be found on the ticket page.
 
 # Tickets
 
