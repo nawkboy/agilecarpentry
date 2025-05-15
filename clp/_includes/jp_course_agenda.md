@@ -47,9 +47,6 @@
 
 すべての参加者は本「Large-Scale Scrum: More with LeSS」にアクセスできます。
 
-# 米空軍に関する詳細
-
-このコースは[米国空軍の教育訓練管理システム (ETMS)]({{site.url}}{{site.baseurl}}/clp/airforce_specifics/)にリストされています。詳細は[こちら]({{site.url}}{{site.baseurl}}/clp/airforce_specifics/)で確認できます。
 
 # 参加者の声
 
