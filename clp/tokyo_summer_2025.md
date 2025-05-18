@@ -1,5 +1,5 @@
 ---
-title: Tokyo Certified LeSS Practitioner Course August 4-6, 2025
+title: Certified LeSS Practitioner Tokyo, August 4-6, 2025
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
 ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug4to6_OgImage.png
