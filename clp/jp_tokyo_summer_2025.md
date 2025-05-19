@@ -34,7 +34,7 @@ trainingevent:
 
 [Read Description in English]({{site.url}}{{site.baseurl}}/clp/tokyo_summer_2025){:target="_blank"}
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">チケットを購入する</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">登録</a>
 
 
 # ビデオ紹介
@@ -91,10 +91,10 @@ LeSSは、私が知る限り、他のどのアプローチよりも実践にお�
 
 その分、通常よりも少し高い料金が設定されていますが、最終的な参加人数と、各自の申し込み時期に応じて、早期登録特典を用意しています。申し込みが早く、参加者が多いほど、特典額が大きくなります。
 
-早期登録特典についての詳細は、チケットページをご覧ください。
+早期登録特典についての詳細は、登録ページをご覧ください。
 
-# チケット購入
+# 登録
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">チケットを購入する</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">登録</a>
 
 
