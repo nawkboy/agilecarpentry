@@ -59,4 +59,4 @@ This course is listed in the [United States Air Force’s Education and Training
 
 # LeSS Adopters
 
-![LeSS Logo Sheet by Sector](/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)
+![LeSS Logo Sheet by Sector]({{site.url}}{{site.baseurl}}/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)

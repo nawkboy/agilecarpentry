@@ -55,4 +55,4 @@
 
 # LeSSの導入事例
 
-![セクター別のLeSSロゴシート](/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)
+![セクター別のLeSSロゴシート]({{site.url}}{{site.baseurl}}/assets/images/less_adoptions/LeSSAdoptionsLogosheetBySector_websites.png)
