@@ -1,5 +1,5 @@
 ---
-title: 東京認定LeSS実践者コース 2025年8月4日～6日
+title: 東京認定LeSS実践者ワークショップ 2025年8月4日～6日
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
 ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug4to6_OgImage.png
@@ -21,7 +21,7 @@ trainingevent:
     - /assets/images/clp/CLP_Event_4_3_aspect_ratio.png
     - /assets/images/clp/CLP_Event_16_9_aspect_ratio.png
   description: >
-   認定LeSS実践者コースは、LeSSの原則、フレームワーク、ルール、そしてガイドを網羅した詳細なコースです。製品開発グループにLeSSを導入し、改善するために必要な情報を提供します。コースには、LeSSの概要、LeSS導入事例、演習、そしてLeSSに関する豊富なQ&Aが含まれており、参加者の関心の高いトピックについて議論することができます。
+   認定LeSS実践者ワークショップは、LeSSの原則、フレームワーク、ルール、そしてガイドを網羅した詳細な研修です。製品開発グループにLeSSを導入し、導入されたLeSSを向上させるのに必要な情報を学びます。ワークショップには、LeSSの概要、LeSS導入事例、演習、そしてLeSSに関するQ&Aセッションが設けられており、参加者の関心の高いトピックについて議論します。
   trainer: "James Carpenter"
   offer:
     ticketUrl: "https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025"
@@ -41,59 +41,59 @@ trainingevent:
 
 {% include_relative _includes/jp_course_agenda.md %}
 
-# 私について
+# 講師自己紹介
 
-ジェームズ・カーペンターは、米国を拠点とする認定LeSSトレーナーで、世界で28名のLeSSトレーナーの1人です。キャリアの最初の15年間は、実践的なソフトウェアエンジニア兼マネージャーとして働き、その後コンサルティング業務に転身しました。LeSSに似た変革を2件、主導してきました。
+私、ジェームズ・カーペンターは、米国を拠点とする認定LeSSトレーナーで、世界で28名のLeSSトレーナーの1人です。キャリアの最初の15年間は、実践的なソフトウェアエンジニア兼マネージャーとして働き、その後コンサルティング業務に転身し、LeSSに似た変革を2件、主導してきました。
 
-LeSSは、私が知る限り、他のどのアプローチよりも、実際に何が効果的かという私自身の理解と合致するものであることに気づきました。LeSSを知る頃には、既にLeSSが提案する多くのことを企業が実践できるよう支援していました。
+LeSSは、私が知る限り、他のどのアプローチよりも実践において一番効果的な手法であると感じています。私は、LeSSを知る以前から、LeSSが提案することを企業が実践できるよう支援していました。
 
-ケーススタディに取り組んでいた際に、クレイグ・ラーマン氏とヴィクトル・グルギッチ氏から受けた、非常に多くの個別指導に感謝しています。また、バス・ヴォッデ氏をはじめとするLeSSトレーナーコミュニティ全体から継続的に受けているサポートと指導にも感謝しています。
+ある案件において、クレイグ・ラーマン氏とヴィクトル・グルギッチ氏から非常に多くの個別指導を頂いたことに深く感謝しています。また、バス・ヴォッデ氏やLeSSトレーナーコミュニティから日頃頂いているサポートと指導にも感謝しています。
 
-大手サーバーハードウェア企業における私のLeSSケーススタディは、[日本語](https://less.works/jp/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}と[英語](https://less.works/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}を含む複数の言語で公開されています。
+私のLeSS大手サーバーメーカー事例は、[日本語](https://less.works/jp/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}と[英語](https://less.works/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}等、多数の言語に翻訳され公開されています。
 
-また、私のウェブサイト[Agile Carpentry]({{site.url}}{{site.baseurl}}){:target}と[LinkedInプロフィール](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}のコンテンツをご覧いただくことで、私についてより詳しく知ることができます。
+私については、[Agile Carpentry]({{site.url}}{{site.baseurl}}){:target}と[LinkedInプロフィール](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}もご参照いただけます。
 
 
 # ミッキー・グレース（通訳）について
 
-ミッキー・グレースについては、彼女の[LinkedInプロフィール](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}で少しご覧いただけます。
+ミッキー・グレースは、30数年に渡り会議通訳として活躍してきたベテラン通訳です。ICTのみならず、宇宙開発、ライフサイエンス等の分野を専門とするフリーランスの同時・逐次通訳者ですが、1990年から今日までNASAの地球観測プログラムASTERも担当し、業界で高い評価と信頼を得ています。彼女については[LinkedInプロフィール](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}もご参照頂けます。
 
-彼女を紹介してくれた信頼できる方々の判断と、私自身のやり取りを踏まえ、ミッキーを通訳として選んでいただければ、非常に頼りになる人材だと確信しています。
+今回のワークショップにおいては、私が信頼する方々からの推薦や、私自身とのやり取りを踏まえ、ミッキー・グレース氏を通訳として選びました。彼女は非常に頼りになる人材だと私も確信しています。
 
 
-# コース翻訳の取り組み
+# コース日本語化の取り組み
 
-コースコンテンツ全体を日本語に翻訳し、タイプセットする作業を進めています。重要な部分は人間による翻訳、重要度の低い部分は機械翻訳を使用しています。万が一、翻訳ミスがあった場合に備えて、印刷物は日本語版と英語版の両方を提供する予定です。
+コースコンテンツは全て日本語化し、タイプセットする作業を進めています。重要な部分は人間による翻訳、重要度の低い部分は機械翻訳を使用しています。万が一、翻訳ミスがあった場合に備えて、印刷物は日本語版と英語版の両方を提供する予定です。
 
-私は今のところ日本語が理解できませんが、プロの通訳者である[ミッキー・グレース](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}は理解できます。
+私は日本語ができませんが、プロの通訳・翻訳者である[ミッキー・グレース](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}は日本語ネイティブで、日本語化のお手伝いもお願いしています。
 
 
 # 研修会場の詳細
 
-未定です。最も有望な会場は、[シェラトン・グランデ・トーキョーベイ](https://www.marriott.com/en-us/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/){:target="_blank"}と[ヒルトン東京お台場](https://www.hilton.com/en/hotels/tyotohi-hilton-tokyo-odaiba/){:target="_blank"}です。
+現在、策定中です。会場候補として、[シェラトン・グランデ・トーキョーベイ](https://www.marriott.com/en-us/hotels/tyosi-sheraton-grande-tokyo-bay-hotel/overview/){:target="_blank"}と[ヒルトン東京お台場](https://www.hilton.com/en/hotels/tyotohi-hilton-tokyo-odaiba/){:target="_blank"}を検討しています。
 
-シェラトン・グランデは、東京近郊からお越しで、研修の前後に数日間[東京ディズニーランド](https://www.tokyodisneyresort.jp/en/index.html){:target="_blank"}を訪れたい方にとって非常に便利な立地です。ただし、東京ディズニーランドエリアのホテルへは舞浜駅からディズニーリゾートラインに乗り換える必要があり、都心からのアクセスには少々時間がかかります。
+シェラトン・グランデは、都心や[東京ディズニーランド](https://www.tokyodisneyresort.jp/en/index.html){:target="_blank"}に近く、非常に便利です。ただし、東京ディズニーランドエリアのホテルへは舞浜駅からディズニーリゾートラインに乗り換えが必要です。
 
-一方、ヒルトン東京お台場はゆりかもめの駅に直結しており、新橋や豊洲といった都心部からのアクセスが比較的スムーズです。ディズニーランドまでは行けませんが、交通の便はやや良好です。
+一方、ヒルトン東京お台場はゆりかもめ台場駅に直結しており、新橋や豊洲といった都心部からのアクセスがスムーズです。ディズニーランドからは少し離れていますが、交通の便は良好です。
 
-これらのホテルは都心から十分に離れているため、参加者数が少ない場合でも費用対効果の高い運営が可能です。これは、参加者1人当たりのイベントスペースが通常よりもはるかに広く、世界でも有​​数の物価の高い都市で開催されるコース設計にとって非常に重要です。
+これらのホテルは都心の会場に比べ割安で、ワークショップ催行最低人数も少なくて済みます。しかも参加者1人当たり広いイベントスペースを確保するためにも非常に重要な要件となっています。
 
 
 # 食事
 
-昼食はコース料金に含まれています。
+昼食はワークショップ参加費に含まれています。
 
-# 早期登録返金
+# 早期登録特典
 
-システムモデリングをベースとした認定LeSSプラクティショナーコースによって得られる学習成果は素晴らしいものです。しかし、東京のような物価の高い都市では、フロアスペースを多く必要とするコース設計に必要な、1人当たりのイベントスペースを確保するという経済的な課題も存在します。
+システムモデリングをベースとした認定LeSS実践者向けのワークショップは素晴らしい成果をもたらしてくれます。十分なフロアスペースを多く必要とするコース設計に必要な、1人当たりのイベントスペースを確保するという経済的な課題も存在します。
 
-通訳としてMickie Grace氏を迎えることができ、大変感謝しています。英語ではなく日本語でコースを実施するメリットは、その追加費用を正当化するものだと考えています。
+今回は、日本語通訳付きでの開催となります。英語でのワークショップに比べ、日本語通訳付きのワークショップは、非常に大きな効果があると考えています。
 
-これらの費用のため、通常よりも少し高い料金を請求させていただきます。そのため、最終的なクラスの人数と、各自の申し込みの速さに応じて、段階的に払い戻し額を増やしています。申し込みが早く、参加者が多いほど、払い戻し額は大きくなります。
+その分、通常よりも少し高い料金が設定されていますが、最終的な参加人数と、各自の申し込み時期に応じて、早期登録特典を用意しています。申し込みが早く、参加者が多いほど、特典額が大きくなります。
 
-払い戻し方法の詳細は、チケットページをご覧ください。
+早期登録特典についての詳細は、チケットページをご覧ください。
 
-# 切符売場
+# チケット購入
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">チケットを購入する</a>
 
