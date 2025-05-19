@@ -2,7 +2,7 @@
 title: 東京認定LeSS実践者ワークショップ 2025年8月4日～6日
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug4to6_OgImage.png
+ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug4to6_OgImage_JP.png
 author: James
 layout: book
 trainingevent:
