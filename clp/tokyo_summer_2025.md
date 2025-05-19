@@ -56,11 +56,9 @@ You can also learn a little more about me by reviewing content on my [Agile Carp
 
 # About Mickie Grace (the interpreter)
 
-You can read a little about Mickie Grace on her
-[LinkedIn profile](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}. 
+Mickey Grace is a veteran interpreter with over 30 years of experience as a conference interpreter. She is a freelance simultaneous and consecutive interpreter specializing in the fields of ICT, space development, life sciences, and more. She has also worked on NASA's ASTER Earth Observation program from 1990 to the present day, and is highly regarded and trusted in the industry. You can also find out more about her on her [LinkedIn profile](https://www.linkedin.com/in/mickie-grace-b60413/){:target="_blank"}.
 
-Based on the judgement of those I trust who referred me to her, and my own interactions, I am convinced we will be in extremely capable hands with Mickie as our interpreter.
-
+I chose Mickey Grace as the interpreter for this workshop based on recommendations from people I trust and my own interactions with her, and I have no doubt that she will be an extremely reliable resource.
 
 # Course Translation Effort
 
