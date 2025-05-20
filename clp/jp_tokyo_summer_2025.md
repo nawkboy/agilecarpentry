@@ -1,5 +1,5 @@
 ---
-title:東京認定LeSS実践者ワークショップ 2025年8月4日～6日
+title: 東京認定LeSS実践者ワークショップ 2025年8月4日～6日
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/TokyoWebsitePageHeaderNoDates.png
 ogimage: /assets/images/clp/TokyoCLPWebsitePageHeaderAug4to6_OgImage.png
@@ -21,7 +21,7 @@ trainingevent:
     - /assets/images/clp/CLP_Event_4_3_aspect_ratio.png
     - /assets/images/clp/CLP_Event_16_9_aspect_ratio.png
   description: >
-   認定LeSS実践者ワークショップは、LeSSの原則、フレームワーク、ルール、そしてガイドを網羅した詳細な研修です。製品開発グループにLeSSを導入し、導入されたLeSSを向上させるのに必要な情報を学びます。ワークショップでは、LeSSの概要、LeSS導入事例、演習があり、LeSSに関するQ&Aセッションでは参加者の関心の高いトピックについて議論します。
+   認定LeSS実践者ワークショップは、LeSSの原則、フレームワーク、ルール、そしてガイドを網羅した詳細な研修です。製品開発グルー#プにLeSSを導入し、導入されたLeSSを向上させるのに必要な情報を学びます。ワークショップでは、LeSSの概要、LeSS導入事例、演習が#あり、LeSSに関するQ&Aセッションでは参加者の関心の高いトピックについて議論します。
   trainer: "James Carpenter"
   offer:
     ticketUrl: "https://agilecarpentry.ticketspice.com/tokyo-certified-less-practitioner-summer-2025"
