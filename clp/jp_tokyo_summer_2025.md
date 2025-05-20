@@ -49,7 +49,7 @@ LeSSは、私が知る限り、他のどのアプローチよりも実践にお�
 
 ある案件において、クレイグ・ラーマン氏とヴィクトル・グルギッチ氏から非常に多くの個別指導を頂いたことに深く感謝しています。また、バス・ヴォッデ氏やLeSSトレーナーコミュニティから日頃頂いているサポートと指導にも感謝しています。
 
-私のLeSS大手サーバーメーカー事例は、[日本語](https://less.works/jp/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}と[英語](https://less.works/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}等、多数の言語に翻訳され公開されています。
+私のLeSS大手サーバーメーカー事例は、[日本語](https://less.works/jp/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}と[英語](https://less.works/case-studies/large-server-hardware-company?setlang=true){:target="_blank"}の他、多数の言語に翻訳され公開されています。
 
 私については、[Agile Carpentry]({{site.url}}{{site.baseurl}}){:target}と[LinkedInプロフィール](https://www.linkedin.com/in/jamescarpenter1/){:target="_blank"}もご参照いただけます。
 
