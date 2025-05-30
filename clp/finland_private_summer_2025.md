@@ -1,5 +1,5 @@
 ---
-title: Private Finland Certified LeSS Practitioner April 23-25, 2025
+title: Private Finland Certified LeSS Practitioner
 image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 ogimage: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 author: James
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/finland-private-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 23-25: Get Tickets: Password Required</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/finland-private-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Get Tickets: Password Required</a>
 
 # Private Course
 
@@ -64,7 +64,7 @@ Lunch and snacks will be provided.
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/finland-private-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 23-25: Get Tickets: Password Required</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/finland-private-summer-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Get Tickets: Password Required</a>
 
 
 
