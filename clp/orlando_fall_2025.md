@@ -92,6 +92,12 @@ We will most likely be walking to pre-arranged lunches at the on-property table 
 
 Participant feedback indicates that the ability to provide assurance the course will reach viability sooner, tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
 
+# Early Registration Refund
+
+At larger class sizes, a significant early registration refund is provided. The sooner one signs up, the greater the potential refund.
+
+More details of the refund strategy can be found on the ticket page.
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/orlando-fall-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">October 27-29: Get Tickets</a>
