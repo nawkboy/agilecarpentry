@@ -17,22 +17,22 @@
 #      link: /clp/jp_osaka_fall_2024/
 #    - title: Bogota CLP Dec 10-12
 #      link: /clp/sp_bogota_fall_2024/
-    - title: Dallas CLP Feb 4-6
-      link: /clp/dallas_spring_2025/
+#    - title: Dallas CLP Feb 4-6
+#      link: /clp/dallas_spring_2025/
 #    - title: Mexico City CLP May 27-29
 #      link: /clp/mexicocity_summer_2025/
-    - title: Chicago CLP June 10-12
-      link: /clp/chicago_summer_2025/
-    - title: Madrid CLP June 24-26
-      link: /clp/madrid_summer_2025/
-    - title: San Francisco CLP July 8-10
-      link: /clp/san_francisco_summer_2025/
-    - title: Santiago CLP July 22-24
-      link: /clp/santiago_summer_2025/
-    - title: Tokyo CLP August 4-6
-      link: /clp/tokyo_summer_2025/  
-    - title: Singapore CLP August 13-15
-      link: /clp/singapore_summer_2025/  
+#    - title: Chicago CLP June 10-12
+#      link: /clp/chicago_summer_2025/
+#    - title: Madrid CLP June 24-26
+#      link: /clp/madrid_summer_2025/
+#    - title: San Francisco CLP July 8-10
+#      link: /clp/san_francisco_summer_2025/
+#    - title: Santiago CLP July 22-24
+#      link: /clp/santiago_summer_2025/
+#    - title: Tokyo CLP August 4-6
+#      link: /clp/tokyo_summer_2025/  
+#    - title: Singapore CLP August 13-15
+#      link: /clp/singapore_summer_2025/  
     - title: Dallas CLP Oct. 21-23
       link: /clp/dallas_fall_2025/
     - title: Orlando CLP Oct. 27-29
@@ -60,10 +60,10 @@
   dropdown:
 #    - title: CDMX CLP Mayo 27-29
 #      link: /clp/sp_mexicocity_summer_2025/
-    - title: Madrid CLP Junio 24-26
-      link: /clp/sp_madrid_summer_2025/
-    - title: Santiago CLP Julio 22-24
-      link: /clp/sp_santiago_summer_2025/
+#    - title: Madrid CLP Junio 24-26
+#      link: /clp/sp_madrid_summer_2025/
+#    - title: Santiago CLP Julio 22-24
+#      link: /clp/sp_santiago_summer_2025/
     - title: CLP Global
       link: /clp/sp_global/
     - title: CLE Global
