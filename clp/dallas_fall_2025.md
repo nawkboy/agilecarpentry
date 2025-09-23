@@ -37,7 +37,7 @@ trainingevent:
 
 In an effort to avoid a marketing conflict with my [Orlando Certified LeSS Practitioner]({{site.url}}{{site.baseurl}}/clp/orlando_fall_2025/){:target="blank"} the week after this course, I am mostly limiting any announcements concerning this course to those in the Dallas/Fort-Worth area, and perhaps those within a few hours drive. Most importantly, I have intentionally avoided listing the course in the public LeSS course catalogue for now.
 
-That said, the course is open to anyone regardless of geography. So if you have a co-worker or friend from another city who would like to join you, they are very welcome to do so. The Dallas course also provides an option for those who might otherwise have a scheduling conflict.
+That said, the course is open to anyone regardless of geography. So if you have a co-worker or friend from another city who would like to join you, they are very welcome to do so. The Dallas course also provides an option for those who might otherwise have a scheduling conflict with the Orlando course.
 
 Please feel free to let others know about this class, including social media announcements.
 
