@@ -41,6 +41,11 @@ That said, the course is open to anyone regardless of geography. So if you have 
 
 Please feel free to let others know about this class, including social media announcements.
 
+# Contact Information
+
+Contacting me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com){:target="_blank"} or cell phone text message at +1 832-677-7247 generally works best. I am not always able to check LinkedIn messages promptly.
+
+
 # Introductory Video
 
 {% include_relative _includes/course_agenda.md %}
