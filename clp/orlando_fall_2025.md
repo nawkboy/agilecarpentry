@@ -35,6 +35,10 @@ trainingevent:
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/orlando-fall-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">October 27-29: Get Tickets</a>
 
+# Contact Information
+
+Contacting me via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com){:target="_blank"} or cell phone text message at +1 832-677-7247 generally works best. I am not always able to check LinkedIn messages promptly.
+
 {% include_relative _includes/course_agenda.md %}
 
 
