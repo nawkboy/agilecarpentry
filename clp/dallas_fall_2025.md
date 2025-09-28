@@ -65,7 +65,7 @@ Most attendees who are traveling will need to stay Thursday night, unless they t
 
 ## Meals
 
-I will be providing lunch for everyone. I anticipate we will eat lunch at a table service restaurant within a short walk of the venue. The in-house lunch restaurant at the Statler is the [Overeasy](https://www.hilton.com/en/hotels/dfwstqq-the-statler-dallas/dining/overeasy/){:target="_blank"}, which is one possiblity. I still need to do a bit more research to identify appropriate lunch venues nearby.
+I will be providing lunch for everyone. I anticipate we will eat lunch at a table service restaurant within a short walk of the venue. The in-house lunch restaurant at the Statler is the [Overeasy](https://www.hilton.com/en/hotels/dfwstqq-the-statler-dallas/dining/overeasy/){:target="_blank"}, which is one possibility. I still need to do a bit more research to identify appropriate lunch venues nearby.
 
 Evening dinners are not included in the cost of the course. It is possible participants will decide to meet for dinner somewhere for the first two nights of class. This tends to be more likely for those who are traveling, including myself.
 
