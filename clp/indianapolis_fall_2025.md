@@ -55,19 +55,19 @@ Contacting me (James) via email at [james@agilecarpentry.com](mailto:james@agile
 
 # Training Venue Details
 
-The course is being hosted in at [The Statler](https://www.hilton.com/en/hotels/dfwstqq-the-statler-dallas/){:target="_blank"} in downtown Dallas. The specific space within the hotel is somewhat fluid, I will message attendees more specifics as they become available. 
-
-If you are flying into DFW Airport, you can take the [Orange Line](https://www.dart.org/guide/transit-and-use/rail/dart-orange-line){:target="_blank"} directly from the airport to downtown.
+I am expecting to host the course in one of the many business class hotels in downtown Indianapolis. If you will be traveling to attend, please reach out and I can provide more specifics regarding the anticipated venue.
 
 ## Full Attendance Required
 
 The course runs from 8:30 am - 6:00 pm all three days. **For certification, full attendance is required.** Please take this into consideration when making travel plans. 
 
-Most attendees who are traveling will need to stay Thursday night, unless they take a very late flight home.
+Most attendees who are traveling will need to stay the last night, unless they take a very late flight home.
 
 ## Meals
 
-I will be providing lunch for everyone. I anticipate we will eat lunch at a table service restaurant within a short walk of the venue. The in-house lunch restaurant at the Statler is the [Overeasy](https://www.hilton.com/en/hotels/dfwstqq-the-statler-dallas/dining/overeasy/){:target="_blank"}, which is one possibility. I still need to do a bit more research to identify appropriate lunch venues nearby.
+I will be providing lunch for everyone. 
+
+At smaller class sizes we will eat lunch at a table service restaurant within a short walk of the venue each day. The [Weber Grill](https://webergrillrestaurant.com/indianapolis/){:target="_blank"}, and the [Yard House](https://www.yardhouse.com/locations/in/indianapolis/indianapolis-circle-centre/8360){:target="_blank"} are two possible choices. I still need to do a bit more research on the various lunch venues. I expect to transition to catered lunches at larger class sizes.
 
 Evening dinners are not included in the cost of the course. It is possible participants will decide to meet for dinner somewhere for the first two nights of class. This tends to be more likely for those who are traveling, including myself.
 
