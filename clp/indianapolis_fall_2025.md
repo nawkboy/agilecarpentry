@@ -1,7 +1,7 @@
 ---
 title: Indianapolis Certified LeSS Practitioner Course Fall 2025
 image: /assets/images/clp/IndianapolisWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/IndianapolisCLPWebsitePageHeaderDec10to12_OgImage.png
+ogimage: /assets/images/clp/IndianapolisCLPWebsitePageHeaderDec15to17_OgImage.png
 author: James
 layout: book
 trainingevent:
