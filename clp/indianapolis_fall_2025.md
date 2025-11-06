@@ -5,8 +5,8 @@ ogimage: /assets/images/clp/IndianapolisCLPWebsitePageHeaderDec10to12_OgImage.pn
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-12-10T08:30-05:00"
-  endDate: "2025-12-12T18:00-05:00"
+  startDate: "2025-12-15T08:30-05:00"
+  endDate: "2025-12-17T18:00-05:00"
   location:
     name: "TBD"
     address:
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/indianapolis-certified-less-practitioner-fall-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">December 10-12: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/indianapolis-certified-less-practitioner-fall-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">December 15-17: Get Tickets</a>
 
 # Co-Trained By James Carpenter and Gene Gendel
 
@@ -42,16 +42,6 @@ The larger the class, the greater the odds Gene will be available to co-train wi
 # Discounted Pricing Available
 
 A variety of discount options are available for larger companies sending larger groups of students. Please contact me (James) via email at [james@agilecarpentry.com](mailto:james@agilecarpentry.com){:target="_blank"} or cell phone text message at +1 832-677-7247 to discuss details.
-
-
-# Note On Class Scheduling
-
-In an effort to avoid a marketing conflict with some other efforts, Gene and I are mostly limiting any announcements concerning this course to those in the Indianapolis area, and perhaps those within a few hours drive.
-
-That said, the course is open to anyone regardless of geography. So if you have a co-worker or friend from another city who would like to join you, they are very welcome to do so.
-
-Please feel free to let others know about this class, including social media announcements.
-
 
 # Contact Information
 
@@ -83,7 +73,7 @@ Evening dinners are not included in the cost of the course. It is possible parti
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/indianapolis-certified-less-practitioner-fall-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">December 10-12: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/indianapolis-certified-less-practitioner-fall-2025" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">December 15-17: Get Tickets</a>
 
 
 
