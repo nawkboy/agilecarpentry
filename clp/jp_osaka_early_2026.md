@@ -1,5 +1,5 @@
 ---
-title: 東京認定LeSS実践者ワークショップ 2025年8月4日～6日
+title: 認定LeSSプラクティショナー（大阪） 2026年初頭
 #image: /assets/images/clp/GlobalCLPWebsitePageHeader.png
 image: /assets/images/clp/OsakaWebsitePageHeaderNoDates.png
 ogimage: /assets/images/clp/OsakaCLPWebsitePageHeaderEarly2026_OgImage.png
