@@ -45,7 +45,7 @@ Contacting me via email at [james@agilecarpentry.com](mailto:james@agilecarpentr
 
 # Training Venue Details
 
-The course is being hosted at [Sheraton Grand Hotel & Spa, Edinburgh](https://www.marriott.com/en-us/hotels/edisi-sheraton-grand-hotel-and-spa-edinburgh/){:target="_blank"} in downtown Edinburgh. 
+The course is being hosted at the [Sheraton Grand Hotel & Spa, Edinburgh](https://www.marriott.com/en-us/hotels/edisi-sheraton-grand-hotel-and-spa-edinburgh/){:target="_blank"} in downtown Edinburgh. 
 
 Many of the hotel rooms overlook the famous [Edinburgh Castle](https://www.edinburghcastle.scot/){:target="_blank"}, which is only a short walk from the hotel. Edinburgh Castle is open for visitors almost every day of the year.
 
