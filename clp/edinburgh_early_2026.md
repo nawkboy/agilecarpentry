@@ -63,20 +63,24 @@ For many people in the UK, traveling by train is likely to be an easier and less
 
 If the hotel is farther than you would like to walk from Waverley station, you can easily take the [Edinburgh Tram](https://edinburghtrams.com/){:target="_blank"}. This is the same tram which goes back and forth between Edinburgh Aiport and Waverly Station. The relevant stop for walking to the hotel is the West End station.
 
+## Traveling From London By Train
+
 The options [from London](https://www.seat61.com/london-to-edinburgh-by-train.htm){:target="_blank"} are particularly good. The very frequent LNER trains take a little over 4 hours, and have the option of either coach or business class service. 
 
-Another particularly interesting option from London is the [Caledonian Sleeper](https://www.sleeper.scot/){target="_blank"}, which pulls into Edinburgh's Waverly station at 7:30am. This is easily early enough to make it to class, and saves spending Monday night in a hotel.
+Another particularly interesting option from London is the [Caledonian Sleeper](https://www.sleeper.scot/){:target="_blank"}, which pulls into Edinburgh's Waverly station at 7:30 a.m. This is easily early enough to make it to class, and saves spending Monday night in a hotel.
 
 
-## Full Attendance Required
+# Full Attendance Required
 
-The course runs from 8:30 am - 6:00 pm all three days. **For certification, full attendance is required.** Please take this into consideration when making travel plans. 
+The course runs from 8:30 a.m. - 6:00 p.m. all three days. **For certification, full attendance is required.** Please take this into consideration when making travel plans. 
 
-Most attendees who are traveling will need to stay Thursday night, unless they take a very late flight home.
+Most attendees who are traveling by air are likely to need to stay Thursday night. 
 
-## Meals
+There are a large number of long-distance trains with late evening departure times. LNER has a fast train which departs Edinburgh Wavelerly station at 7 p.m. and arrives at London Kings Cross at 11:20 p.m. Similarly, the Caledonian Sleeper departs Edinburgh Wavelerly station at 11:40 p.m. (although you can board as early as 10:30 p.m.) and arrives in London Euston station at 7:15 a.m. the next morning.
 
-I will be providing lunch for everyone. I anticipate we will eat lunch at a table service restaurant within a short walk of the venue. The in-house lunch restaurant at the Statler is the [One Square Brasserie](https://www.marriott.com/en-us/hotels/edisi-sheraton-grand-hotel-and-spa-edinburgh/dining/){:target="_blank"}, which is one possibility. I still need to do a bit more research to identify appropriate lunch venues nearby.
+# Meals
+
+I will be providing lunch for everyone. I anticipate we will eat lunch at a table service restaurant within a short walk of the venue. The in-house lunch restaurant at the hotel is the [One Square Brasserie](https://www.marriott.com/en-us/hotels/edisi-sheraton-grand-hotel-and-spa-edinburgh/dining/){:target="_blank"}, which is one possibility. I still need to do a bit more research to identify appropriate lunch venues nearby.
 
 Evening dinners are not included in the cost of the course. It is possible participants will decide to meet for dinner somewhere for the first two nights of class. This tends to be more likely for those who are traveling, including myself.
 
