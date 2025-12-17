@@ -1,5 +1,5 @@
 ---
-title: Dallas/Fort Worth Certified LeSS Practitioner Course Spring 2026
+title: Dallas/Fort Worth Certified LeSS Practitioner On-Airport Spring 2026
 image: /assets/images/clp/DallasCLPWebsitePageHeaderMar2_4_2026.png
 ogimage: /assets/images/clp/DallasCLPWebsitePageHeaderMar2to4OgImage.png
 author: James
@@ -33,11 +33,6 @@ trainingevent:
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/dallas-certified-less-practitioner-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">March 2-4: Get Tickets</a>
 
-# Venue Update
-
-The course will be hosted at the [Hyatt Regency DFW Airport](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport){:target="_blank"}, which is at Terminal C on-campus at the DFW airport.
-
-Please see the _Training Venue Details_ section for more logistical details.
 
 # Introductory Video
 
@@ -46,11 +41,9 @@ Please see the _Training Venue Details_ section for more logistical details.
 
 # Training Venue Details
 
-The course is being hosted directly on the DFW airport campus at the Hyatt Regency DFW.
+The course is being hosted at the [Hyatt Regency DFW](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport){:target="_blank"}, which is directly on-campus at the DFW airport near Terminal C. If you are flying in, no rental car will be required.
 
-This will be very convenient if you're flying in to attend the course. 
-
-The airport is also centrally located, and therefore a reasonable commute for most people living within the Dallas/Fort Worth Metroplex. Free parking validation is available if you're driving.
+The DFW airport is centrally located, and therefore a reasonable commute for most people living within the Dallas/Fort Worth Metroplex. Free parking validation is available if you're driving.
 
 ## Full Attendance Required
 
@@ -109,11 +102,11 @@ Flying will be a more practical choice for most people, yet taking the train isn
 
 I will be providing lunch for everyone. I anticipate we will eat lunch at the [Jacob's Spring Grille in the Hyatt Regency](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport/dining){:target="_blank"} and the [Grand Met in the Hyatt Grand](https://www.hyatt.com/grand-hyatt/en-US/dfwgh-grand-hyatt-dfw/dining){:target="_blank"}, so long as the class stays small enough for that to be practical.
 
-The VIP hospitality suite has a catering kitchen with a full sized refrigerator and a small Keurig coffee maker. As long as the class doesn't outgrow the VIP hospitality suite, I will likely find a way to bring a few refreshments. Once the class transitions to formal event space, the refreshments will become more limited. 
+The VIP hospitality suite has a catering kitchen with a full sized refrigerator and a small Keurig coffee maker. As long as the class doesn't outgrow the VIP hospitality suite, I expect to provide a few refreshments. Once the class transitions to catered event space, the refreshments will become more limited. 
 
 [Jett's Coffee Bar](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport/dining){:target="_blank"} in the Hyatt Regency lobby has the usual coffee shop selections. 
 
-Breakfast is not being provided. Both hotels have a hotel reservation option with breakfast included. There is a nice breakfast buffet in the lobby which is better than anything I can provide.
+Breakfast is not being provided. Both hotels have a hotel reservation option with breakfast included. There is a nice breakfast buffet in the lobby which is better than anything I can easily provide.
 
 Evening dinners are not included in the cost of the course. During class, I suspect we will end up organizing trips outside the airport for dinner most nights. There is a nearby Salt Grass Steakhouse which might be a good choice. Most choices will involve driving or taking a short Uber ride.
 
