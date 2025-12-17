@@ -102,7 +102,7 @@ Flying will be a more practical choice for most people, yet taking the train isn
 
 I will be providing lunch for everyone. I anticipate we will eat lunch at the [Jacob's Spring Grille in the Hyatt Regency](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport/dining){:target="_blank"} and the [Grand Met in the Hyatt Grand](https://www.hyatt.com/grand-hyatt/en-US/dfwgh-grand-hyatt-dfw/dining){:target="_blank"}, so long as the class stays small enough for that to be practical.
 
-The VIP hospitality suite has a catering kitchen with a full sized refrigerator and a small Keurig coffee maker. As long as the class doesn't outgrow the VIP hospitality suite, I expect to provide a few refreshments. Once the class transitions to catered event space, the refreshments will become more limited. 
+The VIP hospitality suite has a catering kitchen with a full sized refrigerator and a small Keurig coffee maker. As long as the class doesn't outgrow the VIP hospitality suite, I expect to provide a few refreshments. If the class transitions to a larger event space, the refreshments will become more limited. 
 
 [Jett's Coffee Bar](https://www.hyatt.com/hyatt-regency/en-US/dfwap-hyatt-regency-dfw-international-airport/dining){:target="_blank"} in the Hyatt Regency lobby has the usual coffee shop selections. 
 
