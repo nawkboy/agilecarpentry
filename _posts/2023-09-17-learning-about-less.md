@@ -72,8 +72,9 @@ I also have a [business focused summary]({{site.baseurl}}/blog/business-summary-
 
 If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
-{% include audio_version_of_my_case_study.md %}
+{% include printable_version_of_my_case_study.md %}
 
+{% include audio_version_of_my_case_study.md %}
 
 # Understanding Agile Carpentry Offerings
 
@@ -88,5 +89,6 @@ If it makes sense, I can arrange a call with "Mitya" in my case study. I am grat
 
 # Upcoming Public Courses
 
-* [Indianapolis Certified LeSS Practitioner on December 15-17]({{site.baseurl}}/clp/indianapolis_fall_2025/){:target="_blank"}
+* [Edinburgh Certified LeSS Practitioner on February 24-26]({{site.baseurl}}/clp/edinburgh_early_2026/){:target="_blank"}
+* [Dallas Certified LeSS Practitioner on March 2-4]({{site.baseurl}}/clp/dallas_spring_2026/){:target="_blank"}
 

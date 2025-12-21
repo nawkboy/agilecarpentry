@@ -5,6 +5,8 @@ author: James
 layout: book
 ---
 
+{% include printable_version_of_my_case_study.md %}
+
 {% include audio_version_of_my_case_study.md %}
 
 # Business Focused Summary of My LeSS Case Study
