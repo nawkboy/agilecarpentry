@@ -24,7 +24,7 @@ trainingevent:
   trainer: "James Carpenter"
   offer:
     ticketUrl: "https://agilecarpentry.ticketspice.com/zurich-certified-less-practitioner-spring-2026"
-    price: "2699"
+    price: "2900"
     priceCurrency: "USD"
   organizer:
     name: "Agile Carpentry"
