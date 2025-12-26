@@ -10,25 +10,35 @@
 #  link: /clp/mexicocity_summer_2025/
 
 
+- title: Zurich CLP Early 2026
+  category: Events
+  image: /assets/images/clp/clp-zurich-spring-2026-portfolio.png
+  link: /clp/zurich_spring_2026/
+
 - title: Edinburgh CLP Early 2026
   category: Events
   image: /assets/images/clp/clp-edinburgh-early-2026-portfolio.png
-  link: /clp/indianapolis_fall_2025/
-
-- title: Learning About LeSS
-  category: LeSS
-  image: /assets/images/portfolio/learning-about-less-portfolio.png
-  link: /blog/learning-about-less/
+  link: /clp/edinburgh_early_2026/
 
 - title: Dallas CLP Early 2026
   category: Events
   image: /assets/images/clp/clp-dallas-spring-2026-portfolio.png
   link: /clp/dallas_spring_2026/
 
-- title: Osaka CLP Early 2026
-  category: Events
-  image: /assets/images/clp/clp-osaka-early-2026-portfolio.png
-  link: /clp/osaka_early_2026/
+- title: Hundreds Of Millions In Savings
+  category: LeSS
+  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
+  link: /blog/hundreds-of-millions-saved/
+
+- title: Learning About LeSS
+  category: LeSS
+  image: /assets/images/portfolio/learning-about-less-portfolio.png
+  link: /blog/learning-about-less/
+
+#- title: Osaka CLP Early 2026
+#  category: Events
+#  image: /assets/images/clp/clp-osaka-early-2026-portfolio.png
+#  link: /clp/osaka_early_2026/
 
 #- title: Orlando CLP Fall 2025
 #  category: Events
@@ -46,10 +56,6 @@
 #  image: /assets/images/clp/clp-san-francisco-summer-2025-portfolio.png
 #  link: /clp/san_francisco_summer_2025/
 
-- title: Hundreds Of Millions In Savings
-  category: LeSS
-  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
-  link: /blog/hundreds-of-millions-saved/
 
 #- title: Santiago CLP Summer 2025
 #  category: Events

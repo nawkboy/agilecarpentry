@@ -5,8 +5,8 @@ ogimage: /assets/images/clp/DallasCLPWebsitePageHeaderMar2to4OgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-03-02T08:30-05:00"
-  endDate: "2025-03-04T18:00-05:00"
+  startDate: "2026-03-02T08:30-05:00"
+  endDate: "2026-03-04T18:00-05:00"
   location:
     name: "Hyatt Regency DFW"
     address:
