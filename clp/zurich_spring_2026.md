@@ -53,7 +53,7 @@ Attendees who are traveling may need to stay Thursday night to ensure full atten
 
 ## Classroom Details
 
-The course is being hosted in the Presidential Suite of the [Hyatt Regency Zurich Airport The Circle](https://www.hyatt.com/hyatt-regency/en-US/zrhrz-hyatt-regency-zurich-airport-the-circle){:target="_blank"}. Assuming the class grows large enough, I expect to relocate the course to larger meeting space within the Hyatt Regency, or perhaps another nearby venue if necessary.
+The course is being hosted in the Presidential Suite of the [Hyatt Regency Zurich Airport The Circle](https://www.hyatt.com/hyatt-regency/en-US/zrhrz-hyatt-regency-zurich-airport-the-circle){:target="_blank"}. Assuming the class grows large enough, I expect to relocate the course to larger meeting space within the Hyatt Regency, or perhaps a downtown Zurich venue.
 
 ## Meals
 
