@@ -1,6 +1,6 @@
 # Printable Versions of My LeSS Case Study
 
-The [online version of my LeSS case study](https://less.works/case-studies/large-server-hardware-company){:target="_blank"} doesn't always print well. The following versions are explicitly formatted for print.
+The [online version of my LeSS case study](https://less.works/case-studies/large-server-hardware-company){:target="_blank"} doesn't always print well. The following PDF versions are explicitly formatted for print.
 
 
 * [Full Case Study, English, Letter, PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/large-server-hardware-company.pdf){:target="_blank"}
@@ -9,3 +9,38 @@ The [online version of my LeSS case study](https://less.works/case-studies/large
 * [Skimming Focused Subset of Case Study, English, A4, PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/a4-skimming-large-server-hardware-company.pdf){:target="_blank"}
 
 
+# Amazon-Printed Versions of My LeSS Case Study
+
+I have self-published the full version of the case study on Amazon. Aside from the fancy cover, the contents of the Amazon printed interior are identical to the letter sized self-print version above. Letting Amazon do the printing is often less expensive than printing on a consumer-level home printer, especially with free delivery. 
+
+The less expensive standard color interior version (ISBN: 979-8279446469) is available in most countries, but not all. The more expensive premium color interior version (ISBN: 979-8279446469) is available everywhere. I recommend the less expensive standard color version when available.
+
+* Printed By Amazon, Standard Color: 
+[US](https://www.amazon.com/dp/B0GD12CJ8X){:target="_blank"}, 
+[UK](https://www.amazon.co.uk/dp/B0GD12CJ8X){:target="_blank"},
+[DE](https://www.amazon.de/dp/B0GD12CJ8X){:target="_blank"},
+[FR](https://www.amazon.fr/dp/B0GD12CJ8X){:target="_blank"},
+[ES](https://www.amazon.es/dp/B0GD12CJ8X){:target="_blank"},
+[IT](https://www.amazon.it/dp/B0GD12CJ8X){:target="_blank"},
+[NL](https://www.amazon.nl/dp/B0GD12CJ8X){:target="_blank"},
+[PL](https://www.amazon.pl/dp/B0GD12CJ8X){:target="_blank"},
+[SE](https://www.amazon.se/dp/B0GD12CJ8X){:target="_blank"},
+[BE](https://www.amazon.com.be/dp/B0GD12CJ8X){:target="_blank"},
+[IE](https://www.amazon.ie/dp/B0GD12CJ8X){:target="_blank"},
+[CA](https://www.amazon.ca/dp/B0GD12CJ8X){:target="_blank"}
+
+* Printed By Amazon, Premium Color (Awaiting Amazon Pre-Production Review):
+[US](https://www.amazon.com/dp/TBD){:target="_blank"}, 
+[UK](https://www.amazon.co.uk/dp/TBD){:target="_blank"},
+[DE](https://www.amazon.de/dp/TBD){:target="_blank"},
+[FR](https://www.amazon.fr/dp/TBD){:target="_blank"},
+[ES](https://www.amazon.es/dp/TBD){:target="_blank"},
+[IT](https://www.amazon.it/dp/TBD){:target="_blank"},
+[NL](https://www.amazon.nl/dp/TBD){:target="_blank"},
+[PL](https://www.amazon.pl/dp/TBD){:target="_blank"},
+[SE](https://www.amazon.se/dp/TBD){:target="_blank"},
+[BE](https://www.amazon.com.be/dp/TBD){:target="_blank"},
+[IE](https://www.amazon.ie/dp/TBD){:target="_blank"},
+[JP](https://www.amazon.jp/dp/TBD){:target="_blank"},
+[CA](https://www.amazon.ca/dp/TBD){:target="_blank"}
+[AU](https://www.amazon.au/dp/TBD){:target="_blank"}
