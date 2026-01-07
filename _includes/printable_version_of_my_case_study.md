@@ -44,3 +44,17 @@ The less expensive standard color interior version (ISBN: 979-8279446469) is ava
 [JP](https://www.amazon.jp/dp/B0GD61M2R4){:target="_blank"},
 [CA](https://www.amazon.ca/dp/B0GD61M2R4){:target="_blank"}
 [AU](https://www.amazon.au/dp/B0GD61M2R4){:target="_blank"}
+
+# IngramSpark-Printed Versions of My LeSS Case Study
+
+As of January 7, 2026 my case study is also being distributed by IngramSpark using ISBN 978-1-7328751-5-9. You should be able to custom order a copy from any brick and mortar bookstore on the planet. The larger on-line competitors such as those below should soon have it in their online inventory. The Amazon produced versions are typically a little less expensive.
+
+A few of the larger non-Amazon online bookstores which will likely carry it at rational prices are:
+
+* [Powell's Books](https://www.powells.com/){:target="_blank"}
+* [Alibris](https://www.alibris.com/){:target="_blank"}
+* [ThriftBooks](https://www.thriftbooks.com/){:target="_blank"}
+* [Better World Books](https://www.betterworldbooks.com){:target="_blank"}
+* [Barnes and Noble](https://www.barnesandnoble.com/){:target="_blank"}
+
+
