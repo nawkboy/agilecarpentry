@@ -55,6 +55,6 @@ A few of the larger non-Amazon online bookstores which will likely carry it at r
 * [Alibris](https://www.alibris.com/){:target="_blank"}
 * [ThriftBooks](https://www.thriftbooks.com/){:target="_blank"}
 * [Better World Books](https://www.betterworldbooks.com){:target="_blank"}
-* [Barnes and Noble](https://www.barnesandnoble.com/){:target="_blank"}
+* [Barnes and Noble](https://www.barnesandnoble.com/w/large-scale-scrum-james-l-carpenter/1149149506){:target="_blank"}
 
 
