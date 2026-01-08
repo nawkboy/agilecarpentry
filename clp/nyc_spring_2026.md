@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/zurich-certified-less-practitioner-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Mar. 17-19: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/new-york-city-certified-less-practitioner-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Mar. 17-19: Get Tickets</a>
 
 
 # Introductory Video
