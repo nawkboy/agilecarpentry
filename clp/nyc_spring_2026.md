@@ -56,7 +56,19 @@ The course is being hosted in the Buttonwood Suite (Presidential Suite) of the [
 
 ## Meals
 
-I will be providing lunch for everyone. I anticipate we will eat lunch at table service restaurants within a short walk of the venue. I still need to do a bit more research to identify appropriate lunch venues nearby.
+I will be providing lunch for everyone. I anticipate we will eat lunch at table service restaurants within a short walk of the venue. A few of the more promising nearby lunch venues include:
+
+* [Fraunces Tavern](https://frauncestavern.com/){:target="_blank"}
+
+* [Toro Loco](https://www.toroloconyc.com/){:target="_blank"}
+
+* [Broadstone NYC](https://www.broadstonenyc.com/){:target="_blank"}
+
+* [London & Martin Co.](https://www.londonmartinco.com/){:target="_blank"}
+
+* [Antica](https://anticastonestreet.com/){:target="_blank"}
+
+* [White Horse Tavern - Financial District](https://www.whitehorsetavernfidi.com/){:target="_blank"}
 
 Evening dinners are not included in the cost of the course. It is possible participants will decide to meet for dinner somewhere for the first two nights of class. This tends to be more likely for those who are traveling, including myself.
 
