@@ -41,10 +41,10 @@
   image: /assets/images/clp/clp-nyc-spring-2026-portfolio.png
   link: /clp/nyc_spring_2026/
 
-- title: Deriving LeSS
-  category: LeSS
-  image: /assets/images/portfolio/deriving-less-article-header.png
-  link: /blog/deriving-less/
+- title: Dublin CLP Mar. 24-26
+  category: Events
+  image: /assets/images/clp/clp-dublin-spring-2026-portfolio.png
+  link: /clp/dublin_spring_2026/
 
 - title: Hundreds Of Millions In Savings
   category: LeSS
@@ -92,10 +92,15 @@
 #  image: /assets/images/clp/clp-singapore-summer-2025-portfolio.png
 #  link: /clp/singapore_summer_2025/
 
-- title: Using Structure to Mold Culture
-  category: Book
-  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
-  link: /blog/using-structure-to-mold-culture/
+- title: Deriving LeSS
+  category: LeSS
+  image: /assets/images/portfolio/deriving-less-article-header.png
+  link: /blog/deriving-less/
+
+#- title: Using Structure to Mold Culture
+#  category: Book
+#  image: /assets/images/portfolio/forging-change-anvil-excerpt.png
+#  link: /blog/using-structure-to-mold-culture/
 
 
 #- title: Where would you like a public Certified LeSS Practitioner course?
