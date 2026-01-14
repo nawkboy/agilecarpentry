@@ -47,14 +47,14 @@ The less expensive standard color interior version (ISBN: 979-8279446469) is ava
 
 # IngramSpark-Printed Versions of My LeSS Case Study
 
-As of January 7, 2026 my case study is also being distributed by IngramSpark using ISBN 978-1-7328751-5-9. You should be able to custom order a copy from any brick and mortar bookstore on the planet. The larger on-line competitors such as those below should soon have it in their online inventory. The Amazon produced versions are typically a little less expensive.
+As of January 7, 2026 my case study is also being distributed by IngramSpark using ISBN 978-1-7328751-5-9. You should therefore be able to custom order a copy from any brick and mortar bookstore on the planet. The larger on-line booksellers below should soon have it in their online inventory.
 
-A few of the larger non-Amazon online bookstores which will likely carry it at rational prices are:
-
+* [Barnes and Noble](https://www.barnesandnoble.com/w/large-scale-scrum-james-l-carpenter/1149149506){:target="_blank"}
+* [ThriftBooks](https://www.thriftbooks.com/w/large-scale-scrum-less-case-study-large-server-hardware-company_james-l-carpenter/57855703/){:target="_blank"}
+* [Better World Books](https://www.betterworldbooks.com/product/detail/large-scale-scrum-less-case-study-large-server-hardware-company-9781732875159){:target="_blank"}
 * [Powell's Books](https://www.powells.com/){:target="_blank"}
 * [Alibris](https://www.alibris.com/){:target="_blank"}
-* [ThriftBooks](https://www.thriftbooks.com/w/large-scale-scrum-less-case-study-large-server-hardware-company_james-l-carpenter/57855703/){:target="_blank"}
-* [Better World Books](https://www.betterworldbooks.com){:target="_blank"}
-* [Barnes and Noble](https://www.barnesandnoble.com/w/large-scale-scrum-james-l-carpenter/1149149506){:target="_blank"}
+
+
 
 
