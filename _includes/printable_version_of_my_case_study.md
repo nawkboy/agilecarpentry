@@ -52,8 +52,9 @@ As of January 7, 2026 my case study is also being distributed by IngramSpark usi
 * [Barnes and Noble](https://www.barnesandnoble.com/w/large-scale-scrum-james-l-carpenter/1149149506){:target="_blank"}
 * [ThriftBooks](https://www.thriftbooks.com/w/large-scale-scrum-less-case-study-large-server-hardware-company_james-l-carpenter/57855703/){:target="_blank"}
 * [Better World Books](https://www.betterworldbooks.com/product/detail/large-scale-scrum-less-case-study-large-server-hardware-company-9781732875159){:target="_blank"}
+* [Alibris](https://www.alibris.com/booksearch?mtype=B&keyword=978-1-7328751-5-9){:target="_blank"}
 * [Powell's Books](https://www.powells.com/){:target="_blank"}
-* [Alibris](https://www.alibris.com/){:target="_blank"}
+
 
 
 
