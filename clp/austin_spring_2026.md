@@ -48,7 +48,7 @@ The course is being hosted at the [Renaissance Austin Hotel](https://www.marriot
 
 The course runs from 8:30 am - 6:00 pm all three days. **For certification, full attendance is required.** Please take this into consideration when making travel plans. 
 
-Attendees who are traveling may need to stay Thursday night to ensure full attendance.
+Attendees who are traveling may need to stay Friday night to ensure full attendance.
 
 ## Meals
 
