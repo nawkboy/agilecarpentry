@@ -10,41 +10,45 @@
 #  link: /clp/mexicocity_summer_2025/
 
 
-- title: Zurich CLP Feb. 17-19
-  category: Events
-  image: /assets/images/clp/clp-zurich-spring-2026-portfolio.png
-  link: /clp/zurich_spring_2026/
-
-- title: Billions In Lost Revenue Avoided
-  category: LeSS
-  image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
-  link: /blog/billions-in-risk-avoidance/
-
+#- title: Zurich CLP Feb. 17-19
+#  category: Events
+#  image: /assets/images/clp/clp-zurich-spring-2026-portfolio.png
+#  link: /clp/zurich_spring_2026/
 
 - title: Edinburgh CLP Feb. 24-26
   category: Events
   image: /assets/images/clp/clp-edinburgh-early-2026-portfolio.png
   link: /clp/edinburgh_early_2026/
 
+- title: Billions In Lost Revenue Avoided
+  category: LeSS
+  image: /assets/images/portfolio/bios-risk-avoided-portfolio.png
+  link: /blog/billions-in-risk-avoidance/
+
 - title: Dallas CLP Mar. 2-4
   category: Events
   image: /assets/images/clp/clp-dallas-spring-2026-portfolio.png
   link: /clp/dallas_spring_2026/
-
-- title: Learning About LeSS
-  category: LeSS
-  image: /assets/images/portfolio/learning-about-less-portfolio.png
-  link: /blog/learning-about-less/
 
 - title: New York CLP Mar. 17-19
   category: Events
   image: /assets/images/clp/clp-nyc-spring-2026-portfolio.png
   link: /clp/nyc_spring_2026/
 
+- title: Learning About LeSS
+  category: LeSS
+  image: /assets/images/portfolio/learning-about-less-portfolio.png
+  link: /blog/learning-about-less/
+
 - title: Dublin CLP Mar. 24-26
   category: Events
   image: /assets/images/clp/clp-dublin-spring-2026-portfolio.png
   link: /clp/dublin_spring_2026/
+
+- title: Austin CLP Apr. 1-3
+  category: Events
+  image: /assets/images/clp/clp-austin-spring-2026-portfolio.png
+  link: /clp/austin_spring_2026/
 
 - title: Hundreds Of Millions In Savings
   category: LeSS
