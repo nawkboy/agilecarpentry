@@ -8,9 +8,9 @@ trainingevent:
   startDate: "2025-04-08T08:30-06:00"
   endDate: "2025-04-10T18:00-06:00"
   location:
-    name: "TBD"
+    name: "theWit Chicago, a Hilton Hotel"
     address:
-      streetAddress: "TBD"
+      streetAddress: "201 N State St"
       addressLocality: "Chicago"
       postalCode: "60601"
       addressRegion: "IL"
