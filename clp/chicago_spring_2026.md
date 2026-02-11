@@ -77,11 +77,7 @@ If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Statio
 
 # Meals
 
-Lunch will be arranged, but will not necessarily be included in the price of the course until it becomes viable to do so. This helps to assure that I can run the course at as low of a break-even attendee threshold as possible.
-
-We will most likely be walking to pre-arranged lunches at nearby table service restaurants. This will provide a better social experience for everyone, and allow us to spend some time outside of the event space.
-
-Participant feedback indicates that the ability to provide assurance the course will reach viability sooner, tends to be more important to attendees than whether or not they will need to have their employer pay for lunch.
+I will be providing lunch for everyone. I anticipate we will eat lunch at table service restaurants within a short walk of the venue.
 
 # Tickets
 
