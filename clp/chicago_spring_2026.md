@@ -1,7 +1,7 @@
 ---
 title: Chicago Certified LeSS Practitioner April 27-29, 2026
 image: /assets/images/clp/ChicagoCLPWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderApril27to29_OgImage.png
+ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderApril27to29_OgImageB.png
 author: James
 layout: book
 trainingevent:
