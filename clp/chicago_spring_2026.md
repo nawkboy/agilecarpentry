@@ -1,12 +1,12 @@
 ---
-title: Chicago Certified LeSS Practitioner April 15-17, 2026
+title: Chicago Certified LeSS Practitioner April 27-29, 2026
 image: /assets/images/clp/ChicagoCLPWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderApril15to17_OgImage.png
+ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderApril27to29_OgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-04-15T08:30-06:00"
-  endDate: "2025-04-17T18:00-06:00"
+  startDate: "2025-04-27T08:30-06:00"
+  endDate: "2025-04-29T18:00-06:00"
   location:
     name: "Sheraton Grand Chicago Riverwalk"
     address:
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 15-17: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 27-29: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -78,7 +78,7 @@ I will be providing lunch for everyone. I anticipate we will eat lunch at table 
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 15-17: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 27-29: Get Tickets</a>
 
 
 

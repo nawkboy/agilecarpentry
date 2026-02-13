@@ -50,21 +50,21 @@
   image: /assets/images/clp/clp-austin-spring-2026-portfolio.png
   link: /clp/austin_spring_2026/
 
-- title: Chicago CLP Apr. 15-17
+- title: San Francicso CLP Apr. 22-24
   category: Events
-  image: /assets/images/clp/clp-chicago-spring-2026-portfolio.png
-  link: /clp/chicago_spring_2026/  
+  image: /assets/images/clp/clp-san-francisco-spring-2026-portfolio.png
+  link: /clp/san_francisco_spring_2026/  
 
 - title: Hundreds Of Millions In Savings
   category: LeSS
   image: /assets/images/portfolio/diagnostics-savings-portfolio.png
   link: /blog/hundreds-of-millions-saved/
 
-- title: San Francicso CLP Apr. 22-24
+- title: Chicago CLP Apr. 27-29
   category: Events
-  image: /assets/images/clp/clp-san-francisco-spring-2026-portfolio.png
-  link: /clp/san_francisco_spring_2026/  
-
+  image: /assets/images/clp/clp-chicago-spring-2026-portfolio.png
+  link: /clp/chicago_spring_2026/  
+  
 
 #- title: Osaka CLP Early 2026
 #  category: Events
