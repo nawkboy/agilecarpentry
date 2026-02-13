@@ -1,18 +1,18 @@
 ---
-title: Chicago Certified LeSS Practitioner April 8-10, 2026
+title: Chicago Certified LeSS Practitioner April 15-17, 2026
 image: /assets/images/clp/ChicagoCLPWebsitePageHeaderNoDates.png
-ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderApril8to10_OgImage.png
+ogimage: /assets/images/clp/ChicagoCLPWebsitePageHeaderApril15to17_OgImage.png
 author: James
 layout: book
 trainingevent:
-  startDate: "2025-04-08T08:30-06:00"
-  endDate: "2025-04-10T18:00-06:00"
+  startDate: "2025-04-15T08:30-06:00"
+  endDate: "2025-04-17T18:00-06:00"
   location:
-    name: "theWit Chicago, a Hilton Hotel"
+    name: "Sheraton Grand Chicago Riverwalk"
     address:
-      streetAddress: "201 N State St"
+      streetAddress: "301 E North Water St"
       addressLocality: "Chicago"
-      postalCode: "60601"
+      postalCode: "60611"
       addressRegion: "IL"
       addressCountry: "US"
   images:
@@ -31,7 +31,7 @@ trainingevent:
     url: "https://agilecarpentry.com"
 ---
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 8-10: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 15-17: Get Tickets</a>
 
 {% include_relative _includes/course_agenda.md %}
 
@@ -62,18 +62,15 @@ See the following pages for additional travel details:
 
 # Training Venue Details
 
-I have reserved a hospitality suite at [theWit Chicago](https://thewithotel.com/){:target="_blank"}, 201 N. State Street, Chicago IL 60601. 
+I have reserved a hospitality suite at [Sheraton Grand Chicago Riverwalk](https://www.marriott.com/en-us/hotels/chigs-sheraton-grand-chicago-riverwalk/overview/){:target="_blank"}, 301 E North Water St, Chicago, IL 60611.
 
-The hospitality suite will provide enough capacity to support the first five or six attendees, at which point I will cancel the hospitality suite and book a larger event space nearby.
-
-There is a significant chance any larger event space will be outside of theWit. I therefore suggest you ensure any hotel reservations you make at theWit can be canceled without penalty. 
+I strongly suggest you ensure any hotel room reservations you make at the Sheraton Grand Chicago Riverwalk can be canceled without penality. To explain, I will be starting with a smaller hospitality suite to keep the course viable at as small of a head count as possible. As the number of participants increases I will transition to a larger space. This hotel has a significant number of hospitality suites. I don't expect to have much trouble transitioning into larger space on-property when needed, but it could happen. If it does, the class could get moved to another downtown Chicago hotel.
 
 Hotel room prices in downtown Chicago tend to rise quickly. Therefore, it makes sense to reserve your hotel room early, just make sure you can cancel and relocate if needed.
 
-Taking the Blue Line on the elevated train from Chicago O'Hare Airport (ORD) to the Clark/Lake station will put you within two blocks of theWit Hotel.
+Taking the Blue Line on the elevated train from Chicago O'Hare Airport (ORD) to the State/Lake station will put you within a 16 minute walk or a short cab ride of the hotel.
 
-If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Station. This will put you within a long walk, short L train ride, or a five minute Uber ride of theWit.
-
+If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Station. The Amtrak station is a 10 minute cab ride from the hotel.
 
 # Meals
 
@@ -81,7 +78,7 @@ I will be providing lunch for everyone. I anticipate we will eat lunch at table 
 
 # Tickets
 
-<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 8-10: Get Tickets</a>
+<a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 15-17: Get Tickets</a>
 
 
 
