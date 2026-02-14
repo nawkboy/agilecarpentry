@@ -64,7 +64,7 @@ See the following pages for additional travel details:
 
 I have reserved a hospitality suite at [Sheraton Grand Chicago Riverwalk](https://www.marriott.com/en-us/hotels/chigs-sheraton-grand-chicago-riverwalk/overview/){:target="_blank"}, 301 E North Water St, Chicago, IL 60611.
 
-I strongly suggest you ensure any hotel room reservations you make at the Sheraton Grand Chicago Riverwalk can be canceled without penality. To explain, I will be starting with a smaller hospitality suite to keep the course viable at as small of a head count as possible. As the number of participants increases I will transition to a larger space. This hotel has a significant number of hospitality suites. I don't expect to have much trouble transitioning into larger space on-property when needed, but it could happen. If it does, the class could get moved to another downtown Chicago hotel.
+I strongly suggest you ensure any hotel room reservations you make at the Sheraton Grand Chicago Riverwalk can be canceled without penalty. To explain, there is always a chance of discovering more course demand than the current amount of reserved space can sustain. In that eventuality, the search for larger last moment space with availability can result in the course being relocated to another downtown hotel. I don't think this will happen in this case, but it is good to remain flexible when running a public course. I am always careful to configure the ticketing system not to sell more tickets than my current event space can support; only raising the ticket count once appropriate larger event space is confirmed.
 
 Hotel room prices in downtown Chicago tend to rise quickly. Therefore, it makes sense to reserve your hotel room early, just make sure you can cancel and relocate if needed.
 
