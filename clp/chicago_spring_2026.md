@@ -76,6 +76,12 @@ If you are traveling via Amtrak, you will arrive downtown at Amtrak Union Statio
 
 I will be providing lunch for everyone. I anticipate we will eat lunch at table service restaurants within a short walk of the venue.
 
+# Printable Flyer
+
+I have created a [printable flyer for the course]({{site.url}}{{site.baseurl}}/assets/pdfs/CLPFlyerExtendedChicagoSpring2026.pdf){:target="_blank"}. This can be useful for posting in a physical break room or other similar areas. Consider adding a note to have other people in your company come talk to you about the course, especially if you are planning to attend yourself.
+
+The second optional page of the flyer details which mid-west cities are particularly good candidates for traveling by Amtrak rather than flying. This is particularly true of Milwaukee, Minneapolis/St. Paul, Detroit, St. Louis, and Kansas City.
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/chicago-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 27-29: Get Tickets</a>
