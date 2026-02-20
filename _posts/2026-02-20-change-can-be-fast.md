@@ -11,19 +11,19 @@ layout: post
 
 One often hears people in the agile community talk about how cultural change takes time and patience. Don't believe it!
 
-Ask yourself, how long does it take for company culture to change when massive layoffs are announced and enacted? Does it take months or years for people to start behaving differently? Similarly, how quickly did policies and behaviors change when the covid pandemic prevented people from working together in-person?
+Ask yourself, how long does it take for company culture to change when massive layoffs are announced and enacted? Does it take months or years for people to start behaving differently? Similarly, how quickly did policies and behaviors change when the COVID-19 pandemic prevented people from working together in-person?
 
 > When a flower doesn't bloom, you fix the environment in which it grows, not the flower. - Alexander Den Heijer
 
-A huge portion of the behaviors observed within a product development organization are a direct reflection of the organizational system in which people are working. If the executive will exists to change the organizational design, tremendous rapid improvement in value delivery and adaptablity is both possible and probable.
+A huge portion of the behaviors observed within a product development organization are a direct reflection of the organizational system in which people are working. If the executive will exists to change the organizational design, tremendous rapid improvement in value delivery and adaptability is both possible and probable.
 
 Attempting to boil the ocean is a recipe for failure. I'm not claiming one can change an entire organization with thousands of engineers overnight. Yet, as long as we are only talking about a narrow and deep slice of a company consisting of several dozen engineers and related individuals, rapid change is indeed possible. 
 
 Furthermore, the approaches for achieving such rapid improvements in the typical software/firmware/hardware context are well documented and understood by those who have experience with this type of change. The executive will to enact the changes is often missing, but as long as this can be found, the changes can be very quick.
 
-I am a huge fan of [LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"}, which is a design for a product focused organizational ecosystem optimized for system level adaptability and value delivery when doing product delivery in a dynamic market. Which is to say, most every complex product development effort. 
+I am a huge fan of [LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"}, which is a design for a product-focused organizational ecosystem optimized for system-level adaptability and value delivery when doing product delivery in a dynamic market. Which is to say, most every complex product development effort. 
 
-The most important parts of LeSS deal with changing the organizational design, and the related changes in power dynamics and reward systems which accompany the organizational design changes. LeSS is far from the only solution for creating a more effective product development organization, but it is a well documented approach with some of the most rigourously vetted trainer/coaches on the planet. Every Certified LeSS Trainer (CLTs) has real-world hands-on experience putting these sorts of deep organizational design changes in place, not just textbook classroom experience. The level of rigourous vetting is one of many reasons there are not that many CLTs around.
+The most important parts of LeSS deal with changing the organizational design, and the related changes in power dynamics and reward systems which accompany the organizational design changes. LeSS is far from the only solution for creating a more effective product development organization, but it is a well documented approach with some of the most rigorously vetted trainer/coaches on the planet. Every Certified LeSS Trainer (CLT) has real-world hands-on experience putting these sorts of deep organizational design changes in place, not just textbook classroom experience. The level of rigorous vetting is one of many reasons there are not that many CLTs around.
 
 # Example Scenario
 
@@ -31,10 +31,10 @@ For arguments sake, let's say one decides to leverage the ideas within LeSS to c
 
 Before answering this question, I think it is important to distinguish between the following:
 
-* Part A: Putting the new organizational design in place, and getting to the point the system has stablized enough to be continously, organically improving at a steady rate.
-* Part B: On-going continous improvement within the context of the new organizational design.
+* Part A: Putting the new organizational design in place, and getting to the point the system has stabilized enough to be continuously, organically improving at a steady rate.
+* Part B: On-going continuous improvement within the context of the new organizational design.
 
-Part B should hopefully be never ending. The whole point is to create an adaptive continously evolving organization, which evolves organically without requiring periodic forceful management interventions to keep things on track.
+Part B should hopefully be never ending. The whole point is to create an adaptive continuously evolving organization, which evolves organically without requiring periodic forceful management interventions to keep things on track.
 
 So the focus of my response to "How long?" is going to be focused on Part A. To keep the answers concrete, I will assume LeSS is being used as an approach for guiding the changes.
 
@@ -51,21 +51,21 @@ Conduct an executive offsite in which key decision makers with positional author
 
 The executive off-site typically only takes about a week to run. There is of course time spent in the pre-sales cycle getting executive management to the point they want to fund this, but actually organizing and running the workshop doesn't take that long once there is a green light for doing so. 
 
-Speaking as a faciliator for these sorts of things, if I had a green light, I could easily have event space booked, all materials back from the printer and other suppliers, and be wheels up on a plane within only a few days if necessary. The delays tend to be about the time required to work through corporate politics to gain a green light, not the time required to actually do the thing. The delay or lack thereof tends to be entirely within the realm of a senior executive's control.
+Speaking as a facilitator for these sorts of things, if I had a green light, I could easily have event space booked, all materials back from the printer and other suppliers, and be wheels up on a plane within only a few days if necessary. The delays tend to be about the time required to work through corporate politics to gain a green light, not the time required to actually do the thing. The delay or lack thereof tends to be entirely within the realm of a senior executive's control.
 
 Within the LeSS community, the typical labeling for this workshop would be a [Certified LeSS for Executives + Informed Consent Workshop]({{site.baseurl}}/cle/global/){:target="_blank"}.
 
 ### Step 2: Educate everyone who will be involved (3 weeks prep + several cohorts=>6 weeks)
 
-Every potential volunteer one hopes will enthusiastically join the new organizational design deserves an opportunity to understand what will be expected ofthem within the new context. Ideally, they have an opportunity to decide for themselves if they wish to be a part of it. To do that, they need to understand what they are saying yes to.
+Every potential volunteer one hopes will enthusiastically join the new organizational design, deserves an opportunity to understand what will be expected of them within the new context. Ideally, they will have an opportunity to decide for themselves if they wish to take part. To do that, they need to understand what they are saying yes to.
 
 With 60 people, potentially spread across several geographies, running everyone through training can take several training sessions. Assuming a multi-day training session with around 25 people per training session, and two or three geographies somewhere around 3 weeks is typical.
 
-Preparing for this step, as well as the steps which immediately follow it does take a little time. Assuming a more agressive effort, the planning effort could be achieved within two or three weeks of effort. The longer pole in the tent is mostly about the internal effort of socializing the effort. 
+Preparing for this step, as well as the steps which immediately follow it, does take a little time. Assuming a more aggressive effort, the planning could be achieved within two or three weeks. The longer pole in the tent is mostly about the internal effort of socializing the effort. 
 
 As long as more than one person is helping with the logistics, the logistical efforts are only a little more time consuming than those required for Step 1.
 
-For arguments sake, lets say 3 weeks for preparation, and 3 week for training everyone. This suggests Step 2 will require around 6 weeks in total.
+For arguments sake, lets say 3 weeks for preparation, and 3 weeks for training all three cohorts. This suggests Step 2 will require around 6 weeks in total.
 
 Within the LeSS community, the typical labeling for this training would be a [Certified LeSS Practitioner Workshop]({{site.baseurl}}/clp/global/){:target="_blank"}.
 
@@ -79,11 +79,11 @@ Rather than time box this effort and risk leaving too many unresolved issues, I 
 
 Within the LeSS community, you will often hear a portion of this effort termed a "flip event", especially the portion in which people self-organize into teams.
 
-### Step 4: Stablization (~6 weeks)
+### Step 4: Stabilization (~6 weeks)
 
-It tends to take a few Sprints before teams start to gel and embrace the level of accountablity and ownership expected of them within the new structure. The behaviors of management during this time period, especially during the Sprint Boundary events, are critical.
+It tends to take a few Sprints before teams start to gel and embrace the level of accountability and ownership expected of them within the new structure. The behaviors of management during this time period, especially during the Sprint Boundary events, are critical.
 
-With adaquate coaching of management and the teams, the teams will typically come into their own by the end of the third Sprint. Once this happens, the effort will transition into the continous improvement phase I described as Part B.
+With adequate coaching of management and the teams, the teams will typically come into their own by the end of the third Sprint. Once this happens, the effort will transition into the continuous improvement phase I described as Part B.
 
 If management behaviors are not self-consistent with the new organizational design, the teams can easily flail around for months or years. So, reaching part B assumes management is doing their job well enough not to derail the effort.
 
@@ -95,7 +95,7 @@ Using the above numbers we have:
 * Executive Off-Site: 1 week
 * Organizing and delivering training for everyone: 6 weeks
 * Launch Efforts: 1 week
-* Stablization: 6 weeks
+* Stabilization: 6 weeks
 
 Total: 14 weeks=>~3.5 months
 
@@ -103,7 +103,7 @@ Total: 14 weeks=>~3.5 months
 
 Notice, that an individual contributor doing development isn't away from their desk for more than a couple weeks. The improvements in value delivery tend to easily recover from the impact of this "lost time" within a few sprints. This assumes the individual contributor was actually working on the most important thing in the company for them to be working on, which is seldom the case to begin with.
 
-Management's role should be to improve the system, not run the system. So any time management is spending during this organizational change effort is time they are spending doing their day job. It isn't time away from their day job. The traditional role of managing the work being doing, isn't within a manager's role definition within a LeSS-like organization. Doing so is completely counter to the idea of self-managing teams.
+Management's role should be to improve the system, not run the system. So any time management is spending during this organizational change effort is time they are spending doing their day job. It isn't time away from their day job. The traditional role of managing the work being done, isn't within a manager's role definition within a LeSS-like organization. Doing so is completely counter to the idea of self-managing teams.
 
 On the surface, 14 weeks may sound like a lot of time, yet for a larger organization this is nearly an overnight change.
 
@@ -137,7 +137,7 @@ There are a variety of LeSS case studies covering the successes and failures of 
 
 You can find my LeSS case study regarding a [Large Server Hardware Company](https://less.works/case-studies/large-server-hardware-company){:target="_blank"} on the LeSS website, and in a [variety of other formats]({{site.baseurl}}/case_study_recording/){:target="_blank"} on my website. This includes an audio book version, as well as a [printed and bound paperback]({{site.baseurl}}/case_study_recording/){:target="_blank"} from online bookstores such as Amazon, Barnes & Noble, and others.
 
-If you are just being to explore LeSS, consider taking a look at my [Learning About LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"} page. This provides a currated list of where to focus your initial reading.
+If you are just beginning to explore LeSS, consider taking a look at my [Learning About LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"} page. This provides a curated list of where to focus your initial reading.
 
 If you are interested in attending a public LeSS course, you can find a complete listing of my courses on my website as well as on the LeSS website [using this filtered view](https://less.works/course_filters/jamesonly-46){:target="_blank"}.
 
