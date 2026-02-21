@@ -21,7 +21,7 @@ Attempting to boil the ocean is a recipe for failure. I'm not claiming one can c
 
 Furthermore, the approaches for achieving such rapid improvements in the typical software/firmware/hardware context are well documented and understood by those who have experience with this type of change. The executive will to enact the changes is often missing, but as long as this can be found, the changes can be very quick.
 
-I am a huge fan of [LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"}, which is a design for a product-focused organizational ecosystem optimized for system-level adaptability and value delivery when doing product delivery in a dynamic market. Which is to say, most every complex product development effort. 
+I am a huge fan of [LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"}, which is a design for a product-focused organizational ecosystem optimized for system-level adaptability and value delivery when doing product delivery in a dynamic market. That is to say, most every complex product development effort. 
 
 The most important parts of LeSS deal with changing the organizational design, and the related changes in power dynamics and reward systems which accompany the organizational design changes. LeSS is far from the only solution for creating a more effective product development organization, but it is a well documented approach with some of the most rigorously vetted trainer/coaches on the planet. Every Certified LeSS Trainer (CLT) has real-world hands-on experience putting these sorts of deep organizational design changes in place, not just textbook classroom experience. The level of rigorous vetting is one of many reasons there are not that many CLTs around.
 
@@ -34,7 +34,7 @@ Before answering this question, I think it is important to distinguish between t
 * Part A: Putting the new organizational design in place, and getting to the point the system has stabilized enough to be continuously, organically improving at a steady rate.
 * Part B: On-going continuous improvement within the context of the new organizational design.
 
-Part B should hopefully be never ending. The whole point is to create an adaptive continuously evolving organization, which evolves organically without requiring periodic forceful management interventions to keep things on track.
+Part B should hopefully be never ending. The whole point is to create an adaptive and continuously evolving organization, which evolves organically without requiring periodic forceful management interventions to keep things on track.
 
 So the focus of my response to "How long?" is going to be focused on Part A. To keep the answers concrete, I will assume LeSS is being used as an approach for guiding the changes.
 
@@ -121,6 +121,23 @@ When I hear people commenting on the need to accept slow and gradual improvement
 
 I'm not saying that everything can be fixed instantly. But I am saying one can at least stop digging the hole deeper very quickly, and begin the effort of filling it back in.
 
+## Example Symptoms of Systemic Structural Issues
+
+Here are a few symptoms of deeper underlying systemic structural issues.
+
+* Those doing the work don't clearly understand the business problem being solved. As a result, what is built is seldom what is needed.
+* It frequently takes ages to go from idea to production, mostly because of deep queues and constant hand-offs.
+* Very little of the overall engineering capacity is focused on the most important things from a business perspective. Furthermore, there tends to be very little transparency into what the most important things really are.
+* There tends to be lots of talk about "shifting left", yet testers and developers still continue to work in separate organizational silos with lots of feedback delays.
+* Forecast accuracy is far worse than the natural variability of the work would suggest. Long running development efforts are often reported as being "on-schedule" until one gets within a month or two of a major release, at which point it suddenly becomes clear far more time is needed to achieve the planned scope.
+* There never seems to be enough time for the pursuit of technical excellence due to the internal pressures to deliver ever faster. The end result is that the mountain of technical cruft grows higher and higher, negatively impacting the long-term ability to quickly adapt to evolving business needs.
+* Consistency of delivery rate is politically more important than delivering end customer value. There is little acceptance of the natural variability which tends to come with pursuing more challenging high reward opportunities.
+
+Although each of the above symptoms is influenced by a variety of factors beyond structural issues, the systemic cultural forces caused by inappropriate organizational design tend to dominate outcomes. Once the organizational design issues are addressed, behaviors and value delivery tend to rapidly improve.
+
+More severe manifestations of the above symptoms will typically have disappeared by the time Step 4 is complete. Most people want to do work they are proud of — management just needs to create fertile garden conditions that will allow them to do so.
+
+## Related LeSS Rules
 
 Two of the [Basic LeSS Rules](https://less.works/less/rules#basic-less-rules){:target="_blank"} come to mind:
 
