@@ -67,7 +67,7 @@ Preparing for this step, as well as the steps which immediately follow it, does 
 
 As long as more than one person is helping with the logistics, the logistical efforts are only a little more time consuming than those required for Step 1.
 
-For argument's sake, let's say 3 weeks for preparation, and 3 weeks for training all three cohorts. This suggests Step 2 will require around 6 weeks in total.
+For argument's sake, let's say 3 weeks for preparation, and 3 weeks for training everyone. This suggests Step 2 will require around 6 weeks in total.
 
 Within the LeSS community, the typical labeling for this training would be a [Certified LeSS Practitioner Workshop]({{site.baseurl}}/clp/global/){:target="_blank"}.
 
