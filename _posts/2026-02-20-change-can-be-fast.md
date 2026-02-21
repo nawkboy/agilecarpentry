@@ -61,7 +61,7 @@ Within the LeSS community, the typical labeling for this workshop would be a [Ce
 
 Every potential volunteer one hopes will enthusiastically join the new organizational design deserves an opportunity to understand what will be expected of them within the new context. Ideally, they will have an opportunity to decide for themselves if they wish to take part. To do that, they need to understand what they are saying yes to.
 
-With 60 people, potentially spread across several geographies, running everyone through training can take several training sessions. Assuming a multi-day training session with around 25 people per training session, and two or three geographies somewhere around 3 weeks is typical.
+With 60 people, potentially spread across several geographies, running everyone through multi-day in-person training will take multiple cohorts. Assuming around 25 people per cohort across two or three geographies, somewhere around 3 weeks will be needed.
 
 Preparing for this step, as well as the steps which immediately follow it, does take a little time. Assuming a more aggressive effort, the planning could be achieved within two or three weeks. The longer pole in the tent is mostly about the internal effort of socializing the effort. 
 
@@ -103,9 +103,9 @@ Total: 14 weeks=>~3.5 months
 
 ### Reflections on the Example Scenario
 
-Notice, that an individual contributor doing development isn't away from their desk for more than a couple weeks. The improvements in value delivery tend to more than compensate for this "lost time" within a few Sprints. This assumes the individual contributor was actually working on the most important thing in the company for them to be working on, which is seldom the case to begin with.
+Notice that an individual contributor doing development isn't away from their desk for more than a couple weeks. The improvements in value delivery tend to more than compensate for this "lost time" within a few Sprints. This assumes the individual contributor was actually working on the most important thing in the company for them to be working on, which is seldom the case to begin with.
 
-Management's role should be to improve the system, not run the system. So any time management spends during this organizational change effort is time spent doing their day job. It isn't time away from their day job. The traditional role of managing the work being done, isn't within a manager's role definition within a LeSS-like organization. Doing so is completely counter to the idea of self-managing teams.
+Management's role should be to improve the system, not run the system. So any time management spends during this organizational change effort is time spent doing their day job. It isn't time away from their day job. The traditional role of managing the work being done isn't within a manager's role definition within a LeSS-like organization. Doing so is completely counter to the idea of self-managing teams.
 
 On the surface, 14 weeks may sound like a lot of time, yet for a larger organization this is nearly an overnight change.
 
@@ -113,7 +113,7 @@ Breathing life into the new organizational design mostly happens during the laun
 
 With time, it will become possible to roll in another deep and narrow slice of the organization. The first Requirement Area of a larger organization tends to be the most challenging one to get going well. It will probably take around 6 to 9 months of effort before it will make sense to consider rolling in more people. When the time comes for that, many of the above steps will need to be repeated to some degree. The specifics will vary based on context.
 
-I also didn't spend any time talking about changes in formal role definitions, or changes in compensation strategies. These will need to be addressed. In practice this is often done in conjunction with the other structural changes, rather than as a pre-requisite for Step 2. It would be good for management to at least start thinking through and foreshadowing some of the changes prior to Step 2.
+I also didn't spend any time talking about changes in formal role definitions, or changes in compensation strategies. These will need to be addressed. In practice this is often done in conjunction with the other structural changes, rather than as a prerequisite for Step 2. It would be good for management to at least start thinking through and foreshadowing some of the changes prior to Step 2.
 
 ### Circling Back
 
