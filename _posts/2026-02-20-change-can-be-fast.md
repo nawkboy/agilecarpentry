@@ -139,6 +139,8 @@ There are a variety of LeSS case studies covering the successes and failures of 
 
 You can find my LeSS case study regarding a [Large Server Hardware Company](https://less.works/case-studies/large-server-hardware-company){:target="_blank"} on the LeSS website, and in a [variety of other formats]({{site.baseurl}}/case_study_recording/){:target="_blank"} on my website. This includes an audio book version, as well as a [printed and bound paperback]({{site.baseurl}}/case_study_recording/){:target="_blank"} from online bookstores such as Amazon, Barnes & Noble, and others.
 
+# Where to Learn More
+
 If you are just beginning to explore LeSS, consider taking a look at my [Learning About LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"} page. This provides a curated list of where to focus your initial reading.
 
 If you are interested in attending a public LeSS course, you can find a complete listing of my courses on my website as well as on the LeSS website [using this filtered view](https://less.works/course_filters/jamesonly-46){:target="_blank"}.
