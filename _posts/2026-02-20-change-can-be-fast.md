@@ -50,8 +50,7 @@ Conduct an executive offsite in which key decision makers with positional author
 * Gaining alignment on the organizational changes which are needed
 * Go/No Go Executive decision to move forward with the changes discussed
 
-The executive offsite typically only takes about a week to run. There is, of course, time spent in the pre-sales cycle getting executive management to the point where they wish to fund this. Organizing and running the workshop doesn't take that long once there is a green light for doing so.
-
+The executive offsite typically only takes about a week to run. There is, of course, time spent getting executive management to the point where they wish to sponsor this. Organizing and running the workshop doesn't take that long once there is a green light for doing so.
 
 Speaking as a facilitator and trainer, given a green light, I could easily be wheels up on a plane within a few days, with event space booked and all materials in hand. The delays tend to be about the time required to work through corporate politics to gain a green light, not the time required to actually do the thing. The delay or lack thereof tends to be entirely within the realm of a senior executive's control.
 
@@ -63,7 +62,7 @@ Every potential volunteer one hopes will enthusiastically join the new organizat
 
 With 60 people, potentially spread across several geographies, running everyone through multi-day in-person training will take multiple cohorts. Assuming around 25 people per cohort across two or three geographies, somewhere around 3 weeks will be needed.
 
-Preparing for this step, as well as the steps which immediately follow it, does take a little time. Assuming a more aggressive effort, the planning could be achieved within two or three weeks. The longer pole in the tent is mostly about the internal effort of socializing the effort. 
+Preparing for this step, as well as the steps which immediately follow it, does take a little time. Assuming a more aggressive effort, the planning could be achieved within two or three weeks. The longer pole in the tent is mostly about the internal effort of socializing the requirement for everyone to make themselves available for the upcoming training and restructuring.
 
 As long as more than one person is helping with the logistics, the logistical efforts are only a little more time consuming than those required for Step 1.
 
