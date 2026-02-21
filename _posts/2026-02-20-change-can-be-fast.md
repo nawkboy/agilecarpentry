@@ -67,7 +67,7 @@ Preparing for this step, as well as the steps which immediately follow it, does 
 
 As long as more than one person is helping with the logistics, the logistical efforts are only a little more time consuming than those required for Step 1.
 
-For argument's sake, lets say 3 weeks for preparation, and 3 weeks for training all three cohorts. This suggests Step 2 will require around 6 weeks in total.
+For argument's sake, let's say 3 weeks for preparation, and 3 weeks for training all three cohorts. This suggests Step 2 will require around 6 weeks in total.
 
 Within the LeSS community, the typical labeling for this training would be a [Certified LeSS Practitioner Workshop]({{site.baseurl}}/clp/global/){:target="_blank"}.
 
@@ -87,9 +87,9 @@ It tends to take a few Sprints before teams start to gel and embrace the level o
 
 With adequate coaching of management and the teams, the teams will typically come into their own by the end of the third Sprint. Once this happens, the effort will transition into the continuous improvement phase I described as Part B.
 
-If management behaviors are not self-consistent with the new organizational design, the teams can easily flail around for months or years. So, reaching part B assumes management is doing their job well enough not to derail the effort.
+If management behaviors are not self-consistent with the new organizational design, the teams can easily flail around for months or years. So, reaching Part B assumes management is doing their job well enough not to derail the effort.
 
-Assuming 2 week Sprints, and assuming the teams gel by the end of the 3rd Sprint, Step 4 will take around 6 weeks. 
+Assuming 2-week Sprints, and assuming the teams gel by the end of the 3rd Sprint, Step 4 will take around 6 weeks. 
 
 ### Estimated Total Elapsed Time
 
