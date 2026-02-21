@@ -101,7 +101,7 @@ Using the above numbers we have:
 
 Total: 14 weeks=>~3.5 months
 
-### Reflections on the Example Scenario
+## Reflections on the Example Scenario
 
 Notice that an individual contributor doing development isn't away from their desk for more than a couple weeks. The improvements in value delivery tend to more than compensate for this "lost time" within a few Sprints. This assumes the individual contributor was actually working on the most important thing in the company for them to be working on, which is seldom the case to begin with.
 
@@ -115,7 +115,7 @@ With time, it will become possible to roll in another deep and narrow slice of t
 
 I also didn't spend any time talking about changes in formal role definitions, or changes in compensation strategies. These will need to be addressed. In practice this is often done in conjunction with the other structural changes, rather than as a prerequisite for Step 2. It would be good for management to at least start thinking through and foreshadowing some of the changes prior to Step 2.
 
-### Circling Back
+# Circling Back
 
 When I hear people commenting on the need to accept slow and gradual improvements within their efforts to achieve a more adaptive organization, they are usually complaining about problems which can be very rapidly fixed by addressing the underlying organizational design issues from which the problems arise. These are not the sort of problems patience and perseverance will solve. Such problems are systemic and require systemic solutions championed by executive management if they are ever to improve.
 
