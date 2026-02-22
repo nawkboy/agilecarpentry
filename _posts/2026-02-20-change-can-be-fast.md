@@ -104,7 +104,7 @@ Total: 14 weeks=>~3.5 months
 
 Notice that an individual contributor doing development isn't away from their desk for more than a couple weeks. The improvements in value delivery tend to more than compensate for this "lost time" within a few Sprints. This assumes the individual contributor was actually working on the most important thing in the company for them to be working on, which is seldom the case to begin with.
 
-Management's role should be to improve the system, not run the system. So any time management spends during this organizational change effort is time spent doing their day job. It isn't time away from their day job. The traditional role of managing the work being done isn't within a manager's role definition within a LeSS-like organization. Doing so is completely counter to the idea of self-managing teams.
+Management's role should be to improve the system, not run the system. So any time management spends during this organizational change effort is time spent doing their day job. It isn't time away from their day job. The traditional role of managing the work being done isn't within a manager's role definition within a LeSS organization. Doing so is completely counter to the idea of self-managing teams.
 
 On the surface, 14 weeks may sound like a lot of time, yet for a larger organization this is nearly an overnight change.
 
