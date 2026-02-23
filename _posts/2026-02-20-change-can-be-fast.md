@@ -1,6 +1,6 @@
 ---
 title: Culture change can be fast!
-image: /assets/images/rabbit-joe-myrick-8BLozwvsmkM-unsplash.jpg
+image: /assets/images/cheetah-sammy-wong-lFMIQ6AiiW8-unsplash.jpg
 author: James Carpenter
 categories:
     - LeSS
