@@ -21,7 +21,7 @@ Attempting to boil the ocean is a recipe for failure. I'm not claiming one can c
 
 Furthermore, the approaches for achieving such rapid improvements in the typical software/firmware/hardware context are well documented and understood by those who have experience with this type of change. The executive will to enact the changes is often missing, but as long as this can be found, the changes can be very quick.
 
-I am a huge fan of [LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"}, which is a design for a product-focused organizational ecosystem optimized for system-level adaptability and value delivery when doing product delivery in a dynamic market. That is to say, most every complex product development effort. 
+I am a huge fan of [LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"}, which is a design for a product-focused organizational ecosystem optimized for system-level adaptability and value delivery when doing product development in a dynamic market. That is to say, most every complex product development effort. 
 
 The most important parts of LeSS deal with changing the organizational design, and the related changes in power dynamics and reward systems which accompany the organizational design changes. LeSS is far from the only solution for creating a more effective product development organization, but it is a well documented approach with some of the most rigorously vetted trainer/coaches on the planet. Every Certified LeSS Trainer (CLT) has real-world hands-on experience putting these sorts of deep organizational design changes in place, not just textbook classroom experience. The level of rigorous vetting is one of many reasons there are not that many CLTs around.
 
