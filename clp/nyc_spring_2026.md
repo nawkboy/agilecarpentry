@@ -72,6 +72,10 @@ I will be providing lunch for everyone. I anticipate we will eat lunch at table 
 
 Evening dinners are not included in the cost of the course. It is possible participants will decide to meet for dinner somewhere for the first two nights of class. This tends to be more likely for those who are traveling, including myself.
 
+# Printable Flyer
+
+I have created a [printable flyer for the course]({{site.url}}{{site.baseurl}}/assets/pdfs/CLPFlyerNewYorkCitySpring2026.pdf){:target="_blank"}. This can be useful for posting in a physical break room or other similar areas. Consider adding a note to have other people in your company come talk to you about the course, especially if you are planning to attend yourself.
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/new-york-city-certified-less-practitioner-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">Mar. 17-19: Get Tickets</a>
