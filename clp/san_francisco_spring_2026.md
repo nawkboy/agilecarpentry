@@ -57,6 +57,10 @@ The nearby walkable lunch venues include:
 
 Since there are not many nearby walkable table service restaurants, I may identify a nicer lunch delivery option as a backup solution.
 
+# Printable Flyer
+
+I have created a [printable flyer for the course]({{site.url}}{{site.baseurl}}/assets/pdfs/CLPFlyerSanFranciscoSpring2026.pdf){:target="_blank"}. This can be useful for posting in a physical break room or other similar areas. Consider adding a note to have other people in your company come talk to you about the course, especially if you are planning to attend yourself.
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/san-francisco-spring-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">April 22-24: Get Tickets</a>
