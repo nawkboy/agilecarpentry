@@ -52,7 +52,7 @@ Conduct an executive offsite in which key decision makers with positional author
 
 The executive offsite typically only takes about a week to run. There is, of course, time spent getting executive management to the point where they wish to sponsor this. Organizing and running the workshop doesn't take that long once there is a green light for doing so.
 
-Speaking as a facilitator and trainer, given a green light, I could easily be wheels up on a plane within a few days, with event space booked and all materials in hand. The delays tend to be about the time required to work through corporate politics to gain a green light, not the time required to actually do the thing. The delay or lack thereof tends to be entirely within the realm of a senior executive's control.
+The delays tend to be about the time required to work through corporate politics to gain a green light, not the time required to organize the offsite. The delay or lack thereof tends to be entirely within the realm of a senior executive's control.
 
 Within the LeSS community, the typical labeling for this workshop would be a [Certified LeSS for Executives + Informed Consent Workshop]({{site.baseurl}}/cle/global/){:target="_blank"}.
 
