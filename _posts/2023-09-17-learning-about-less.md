@@ -72,7 +72,9 @@ I also have a [business focused summary]({{site.baseurl}}/blog/business-summary-
 
 If it makes sense, I can arrange a call with "Mitya" in my case study. I am grateful to  have developed a lifelong friendship with “Mitya” and his family during the time covered by my case study.
 
-{% include printable_version_of_my_case_study.md %}
+# Printed Copy of Case Study
+
+Professionally [printed and bound versions of my case study]({{site.baseurl}}/case_study_printed/){:target="_blank"} are available from most online bookstores, including Amazon. I have also made [PDF versions]({{site.baseurl}}/case_study_printed/){:target="_blank"} available for self-printing.
 
 {% include audio_version_of_my_case_study.md %}
 
