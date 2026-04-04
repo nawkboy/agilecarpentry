@@ -43,6 +43,8 @@ The short-form written content above is probably a better way for most people to
 
 * [LeSS Company YouTube Channel](https://www.youtube.com/@lessworks){:target="_blank"}: The original venue for LeSS Company curated videos about LeSS. This includes recordings of various LeSS conference presentations. I expect much of this will eventually be moved over to the new videos section of the LeSS website.
 
+* [LeSS Framework Deep Dive](https://www.youtube.com/watch?v=8RQOVR0_g_U){:target="_blank"}: Here is an interview I recently did with [Pradeep Mishra](https://www.linkedin.com/in/pradeepgmishra/){:target="_blank"} in which we discuss various nuances of LeSS. 
+
 
 # Long-Form Reading
 
