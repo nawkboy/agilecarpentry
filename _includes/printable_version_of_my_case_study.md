@@ -17,6 +17,8 @@ I have self-published the full version of the case study on Amazon in English an
 
 The less expensive standard color interior version is available in most countries, but not all. The more expensive premium color interior version is generally available when the standard color interior is not. I recommend the less expensive standard color version when available.
 
+*Amazon KDP has announced that amazon.jp will start supporting standard color books on April 21, 2026.*
+
 * English, Standard Color, ISBN 979-8279446469: 
 [US](https://www.amazon.com/dp/B0GD12CJ8X){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD12CJ8X){:target="_blank"},
@@ -48,20 +50,20 @@ The less expensive standard color interior version is available in most countrie
 [AU](https://www.amazon.au/dp/B0GD61M2R4){:target="_blank"}
 
 * 日本語、標準色, Japanese, Standard Color, ISBN 9798257702426:
-[JP](https://www.amazon.jp/dp/TBD){:target="_blank"},
-[US](https://www.amazon.com/dp/TBD){:target="_blank"}, 
-[UK](https://www.amazon.co.uk/dp/TBD){:target="_blank"},
-[DE](https://www.amazon.de/dp/TBD){:target="_blank"},
-[FR](https://www.amazon.fr/dp/TBD){:target="_blank"},
-[ES](https://www.amazon.es/dp/TBD){:target="_blank"},
-[IT](https://www.amazon.it/dp/TBD){:target="_blank"},
-[NL](https://www.amazon.nl/dp/TBD){:target="_blank"},
-[PL](https://www.amazon.pl/dp/TBD){:target="_blank"},
-[SE](https://www.amazon.se/dp/TBD){:target="_blank"},
-[BE](https://www.amazon.com.be/dp/TBD){:target="_blank"},
-[IE](https://www.amazon.ie/dp/TBD){:target="_blank"},
-[CA](https://www.amazon.ca/dp/TBD){:target="_blank"},
-[AU](https://www.amazon.au/dp/TBD){:target="_blank"}
+[JP](https://www.amazon.jp/dp/B0GXKSR9ZS){:target="_blank"},
+[US](https://www.amazon.com/dp/B0GXKSR9ZS){:target="_blank"}, 
+[UK](https://www.amazon.co.uk/dp/B0GXKSR9ZS){:target="_blank"},
+[DE](https://www.amazon.de/dp/B0GXKSR9ZS){:target="_blank"},
+[FR](https://www.amazon.fr/dp/B0GXKSR9ZS){:target="_blank"},
+[ES](https://www.amazon.es/dp/B0GXKSR9ZS){:target="_blank"},
+[IT](https://www.amazon.it/dp/B0GXKSR9ZS){:target="_blank"},
+[NL](https://www.amazon.nl/dp/B0GXKSR9ZS){:target="_blank"},
+[PL](https://www.amazon.pl/dp/B0GXKSR9ZS){:target="_blank"},
+[SE](https://www.amazon.se/dp/B0GXKSR9ZS){:target="_blank"},
+[BE](https://www.amazon.com.be/dp/B0GXKSR9ZS){:target="_blank"},
+[IE](https://www.amazon.ie/dp/B0GXKSR9ZS){:target="_blank"},
+[CA](https://www.amazon.ca/dp/B0GXKSR9ZS){:target="_blank"},
+[AU](https://www.amazon.au/dp/B0GXKSR9ZS){:target="_blank"}
 
 * 日本語、プレミアムカラー, Japanese, Premium Color, ISBN 9798257463334:
 [JP](https://www.amazon.jp/dp/B0GXBSKLMQ){:target="_blank"},
@@ -79,7 +81,7 @@ The less expensive standard color interior version is available in most countrie
 [CA](https://www.amazon.ca/dp/B0GXBSKLMQ){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GXBSKLMQ){:target="_blank"}
 
-Amazon KDP has announced that amazon.jp will start supporting standard color books on April 21, 2026.
+
 
 
 # IngramSpark-Printed Versions of My LeSS Case Study
