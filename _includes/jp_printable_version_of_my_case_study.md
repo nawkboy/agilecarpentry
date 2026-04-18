@@ -48,7 +48,7 @@
 [CA](https://www.amazon.ca/dp/B0GD61M2R4){:target="_blank"}
 [AU](https://www.amazon.au/dp/B0GD61M2R4){:target="_blank"}
 
-* 日本語、標準色, Japanese, Standard Color, ISBN 9798257702426:
+* 日本語、標準色, Japanese, Standard Color, ISBN 979-8257702426:
 [JP](https://www.amazon.jp/dp/B0GXKSR9ZS){:target="_blank"},
 [US](https://www.amazon.com/dp/B0GXKSR9ZS){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GXKSR9ZS){:target="_blank"},
@@ -64,7 +64,7 @@
 [CA](https://www.amazon.ca/dp/B0GXKSR9ZS){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GXKSR9ZS){:target="_blank"}
 
-* 日本語、プレミアムカラー, Japanese, Premium Color, ISBN 9798257463334:
+* 日本語、プレミアムカラー, Japanese, Premium Color, ISBN 979-8257463334:
 [JP](https://www.amazon.jp/dp/B0GXBSKLMQ){:target="_blank"},
 [US](https://www.amazon.com/dp/B0GXBSKLMQ){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GXBSKLMQ){:target="_blank"},
