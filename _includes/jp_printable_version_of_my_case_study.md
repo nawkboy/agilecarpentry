@@ -6,8 +6,8 @@
 * [事例研究全文、英語、A4、PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/a4-large-server-hardware-company.pdf){:target="_blank"}
 * [速読向け事例研究抜粋、英語、レター、PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/skimming-large-server-hardware-company.pdf){:target="_blank"}
 * [速読向け事例研究抜粋、英語、A4、PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/a4-skimming-large-server-hardware-company.pdf){:target="_blank"}
-* [詳細ケーススタディ（日本語版・レター形式PDF）：近日公開, Full Case Study, Japanese, Letter, PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/large-server-hardware-company_jp.pdf){:target="_blank"}
-* [詳細ケーススタディ（日本語、A4、PDF） — 近日公開, Full Case Study, Japanese, A4, PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/a4-large-server-hardware-company_jp.pdf){:target="_blank"}
+* [詳細ケーススタディ（日本語、レターサイズ、PDF）, Full Case Study, Japanese, Letter, PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/large-server-hardware-company_jp.pdf){:target="_blank"}
+* [詳細ケーススタディ（日本語、A4、PDF）, Full Case Study, Japanese, A4, PDF]({{site.url}}{{site.baseurl}}/assets/pdfs/case-study/a4-large-server-hardware-company_jp.pdf){:target="_blank"}
 
 
 # 私のLeSS事例研究のAmazon印刷版
