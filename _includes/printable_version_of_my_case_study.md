@@ -31,6 +31,7 @@ The less expensive standard color interior version is available in most countrie
 [SE](https://www.amazon.se/dp/B0GD12CJ8X){:target="_blank"},
 [BE](https://www.amazon.com.be/dp/B0GD12CJ8X){:target="_blank"},
 [IE](https://www.amazon.ie/dp/B0GD12CJ8X){:target="_blank"},
+[JP](https://www.amazon.jp/dp/B0GD12CJ8X){:target="_blank"},
 [CA](https://www.amazon.ca/dp/B0GD12CJ8X){:target="_blank"}
 
 * English, Premium Color, ISBN 979-8279446469:
@@ -46,7 +47,7 @@ The less expensive standard color interior version is available in most countrie
 [BE](https://www.amazon.com.be/dp/B0GD61M2R4){:target="_blank"},
 [IE](https://www.amazon.ie/dp/B0GD61M2R4){:target="_blank"},
 [JP](https://www.amazon.jp/dp/B0GD61M2R4){:target="_blank"},
-[CA](https://www.amazon.ca/dp/B0GD61M2R4){:target="_blank"}
+[CA](https://www.amazon.ca/dp/B0GD61M2R4){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GD61M2R4){:target="_blank"}
 
 * 日本語、標準色, Japanese, Standard Color, ISBN 979-8257702426:
