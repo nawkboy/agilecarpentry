@@ -18,7 +18,7 @@
 
 *Amazon KDPは、2026年4月21日よりamazon.jpにおいて標準カラー書籍のサポートを開始することを発表しました。*
 
-* 英語、標準カラー、ISBN 979-8279446469: 
+* 英語、標準カラー、ISBN 979-8417430756: 
 [US](https://www.amazon.com/dp/B0GD12CJ8X){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD12CJ8X){:target="_blank"},
 [DE](https://www.amazon.de/dp/B0GD12CJ8X){:target="_blank"},

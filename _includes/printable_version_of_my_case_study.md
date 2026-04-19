@@ -19,7 +19,7 @@ The less expensive standard color interior version is available in most countrie
 
 *Amazon KDP has announced that amazon.jp will start supporting standard color books on April 21, 2026.*
 
-* English, Standard Color, ISBN 979-8279446469: 
+* English, Standard Color, ISBN 979-8417430756: 
 [US](https://www.amazon.com/dp/B0GD12CJ8X){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD12CJ8X){:target="_blank"},
 [DE](https://www.amazon.de/dp/B0GD12CJ8X){:target="_blank"},
