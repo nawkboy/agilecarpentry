@@ -18,7 +18,7 @@
 
 *Amazon KDPは、2026年4月21日よりamazon.jpにおいて標準カラー書籍のサポートを開始することを発表しました。*
 
-* 英語、標準カラー、ISBN 979-8417430756: 
+* 英語、標準カラー、ASIN B0GD12CJ8X: 
 [US](https://www.amazon.com/dp/B0GD12CJ8X){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD12CJ8X){:target="_blank"},
 [DE](https://www.amazon.de/dp/B0GD12CJ8X){:target="_blank"},
@@ -33,7 +33,7 @@
 [JP](https://www.amazon.jp/dp/B0GD12CJ8X){:target="_blank"},
 [CA](https://www.amazon.ca/dp/B0GD12CJ8X){:target="_blank"}
 
-* 英語、プレミアムカラー、ISBN 979-8279446469:
+* 英語、プレミアムカラー、ASIN B0GD61M2R4:
 [US](https://www.amazon.com/dp/B0GD61M2R4){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD61M2R4){:target="_blank"},
 [DE](https://www.amazon.de/dp/B0GD61M2R4){:target="_blank"},
@@ -49,7 +49,7 @@
 [CA](https://www.amazon.ca/dp/B0GD61M2R4){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GD61M2R4){:target="_blank"}
 
-* 日本語、標準色, Japanese, Standard Color, ISBN 979-8257702426:
+* 日本語、標準色, Japanese, Standard Color, ASIN B0GXKSR9ZS:
 [JP](https://www.amazon.jp/dp/B0GXKSR9ZS){:target="_blank"},
 [US](https://www.amazon.com/dp/B0GXKSR9ZS){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GXKSR9ZS){:target="_blank"},
@@ -65,7 +65,7 @@
 [CA](https://www.amazon.ca/dp/B0GXKSR9ZS){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GXKSR9ZS){:target="_blank"}
 
-* 日本語、プレミアムカラー, Japanese, Premium Color, ISBN 979-8257463334:
+* 日本語、プレミアムカラー, Japanese, Premium Color, ASIN B0GXBSKLMQ:
 [JP](https://www.amazon.jp/dp/B0GXBSKLMQ){:target="_blank"},
 [US](https://www.amazon.com/dp/B0GXBSKLMQ){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GXBSKLMQ){:target="_blank"},

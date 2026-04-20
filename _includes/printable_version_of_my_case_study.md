@@ -19,7 +19,7 @@ The less expensive standard color interior version is available in most countrie
 
 *Amazon KDP has announced that amazon.jp will start supporting standard color books on April 21, 2026.*
 
-* English, Standard Color, ISBN 979-8417430756: 
+* English, Standard Color, ASIN B0GD12CJ8X: 
 [US](https://www.amazon.com/dp/B0GD12CJ8X){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD12CJ8X){:target="_blank"},
 [DE](https://www.amazon.de/dp/B0GD12CJ8X){:target="_blank"},
@@ -34,7 +34,7 @@ The less expensive standard color interior version is available in most countrie
 [JP](https://www.amazon.jp/dp/B0GD12CJ8X){:target="_blank"},
 [CA](https://www.amazon.ca/dp/B0GD12CJ8X){:target="_blank"}
 
-* English, Premium Color, ISBN 979-8279446469:
+* English, Premium Color, ASIN B0GD61M2R4:
 [US](https://www.amazon.com/dp/B0GD61M2R4){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GD61M2R4){:target="_blank"},
 [DE](https://www.amazon.de/dp/B0GD61M2R4){:target="_blank"},
@@ -50,7 +50,7 @@ The less expensive standard color interior version is available in most countrie
 [CA](https://www.amazon.ca/dp/B0GD61M2R4){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GD61M2R4){:target="_blank"}
 
-* 日本語、標準色, Japanese, Standard Color, ISBN 979-8257702426:
+* 日本語、標準色, Japanese, Standard Color, ASIN B0GXKSR9ZS:
 [JP](https://www.amazon.jp/dp/B0GXKSR9ZS){:target="_blank"},
 [US](https://www.amazon.com/dp/B0GXKSR9ZS){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GXKSR9ZS){:target="_blank"},
@@ -66,7 +66,7 @@ The less expensive standard color interior version is available in most countrie
 [CA](https://www.amazon.ca/dp/B0GXKSR9ZS){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GXKSR9ZS){:target="_blank"}
 
-* 日本語、プレミアムカラー, Japanese, Premium Color, ISBN 979-8257463334:
+* 日本語、プレミアムカラー, Japanese, Premium Color, ASIN B0GXBSKLMQ:
 [JP](https://www.amazon.jp/dp/B0GXBSKLMQ){:target="_blank"},
 [US](https://www.amazon.com/dp/B0GXBSKLMQ){:target="_blank"}, 
 [UK](https://www.amazon.co.uk/dp/B0GXBSKLMQ){:target="_blank"},
@@ -81,8 +81,6 @@ The less expensive standard color interior version is available in most countrie
 [IE](https://www.amazon.ie/dp/B0GXBSKLMQ){:target="_blank"},
 [CA](https://www.amazon.ca/dp/B0GXBSKLMQ){:target="_blank"},
 [AU](https://www.amazon.au/dp/B0GXBSKLMQ){:target="_blank"}
-
-
 
 
 # IngramSpark-Printed Versions of My LeSS Case Study
