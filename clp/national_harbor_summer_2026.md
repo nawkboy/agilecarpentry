@@ -42,7 +42,7 @@ This LeSS course is not affillated with PMI in any way. You won't find it mentio
 
 This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/national_harbor_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/courses/less-courses){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
 
-Note: I am currently holding off listing the course on the LeSS website and otherwise more broadly announcing the course, as I am still sorting out a few logistical details. Pre-registration tickets are currently available for purchase at a significant savings from the standard ticket price. Knowing at least one sponsor is planning to buy a block of tickets will make the logistical planning much easier, and help me to provide more clarity for everyone. If you are actively working through purchase approval, please [reach out and let me know](mailto:james@agilecarpentry.com){:target="_blank"}.
+Pre-registration tickets are available for purchase at a significant savings from the standard ticket price. Knowing at least one sponsor is planning to buy a block of tickets will make the logistical planning much easier, and help me to provide more clarity for everyone. If you are actively working through purchase approval, please [reach out and let me know](mailto:james@agilecarpentry.com){:target="_blank"}.
 
 Beware, there is a good chance the system modeling activities within this workshop will cause you to seriously question a lot of what you hear at the conference, especially at certain vendor booths.
 
