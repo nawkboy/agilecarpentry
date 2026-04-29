@@ -37,10 +37,28 @@
 #  image: /assets/images/clp/clp-dublin-spring-2026-portfolio.png
 #  link: /clp/dublin_spring_2026/
 
-- title: San Francicso CLP Apr. 22-24
+#- title: San Francicso CLP Apr. 22-24
+#  category: Events
+#  image: /assets/images/clp/clp-san-francisco-spring-2026-portfolio.png
+#  link: /clp/san_francisco_spring_2026/  
+
+
+
+- title: Learning About LeSS
+  category: LeSS
+  image: /assets/images/portfolio/learning-about-less-portfolio.png
+  link: /blog/learning-about-less/
+
+#- title: Chicago CLP Apr. 27-29
+#  category: Events
+#  image: /assets/images/clp/clp-chicago-spring-2026-portfolio.png
+#  link: /clp/chicago_spring_2026/  
+
+- title: National Harbor CLP July 29-31
   category: Events
-  image: /assets/images/clp/clp-san-francisco-spring-2026-portfolio.png
-  link: /clp/san_francisco_spring_2026/  
+  image: /assets/images/clp/clp-nationalharbor-summer-2026-portfolio.png
+  link: /clp/national_harbor_summer_2026/  
+
 
 - title: Billions In Lost Revenue Avoided
   category: LeSS
@@ -48,35 +66,22 @@
   link: /blog/billions-in-risk-avoidance/
 
 
-- title: Chicago CLP Apr. 27-29
-  category: Events
-  image: /assets/images/clp/clp-chicago-spring-2026-portfolio.png
-  link: /clp/chicago_spring_2026/  
-
-- title: Learning About LeSS
-  category: LeSS
-  image: /assets/images/portfolio/learning-about-less-portfolio.png
-  link: /blog/learning-about-less/
-
-
 #- title: Austin CLP Apr. 1-3
 #  category: Events
 #  image: /assets/images/clp/clp-austin-spring-2026-portfolio.png
 #  link: /clp/austin_spring_2026/
 
-- title: National Harbor CLP July 29-31
-  category: Events
-  image: /assets/images/clp/clp-nationalharbor-summer-2026-portfolio.png
-  link: /clp/national_harbor_summer_2026/  
 
-- title: Hundreds Of Millions In Savings
+
+#- title: Hundreds Of Millions In Savings
+#  category: LeSS
+#  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
+#  link: /blog/hundreds-of-millions-saved/
+
+- title: Where would you like a public Certified LeSS Practitioner course?
   category: LeSS
-  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
-  link: /blog/hundreds-of-millions-saved/
-
-
-  
-
+  image: /assets/images/portfolio/clp-location-survey-portfolio.png
+  link: /blog/clp-location-survey/
 
 
 #- title: Osaka CLP Early 2026
@@ -119,10 +124,15 @@
 #  image: /assets/images/clp/clp-singapore-summer-2025-portfolio.png
 #  link: /clp/singapore_summer_2025/
 
-#- title: Deriving LeSS
-#  category: LeSS
-#  image: /assets/images/portfolio/deriving-less-article-header.png
-#  link: /blog/deriving-less/
+- title: Deriving LeSS
+  category: LeSS
+  image: /assets/images/portfolio/deriving-less-article-header.png
+  link: /blog/deriving-less/
+
+- title: Case Study on Amazon
+  category: LeSS
+  image: /assets/images/portfolio/CaseStudyBookThumbnailEnglish.jpg
+  link: https://www.amazon.com/dp/B0GD12CJ8X
 
 #- title: Using Structure to Mold Culture
 #  category: Book
@@ -130,10 +140,7 @@
 #  link: /blog/using-structure-to-mold-culture/
 
 
-#- title: Where would you like a public Certified LeSS Practitioner course?
-#  category: LeSS
-#  image: /assets/images/portfolio/clp-location-survey-portfolio.png
-#  link: /blog/clp-location-survey/
+
 
 
 #- title: LeSS Practitioner Course Now In Milwaukee!
