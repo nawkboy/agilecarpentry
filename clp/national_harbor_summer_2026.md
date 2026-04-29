@@ -40,7 +40,7 @@ The [PMI Agile 2026](https://events.pmi.org/flow/pmi/pmiagile26/landing/page/hom
 
 This LeSS course is not affillated with PMI in any way. You won't find it mentioned on the PMI Agile 2026 conference pages, as you will the PMI affiliated courses running in the hotel at the same time.
 
-This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/national_harbor_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/courses/less-courses){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
+This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/national_harbor_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/course-details/certified-less-practitioner-national-harbor-4476){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
 
 Pre-registration tickets are available for purchase at a significant savings from the standard ticket price. Knowing at least one sponsor is planning to buy a block of tickets will make the logistical planning much easier, and help me to provide more clarity for everyone. If you are actively working through purchase approval, please [reach out and let me know](mailto:james@agilecarpentry.com){:target="_blank"}.
 
