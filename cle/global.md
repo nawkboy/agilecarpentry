@@ -16,7 +16,7 @@ The intended outcomes include:
 	- Why LeSS is designed the way it is, and how the structures and concepts it contains can help an organization quickly become more adaptive.
 	- Participants collaboratively teaching each other as they gain a much deeper understanding of how their own organization actually works, versus the perception of the same.
 * Executive Alignment
-	- Consensus on the actionable organizational changes required to achieve a more adaptive organizations.
+	- Consensus on the actionable organizational changes required to achieve a more adaptive organization.
 	- Consensus on which portions of a product development organization will be the best place to start, who should be involved, and the steps required to move to action.
 * Go/No-Go Executive Decision
 	- An aligned executive decision on whether or not to move to action.
