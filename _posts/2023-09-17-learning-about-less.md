@@ -93,11 +93,5 @@ Professionally [printed and bound versions of my case study]({{site.baseurl}}/ca
 
 # Upcoming Public Courses
 
-
-* [Dallas Certified LeSS Practitioner on March 2-4]({{site.baseurl}}/clp/dallas_spring_2026/){:target="_blank"}
-* [New York City Certified LeSS Practitioner on March 17-19]({{site.baseurl}}/clp/nyc_spring_2026/){:target="_blank"}
-* [Dublin Certified LeSS Practitioner on March 24-26]({{site.baseurl}}/clp/dublin_spring_2026/){:target="_blank"}
-* [Austin Certified LeSS Practitioner on April 1-3]({{site.baseurl}}/clp/austin_spring_2026/){:target="_blank"}
-* [San Francisco Certified LeSS Practitioner on April 22-24]({{site.baseurl}}/clp/san_francisco_spring_2026/){:target="_blank"}
-* [Chicago Certified LeSS Practitioner on April 27-29]({{site.baseurl}}/clp/chicago_spring_2026/){:target="_blank"}
+* [National Harbor Certified LeSS Practitioner @ PMI Agile 2026 on July 29-31]({{site.baseurl}}/clp/national_harbor_summer_2026/){:target="_blank"}
 
