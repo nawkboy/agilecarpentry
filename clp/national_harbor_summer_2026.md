@@ -65,6 +65,11 @@ I will be providing lunch for everyone. This will most likely be in one of the v
 
 There is a good chance some of us will organize dinners as well, but those are not included in the cost of the course.
 
+# Printable Flyer
+
+I have created a [printable flyer for the course]({{site.url}}{{site.baseurl}}/assets/pdfs/CLPFlyerNationalHarborSummer2026.pdf){:target="_blank"}. This can be useful for posting in a physical break room or other similar areas. Consider adding a note to have other people in your company come talk to you about the course, especially if you are planning to attend yourself.
+
+
 # Tickets
 
 <a class="wx-button" href="https://agilecarpentry.ticketspice.com/national-harbor-certified-less-practitioner-summer-2026" style="background:rgba(36,36,36,1);color:white;padding:10px 20px;text-decoration:none;font-weight:bold;" target="_blank">July 29-31: Get Tickets</a>
