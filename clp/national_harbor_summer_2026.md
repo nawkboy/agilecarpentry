@@ -25,7 +25,7 @@ trainingevent:
   trainer: "James Carpenter"
   offer:
     ticketUrl: "https://agilecarpentry.ticketspice.com/national-harbor-certified-less-practitioner-summer-2026"
-    price: "2699"
+    price: "2949"
     priceCurrency: "USD"
   organizer:
     name: "Agile Carpentry"
