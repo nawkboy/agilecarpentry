@@ -157,7 +157,9 @@ The decision to perform the initial interior design myself was extremely expensi
 
 As to Kindle and other ebook formats, I decided it would be best to throw it over the wall for conversion. Author services companies can do this for a few hundred dollars, which is far cheaper than the ramp-up time to become proficient at doing this myself. I eventually located a talented e-book designer, Linh Thoi, who provided excellent results.
 
-I initially strongly considered working out a solution to single source the text content for multiple output formats (physical, Kindle, e-book). After some research, I have learned the tooling is still quite clunky. It  probably makes sense for a large publishing house to spend the time and effort to push through the challenges of single sourcing, but for an individual working on a single book it isn't worth the effort. I expect things will improve over the years. InDesign can directly spin ePub but not Kindle, which is what matters most. Furthermore, it seems people frequently have to hand-tweak conversions, which sort of defeats the point of single sourcing the various output formats.
+I initially strongly considered working out a solution to single source the text content for multiple output formats (physical, Kindle, e-book). After some research, I have learned the tooling is still quite clunky.  It  probably makes sense for a large publishing house to spend the time and effort to push through the challenges of single sourcing, but for an individual working on a single book it isn't worth the effort. I expect things will improve over the years. InDesign can directly spin ePub but not Kindle, which is what matters most. Furthermore, it seems people frequently have to hand-tweak conversions, which sort of defeats the point of single sourcing the various output formats.
+
+Update: It looks like [Lacuna](https://lacuna.pub/){:target="_blank"} provides a good solution for single sourcing various output formats. In other good news, Amazon KDP has moved away from MOBI in favor of ePub. So with time, things have continued to become easier.
 
 ## Tooling Notes
 
@@ -213,6 +215,7 @@ Here are some notes I made to myself when trying to figure out what tool to use 
   - Familiar (it's the devil I know)
 * Affinity Publisher
   * Although I typeset Forging Change using InDesign, I have since switched to Affinity Publisher. It is almost as capable as InDesign, and is vastly less expensive. This is a much better fit for my current occassional use.
+* [Lacuna](https://lacuna.pub/){:target="_blank"} is a newer tool which seemingly does a great job of producing both print and e-books. I have not used it yet, but a friend has. A layout tool such as Affinity Publisher or InDesign will provide more detailed control, but it looks like Lacuna's interior layout capabilites are probably good enough for the vast majority of books.
 
 
 ## Preparing a File for Print
