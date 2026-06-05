@@ -46,6 +46,8 @@ Pre-registration tickets are available for purchase at a significant savings fro
 
 Beware, there is a good chance the system modeling activities within this workshop will cause you to seriously question a lot of what you hear at the conference, especially at certain vendor booths.
 
+There is an interesting [Agile Coach Camp Worldwide](https://agilecoachcamp.net/){:target="_blank"} open-space style conference scheduled over the weekend just prior to the PMI Agile 2026 conference. The organizers are informally very supportive of my Certified LeSS Practitioner course. If you are spending the week in the Washington Metro area for the PMI Agile Conference, you might want to consider attending the open-space pre-conference as well.
+
 # Video Introduction
 
 {% include_relative _includes/course_agenda.md %}
