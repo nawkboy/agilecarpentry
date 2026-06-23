@@ -35,7 +35,7 @@ trainingevent:
 
 # Note To Attendees
 
-This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/london_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/courses/less-courses){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
+This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/london_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/course-details/certified-less-practitioner-lonodn-4495){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
 
 Pre-registration tickets are available for purchase at a significant savings from the standard ticket price. Knowing at least one sponsor is planning to buy a block of tickets will make the logistical planning much easier, and help me to provide more clarity for everyone. If you are actively working through purchase approval, please [reach out and let me know](mailto:james@agilecarpentry.com){:target="_blank"}.
 
@@ -48,7 +48,7 @@ Pre-registration tickets are available for purchase at a significant savings fro
 
 The course is being hosted in a hospitality suite at the [Park Plaza London Westminster Bridge](https://www.radissonhotels.com/en-us/hotels/park-plaza-westminster-bridge-london){:target="_blank"} in London. 
 
-If demand justifies doing so, it is possible I will relocate the course and raise the number of available tickets accordingly. In such an event, I will do my best to minimize any inconvenience for those who are traveling to attend. If you are traveling, I suggest you stick with hotel rooms with free early cancelation.
+If demand justifies doing so, it is possible I will relocate the course and raise the number of available tickets accordingly. In such an event, I will do my best to minimize any inconvenience for those who are traveling to attend. If you are traveling, I suggest you stick with hotel rooms with free early cancellation.
 
 ## Full Attendance Required
 
@@ -58,7 +58,7 @@ The course runs from 8:30 am - 6:00 pm all three days. **For certification, full
 
 I will be providing lunch for everyone, most likely at nearby table service restaurants within walking distance. I still need to do a bit more research to understand which table service restaurants are within walking distance.
 
-Evening dinners are not included in the cost of the course. During class, I suspect we will end up organizing dinner for those of us who are traveling.
+Evening dinners are not included in the cost of the course. I we will likely end up coordinating dinner for those of us who are traveling.
 
 
 # Tickets
