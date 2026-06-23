@@ -88,10 +88,15 @@
 #  image: /assets/images/portfolio/diagnostics-savings-portfolio.png
 #  link: /blog/hundreds-of-millions-saved/
 
-- title: Where would you like a public Certified LeSS Practitioner course?
-  category: LeSS
-  image: /assets/images/portfolio/clp-location-survey-portfolio.png
-  link: /blog/clp-location-survey/
+- title: London CLP Aug. 19-21
+  category: Events
+  image: /assets/images/clp/clp-london-summer-2026-portfolio.png
+  link: /clp/london_summer_2026/  
+
+#- title: Where would you like a public Certified LeSS Practitioner course?
+#  category: LeSS
+#  image: /assets/images/portfolio/clp-location-survey-portfolio.png
+#  link: /blog/clp-location-survey/
 
 
 #- title: Osaka CLP Early 2026
