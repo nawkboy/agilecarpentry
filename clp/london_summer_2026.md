@@ -41,7 +41,7 @@ Pre-registration tickets are available for purchase at a significant savings fro
 
 # Introductory Video
 
-{% include_relative _includes/course_agenda.md %}
+{% include_relative _includes/course_agenda_no_air_force.md %}
 
 
 # Training Venue Details
