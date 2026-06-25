@@ -35,7 +35,7 @@ trainingevent:
 
 # Note To Attendees
 
-This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/london_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/course-details/certified-less-practitioner-lonodn-4495){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
+This course is found on both the [Agile Carpentry]({{site.url}}{{site.baseurl}}/clp/london_summer_2026/){:target="_blank"}, and [LeSS.works](https://less.works/course-details/certified-less-practitioner-london-4495){:target="_blank"} websites. All description pages for this instance of the course link to the same ticketing page. The Agile Carpentry link will provide a nicer link preview if you wish to create a LinkedIn post for it.
 
 Pre-registration tickets are available for purchase at a significant savings from the standard ticket price. Knowing at least one sponsor is planning to buy a block of tickets will make the logistical planning much easier, and help me to provide more clarity for everyone. If you are actively working through purchase approval, please [reach out and let me know](mailto:james@agilecarpentry.com){:target="_blank"}.
 
