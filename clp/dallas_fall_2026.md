@@ -47,7 +47,7 @@ The DFW airport is centrally located, and therefore a reasonable commute for mos
 
 ## Full Attendance Required
 
-The course runs from 8:30 am - 6:00 pm all three days. **For certification, full attendance is required.** Please take this into consideration when making travel plans. 
+The course runs from 8:30 am - 6:00 pm on first two days, and from 8:30 am - 5:00 pm on the last day. **For certification, full attendance is required.** Please take this into consideration when making travel plans. 
 
 Most attendees who are traveling will need to stay Thursday night, unless they take a very late flight home. On the upside, taking a flight home on Friday morning will be super easy.
 
