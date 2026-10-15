@@ -30,6 +30,8 @@ Three great references for learning more about mission protection at the corpora
 
 * [Mission Preservation Governance Mechanisms for Startups](https://framerusercontent.com/assets/iLXm0Y8chHmipq3lzc2CZR0hB8.pdf){:target="_blank"} whitepaper by Halcyon Futures: Provides a quick overview with a startup founder focus. This whitepaper is a nice supplement to Eric Ries's Incorruptible book.
 
+Both books and the whitepaper largely assume a company is incorporated in the United States. Much of the advice would still apply to companies outside of the United States, although the legal specifics would vary.
+
 # Public Benefit Company Status Alone Is Not Enough
 
 It is important to realize there is far more to creating effective mission-lock than just incorporating as a Public Benefit Company. 
@@ -47,9 +49,9 @@ As an example of the additional layers of mission-lock protection, governance me
 * Dual-class voting
 * N+1 board formula
 
-The books and whitepaper mentioned above cover each of these in great detail, so I won't spend any time on them here. The key point is to realize multiple layers of protection are needed to provide effective protection. 
+The books and whitepaper mentioned above cover each of these in great detail, so I won't spend any time on them here. The key point is to realize multiple layers of protection are needed to provide effective protection.
 
-The good news is the legal templates available within the Incorruptible community are sufficient for an early-stage startup founder to quickly put the necessary protections in place with minimal cost, while safely deferring the more involved decisions until later.
+The good news is the legal templates available within the Incorruptible community are sufficient for an early-stage startup founder based in the United States to quickly put the necessary protections in place with minimal cost, while safely deferring the more involved decisions until later.
 
 # Engineering Leadership Selection
 
