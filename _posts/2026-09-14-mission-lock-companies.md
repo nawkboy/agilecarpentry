@@ -90,7 +90,15 @@ I also think it would be important to have a lawyer experienced in mission-locke
 
 One of the challenges of in-person workshop is likely to be the cost from the perspective of an early-stage startup founder. By the time one is done with the all the cost calculations, workshops of this nature tend to cost at least $1000/person/day. So a 2-day event would likely need to cost at least $2k/person. There is also the overhead of having appropriate legal council co-lead the workshop, which might push the price up a little more. It is likely the workshop would need to focus on founders of later-stage startups incorporated as Public Benefit Companies who are yet to establish a Mission Guidance Entity.
 
-If anyone is interested in attending or sponsoring such a workshop, please reach out to me at [james@agilecarpentry.com](mailto:james@agilecarpentry.com). If enough people are interested at a price I can afford to do it, I am likely to build out and run such a workshop.
+# Feedback Requested
+
+If anyone is interested in attending or sponsoring such a workshop, please let me know.
+
+You can reach me [james@agilecarpentry.com](mailto:james@agilecarpentry.com). 
+
+Please also consider filling out my [PBC Workshop Interest Survey](https://forms.gle/2LRr5Aiz38JYhiFi7){:target="_blank"}.
+
+If enough people are interested at a price I can afford to do it, I am very likely to build and launch it.
 
 
 
