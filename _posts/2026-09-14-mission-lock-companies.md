@@ -9,6 +9,14 @@ layout: post
 
 Companies often claim one set of values, but their actions demonstrate otherwise. Similarly, significant improvements in company culture and value delivery are often destroyed by a change in executive management. In practice, any promise is only as good as the longevity of the current management, which seldom lasts all that long.
 
+This pattern rings true at multiple levels within an organization. How often have you observed the product quality and customer value an organization provides erode over time, especially in the face of ownership and executive management changes? 
+
+Remember when Boeing was known for building some of the best passenger planes around? Yet, with changes in executive management the engineering and quality focused culture at Boeing was slowly destroyed in pursuit of short-term profits. This precipitated the 737 Max MCAS related disasters, which deeply damaged the public's trust in the company.
+
+A similar pattern is also seen within product development groups. Efforts to improve a product development group seldom survive a change in senior engineering management. The most effective product development organizations tend to be designed around self-managing, cross-functional, cross-component teams which directly collaborate with users and customers. For all the lip-service to the contrary, this is seldom seen in practice. Yet, in spite of the odds, I have frequently been successful in helping clients build radically more effective product development organizations. Unfortunately, I have also seen such improvements be rapidly eroded when senior engineering management changes.
+
+In large measure, structure drives culture. As long as certain structural elements are left in place, organizational physics will drive behaviors counter to the pursuit of delivering the greatest long-term value. I have long known this to be true within product development groups. I now see the same is true within corporate governance. The solutions in both cases are structural, and are far more entwined than I once realized.
+
 # Corporate Governance Designed With Long-Term Mission In Mind
 
 There is an on-going effort to address mission drift at a corporate governance layer. The idea is to create companies which can be trusted to do the right thing over the long-term, and which are resistant to the forces of "financial gravity" which otherwise destroy long-term value creation for most everyone involved. 
@@ -17,28 +25,13 @@ A mission-locked company tends to result in greater long-term profitability, and
 
 Eric Ries's new Incorruptible book is driving far greater awareness of how to protect mission within the tech startup community, while still being able to attract funding. Ries's book was my first exposure to these ideas. As I have dug deeper, I have discovered the legal infrastructure for addressing these concerns has been maturing for quite some time. Hopefully the reference content listed below will help you to become more familiar yourself.
 
-As someone who has come to accept the degree to which structure drives culture within a product development group, I find it easy to believe the same is true at the corporate governance layer. I discuss this in greater detail later in this article.
-
-
-# Key Reference Materials
-
-Three great references for learning more about mission protection at the corporate governance layer include the following:
-
-* [Incorruptible](https://www.incorruptible.co/){:target="_blank"} by Eric Ries: I like Eric Ries's book from the perspective of motivation for change, and for the emphasis on the needs of startup founders. It is also accompanied by some great legal templates. As Eric Ries is actively promoting this book, you will find him being recently interviewed on a large number of podcasts. There is a section of the associated [Incorruptible community website](https://community.incorruptible.co/){:target="_blank"} which organizes links to these interviews and other related content. [Eric Ries's interview on Lenny's Podcast](https://youtu.be/PoJ1vTdHpks?si=uzRyQ5IRIVb2RY_2){:target="_blank"} is one of the better videos to start with.
-
-* [Becoming a Public Benefit Company](https://www.amazon.com/dp/1503632806/){:target="_blank"} by Michael Dorff: Explores the legal considerations of different governance design choices in more detail than Ries' book. Dorff's book also addresses the motivational aspects, although it is somewhat less startup focused. The book reads like it was written by an articulate and thoughtful lawyer.
-
-* [Mission Preservation Governance Mechanisms for Startups](https://framerusercontent.com/assets/iLXm0Y8chHmipq3lzc2CZR0hB8.pdf){:target="_blank"} whitepaper by Halcyon Futures: Provides a quick overview with a startup founder focus. This whitepaper is a nice supplement to Eric Ries's Incorruptible book.
-
-Both books and the whitepaper largely assume a company is incorporated in the United States. Much of the advice would still apply to companies outside of the United States, although the legal specifics would vary.
-
 # Public Benefit Company Status Alone Is Not Enough
 
 It is important to realize there is far more to creating effective mission-lock than just incorporating as a Public Benefit Company. 
 
 Incorporating as a Public Benefit Company allows a board of directors to make holistic mission focused decisions which consider more than shareholder primacy alone. Yet, far more is needed to avoid purpose washing.
 
-In theory, the board of directors of a traditional corporation is allowed to make decisions based on long-term as well as short-term shareholder interests. Unfortunately, various system forces focused on short-term shareholder benefit tend to consume the abilty of a board to focus on long-term value. This might not be true of a tightly held family owned enterprise, yet it does tend to be true once a company becomes publicly owned, has venture capital shareholders, or is owned by a private equity fund.
+In theory, the board of directors of a traditional corporation is allowed to make decisions based on long-term as well as short-term shareholder interests. Unfortunately, various system forces focused on short-term shareholder benefit tend to consume the ability of a board to focus on long-term value. This might not be true of a tightly held family owned enterprise, yet it does tend to be true once a company becomes publicly owned, has venture capital shareholders, or is owned by a private equity fund.
 
 As an example of the additional layers of mission-lock protection, governance mechanisms included in the [Incorruptible](https://community.incorruptible.co/){:target="_blank"}/[Virgil](https://tryvirgil.com/){:target="_blank"} legal templates include:
 * PBC status
@@ -49,7 +42,7 @@ As an example of the additional layers of mission-lock protection, governance me
 * Dual-class voting
 * N+1 board formula
 
-The books and whitepaper mentioned above cover each of these in great detail, so I won't spend any time on them here. The key point is to realize multiple layers of protection are needed to provide effective protection.
+The books and whitepaper in the reference section below cover each of these in great detail, so I won't spend any time on them here. The key point is to realize multiple layers of protection are needed to provide effective protection.
 
 The good news is the legal templates available within the Incorruptible community are sufficient for an early-stage startup founder based in the United States to quickly put the necessary protections in place with minimal cost, while safely deferring the more involved decisions until later.
 
@@ -78,9 +71,9 @@ Optimizing for value delivery within product development typically requires all 
 * Formation of cross-functional, cross-component, self-managing teams which are empowered to create changes across the entire product architecture in service of customer needs.
 * Mechanisms for creating focus and alignment across teams, without counter-productively introducing layers of coordination roles which distance engineers from the customers.
 
-[LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"} is one organizational design for achieving all of the above. Change the nomenclature, and the underlying ideas remain the same. The organizational physics is agnostic of nomenclature.
+[LeSS]({{site.baseurl}}/blog/learning-about-less/){:target="_blank"} is one organizational design for achieving all of the above. Change the nomenclature, and the underlying ideas remain the same. Organizational physics is agnostic of nomenclature.
 
-I should note there are situations in which the greatest value is delivered by determining whether or not a product idea is worth pursuing further. In a startup situation, pursuit of technical excellence might result in different technical standards than what would be appropriate for an established product with known product market fit.
+I should note there are situations in which the greatest value is delivered by determining whether or not a product idea is worth pursuing further. In a startup situation, the pursuit of technical excellence might result in different technical standards than what would be appropriate for an established product with known product market fit.
 
 # System Modeling Workshop for Corporate Governance
 
@@ -108,5 +101,17 @@ Please also consider filling out my [PBC Workshop Interest Survey](https://forms
 
 If enough people are interested at a price I can afford to do it, I am very likely to build and launch it.
 
+
+# Key Reference Materials
+
+Three great references for learning more about mission protection at the corporate governance layer include the following:
+
+* [Incorruptible](https://www.incorruptible.co/){:target="_blank"} by Eric Ries: I like Eric Ries's book from the perspective of motivation for change, and for the emphasis on the needs of startup founders. It is also accompanied by some great legal templates. As Eric Ries is actively promoting this book, you will find him being recently interviewed on a large number of podcasts. There is a section of the associated [Incorruptible community website](https://community.incorruptible.co/){:target="_blank"} which organizes links to these interviews and other related content. [Eric Ries's interview on Lenny's Podcast](https://youtu.be/PoJ1vTdHpks?si=uzRyQ5IRIVb2RY_2){:target="_blank"} is one of the better videos to start with.
+
+* [Becoming a Public Benefit Company](https://www.amazon.com/dp/1503632806/){:target="_blank"} by Michael Dorff: Explores the legal considerations of different governance design choices in more detail than Ries' book. Dorff's book also addresses the motivational aspects, although it is somewhat less startup focused. The book reads like it was written by an articulate and thoughtful lawyer.
+
+* [Mission Preservation Governance Mechanisms for Startups](https://framerusercontent.com/assets/iLXm0Y8chHmipq3lzc2CZR0hB8.pdf){:target="_blank"} whitepaper by Halcyon Futures: Provides a quick overview with a startup founder focus. This whitepaper is a nice supplement to Eric Ries's Incorruptible book.
+
+Both books and the whitepaper largely assume a company is incorporated in the United States. Much of the advice would still apply to companies outside of the United States, although the legal specifics would vary.
 
 
