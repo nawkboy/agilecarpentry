@@ -104,7 +104,7 @@ If enough people are interested at a price I can afford to do it, I am very like
 
 # Key Reference Materials
 
-Three great references for learning more about mission protection at the corporate governance layer include the following:
+A few great references for learning more about mission protection at the corporate governance layer include the following:
 
 * [Incorruptible](https://www.incorruptible.co/){:target="_blank"} by Eric Ries: I like Eric Ries's book from the perspective of motivation for change, and for the emphasis on the needs of startup founders. It is also accompanied by some great legal templates. As Eric Ries is actively promoting this book, you will find him being recently interviewed on a large number of podcasts. There is a section of the associated [Incorruptible community website](https://community.incorruptible.co/){:target="_blank"} which organizes links to these interviews and other related content. [Eric Ries's interview on Lenny's Podcast](https://youtu.be/PoJ1vTdHpks?si=uzRyQ5IRIVb2RY_2){:target="_blank"} is one of the better videos to start with.
 
@@ -112,6 +112,19 @@ Three great references for learning more about mission protection at the corpora
 
 * [Mission Preservation Governance Mechanisms for Startups](https://framerusercontent.com/assets/iLXm0Y8chHmipq3lzc2CZR0hB8.pdf){:target="_blank"} whitepaper by Halcyon Futures: Provides a quick overview with a startup founder focus. This whitepaper is a nice supplement to Eric Ries's Incorruptible book.
 
-Both books and the whitepaper largely assume a company is incorporated in the United States. Much of the advice would still apply to companies outside of the United States, although the legal specifics would vary.
+* [A Great Start for an Incorruptible Company](https://jrwiener.com/a-great-start-for-an-incorruptible-company/){:target="_blank"}: Relevant quote: "If investors only get paid when a company has an exit..., all the well meaning charter provisions in the world may not be strong enough to survive the pressure to grow the company to achieve the highest possible valuation as fast possible...There are an infinite number of ways to structure an investment so that investors benefit from profitability without the need for an exit.
+
+The reference materials above largely assume a company is incorporated in the United States. Much of the advice would still apply to companies outside of the United States, although the legal specifics would vary.
+
+# Other Reference Materials
+
+* I have discovered a few different law firms which focus on hybrid entities such as PBCs and associated mission guidance entities. Each of these tends to have reading material worth consuming. Notable firms I have identified so far include the following:
+  * [Virgil](https://tryvirgil.com/){:target="_blank"} is the high growth tech startup legal firm associated with Eric Ries and his Incorruptible book. They have produced the free legal templates I mentioned above.
+  * [CurrentShift Legal](https://currentshift.legal/){:target="_blank"}, previously [JR Wiener](https://jrwiener.com/){:target="_blank"}, has been a notable legal firm in the mission-lock/employee ownership space for a long time. Apparently they helped design the Colorado PBC statutes, which significantly influenced the Delaware PBC statutes. According to Dorff's book, most other states have Benefit Corporation statues based on the Model Act. The Model Act was drafted by [William Clark Jr.](https://www.linkedin.com/in/william-clark-a2595517/){:target="_blank"} on behalf of [B Lab](https://www.bcorporation.net/en-us/){:target="_blank"}.
+  * [Morrison Foerster](https://www.mofo.com/impact-investing){:target="_blank"} has an [Impact Plus](https://www.youtube.com/watch?v=73psvGctGnQ){:target="_blank"} portion of their firm which focuses on hybrid entities such as PBCs. Their marketing materials seem to skew towards more wealthy clients, rather than early-stage startups. A written quote from one of their lawyers is included in the editorial reviews of [Becoming a Public Benefit Company](https://www.amazon.com/dp/1503632806/){:target="_blank"} by Michael Dorff.
+
+
+
+
 
 
