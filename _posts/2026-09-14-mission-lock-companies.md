@@ -87,7 +87,7 @@ If there is enough interest to justify doing so, I think it would be interesting
 
 I also think it would be important to have a lawyer experienced in mission-locked corporate governance structures join me in leading the workshop.
 
-One of the challenges of in-person workshop is likely to be the cost. By the time one is done with the all the cost calculations, workshops of this nature tend to cost at least $1000/person/day. So a 2-day event would likely need to cost at least $2k/person. There is also the overhead of having appropriate legal council co-lead the workshop, which might push the price up a little more. 
+One of the challenges of an in-person workshop is likely to be the cost. By the time one is done with the all the cost calculations, workshops of this nature tend to cost at least $1000/person/day. So a 2-day event would likely need to cost at least $2k/person. There is also the overhead of having appropriate legal council co-lead the workshop, which might push the price up a little more. 
 
 To be economically viable, it is likely the workshop will need to focus on founders of later-stage startups incorporated as Public Benefit Companies who are yet to establish a Mission Guidance Entity. I believe the workshop would also be very valuable to early-stage founders, but it would likely be cost prohibitive for many of them without some sort of sponsorship.
 
