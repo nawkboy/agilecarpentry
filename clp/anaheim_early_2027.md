@@ -1,5 +1,5 @@
 ---
-title: Anaheim California Early 2026
+title: Anaheim California Early 2027
 image: /assets/images/clp/AnaheimCLPWebsitePageHeaderJan_6to8_2027.png
 ogimage: /assets/images/clp/AnaheimCLPWebsitePageHeaderJan6to8OgImage.png
 author: James
