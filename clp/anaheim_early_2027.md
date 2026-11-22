@@ -49,10 +49,11 @@ John Wayne Airport (SNA) and Los Angeles Airport (LAX) are both reasonable optio
 
 # Discounted Disney World Tickets
 
-AWAITING CONFIRMATION FROM DISNEY. DISNEY HAS DONE THIS FOR ME IN THE PAST.
-Disneyland is offering special discounted park tickets to course attendees. In addition to the typical all-day tickets, there are special afternoon and twilight tickets not otherwise available.
+Disneyland is offering special discounted park tickets to course attendees and their families.
 
 The specifics to access these special park tickets are provided in the registration confirmation email. Please feel to [reach out via email](mailto:james@agilecarpentry.com){:target="_blank"} with any questions.
+
+NOTE: Disney sales staff has approved my request, and asked their IT staff to create the custom park ticketing microsite. It usually takes Disney a few days to create the microsite.
 
 ## Meals
 

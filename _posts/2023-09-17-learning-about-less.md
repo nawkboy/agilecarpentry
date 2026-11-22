@@ -93,4 +93,4 @@ Professionally [printed and bound versions of my case study]({{site.baseurl}}/ca
 
 # Upcoming Public Courses
 
-* [Dallas Certified LeSS Practitioner on Sept 15-17]({{site.baseurl}}/clp/dallas_fall_2026/){:target="_blank"}
+* [Anaheim Certified LeSS Practitioner on January 6-8]({{site.baseurl}}/clp/anaheim_early_2027/){:target="_blank"}

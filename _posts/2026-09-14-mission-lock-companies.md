@@ -83,7 +83,7 @@ Taking the time to model the design of a system with [causal loop diagrams](http
 
 With enough systems thinking to internalize the consequences and side-effects of different choices before finalizing any decisions, the resulting decisions should be much better. Attendees would then be all the better prepared to make concrete choices in collaboration with their legal council.
 
-If there is enough interest to justify doing so, I think it would be interesting to build out just such a workshop. The overall design and logistics for such a workshop would be very similar to my existing [Certified LeSS Practitioner]({{site.baseurl}}/clp/global/){:target="_blank"} workshop. The system modeling content, reference materials, and focus of discussions would be substantially different; but the instructional design patterns and logistics would be largely identical. 
+If there is enough interest to justify doing so, I think it would be interesting to build out just such a workshop. The overall design and logistics for such a workshop would be very similar to my existing [Certified LeSS Practitioner]({{site.baseurl}}/clp/anaheim_early_2027/){:target="_blank"} workshop. The system modeling content, reference materials, and focus of discussions would be substantially different; but the instructional design patterns and logistics would be largely identical. 
 
 I also think it would be important to have a lawyer experienced in mission-locked corporate governance structures join me in leading the workshop.
 
@@ -101,6 +101,9 @@ Please also consider filling out my [PBC Workshop Interest Survey](https://forms
 
 If enough people are interested at a price I can afford to do it, I am very likely to build and launch it.
 
+# Upcoming Training
+
+* [Anaheim Certified LeSS Practitioner on January 6-8]({{site.baseurl}}/clp/anaheim_early_2027/){:target="_blank"}
 
 # Key Reference Materials
 
