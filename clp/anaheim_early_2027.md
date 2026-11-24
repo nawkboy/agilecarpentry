@@ -53,8 +53,6 @@ Disneyland is offering special discounted park tickets to course attendees and t
 
 The specifics to access these special park tickets are provided in the registration confirmation email. Please feel to [reach out via email](mailto:james@agilecarpentry.com){:target="_blank"} with any questions.
 
-NOTE: Disney sales staff has approved my request, and asked their IT staff to create the custom park ticketing microsite. It usually takes Disney a few days to create the microsite.
-
 ## Meals
 
 Lunch is included in the cost of the course. Please let me know if you have any special dietary restrictions. It is likely we will walk to a nearby table service restaurant for lunch.
