@@ -77,7 +77,7 @@ I should note there are situations in which the greatest value is delivered by d
 
 # System Modeling Workshop for Corporate Governance
 
-A system-modeling-based workshop design would likely be just as relevant to helping people understand different corporate governance design choices as it is to helping people understand how to design effective product development groups. As you will see from reading the books and whitepaper listed above, there is a lot of situationally dependent nuance as to the optimal choices when setting up a Mission Guidance Entity. 
+A system-modeling-based workshop design would likely be just as relevant to helping people understand different corporate governance design choices as it is to helping people understand how to design effective product development groups. As you will see from reading the books and whitepaper listed below, there is a lot of situationally dependent nuance as to the optimal choices when setting up a Mission Guidance Entity. 
 
 Taking the time to model the design of a system with [causal loop diagrams](https://less.works/less/principles/systems-thinking){:target="_blank"} facilitates far deeper group discussions and insights than otherwise occur. In terms of depth of understanding, reading through some of the design choices in the reference material is one thing. Slowly reasoning through the various system forces involved as part of an extended system modeling workshop is quite another. 
 
